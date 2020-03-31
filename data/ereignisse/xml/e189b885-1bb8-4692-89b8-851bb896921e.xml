@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="e189b885-1bb8-4692-89b8-851bb896921e" type="Performance">
+    <groupingArgument actorID="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">Hanne Nüte un de lütte Pudel++Lewinger, Ernst</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Hanne Nüte un de lütte Pudel</title>
+            <listObject>
+                <object id="TWS_OBJ0000495"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater (Köln)</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000495"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="04.04.1891" to="04.04.1891">
+                <listObject>
+                    <object id="TWS_OBJ0000495"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="f03361f6-648d-4abb-b361-f6648dcabbb4">
+            <name>Stadttheater (Köln)</name>
+            <id type="gnd">216478-4</id>
+            <roleActor>
+                <role>Theater</role>
+            </roleActor>
+        </actor>
+        <actor id="793acec2-580c-4417-bace-c2580cf4176d">
+            <name>Hofmann, Julius</name>
+            <id type="gnd">116951621</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="0d38cd09-bf39-4926-b8cd-09bf3999265e">
+            <name>Reuter, Fritz</name>
+            <id type="gnd">118599976</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">
+            <name>Lewinger, Ernst</name>
+            <id type="gnd">116971835</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="c1ab1481-f8e7-490d-ab14-81f8e7690dcb">
+            <name>Schwarzenberg, Judith</name>
+            <id type="gnd">1050520998</id>
+            <roleActor>
+                <role type="Rolle">Frau Salomon, eine alte Jüdin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Heinrich Klump, Bruder von Bäcker Klump, vacierender Schmiedegeselle</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2ecf3231-7634-4c95-8f32-317634bc95ec">
+            <name>Lanius, Caroline</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Corlin, Snuts Frau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fb48918d-e634-42ac-8891-8de634a2ac55">
+            <name>Braga, Anna</name>
+            <id type="gnd">1069312347</id>
+            <roleActor>
+                <role type="Rolle">Fieken-Smid</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6ca6ad5-0afb-4974-8a6a-d50afb29743b">
+            <name>Eyben, Julius</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Klump, Bäcker in Stavenhagen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2331c12-835d-4299-b31c-12835d229931">
+            <name>Portz, Hans</name>
+            <id type="gnd">116269448</id>
+            <roleActor>
+                <role type="Rolle">Dippchen, Schneidergeselle, Sachse</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="90c3b67e-b695-4acc-83b6-7eb6953accdb">
+            <name>Hedeberg, Egon</name>
+            <id type="gnd">143596748</id>
+            <roleActor>
+                <role type="Rolle">Erster Schmiedgeselle</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fa70854e-da8b-4fd8-b085-4eda8b0fd823">
+            <name>Zimmermann, Ludwig</name>
+            <id type="gnd">116999772</id>
+            <roleActor>
+                <role type="Rolle">Der Pastor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57dc5d0b-e612-4202-9c5d-0be612120205">
+            <name>Hecken, Max</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Klemm, Maurergeselle, Berliner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="09786ae3-da91-44d4-b86a-e3da9104d4fc">
+            <name>Garbrecht, Arno</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Johann, Sohn von Snut und Corlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f282d6f0-712e-4c65-82d6-f0712e7c6554">
+            <name>Kaufhold, Hedwig</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Frau Möhrmann, eine junge Witwe, Besitzerin einer Schmiede</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="afd2ec8e-b448-4d2e-92ec-8eb448bd2e5e">
+            <name>Filler, Berthold</name>
+            <id type="gnd">101318601X</id>
+            <roleActor>
+                <role>Dirigent</role>
+            </roleActor>
+        </actor>
+        <actor id="c09f6d81-6c0b-439a-9f6d-816c0b239a8f">
+            <name>Tenhaeff, Reinhard</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Smid, ein Tagelöhner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="65dc54a9-4c8f-47f3-9c54-a94c8f87f383">
+            <name>Flies, Bertha</name>
+            <id type="gnd">117231177</id>
+            <roleActor>
+                <role type="Rolle">Dürten, Smids Frau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0a90f8de-6faa-4f31-90f8-de6faa3f31f4">
+            <name>Ulbrich, August</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Wohlgemuth, Schmiedermeister</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="002d665e-9183-4752-ad66-5e9183c7527a">
+            <name>Richter, Emil</name>
+            <id type="gnd">1019375442</id>
+            <roleActor>
+                <role type="Rolle">Zweiter Schmiedgeselle</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6c65e7d3-d24a-407f-a5e7-d3d24ad07f17">
+            <name>Franken, Louise</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Ein Lehrjunge bei Snut</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7b0990a0-38ed-4569-8990-a038ed5569c3">
+            <name>Schäzle, Ernst</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Ein Bauernbursch</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e76858d4-42f5-4d2f-a858-d442f51d2ff9">
+            <name>Altmann, Elise</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Ein Bauernmädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a3da67ad-018a-4f92-9a67-ad018aaf92bb">
+            <name>Robert, Waldemar</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Der Präsident des Gerichts</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="67a35f5f-be9f-4317-a35f-5fbe9fa31727">
+            <name>Junkermann, August</name>
+            <id type="gnd">117239550</id>
+            <roleActor>
+                <role type="Rolle">Snut, ein Schmied</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000495" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu Max Behren in 'Hanne Nüte un de lütte Pudel', Köln 1891</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

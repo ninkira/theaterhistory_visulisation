@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="53454537-87e2-4765-8545-3787e24765f4" type="Performance">
+    <groupingArgument actorID="f59c3d6b-1b5c-40fd-9c3d-6b1b5c50fd5f">Götz von Berlichingen++Rosenheim, Richard</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Götz von Berlichingen</title>
+            <listObject>
+                <object id="IFT_OBJ_JR000005"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Lessing-Theater (Berlin)</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JR000005"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="01.01.1925" to="30.12.1926">
+                <listObject>
+                    <object id="IFT_OBJ_JR000005"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Lessing-Theaters (Berlin)</text>
+            <object id="IFT_OBJ_JR000005"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="44ddd290-b175-483e-9dd2-90b175683e55">
+            <name>Lessing-Theater (Berlin)</name>
+            <id type="gnd">7590354-4</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="1c03f344-eff3-42b7-83f3-44eff372b7ae">
+            <name>Goethe, Johann Wolfgang von</name>
+            <id type="gnd">118540238</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f59c3d6b-1b5c-40fd-9c3d-6b1b5c50fd5f">
+            <name>Rosenheim, Richard</name>
+            <id type="gnd">101461410</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="66020a3c-c695-4c1f-820a-3cc6953c1fe5">
+            <name>Dannemann, Karl</name>
+            <id type="gnd">135610842</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="02fbcbc8-f73f-4aff-bbcb-c8f73f4aff4e">
+            <name>Richter, Julius</name>
+            <id type="gnd">116512415</id>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="cbc6029d-f567-4deb-8602-9df5679deb2b">
+            <name>Wegener, Paul</name>
+            <id type="gnd">118765981</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="593fd38f-16b6-4930-bfd3-8f16b6893067">
+            <name>Höflich, Lucie</name>
+            <id type="gnd">118963805</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_JR000005" type="Autograf: Manuskript" aat="300028569">
+            <title>"Abschnitt 4" der Autobiografie von Julius Richter</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

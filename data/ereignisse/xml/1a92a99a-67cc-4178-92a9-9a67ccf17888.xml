@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="1a92a99a-67cc-4178-92a9-9a67ccf17888" type="Performance">
+    <groupingArgument actorID="a406ee19-b93a-4132-86ee-19b93ab132b1">Kreidegarten, Der++Jankó, Ilo von</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Kreidegarten, Der</title>
+            <listObject>
+                <object id="TWS_OBJ0000154"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000154"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1961" to="1961">
+                <listObject>
+                    <object id="TWS_OBJ0000154"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Im Rahmen der Berliner Festwochen 1961</text>
+            <object id="TWS_OBJ0000154"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="5646a618-5d5a-4d2e-86a6-185d5add2ed3">
+            <name>Angermann, Ernie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Maskenbildner_in</role>
+            </roleActor>
+        </actor>
+        <actor id="5c5e021a-cd90-4884-9e02-1acd908884c7">
+            <name>Bagnold, Enid</name>
+            <id type="gnd">118829483</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="15dcfdf5-5cb9-4117-9cfd-f55cb9a11794">
+            <name>Capell, Annie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="b15844ef-ebfc-4fff-9844-efebfcefffd1">
+            <name>Capell, Peter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="0408eedd-445a-40bc-88ee-dd445ac0bc1d">
+            <name>Dannhoff, Erika</name>
+            <id type="gnd">116025247</id>
+            <roleActor>
+                <role type="Rolle">Olivia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Mrs. Saint Maugham</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f94d6d6b-350c-4178-8d6d-6b350c017879">
+            <name>Gerber, Hela</name>
+            <id type="gnd">137938233</id>
+            <roleActor>
+                <role type="Rolle">Miss Madrigal</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a406ee19-b93a-4132-86ee-19b93ab132b1">
+            <name>Jankó, Ilo von</name>
+            <id type="gnd">1053040601</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="2db925ce-4e91-4927-b925-ce4e916927fd">
+            <name>Kurt Desch, München</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Theaterverlag</role>
+            </roleActor>
+        </actor>
+        <actor id="1e3c2bb5-8fd8-47ec-bc2b-b58fd8a7ecff">
+            <name>Lengwinat, Elisabeth</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Souffleur_in</role>
+            </roleActor>
+        </actor>
+        <actor id="b1eb4b36-c7e1-41a8-ab4b-36c7e1f1a860">
+            <name>Oesterreich, Arthur</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="90506ca0-29d6-4a21-906c-a029d63a21a2">
+            <name>Pelliccioni, Guido</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="5ce7afc4-7ccd-44f8-a7af-c47ccd54f80c">
+            <name>Petersilge, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Einrichtung</role>
+            </roleActor>
+        </actor>
+        <actor id="6eea815e-cab3-43be-aa81-5ecab3a3be1c">
+            <name>Rasp, Fritz</name>
+            <id type="gnd">116335874</id>
+            <roleActor>
+                <role type="Rolle">Ein Richter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2b18a9cb-6208-4d49-98a9-cb6208ed4906">
+            <name>Robbers, Edith</name>
+            <id type="gnd">1062208706</id>
+            <roleActor>
+                <role type="Rolle">Zweite Bewerberin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b9c37406-c8a4-4d1c-8374-06c8a48d1c93">
+            <name>Scholz, Heinz-Peter</name>
+            <id type="gnd">1062190173</id>
+            <roleActor>
+                <role type="Rolle">Maitland</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="477f92db-f585-449b-bf92-dbf585849b37">
+            <name>Schröder, Christiane</name>
+            <id type="gnd">1014380901</id>
+            <roleActor>
+                <role type="Rolle">Laurel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="425c7e8e-452b-4e94-9c7e-8e452bbe94c5">
+            <name>Schuch, Eva</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Dritte Bewerberin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3ae9b02-578f-467e-ae9b-02578f067ef4">
+            <name>Töffling, Werner Viktor</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2e43b45b-3915-47ec-83b4-5b3915e7ecb3">
+            <name>Würtz, Annaliese</name>
+            <id type="gnd">135163455</id>
+            <roleActor>
+                <role type="Rolle">Eine Krankenschwester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000154" type="Publikation: Programmheft" aat="300027217">
+            <title>Tournee-Programmheft zu "Der Kreidegarten"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

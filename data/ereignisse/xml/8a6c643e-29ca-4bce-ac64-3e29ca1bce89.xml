@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="8a6c643e-29ca-4bce-ac64-3e29ca1bce89" type="Performance">
+    <groupingArgument actorID="7e1f2012-f8de-49cc-9f20-12f8de19cc82">Hoppla, wir leben!+03.09.1927+Piscator, Erwin</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Hoppla, wir leben!</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Hoppla, wir leben</title>
+            <listObject>
+                <object id="TWS_OBJ0000701"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Piscatorbühne</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000701"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>03.09.1927</premier>
+            <time from="1927" to="1927">
+                <listObject>
+                    <object id="TWS_OBJ0000701"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="a288af77-a91c-46c6-88af-77a91c06c6f7">
+            <name>Müller, Traugott</name>
+            <id type="gnd">119307251</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="571ef67e-9e75-46b1-9ef6-7e9e75f6b1ab">
+            <name>Toller, Ernst</name>
+            <id type="gnd">118623230</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="7e1f2012-f8de-49cc-9f20-12f8de19cc82">
+            <name>Piscator, Erwin</name>
+            <id type="gnd">118594648</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000701" type="Modell: Bühnenbildmodell" aat="300007122">
+            <title>Bühnenbildmodell von Traugott Müller</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a4388ab6-701d-4a08-b88a-b6701dba0869" type="Performance">
+    <groupingArgument actorID="">Faust++</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Faust</title>
+            <listObject>
+                <object id="TWS_OBJ0000485"/>
+                <object id="TWS_OBJ0000483"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName/>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000485"/>
+                </listObject>
+            </place>
+        </place>
+        <place type="Stadt">
+            <placeName>Mainz</placeName>
+            <place type="Institution">
+                <placeName>Mainzer Stadttheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000483"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1880" to="1927">
+                <listObject>
+                    <object id="TWS_OBJ0000485"/>
+                    <object id="TWS_OBJ0000483"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Mephisto</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1c03f344-eff3-42b7-83f3-44eff372b7ae">
+            <name>Goethe, Johann Wolfgang von</name>
+            <id type="gnd">118540238</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="2f182031-2cd2-4776-9820-312cd2f7768a">
+            <name>Mainzer Stadttheater</name>
+            <id type="gnd">3005746-2</id>
+            <roleActor>
+                <role>Institution</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000485" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Zettel, mit aufgeklebten Kritiken zu Max Behrend in der Rolle als Mephisto in Magdeburg, Viktoriatheater</title>
+        </object>
+        <object id="TWS_OBJ0000483" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritik zu Max Behrend in Goethes "Mephisto"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

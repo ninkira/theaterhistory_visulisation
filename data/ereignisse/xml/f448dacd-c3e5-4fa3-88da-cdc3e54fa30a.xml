@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="f448dacd-c3e5-4fa3-88da-cdc3e54fa30a" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Amphitryon+03.04.1941+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Amphitryon</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Amphitryon</title>
+            <listObject>
+                <object id="TWS_OBJ0000089"/>
+                <object id="TWS_OBJ0000036"/>
+                <object id="TWS_OBJ0000035"/>
+                <object id="TWS_OBJ0000034"/>
+                <object id="TWS_OBJ0000033"/>
+                <object id="TWS_OBJ0000032"/>
+                <object id="TWS_KON0000007"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Göttingen</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater Göttingen</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000089"/>
+                    <object id="TWS_OBJ0000036"/>
+                    <object id="TWS_OBJ0000035"/>
+                    <object id="TWS_OBJ0000034"/>
+                    <object id="TWS_OBJ0000033"/>
+                    <object id="TWS_OBJ0000032"/>
+                    <object id="TWS_KON0000007"/>
+                </listObject>
+            </place>
+            <place type="weitere">
+                <placeName>Aula der Universität</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000089"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>03.04.1941</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000089"/>
+                    <object id="TWS_OBJ0000036"/>
+                    <object id="TWS_OBJ0000035"/>
+                    <object id="TWS_OBJ0000034"/>
+                    <object id="TWS_OBJ0000033"/>
+                    <object id="TWS_OBJ0000032"/>
+                    <object id="TWS_KON0000007"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Auf dem Theaterfestival in Göttingen (07.02.1943-14.02.1943) wurde Sellners Inszenierung von 1941 aufgeführt.</text>
+            <object id="TWS_OBJ0000089"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung</text>
+            <object id="TWS_OBJ0000035"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="2f84f7d5-70a6-4226-84f7-d570a6322626">
+            <name>Bonacker, Senta</name>
+            <id type="gnd">1061986632</id>
+            <roleActor>
+                <role type="Rolle">Alkmene</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="820431b1-8045-49d2-8431-b1804529d20c">
+            <name>Buchmann, Heinrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">1. Feldherr</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a097d4c6-9f1c-48bf-97d4-c69f1cf8bf99">
+            <name>Deutsch, Horst</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Thebaner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6e802ea-87fd-46dd-a802-ea87fd16dd11">
+            <name>Frey, Else</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Charis</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="94a03755-6b39-4820-a037-556b39e820af">
+            <name>Hegge, Armin</name>
+            <id type="gnd">1061340333</id>
+            <roleActor>
+                <role type="Rolle">1. Oberst</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5d859002-9cf2-42da-8590-029cf282daef">
+            <name>Kamen, Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Thebaner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="adee930c-86da-4a6e-ae93-0c86da2a6e63">
+            <name>Kleist, Heinrich von</name>
+            <id type="gnd">11622004X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="390b75bb-7cd7-4e1b-8b75-bb7cd74e1b3c">
+            <name>Kolander, Friedrich</name>
+            <id type="gnd">11631057X</id>
+            <roleActor>
+                <role type="Rolle">Jupiter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3c29e742-e48a-4ba3-a9e7-42e48adba394">
+            <name>Lentz, Reinhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Amphitryon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c75ab3ea-79ed-49bd-9ab3-ea79ed89bdd8">
+            <name>Meyer-Ottens, Wilhelm</name>
+            <id type="gnd">1061401324</id>
+            <roleActor>
+                <role type="Rolle">Merkur</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="80f661b3-2921-45f6-b661-b3292155f64b">
+            <name>Molière</name>
+            <id type="gnd">11858331X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="711e9c77-20d2-4a43-9e9c-7720d22a43be">
+            <name>Pfeiffer, Heinz Erwin</name>
+            <id type="gnd">116163283</id>
+            <roleActor>
+                <role type="Rolle">Sosias</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e74f4bff-3467-4ee2-8f4b-ff34671ee2c3">
+            <name>Ploch, Hans</name>
+            <id type="gnd">116245816</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6ad9e94d-abec-4557-99e9-4dabec25572f">
+            <name>Rohloff, Herbert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">2. Oberst</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e773c4b3-d0c1-478b-b3c4-b3d0c1d78bbf">
+            <name>Waldau, Fritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">2. Feldherr</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="99e5302d-0a7c-4ad8-a530-2d0a7c9ad80c">
+            <name>Stadttheater Göttingen</name>
+            <id type="gnd">116190-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="7">
+        <object id="TWS_OBJ0000089" type="Publikation: Programmheft" aat="300027217">
+            <title>Programmzettel zu "Amphitryon" 1943</title>
+        </object>
+        <object id="TWS_OBJ0000036" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto zu "Amphitryon" in Göttingen 1941</title>
+        </object>
+        <object id="TWS_OBJ0000035" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto zu "Amphitryon" in Göttingen 1941</title>
+        </object>
+        <object id="TWS_OBJ0000034" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto zu "Amphitryon" in Göttingen 1941</title>
+        </object>
+        <object id="TWS_OBJ0000033" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto zu "Amphitryon" in Göttingen 1941</title>
+        </object>
+        <object id="TWS_OBJ0000032" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto zu "Amphitryon" in Göttingen 1941</title>
+        </object>
+        <object id="TWS_KON0000007" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfotos zu "Amphitryon" in Göttingen 1941</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Festival">
+            <listTitle>
+                <titleStmt>
+                    <title>"Vom klassischen Geist der Deutschen"</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Göttingen</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Stadttheater Göttingen</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000089"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <time from="07.02.1943" to="14.02.1943">
+                        <listObject>
+                            <object id=""/>
+                        </listObject>
+                    </time>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description>
+                    <beschreibung>
+                        <text>Theaterfestival am Stadttheater Göttingen, 07.02.1943-14.02.1943</text>
+                        <object>TWS_OBJ0000089</object>
+                    </beschreibung>
+                </description>
+            </descriptionList>
+            <actorList/>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

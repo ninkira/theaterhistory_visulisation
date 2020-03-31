@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="3552f865-66fc-425d-92f8-6566fce25dac" type="Performance">
+    <groupingArgument actorID="09ac2852-5961-4681-ac28-525961b68181">Tristan und Isolde+16.09.1911+Islaub, Hans</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Tristan und Isolde</title>
+            <listObject>
+                <object id="TWS_OBJ0000519"/>
+                <object id="TWS_OBJ0000518"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Opernhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000519"/>
+                    <object id="TWS_OBJ0000518"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>16.09.1911</premier>
+            <time from="08.10.1911" to="08.10.1911">
+                <listObject>
+                    <object id="TWS_OBJ0000519"/>
+                </listObject>
+            </time>
+            <time from="16.09.1911" to="16.09.1911">
+                <listObject>
+                    <object id="TWS_OBJ0000518"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="cb0f3569-377a-49fc-8f35-69377ab9fcb8">
+            <name>Wagner, Richard</name>
+            <id type="gnd">118594117</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="21e4fb21-c963-4568-a4fb-21c9635568b5">
+            <name>Brecher, Gustav</name>
+            <id type="gnd">119001314</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="09ac2852-5961-4681-ac28-525961b68181">
+            <name>Islaub, Hans</name>
+            <id type="gnd">117210617</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="75bf2d1b-d7c2-45db-bf2d-1bd7c235db90">
+            <name>Menzinsky, Modest</name>
+            <id type="gnd">11688651X</id>
+            <roleActor>
+                <role type="Rolle">Tristan</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5bb969b1-8b82-430d-b969-b18b82930d69">
+            <name>Giesen, Karl</name>
+            <id type="gnd">132441187</id>
+            <roleActor>
+                <role type="Rolle">König Marke</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8833ae56-176a-4a54-b3ae-56176aca5480">
+            <name>Guszalewicz, Alice</name>
+            <id type="gnd">119237970</id>
+            <roleActor>
+                <role type="Rolle">Isolde</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ed8603ac-ded6-4563-8603-acded6d563b9">
+            <name>Liszewsky, Tillmann</name>
+            <id type="gnd">134868706</id>
+            <roleActor>
+                <role type="Rolle">Kurwenal</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3320ca29-7520-4579-a0ca-297520257923">
+            <name>Vom Scheidt, Julius</name>
+            <id type="gnd">133650561</id>
+            <roleActor>
+                <role type="Rolle">Melot</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="60d2783d-01f8-40c4-9278-3d01f8b0c43e">
+            <name>Rohr, Katharina</name>
+            <id type="gnd">1019134410</id>
+            <roleActor>
+                <role type="Rolle">Brangäne</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5371af96-f0e4-4c4a-b1af-96f0e49c4a0d">
+            <name>Vanoni, Ludwig</name>
+            <id type="gnd">101413725X</id>
+            <roleActor>
+                <role type="Rolle">Ein Hirt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c2a80284-a30b-408f-a802-84a30bc08fd9">
+            <name>Winckelshoff, Heinrich</name>
+            <id type="gnd">189504870</id>
+            <roleActor>
+                <role type="Rolle">Ein Seemann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9ecf1d96-bb47-4f67-8f1d-96bb479f6727">
+            <name>Rawson, Tristan</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Steuermann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3947b0fc-c1d2-4807-87b0-fcc1d2d8076e">
+            <name>Clemens, Hans</name>
+            <id type="gnd">1049335775</id>
+            <roleActor>
+                <role type="Rolle">Ein Hirt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000519" type="Publikation: Programmheft" aat="300027217">
+            <title>Besetzungszettel von Tristan und Isolde, Köln 1911</title>
+        </object>
+        <object id="TWS_OBJ0000518" type="Publikation: Programmheft" aat="300027217">
+            <title>Besetzungszettel von Tristan und Isolde, Köln 1911</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

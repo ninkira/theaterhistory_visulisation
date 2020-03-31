@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="5804f5c9-951b-4d43-84f5-c9951b8d4350" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Gespenster+08.11.1906+Reinhardt, Max</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Eröffnungsvorstellung</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Gespenster</title>
+            <listObject>
+                <object id="TWS_OBJ0000163"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele, Deutsches Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000163"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>08.11.1906</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000163"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Eröffnungsvorstellung der Kammerspiele des Deutschen Theaters Berlin</text>
+            <object id="TWS_OBJ0000163"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8995e70a-7152-40d4-95e7-0a7152a0d418">
+            <name>Ibsen, Henrik</name>
+            <id type="gnd">118555286</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="947a0d69-b9a4-48c6-ba0d-69b9a428c601">
+            <name>Munch, Edvard</name>
+            <id type="gnd">118585738</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000163" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildskizze zu "Gespenster" in Berlin 1906</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

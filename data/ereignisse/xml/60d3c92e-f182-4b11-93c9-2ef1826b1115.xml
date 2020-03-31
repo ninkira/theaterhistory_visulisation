@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="60d3c92e-f182-4b11-93c9-2ef1826b1115" type="Performance">
+    <groupingArgument actorID="85ba0699-c933-4f4d-ba06-99c9338f4d12">Terakoya - Die Dorfschule+14.09.1908+Runge, Woldemar</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Terakoya - Die Dorfschule</title>
+            <listObject>
+                <object id="TWS_OBJ0000241"/>
+                <object id="TWS_OBJ0000240"/>
+                <object id="TWS_OBJ0000239"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000241"/>
+                    <object id="TWS_OBJ0000240"/>
+                    <object id="TWS_OBJ0000239"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>14.09.1908</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000241"/>
+                    <object id="TWS_OBJ0000240"/>
+                    <object id="TWS_OBJ0000239"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="34a8d980-7636-4e9b-a8d9-807636be9bab">
+            <name>Takeda, Izumo</name>
+            <id type="gnd">102435200</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Tonami</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="85ba0699-c933-4f4d-ba06-99c9338f4d12">
+            <name>Runge, Woldemar</name>
+            <id type="gnd">116707739</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="5f0fb9e6-ea32-4193-8fb9-e6ea3291939a">
+            <name>Stern, Ernst</name>
+            <id type="gnd">118753614</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0da3aa15-2ae0-44df-a3aa-152ae014df7f">
+            <name>Grossmann, Richard</name>
+            <id type="gnd">116873299</id>
+            <roleActor>
+                <role type="Rolle">Wadagaki</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6486cf64-e70d-4c98-86cf-64e70d0c98f2">
+            <name>Kayssler, Friedrich</name>
+            <id type="gnd">118721402</id>
+            <roleActor>
+                <role type="Rolle">Matsuo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="896f1550-4fc2-4eee-af15-504fc26eeed2">
+            <name>Stoike, Elsa</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kwan Shusai</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f8a2473f-376b-4503-a247-3f376b3503a4">
+            <name>Eysoldt, Gertrud</name>
+            <id type="gnd">119115522</id>
+            <roleActor>
+                <role type="Rolle">Chiyo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a62e7961-0e7b-4037-ae79-610e7b30372b">
+            <name>Kuhn, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kotaro</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="60e13068-6c65-438e-a130-686c65d38e10">
+            <name>Abel, Alfred</name>
+            <id type="gnd">116001313</id>
+            <roleActor>
+                <role type="Rolle">Genzo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="067f50db-53c0-450d-bf50-db53c0450d1c">
+            <name>Jacobi, Bernhard von</name>
+            <id type="gnd">117032719</id>
+            <roleActor>
+                <role type="Rolle">Gemba</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="acf997c1-c8cd-424d-b997-c1c8cdf24dd6">
+            <name>Feldhammer, Jacob</name>
+            <id type="gnd">126714703</id>
+            <roleActor>
+                <role type="Rolle">Kojima</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="58bd6d59-c814-4f75-bd6d-59c814bf7550">
+            <name>Zillich, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Sakuma</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f0e99fc-b70e-4149-8e99-fcb70e91493f">
+            <name>Gottowt, John</name>
+            <id type="gnd">1062117123</id>
+            <roleActor>
+                <role type="Rolle">Tajashima</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="594333a9-c5ff-4a56-8333-a9c5fffa56c1">
+            <name>Stoike, Fedor</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Iwama</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8a0cc64b-537d-4433-8cc6-4b537dc433fb">
+            <name>Teucke, Erich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Tokusan</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1c7b47d9-ba80-4616-bb47-d9ba80461644">
+            <name>Müller, Erwin</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Choma</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="59874986-4e56-4cdd-8749-864e56ecdde4">
+            <name>Kielblock, Elisabeth</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Izumo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="df5c378f-f0a2-499d-9c37-8ff0a2799d3e">
+            <name>Fried, Ernst</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Sansuke</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="290e5359-9542-42ec-8e53-599542f2ecd6">
+            <name>Großmann, Richard</name>
+            <id type="gnd">116873299</id>
+            <roleActor>
+                <role type="Rolle">Wadagaki</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="3">
+        <object id="TWS_OBJ0000241" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Fotografie zu "Terakoya - Die Dorfschule" in Berlin 1908</title>
+        </object>
+        <object id="TWS_OBJ0000240" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Fotografie zu "Terakoya - Die Dorfschule" in Berlin 1908</title>
+        </object>
+        <object id="TWS_OBJ0000239" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Fotografie zu "Terakoya - Die Dorfschule" in Berlin 1908</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

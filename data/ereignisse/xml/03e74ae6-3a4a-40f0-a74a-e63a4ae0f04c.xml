@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="03e74ae6-3a4a-40f0-a74a-e63a4ae0f04c" type="Performance">
+    <groupingArgument actorID="58e0302e-4f4f-4d43-a030-2e4f4f0d43e9">Tal des Lebens, Das+20.01.1940+Ströhlin, Otto</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Tal des Lebens, Das</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000036"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000036"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>20.01.1940</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000036"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theateraufführung der Münchner Kammerspiele, Premiere</text>
+            <object id="IFT_OBJ_HW000036"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e0961776-169b-40a6-9617-76169bd0a6e2">
+            <name>Münchner Kammerspiele</name>
+            <id type="gnd">2068173-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="3f5945dd-b0c5-4ab3-9945-ddb0c50ab31e">
+            <name>Dreyer, Max</name>
+            <id type="gnd">116220759</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="58e0302e-4f4f-4d43-a030-2e4f4f0d43e9">
+            <name>Ströhlin, Otto</name>
+            <id type="gnd">117343412</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4575ce75-53b4-45d9-b5ce-7553b4f5d9e4">
+            <name>Sturm, Eduard</name>
+            <id type="gnd">117363782</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="66f2c581-62d9-4709-b2c5-8162d9c7091f">
+            <name>Karzau, Sonja</name>
+            <id type="gnd">116061782</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2eb3d3a2-2e00-4748-b3d3-a22e002748de">
+            <name>Sellmer, Erna</name>
+            <id type="gnd">17383955X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38d230af-e70e-44e7-9230-afe70ec4e7e6">
+            <name>Eckard, Max</name>
+            <id type="gnd">1054311692</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000036" type="Fotografie: Album" aat="300026695">
+            <title>Fotoalbum Hedwig Wangel</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

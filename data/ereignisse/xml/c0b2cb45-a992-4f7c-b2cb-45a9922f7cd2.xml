@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="c0b2cb45-a992-4f7c-b2cb-45a9922f7cd2" type="Performance">
+    <groupingArgument actorID="">King Lear+25.02.1885+</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>King Lear</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>König Lear</title>
+            <listObject>
+                <object id="TWS_OBJ0000528"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Breslau</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater Breslau</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000528"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>25.02.1885</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000528"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>"Viertes Gastspiel des italienischen Tragöden Ernesto Rossi"</text>
+            <object id="TWS_OBJ0000528"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="f9e27c6a-c71e-4d39-a27c-6ac71ebd39ab">
+            <name>Badewitz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Graf von Kent</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">116110627</id>
+            <roleActor>
+                <role type="Rolle">Graf von Gloster</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b8160b11-6ea7-49c1-960b-116ea769c1c5">
+            <name>Bischoff</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Erster Edelmann im Gefolge der Cordelia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ace31e5f-eb8c-4e49-a31e-5feb8c3e494c">
+            <name>Bormann</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Codelia, Lears Tochter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="de160da3-fed6-4b3d-960d-a3fed69b3d15">
+            <name>Delavigne</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zweiter Edelmann im Gefolge der Cordelia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="418de94a-7bc7-40f6-8de9-4a7bc7f0f6f1">
+            <name>Golde</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Bote</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a533280a-0706-421e-b328-0a0706a21ea3">
+            <name>Greiner</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Herzog von Albanien</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0d3eb891-47c8-448d-beb8-9147c8448d6f">
+            <name>Herrmann-Benedix</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Goneril, Lears Tochter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f025ff51-abd8-415f-a5ff-51abd8215fb5">
+            <name>Kauer</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">König von Frankreich</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b7f04abe-b3c0-4f78-b04a-beb3c00f78ef">
+            <name>Krause</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Herzog von Cornwall</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="18bb6cbf-9a4b-426e-bb6c-bf9a4b126e89">
+            <name>Lucas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein alter Mann, Glosters Pächter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5a6fecf-350b-4813-a6fe-cf350b981385">
+            <name>Meyer</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Edmund, Glosters unehelicher Sohn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="be0fc528-5057-4b54-8fc5-2850577b545c">
+            <name>Oeser</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Ritter in Lears Gefolge</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ffb7fc70-70b5-49f7-b7fc-7070b5c9f71b">
+            <name>Resemann</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Edgar, Glosters ehelicher Sohn</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ba2fde16-50fe-4e65-afde-1650fe0e6521">
+            <name>Richter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Hauptmann unter Edmund als Feldherrn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e13dbe2c-7ee1-4970-bdbe-2c7ee1e97074">
+            <name>Rossi, Ernesto</name>
+            <id type="gnd">118836412</id>
+            <roleActor>
+                <role type="Rolle">Lear, König von Britannien</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3f9bfaa9-75cd-427d-9bfa-a975cd427dd6">
+            <name>Schwarzbach</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Herzog von Burgung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="674d8bee-7a74-4703-8d8b-ee7a7467034d">
+            <name>Schwarzenberg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Regan, Lears Tochter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="95f839f2-80a7-441c-b839-f280a7941cf6">
+            <name>Stadttheater Breslau</name>
+            <id type="gnd">16343427-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="5e00cea9-a0a6-49ad-80ce-a9a0a659ad81">
+            <name>Thomas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Oswald, Gonerils Haushofmeister</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="216609ba-a6e1-4960-a609-baa6e1396024">
+            <name>von Fischer</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Narr</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000528" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zur "König Lear"-Inszenierung in Breslau 1885</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="427da030-f355-442d-bda0-30f355242dc5" type="Performance">
+    <groupingArgument actorID="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">Räuber, Die++Lewinger, Ernst</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Räuber, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000498"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater (Köln)</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000498"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="02.05.1893" to="02.05.1893">
+                <listObject>
+                    <object id="TWS_OBJ0000498"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="f03361f6-648d-4abb-b361-f6648dcabbb4">
+            <name>Stadttheater (Köln)</name>
+            <id type="gnd">216478-4</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="793acec2-580c-4417-bace-c2580cf4176d">
+            <name>Hofmann, Julius</name>
+            <id type="gnd">116951621</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">
+            <name>Lewinger, Ernst</name>
+            <id type="gnd">116971835</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="76306200-f74e-4a3e-b062-00f74e1a3e31">
+            <name>Schiller, Friedrich von</name>
+            <id type="gnd">118607626</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="476736e1-cf27-4ec8-a736-e1cf27eec89d">
+            <name>Tenhaef, Reinhard</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Maximilian, regierender Graf von Moor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="06a99e8b-2da7-4d44-a99e-8b2da7bd44bb">
+            <name>Heine, Hermann</name>
+            <id type="gnd">143746669</id>
+            <roleActor>
+                <role type="Rolle">Karl, Sohn des Grafen von Moor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Franz, Sohn des Grafen von Moor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3302e84b-7602-4ed3-82e8-4b76020ed38f">
+            <name>Doré, Adele</name>
+            <id type="gnd">117031453</id>
+            <roleActor>
+                <role type="Rolle">Amalie von Edelreich, Nichte des Grafen von Moor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6917069-7051-4936-9170-697051293661">
+            <name>Beck, Otto</name>
+            <id type="gnd">116101997</id>
+            <roleActor>
+                <role type="Rolle">Spiegelberg, Libertiner, nachher Bandit</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fa70854e-da8b-4fd8-b085-4eda8b0fd823">
+            <name>Zimmermann, Ludwig</name>
+            <id type="gnd">116999772</id>
+            <roleActor>
+                <role type="Rolle">Schweizer, Libertiner, nachher Bandit</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0a90f8de-6faa-4f31-90f8-de6faa3f31f4">
+            <name>Ulbrich, August</name>
+            <id type="gnd">1013009339</id>
+            <roleActor>
+                <role type="Rolle">Brimm, Libertiner, nachher Bandit</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="096a1e5c-9bca-4f43-aa1e-5c9bca1f4357">
+            <name>Benthien, Willy</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Razmann, Libertiner, nachher Bandit</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2331c12-835d-4299-b31c-12835d229931">
+            <name>Portz, Hans</name>
+            <id type="gnd">116269448</id>
+            <roleActor>
+                <role type="Rolle">Schufterle, Libertiner, nachher Bandit</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b40f32da-1cc1-45a6-8f32-da1cc1a5a651">
+            <name>Biehler, Alfred</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Roller, Libertiner, nachher Bandit</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9f85cfc6-f3d6-4f55-85cf-c6f3d6df5521">
+            <name>Leyrer, Rudolf</name>
+            <id type="gnd">130227463</id>
+            <roleActor>
+                <role type="Rolle">Hermann, Bastard eines Edelmannes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57dc5d0b-e612-4202-9c5d-0be612120205">
+            <name>Hecken, Max</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Daniel, ein alter Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="72a7577b-e0a7-44f7-a757-7be0a7f4f762">
+            <name>Rogall, Hugo</name>
+            <id type="gnd">116596538</id>
+            <roleActor>
+                <role type="Rolle">Eine Magistratsperson</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="98b4247d-d762-4eca-b424-7dd7627eca1c">
+            <name>Cäcilia Wolkenburg</name>
+            <id type="gnd">2035841-6</id>
+            <roleActor>
+                <role>Gesangverein</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000498" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu Max Behrend in 'Die Räuber', Köln 1893</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Aufführung von 'Die Räuber'">
+            <listTitle>
+                <titleStmt>
+                    <title>Abeschiedsvorstellung von Hermann Heine</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Köln</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Stadttheater (Köln)</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000498"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>02.05.1893</eventDate>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList>
+                <actor id="06a99e8b-2da7-4d44-a99e-8b2da7bd44bb">
+                    <name>Heine, Hermann</name>
+                    <id type="gnd">143746669</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+        <event type="Aufführung von 'Die Räuber'">
+            <listTitle>
+                <titleStmt>
+                    <title>Abschiedsvorstellung von Max Behrend</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Köln</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Stadttheater (Köln)</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000498"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>02.05.1893</eventDate>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList>
+                <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+                    <name>Behrend, Max</name>
+                    <id type="gnd">1035019299</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+        <event type="Schluss der Spielzeit">
+            <listTitle>
+                <titleStmt>
+                    <title>Aufführung von 'Die Räuber'</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Köln</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Stadttheater</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000498"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>02.05.1893</eventDate>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList>
+                <actor id="f03361f6-648d-4abb-b361-f6648dcabbb4">
+                    <name>Stadttheater (Köln)</name>
+                    <id type="gnd">216478-4</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Produktion (Theater)</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

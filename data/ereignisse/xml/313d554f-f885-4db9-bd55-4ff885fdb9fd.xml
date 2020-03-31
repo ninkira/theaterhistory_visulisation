@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="313d554f-f885-4db9-bd55-4ff885fdb9fd" type="Performance">
+    <groupingArgument actorID="">Langusten++</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Langusten</title>
+            <listObject>
+                <object id="TWS_OBJ0000151"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>diverse</placeName>
+            <place type="Institution">
+                <placeName>diverse</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000151"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Ein-Personen-Stück</text>
+            <object id="TWS_OBJ0000151"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="50d07fc1-0d0f-497f-907f-c10d0ff97f37">
+            <name>Denger, Fred</name>
+            <id type="gnd">139731911</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Marie Bornemann, Putzfrau</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000151" type="Publikation: Programmheft" aat="300027217">
+            <title>Tournee-Programmheft zu "Langusten"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

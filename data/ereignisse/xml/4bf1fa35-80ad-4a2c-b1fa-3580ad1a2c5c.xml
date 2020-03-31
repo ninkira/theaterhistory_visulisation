@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="4bf1fa35-80ad-4a2c-b1fa-3580ad1a2c5c" type="Performance">
+    <groupingArgument actorID="9a6636c8-38f6-4c92-a636-c838f60c92c9">Biberpelz+02.12.1938+Domin, Friedrich</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Biberpelz</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000028"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000028"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>02.12.1938</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000028"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Münchner Kammerspiele, Premiere</text>
+            <object id="IFT_OBJ_HW000028"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="1169279b-3614-4a10-a927-9b36141a1046">
+            <name>Hauptmann, Gerhart</name>
+            <id type="gnd">118546937</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="9a6636c8-38f6-4c92-a636-c838f60c92c9">
+            <name>Domin, Friedrich</name>
+            <id type="gnd">116176601</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4575ce75-53b4-45d9-b5ce-7553b4f5d9e4">
+            <name>Sturm, Eduard</name>
+            <id type="gnd">117363782</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b30a4939-64af-4654-8a49-3964af1654b8">
+            <name>Brefin, Otto</name>
+            <id type="gnd">116469722</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f2e7b747-8df3-43b7-a7b7-478df3e3b73b">
+            <name>Lantzsch, Walter</name>
+            <id type="gnd">116731524</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e0961776-169b-40a6-9617-76169bd0a6e2">
+            <name>Münchner Kammerspiele</name>
+            <id type="gnd">2068173-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000028" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Faltblatt mit diversen Rollenporträts</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

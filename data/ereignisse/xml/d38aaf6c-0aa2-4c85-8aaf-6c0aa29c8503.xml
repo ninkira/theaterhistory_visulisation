@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="d38aaf6c-0aa2-4c85-8aaf-6c0aa29c8503" type="Performance">
+    <groupingArgument actorID="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">Iphigenie in Aulis+15.11.1943+Müthel, Lothar</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Iphigenie in Aulis</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Iphigenie in Aulis</title>
+            <listObject>
+                <object id="IFT_OBJ_LM000464"/>
+                <object id="IFT_OBJ_LM000450"/>
+                <object id="IFT_OBJ_LM000449"/>
+                <object id="IFT_OBJ_LM000448"/>
+                <object id="IFT_OBJ_LM000447"/>
+                <object id="IFT_OBJ_LM000446"/>
+                <object id="IFT_OBJ_LM000445"/>
+                <object id="IFT_OBJ_LM000444"/>
+                <object id="IFT_OBJ_LM000443"/>
+                <object id="IFT_OBJ_LM000442"/>
+                <object id="IFT_OBJ_LM000441"/>
+                <object id="IFT_OBJ_LM000440"/>
+                <object id="IFT_OBJ_LM000439"/>
+                <object id="IFT_OBJ_LM000438"/>
+                <object id="IFT_OBJ_LM000437"/>
+                <object id="IFT_OBJ_LM000436"/>
+                <object id="IFT_OBJ_LM000435"/>
+                <object id="IFT_OBJ_LM000434"/>
+                <object id="IFT_OBJ_LM000433"/>
+                <object id="IFT_OBJ_LM000432"/>
+                <object id="IFT_OBJ_LM000431"/>
+                <object id="IFT_OBJ_LM000197"/>
+                <object id="IFT_OBJ_LM000196"/>
+                <object id="IFT_OBJ_LM000195"/>
+                <object id="IFT_OBJ_LM000194"/>
+                <object id="IFT_OBJ_LM000193"/>
+                <object id="IFT_OBJ_LM000192"/>
+                <object id="IFT_OBJ_LM000191"/>
+                <object id="IFT_OBJ_LM000190"/>
+                <object id="IFT_OBJ_LM000189"/>
+                <object id="IFT_OBJ_LM000188"/>
+                <object id="IFT_OBJ_LM000187"/>
+                <object id="IFT_OBJ_LM000186"/>
+                <object id="IFT_OBJ_LM000185"/>
+                <object id="IFT_OBJ_LM000184"/>
+                <object id="IFT_OBJ_LM000183"/>
+                <object id="IFT_OBJ_LM000182"/>
+                <object id="IFT_OBJ_LM000181"/>
+                <object id="IFT_OBJ_LM000180"/>
+                <object id="IFT_OBJ_LM000179"/>
+                <object id="IFT_OBJ_LM000178"/>
+                <object id="IFT_OBJ_LM000177"/>
+                <object id="IFT_OBJ_LM000176"/>
+                <object id="IFT_OBJ_LM000175"/>
+                <object id="IFT_OBJ_LM000174"/>
+                <object id="IFT_OBJ_LM000173"/>
+                <object id="IFT_OBJ_LM000172"/>
+                <object id="IFT_OBJ_LM000171"/>
+                <object id="IFT_OBJ_LM000170"/>
+                <object id="IFT_OBJ_LM000169"/>
+                <object id="IFT_OBJ_LM000168"/>
+                <object id="IFT_OBJ_LM000167"/>
+                <object id="IFT_OBJ_LM000166"/>
+                <object id="IFT_OBJ_LM000165"/>
+                <object id="IFT_OBJ_LM000164"/>
+                <object id="IFT_OBJ_LM000163"/>
+                <object id="IFT_OBJ_LM000162"/>
+                <object id="IFT_OBJ_LM000161"/>
+                <object id="IFT_OBJ_LM000160"/>
+                <object id="IFT_OBJ_LM000159"/>
+                <object id="IFT_OBJ_LM000158"/>
+                <object id="IFT_OBJ_LM000157"/>
+                <object id="IFT_OBJ_LM000156"/>
+                <object id="IFT_OBJ_LM000155"/>
+                <object id="IFT_OBJ_LM000154"/>
+                <object id="IFT_OBJ_LM000153"/>
+                <object id="IFT_OBJ_LM000152"/>
+                <object id="IFT_OBJ_LM000151"/>
+                <object id="IFT_OBJ_LM000150"/>
+                <object id="IFT_OBJ_LM000149"/>
+                <object id="IFT_OBJ_LM000148"/>
+                <object id="IFT_OBJ_LM000147"/>
+                <object id="IFT_OBJ_LM000146"/>
+                <object id="IFT_OBJ_LM000145"/>
+                <object id="IFT_OBJ_LM000144"/>
+                <object id="IFT_OBJ_LM000143"/>
+                <object id="IFT_OBJ_LM000142"/>
+                <object id="IFT_OBJ_LM000141"/>
+                <object id="IFT_OBJ_LM000140"/>
+                <object id="IFT_OBJ_LM000139"/>
+                <object id="IFT_OBJ_LM000138"/>
+                <object id="IFT_OBJ_LM000137"/>
+                <object id="IFT_OBJ_LM000136"/>
+                <object id="IFT_OBJ_LM000135"/>
+                <object id="IFT_OBJ_LM000134"/>
+                <object id="IFT_OBJ_LM000133"/>
+                <object id="IFT_OBJ_LM000132"/>
+                <object id="IFT_OBJ_LM000131"/>
+                <object id="IFT_KON_LM000018"/>
+                <object id="IFT_KON_LM000006"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>Burgtheater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LM000464"/>
+                    <object id="IFT_OBJ_LM000450"/>
+                    <object id="IFT_OBJ_LM000449"/>
+                    <object id="IFT_OBJ_LM000448"/>
+                    <object id="IFT_OBJ_LM000447"/>
+                    <object id="IFT_OBJ_LM000446"/>
+                    <object id="IFT_OBJ_LM000445"/>
+                    <object id="IFT_OBJ_LM000444"/>
+                    <object id="IFT_OBJ_LM000443"/>
+                    <object id="IFT_OBJ_LM000442"/>
+                    <object id="IFT_OBJ_LM000441"/>
+                    <object id="IFT_OBJ_LM000440"/>
+                    <object id="IFT_OBJ_LM000439"/>
+                    <object id="IFT_OBJ_LM000438"/>
+                    <object id="IFT_OBJ_LM000437"/>
+                    <object id="IFT_OBJ_LM000436"/>
+                    <object id="IFT_OBJ_LM000435"/>
+                    <object id="IFT_OBJ_LM000434"/>
+                    <object id="IFT_OBJ_LM000433"/>
+                    <object id="IFT_OBJ_LM000432"/>
+                    <object id="IFT_OBJ_LM000431"/>
+                    <object id="IFT_OBJ_LM000197"/>
+                    <object id="IFT_OBJ_LM000196"/>
+                    <object id="IFT_OBJ_LM000195"/>
+                    <object id="IFT_OBJ_LM000194"/>
+                    <object id="IFT_OBJ_LM000193"/>
+                    <object id="IFT_OBJ_LM000192"/>
+                    <object id="IFT_OBJ_LM000191"/>
+                    <object id="IFT_OBJ_LM000190"/>
+                    <object id="IFT_OBJ_LM000189"/>
+                    <object id="IFT_OBJ_LM000188"/>
+                    <object id="IFT_OBJ_LM000187"/>
+                    <object id="IFT_OBJ_LM000186"/>
+                    <object id="IFT_OBJ_LM000185"/>
+                    <object id="IFT_OBJ_LM000184"/>
+                    <object id="IFT_OBJ_LM000183"/>
+                    <object id="IFT_OBJ_LM000182"/>
+                    <object id="IFT_OBJ_LM000181"/>
+                    <object id="IFT_OBJ_LM000180"/>
+                    <object id="IFT_OBJ_LM000179"/>
+                    <object id="IFT_OBJ_LM000178"/>
+                    <object id="IFT_OBJ_LM000177"/>
+                    <object id="IFT_OBJ_LM000176"/>
+                    <object id="IFT_OBJ_LM000175"/>
+                    <object id="IFT_OBJ_LM000174"/>
+                    <object id="IFT_OBJ_LM000173"/>
+                    <object id="IFT_OBJ_LM000172"/>
+                    <object id="IFT_OBJ_LM000171"/>
+                    <object id="IFT_OBJ_LM000170"/>
+                    <object id="IFT_OBJ_LM000169"/>
+                    <object id="IFT_OBJ_LM000168"/>
+                    <object id="IFT_OBJ_LM000167"/>
+                    <object id="IFT_OBJ_LM000166"/>
+                    <object id="IFT_OBJ_LM000165"/>
+                    <object id="IFT_OBJ_LM000164"/>
+                    <object id="IFT_OBJ_LM000163"/>
+                    <object id="IFT_OBJ_LM000162"/>
+                    <object id="IFT_OBJ_LM000161"/>
+                    <object id="IFT_OBJ_LM000160"/>
+                    <object id="IFT_OBJ_LM000159"/>
+                    <object id="IFT_OBJ_LM000158"/>
+                    <object id="IFT_OBJ_LM000157"/>
+                    <object id="IFT_OBJ_LM000156"/>
+                    <object id="IFT_OBJ_LM000155"/>
+                    <object id="IFT_OBJ_LM000154"/>
+                    <object id="IFT_OBJ_LM000153"/>
+                    <object id="IFT_OBJ_LM000152"/>
+                    <object id="IFT_OBJ_LM000151"/>
+                    <object id="IFT_OBJ_LM000150"/>
+                    <object id="IFT_OBJ_LM000149"/>
+                    <object id="IFT_OBJ_LM000148"/>
+                    <object id="IFT_OBJ_LM000147"/>
+                    <object id="IFT_OBJ_LM000146"/>
+                    <object id="IFT_OBJ_LM000145"/>
+                    <object id="IFT_OBJ_LM000144"/>
+                    <object id="IFT_OBJ_LM000143"/>
+                    <object id="IFT_OBJ_LM000142"/>
+                    <object id="IFT_OBJ_LM000141"/>
+                    <object id="IFT_OBJ_LM000140"/>
+                    <object id="IFT_OBJ_LM000139"/>
+                    <object id="IFT_OBJ_LM000138"/>
+                    <object id="IFT_OBJ_LM000137"/>
+                    <object id="IFT_OBJ_LM000136"/>
+                    <object id="IFT_OBJ_LM000135"/>
+                    <object id="IFT_OBJ_LM000134"/>
+                    <object id="IFT_OBJ_LM000133"/>
+                    <object id="IFT_OBJ_LM000132"/>
+                    <object id="IFT_OBJ_LM000131"/>
+                    <object id="IFT_KON_LM000018"/>
+                    <object id="IFT_KON_LM000006"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>15.11.1943</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_LM000464"/>
+                    <object id="IFT_OBJ_LM000450"/>
+                    <object id="IFT_OBJ_LM000449"/>
+                    <object id="IFT_OBJ_LM000448"/>
+                    <object id="IFT_OBJ_LM000447"/>
+                    <object id="IFT_OBJ_LM000446"/>
+                    <object id="IFT_OBJ_LM000445"/>
+                    <object id="IFT_OBJ_LM000444"/>
+                    <object id="IFT_OBJ_LM000443"/>
+                    <object id="IFT_OBJ_LM000442"/>
+                    <object id="IFT_OBJ_LM000441"/>
+                    <object id="IFT_OBJ_LM000440"/>
+                    <object id="IFT_OBJ_LM000439"/>
+                    <object id="IFT_OBJ_LM000438"/>
+                    <object id="IFT_OBJ_LM000437"/>
+                    <object id="IFT_OBJ_LM000436"/>
+                    <object id="IFT_OBJ_LM000435"/>
+                    <object id="IFT_OBJ_LM000434"/>
+                    <object id="IFT_OBJ_LM000433"/>
+                    <object id="IFT_OBJ_LM000432"/>
+                    <object id="IFT_OBJ_LM000431"/>
+                    <object id="IFT_OBJ_LM000197"/>
+                    <object id="IFT_OBJ_LM000196"/>
+                    <object id="IFT_OBJ_LM000195"/>
+                    <object id="IFT_OBJ_LM000194"/>
+                    <object id="IFT_OBJ_LM000193"/>
+                    <object id="IFT_OBJ_LM000192"/>
+                    <object id="IFT_OBJ_LM000191"/>
+                    <object id="IFT_OBJ_LM000190"/>
+                    <object id="IFT_OBJ_LM000189"/>
+                    <object id="IFT_OBJ_LM000188"/>
+                    <object id="IFT_OBJ_LM000187"/>
+                    <object id="IFT_OBJ_LM000186"/>
+                    <object id="IFT_OBJ_LM000185"/>
+                    <object id="IFT_OBJ_LM000184"/>
+                    <object id="IFT_OBJ_LM000183"/>
+                    <object id="IFT_OBJ_LM000182"/>
+                    <object id="IFT_OBJ_LM000181"/>
+                    <object id="IFT_OBJ_LM000180"/>
+                    <object id="IFT_OBJ_LM000179"/>
+                    <object id="IFT_OBJ_LM000178"/>
+                    <object id="IFT_OBJ_LM000177"/>
+                    <object id="IFT_OBJ_LM000176"/>
+                    <object id="IFT_OBJ_LM000175"/>
+                    <object id="IFT_OBJ_LM000174"/>
+                    <object id="IFT_OBJ_LM000173"/>
+                    <object id="IFT_OBJ_LM000172"/>
+                    <object id="IFT_OBJ_LM000171"/>
+                    <object id="IFT_OBJ_LM000170"/>
+                    <object id="IFT_OBJ_LM000169"/>
+                    <object id="IFT_OBJ_LM000168"/>
+                    <object id="IFT_OBJ_LM000167"/>
+                    <object id="IFT_OBJ_LM000166"/>
+                    <object id="IFT_OBJ_LM000165"/>
+                    <object id="IFT_OBJ_LM000164"/>
+                    <object id="IFT_OBJ_LM000163"/>
+                    <object id="IFT_OBJ_LM000162"/>
+                    <object id="IFT_OBJ_LM000161"/>
+                    <object id="IFT_OBJ_LM000160"/>
+                    <object id="IFT_OBJ_LM000159"/>
+                    <object id="IFT_OBJ_LM000158"/>
+                    <object id="IFT_OBJ_LM000157"/>
+                    <object id="IFT_OBJ_LM000156"/>
+                    <object id="IFT_OBJ_LM000155"/>
+                    <object id="IFT_OBJ_LM000154"/>
+                    <object id="IFT_OBJ_LM000153"/>
+                    <object id="IFT_OBJ_LM000152"/>
+                    <object id="IFT_OBJ_LM000151"/>
+                    <object id="IFT_OBJ_LM000150"/>
+                    <object id="IFT_OBJ_LM000149"/>
+                    <object id="IFT_OBJ_LM000148"/>
+                    <object id="IFT_OBJ_LM000147"/>
+                    <object id="IFT_OBJ_LM000146"/>
+                    <object id="IFT_OBJ_LM000145"/>
+                    <object id="IFT_OBJ_LM000144"/>
+                    <object id="IFT_OBJ_LM000143"/>
+                    <object id="IFT_OBJ_LM000142"/>
+                    <object id="IFT_OBJ_LM000141"/>
+                    <object id="IFT_OBJ_LM000140"/>
+                    <object id="IFT_OBJ_LM000139"/>
+                    <object id="IFT_OBJ_LM000138"/>
+                    <object id="IFT_OBJ_LM000137"/>
+                    <object id="IFT_OBJ_LM000136"/>
+                    <object id="IFT_OBJ_LM000135"/>
+                    <object id="IFT_OBJ_LM000134"/>
+                    <object id="IFT_OBJ_LM000133"/>
+                    <object id="IFT_OBJ_LM000132"/>
+                    <object id="IFT_OBJ_LM000131"/>
+                    <object id="IFT_KON_LM000018"/>
+                    <object id="IFT_KON_LM000006"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Wiener Burgtheaters</text>
+            <object id="IFT_OBJ_LM000464"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="510ced52-655d-4d3a-8ced-52655d1d3aa4">
+            <name>Balser, Ewald</name>
+            <id type="gnd">116046163</id>
+            <roleActor>
+                <role type="Rolle">Agamemnon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0d0ae63b-b5c0-46fd-8ae6-3bb5c0d6fd03">
+            <name>Braun, Käthe</name>
+            <id type="gnd">173029841</id>
+            <roleActor>
+                <role type="Rolle">Iphigenie</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9c98a70a-d508-4706-98a7-0ad5082706d8">
+            <name>Braun, Viktor</name>
+            <id type="gnd">130114170</id>
+            <roleActor>
+                <role type="Rolle">Odysseus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7946aa60-aecd-45d6-86aa-60aecd65d6a0">
+            <name>Dorsch, Käthe</name>
+            <id type="gnd">11868051X</id>
+            <roleActor>
+                <role type="Rolle">Klytämnestra</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dadfb66c-27aa-4052-9fb6-6c27aa40524e">
+            <name>Eis, Maria</name>
+            <id type="gnd">118688421</id>
+            <roleActor>
+                <role type="Rolle">Peitho</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a47864ed-259b-4539-b864-ed259ba5396e">
+            <name>Friedl, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Herold</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1169279b-3614-4a10-a927-9b36141a1046">
+            <name>Hauptmann, Gerhart</name>
+            <id type="gnd">118546937</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="84c7007b-57ee-430a-8700-7b57ee230a5f">
+            <name>Hennings, Fred</name>
+            <id type="gnd">118710478</id>
+            <roleActor>
+                <role type="Rolle">Menelaos</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="19be2b05-1d5a-4666-be2b-051d5a466642">
+            <name>Klein, Cesar</name>
+            <id type="gnd">118723456</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e6ee051b-5b61-4a96-ae05-1b5b610a96e1">
+            <name>Krauss, Helmuth</name>
+            <id type="gnd">1103459899</id>
+            <roleActor>
+                <role type="Rolle">Kalchas</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="47586caa-0604-48ea-986c-aa060428ea11">
+            <name>Liewehr, Fred</name>
+            <id type="gnd">117001007</id>
+            <roleActor>
+                <role type="Rolle">Achilleus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2d23d0af-3958-4d0f-a3d0-af39581d0f56">
+            <name>Moog, Heinz</name>
+            <id type="gnd">117134724</id>
+            <roleActor>
+                <role type="Rolle">Aigisthos</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">
+            <name>Müthel, Lothar</name>
+            <id type="gnd">119049309</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="fd9c1ea9-ab57-4d08-9c1e-a9ab57ad08c3">
+            <name>Reimers, Emmerich</name>
+            <id type="gnd">116414790</id>
+            <roleActor>
+                <role type="Rolle">Der Führer der alten Männer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dd1ac39b-8ba7-4554-9ac3-9b8ba725549b">
+            <name>Salmhofer, Franz</name>
+            <id type="gnd">120736640</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="7b516a2d-7f08-451c-916a-2d7f08651cd1">
+            <name>Schneider, Siegmar</name>
+            <id type="gnd">116837195</id>
+            <roleActor>
+                <role type="Rolle">Talthybios</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ae5924bc-3044-466e-9924-bc3044266e00">
+            <name>Siebert, Hans</name>
+            <id type="gnd">117354457</id>
+            <roleActor>
+                <role type="Rolle">Thestor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="90b563b8-9020-48b4-b563-b89020d8b4b6">
+            <name>Steinböck, Felix</name>
+            <id type="gnd">1025314409</id>
+            <roleActor>
+                <role type="Rolle">Kritolaos</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="77c275f3-2bcb-462d-8275-f32bcb262d04">
+            <name>Burgtheater Wien</name>
+            <id type="gnd">38633-9</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="870d69ce-06b8-4e9a-8d69-ce06b83e9a49">
+            <name>Harder, Doris</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Eine weibliche Gestalt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2bc37c84-8848-4ee4-837c-8488480ee469">
+            <name>Leddihn, Inge</name>
+            <id type="gnd">130215783</id>
+            <roleActor>
+                <role type="Rolle">Eine weibliche Gestalt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="656598d6-2212-486f-a598-d62212386fcc">
+            <name>Mader, Irmgard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Eine weibliche Gestalt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="90">
+        <object id="IFT_OBJ_LM000464" type="Publikation: Regiebuch" aat="">
+            <title>Regiebuch zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000450" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000449" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000448" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000447" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000446" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000445" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000444" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000443" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000442" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000441" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000440" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000439" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000438" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000437" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000436" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000435" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000434" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000433" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000432" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000431" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000197" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000196" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000195" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000194" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000193" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000192" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000191" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000190" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000189" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Iphigenie in Aulis"-Uraufführung am Burgtheater Wien, 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000188" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000187" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000186" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000185" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000184" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000183" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000182" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000181" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000180" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000179" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000178" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000177" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000176" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000175" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000174" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000173" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000172" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000171" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000170" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000169" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000168" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000167" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000166" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000165" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000164" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000163" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000162" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000161" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000160" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000159" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000158" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000157" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000156" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000155" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000154" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000153" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000152" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000151" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000150" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000149" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000148" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000147" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000146" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000145" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000144" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000143" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000142" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000141" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000140" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000139" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000138" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000137" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000136" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000135" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportraits zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000134" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000133" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000132" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000131" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_KON_LM000018" type="Publikation: Rezension" aat="">
+            <title>Kritikenkonvolut zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+        <object id="IFT_KON_LM000006" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Konvolut Szenenfotografien zu "Iphigenie in Aulis" in Wien 1943</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

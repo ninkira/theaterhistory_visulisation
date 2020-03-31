@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a0857972-72be-4e8a-8579-7272bece8ae1" type="Performance">
+    <groupingArgument actorID="09ac2852-5961-4681-ac28-525961b68181">Cavalleria rusticana++Islaub, Hans</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Cavalleria rusticana</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Cavalleria rusticana (Sizilianische Bauernlehre)</title>
+            <listObject>
+                <object id="TWS_OBJ0000512"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Altes Opernhaus (Köln)</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000512"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="29.05.1912" to="29.05.1912">
+                <listObject>
+                    <object id="TWS_OBJ0000512"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="882dfe14-4a08-47cf-adfe-144a0897cfa9">
+            <name>Verga, Giovanni</name>
+            <id type="gnd">118626558</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="27632e48-c64d-471a-a32e-48c64d071aac">
+            <name>Targioni-Tozzetti, Giovanni</name>
+            <id type="gnd">119310074</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="945a9cea-7eda-4773-9a9c-ea7eda577312">
+            <name>Menasci, Guido</name>
+            <id type="gnd">119310066</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bafa9cba-7d36-4176-ba9c-ba7d363176ef">
+            <name>Berggruen, Oskar</name>
+            <id type="gnd">127520643</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="015ab7d8-5025-47ec-9ab7-d8502587ec29">
+            <name>Mascagni, Pietro</name>
+            <id type="gnd">118782428</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="f3ad4893-7882-4b1b-ad48-937882cb1ba7">
+            <name>Weißleder, Franz</name>
+            <id type="gnd">117302457</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="09ac2852-5961-4681-ac28-525961b68181">
+            <name>Islaub, Hans</name>
+            <id type="gnd">117210617</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8833ae56-176a-4a54-b3ae-56176aca5480">
+            <name>Guszalewicz, Alice</name>
+            <id type="gnd">119237970</id>
+            <roleActor>
+                <role type="Rolle">Santuzza, eine junge Bäuerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="baed8218-b98a-4183-ad82-18b98a818355">
+            <name>Castello, Innocenzo</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Turiddu, ein junger Bauer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57ac475c-d2ef-4124-ac47-5cd2ef2124a3">
+            <name>Welden, Anna</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lusia, Turiddus Mutter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ed8603ac-ded6-4563-8603-acded6d563b9">
+            <name>Liszewsky, Tillmann</name>
+            <id type="gnd">134868706</id>
+            <roleActor>
+                <role type="Rolle">Alfio, ein Fuhrmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="051fc7c2-587e-4e13-9fc7-c2587e2e138c">
+            <name>Odenthal, Louise</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lola, Alfios Frau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2967813c-0d51-43e2-a781-3c0d5133e22b">
+            <name>Vereinigte Stadttheater (Köln)</name>
+            <id type="gnd">216498-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000512" type="Publikation: Programmheft" aat="300027217">
+            <title>Besetzungszettel zu "Cavalleria rusticana" und "Die Regimentstochter", Köln 1912</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

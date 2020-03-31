@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ee5fda82-fe47-4fd0-9fda-82fe470fd02b" type="Performance">
+    <groupingArgument actorID="0942d982-879f-4fd9-82d9-82879fafd944">Karl XII++Hartung, Gustav</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Karl XII</title>
+            <listObject>
+                <object id="IFT_OBJ_JR000005"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Lessing-Theater (Berlin)</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JR000005"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="01.01.1925" to="30.12.1926">
+                <listObject>
+                    <object id="IFT_OBJ_JR000005"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Lessing-Theaters (Berlin)</text>
+            <object id="IFT_OBJ_JR000005"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="0942d982-879f-4fd9-82d9-82879fafd944">
+            <name>Hartung, Gustav</name>
+            <id type="gnd">116502991</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="44ddd290-b175-483e-9dd2-90b175683e55">
+            <name>Lessing-Theater (Berlin)</name>
+            <id type="gnd">7590354-4</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="02fbcbc8-f73f-4aff-bbcb-c8f73f4aff4e">
+            <name>Richter, Julius</name>
+            <id type="gnd">116512415</id>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="eccce19a-ed77-49e8-8ce1-9aed77e9e8e9">
+            <name>Pilartz, Theodor Caspar</name>
+            <id type="gnd">143088149</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_JR000005" type="Autograf: Manuskript" aat="300028569">
+            <title>"Abschnitt 4" der Autobiografie von Julius Richter</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

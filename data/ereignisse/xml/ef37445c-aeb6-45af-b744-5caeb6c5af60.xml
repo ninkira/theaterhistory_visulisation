@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ef37445c-aeb6-45af-b744-5caeb6c5af60" type="Performance">
+    <groupingArgument actorID="">Zaubergeige, Die+29.11.1899+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Zaubergeige, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000146"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>concession, Theater-Vorbereitungsschule</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000146"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>29.11.1899</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000146"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Vorstellung innerhalb der Dritten Eleven-Vorstellung
+Durieux als Schülerin der Frau Salte</text>
+            <object id="TWS_OBJ0000146"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e7f30a39-7394-495f-b30a-397394295f92">
+            <name>Morovič</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d3b8fb8b-ac59-4cc9-b8fb-8bac595cc99f">
+            <name>Arnau</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000146" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Zweite Eleven-Vorstellung" in Wien 1899</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

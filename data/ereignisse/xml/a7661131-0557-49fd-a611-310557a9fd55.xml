@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a7661131-0557-49fd-a611-310557a9fd55" type="Performance">
+    <groupingArgument actorID="ce550677-d32f-4244-9506-77d32fe24421">Paganini: Operette in drei Akten+28.09.1945+Lingen, Heinz</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Paganini: Operette in drei Akten</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Paganini</title>
+            <listObject>
+                <object id="IFT_OBJ_HL000031"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Metropol-Theater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HL000031"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>28.09.1945</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HL000031"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Operetteninszenierung des Metropol-Theaters Berlin</text>
+            <object id="IFT_OBJ_HL000031"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="9de5dc2f-1653-49e8-a5dc-2f165399e8ea">
+            <name>Bangert, Kurt</name>
+            <id type="gnd">1093623438</id>
+            <roleActor>
+                <role>Chorleitung</role>
+            </roleActor>
+        </actor>
+        <actor id="1b084cc2-9ec6-49f1-884c-c29ec6b9f1f6">
+            <name>Mellin, Ellen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9b148ebb-47da-436b-948e-bb47daf36bcb">
+            <name>Ozols, Zenta</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Anitta</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e9d654b6-5ba1-4a76-9654-b65ba1ba76d9">
+            <name>Herz, Egon</name>
+            <id type="gnd">116759097</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="75135c63-450e-4601-935c-63450ea6010b">
+            <name>Kronström, Fred</name>
+            <id type="gnd">1061511375</id>
+            <roleActor>
+                <role type="Rolle">Bartuccio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5a9c8e87-6e3f-4c65-9c8e-876e3f9c6513">
+            <name>Zabekow, Rita</name>
+            <id type="gnd">1061250407</id>
+            <roleActor>
+                <role type="Rolle">Julia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ce550677-d32f-4244-9506-77d32fe24421">
+            <name>Lingen, Heinz</name>
+            <id type="gnd">106194171X</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ac6bec28-e947-4a98-abec-28e947ca982b">
+            <name>Kawan, Herbert</name>
+            <id type="gnd">134719638</id>
+            <roleActor>
+                <role>Dirigent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="86ab65a3-bf4c-4247-ab65-a3bf4c7247c4">
+            <name>Haffner, Erna</name>
+            <id type="gnd">135764904</id>
+            <roleActor>
+                <role type="Rolle">Gräfin de la Place, Hofdame</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="59fa91b4-6d96-4116-ba91-b46d96811642">
+            <name>Frickartz, Emil</name>
+            <id type="gnd">1048651916</id>
+            <roleActor>
+                <role type="Rolle">Nicolo Paganini</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="559a8efe-230c-4e6b-9a8e-fe230cae6b26">
+            <name>Polzin, Lucie</name>
+            <id type="gnd">1061806529</id>
+            <roleActor>
+                <role type="Rolle">Bella Giratti</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="17934ec5-c6db-4df6-934e-c5c6dbbdf6fd">
+            <name>Appelt, Adi</name>
+            <id type="gnd">13511750X</id>
+            <roleActor>
+                <role type="Rolle">Marchese Giacomo Pimpinelli</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9ea2ea7e-4300-4f6f-a2ea-7e43003f6fe8">
+            <name>Lehár, Franz</name>
+            <id type="gnd">118571036</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="958275e6-a24c-4d8a-8275-e6a24c0d8ac5">
+            <name>Ganther, Luitpold</name>
+            <id type="gnd">133318656</id>
+            <roleActor>
+                <role type="Rolle">Nicolo Paganini</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f69dadc3-f6ef-4af3-9dad-c3f6ef1af3c2">
+            <name>Troll, Oda</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Maria Anna-Elisa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="63029302-115e-4182-8293-02115ee182ec">
+            <name>Reval, Else</name>
+            <id type="gnd">1060064413</id>
+            <roleActor>
+                <role type="Rolle">Corallina</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b156e630-4041-40bc-96e6-304041e0bc7d">
+            <name>Orth, Erna</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bella Giratti</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="779853ac-332f-4e39-9853-ac332fce393c">
+            <name>Grünwald, Erna</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Maria Anna-Elisa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b79bcb51-6ed1-424a-9bcb-516ed1b24afd">
+            <name>Knepler, Paul</name>
+            <id type="gnd">129744980</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="2dbfc222-47e8-47cb-bfc2-2247e8e7cb5a">
+            <name>Jenbach, Bela</name>
+            <id type="gnd">128636335</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="49ae8e5d-8244-408d-ae8e-5d8244108d42">
+            <name>Hatala, Gerhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="be242a10-8f0f-4585-a42a-108f0f15855e">
+            <name>Schenk, Otto</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="493c8ab0-d258-4495-bc8a-b0d25864952f">
+            <name>Rosen, Max</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="f33aeb56-1135-4c8d-baeb-5611354c8d2d">
+            <name>Strauß, Eda</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="97cb0f71-676c-44b0-8b0f-71676c54b051">
+            <name>Moll, Willy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fürst Felice Bacciocchi</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9c25f77-68be-4e2e-825f-7768bede2ea5">
+            <name>Geißler, Gottfried</name>
+            <id type="gnd">1062350391</id>
+            <roleActor>
+                <role type="Rolle">Bartuccio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f6a23548-4e05-4e15-a235-484e05ce15e7">
+            <name>Manon, Max</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Graf Hedouville</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d4691e51-0a6e-432d-a91e-510a6e232d26">
+            <name>Ergk, Karl G. v.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Marco</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7947f5bc-2b88-4445-87f5-bc2b88c44558">
+            <name>Lüders, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Philippo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9c107e0c-202a-4aab-907e-0c202a1aab27">
+            <name>Herrmann, Rudolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Emanuele</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2ab623b2-8111-4c61-b623-b281116c61a8">
+            <name>Brunner, Lothar</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Wirt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b0c9ef69-7fe6-4e91-89ef-697fe6be91a2">
+            <name>Becker, Eugen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Foletto</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="88b472b4-be4e-4f76-b472-b4be4eef7629">
+            <name>Mannebach, Hermann</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Tofolo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c238a439-bae4-469c-b8a4-39bae4369c98">
+            <name>Lüdecke, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Beppo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9031356c-4d3e-4b52-b135-6c4d3e7b5235">
+            <name>Metropol-Theater</name>
+            <id type="gnd">2104840-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HL000031" type="Publikation: Programmheft" aat="300027217">
+            <title>Programmheft zu "Paganini" in Berlin 1945</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

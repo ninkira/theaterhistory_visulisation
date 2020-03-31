@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="4ef5b439-1537-4ebd-b5b4-3915370ebde3" type="Performance">
+    <groupingArgument actorID="cce6d6b2-98f0-4d1d-a6d6-b298f0dd1d7b">Lügner und die Nonne, Der+14.05.1939+Kiesau, Georg</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Lügner und die Nonne, Der</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000028"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000028"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>14.05.1939</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000028"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Münchner Kammerspiele, Premiere</text>
+            <object id="IFT_OBJ_HW000028"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="4c69c031-e640-4625-a9c0-31e6405625f4">
+            <name>Goetz, Curt</name>
+            <id type="gnd">118540297</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e0961776-169b-40a6-9617-76169bd0a6e2">
+            <name>Münchner Kammerspiele</name>
+            <id type="gnd">2068173-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4575ce75-53b4-45d9-b5ce-7553b4f5d9e4">
+            <name>Sturm, Eduard</name>
+            <id type="gnd">117363782</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cce6d6b2-98f0-4d1d-a6d6-b298f0dd1d7b">
+            <name>Kiesau, Georg</name>
+            <id type="gnd">116169192</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="2eb3d3a2-2e00-4748-b3d3-a22e002748de">
+            <name>Sellmer, Erna</name>
+            <id type="gnd">17383955X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d77e635d-154b-4bf3-be63-5d154b6bf36a">
+            <name>Wolf, Gusti</name>
+            <id type="gnd">117444472</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3c432611-76ca-44d7-8326-1176ca14d7b3">
+            <name>Ponto, Alexander</name>
+            <id type="gnd">106144810X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000028" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Faltblatt mit diversen Rollenporträts</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

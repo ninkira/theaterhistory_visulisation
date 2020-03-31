@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="94f71e16-ad9b-4d6e-b71e-16ad9bbd6e4e" type="Performance">
+    <groupingArgument actorID="b6470877-be7f-408b-8708-77be7f808b33">Neues vom Tage+08.06.1929+Legal, Ernst</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Neues vom Tage</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Neues vom Tage</title>
+            <listObject>
+                <object id="TWS_OBJ0000627"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Preußische Staatstheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000627"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>08.06.1929</premier>
+            <time from="1929" to="1929">
+                <listObject>
+                    <object id="TWS_OBJ0000627"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="a288af77-a91c-46c6-88af-77a91c06c6f7">
+            <name>Müller, Traugott</name>
+            <id type="gnd">119307251</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="36b0476c-7b42-4098-b047-6c7b42509847">
+            <name>Hindemith, Paul</name>
+            <id type="gnd">118551256</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b6470877-be7f-408b-8708-77be7f808b33">
+            <name>Legal, Ernst</name>
+            <id type="gnd">118727079</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="983e80d8-a87c-4053-be80-d8a87cd053c0">
+            <name>Schiffer, Marcellus</name>
+            <id type="gnd">117232874</id>
+            <roleActor>
+                <role>Librettist_in</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000627" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Traugott Müller</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

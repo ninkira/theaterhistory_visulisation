@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="f2de28ab-4b6f-42ce-9e28-ab4b6fa2cea4" type="Performance">
+    <groupingArgument actorID="">Wo die Liebe hinfällt+02.05.1919+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Wo die Liebe hinfällt</title>
+            <listObject>
+                <object id="IFT_OBJ_EB000038"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Theater des Westens</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_EB000038"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>02.05.1919</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_EB000038"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Theaters des Westens, Premiere von "Wo die Liebe hinfällt", ein Schwank in drei Akten von Eugen Burg und Otto Härting</text>
+            <object id="IFT_OBJ_EB000038"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="78b6b95c-a432-4822-b6b9-5ca43248220a">
+            <name>Burg, Eugen</name>
+            <id type="gnd">117164062</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="abcb8f5d-4fcf-4435-8b8f-5d4fcfc435f0">
+            <name>Härting, Otto</name>
+            <id type="gnd">1062121120</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="21bf6dfa-cc4a-49e1-bf6d-facc4ab9e15a">
+            <name>Theater des Westens</name>
+            <id type="gnd">4285476-3</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_EB000038" type="Autograf: Karte" aat="300026816">
+            <title>Glückwunschkarte zum 60. Geburtstag</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

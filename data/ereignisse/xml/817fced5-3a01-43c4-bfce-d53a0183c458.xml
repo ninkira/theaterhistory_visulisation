@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="817fced5-3a01-43c4-bfce-d53a0183c458" type="Performance">
+    <groupingArgument actorID="4104bf82-7856-4e04-84bf-8278563e04ee">Urfaust+08.05.1918+Zeiss, Karl</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Urfaust</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Urfaust</title>
+            <listObject>
+                <object id="IFT_OBJ_RT000105"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Frankfurt am Main</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_RT000105"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>08.05.1918</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_RT000105"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext>1. Weltkrieg</culturalContext>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Städtischen Bühnen Frankfurt am Main</text>
+            <object id="IFT_OBJ_RT000105"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="92b51436-23e6-4ddc-b514-3623e68ddc2f">
+            <name>Städtische Bühnen Frankfurt am Main</name>
+            <id type="gnd">31331-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="1c03f344-eff3-42b7-83f3-44eff372b7ae">
+            <name>Goethe, Johann Wolfgang von</name>
+            <id type="gnd">118540238</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ceba0e1a-52eb-4b88-ba0e-1a52eb9b88f0">
+            <name>Taube, Robert</name>
+            <id type="gnd">117234435</id>
+            <roleActor>
+                <role type="Rolle">Mephisto</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ebb54f1f-2aac-459d-b54f-1f2aacb59dee">
+            <name>Müller, Gerda</name>
+            <id type="gnd">117242349</id>
+            <roleActor>
+                <role type="Rolle">Margarete</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4104bf82-7856-4e04-84bf-8278563e04ee">
+            <name>Zeiss, Karl</name>
+            <id type="gnd">11697088X</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0f45f395-1790-4d83-85f3-951790bd8331">
+            <name>Ebert, Carl</name>
+            <id type="gnd">118687565</id>
+            <roleActor>
+                <role type="Rolle">Faust</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1b108927-6ec7-4d76-9089-276ec78d7675">
+            <name>Delavilla, Franz Karl</name>
+            <id type="gnd">122515617</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_RT000105" type="Autograf: Brief" aat="300026879">
+            <title>Brief von Pauline Friederich an Robert Taube 1918</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

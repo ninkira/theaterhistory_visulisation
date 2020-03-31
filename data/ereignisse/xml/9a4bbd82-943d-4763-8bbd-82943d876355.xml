@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="9a4bbd82-943d-4763-8bbd-82943d876355" type="Performance">
+    <groupingArgument actorID="65cf183e-db3e-46e9-8f18-3edb3e86e93e">Vasantasena+04.03.1916+Hagemann, Carl</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Vasantasena</title>
+            <listObject>
+                <object id="TWS_OBJ0000681"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Mannheim</placeName>
+            <place type="Institution">
+                <placeName>Hoftheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000681"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>04.03.1916</premier>
+            <time from="04.03.1916" to="1916">
+                <listObject>
+                    <object id="TWS_OBJ0000681"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="1afde481-3942-48d0-bde4-81394268d0fb">
+            <name>Sievert, Ludwig</name>
+            <id type="gnd">118765310</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="53104697-ffbb-4a3e-9046-97ffbb7a3e0c">
+            <name>Feuchtwanger, Lion</name>
+            <id type="gnd">118532715</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="65cf183e-db3e-46e9-8f18-3edb3e86e93e">
+            <name>Hagemann, Carl</name>
+            <id type="gnd">119368277</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000681" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Ludwig Sievert</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

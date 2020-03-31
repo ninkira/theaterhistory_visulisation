@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="9c9fd512-1513-430f-9fd5-121513530f8e" type="Performance">
+    <groupingArgument actorID="b5f2292c-0a7a-4004-b229-2c0a7a60047e">Robert und Bertram oder Die lustigen Vagabonden+05.05.1925+Licho, Adolf Edgar</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Robert und Bertram oder Die lustigen Vagabonden</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000031"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Komödie</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000031"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>05.05.1925</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000031"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Komödie, Berlin, Premiere</text>
+            <object id="IFT_OBJ_HW000031"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="34a6bf36-50f0-4eb1-a6bf-3650f06eb161">
+            <name>Raeder, Gustav</name>
+            <id type="gnd">116323604</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ffccc720-7069-4100-8cc7-207069b1005c">
+            <name>Komödie am Kurfürstendamm</name>
+            <id type="gnd">7562914-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5f2292c-0a7a-4004-b229-2c0a7a60047e">
+            <name>Licho, Adolf Edgar</name>
+            <id type="gnd">116980621</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="7f380a4d-f93f-4da0-b80a-4df93fada0ce">
+            <name>Krehan, Hermann</name>
+            <id type="gnd">126527059</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5d04f32c-7909-4394-84f3-2c79090394eb">
+            <name>Graetz, Paul</name>
+            <id type="gnd">11681375X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d37ee122-d523-4e77-bee1-22d5231e77fc">
+            <name>Wassmann, Hans</name>
+            <id type="gnd">117149853</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5b4ee0bf-eff5-460e-8ee0-bfeff5960e68">
+            <name>Brandt, Walter</name>
+            <id type="gnd">1019731990</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bb96cc9c-b680-46a9-96cc-9cb68026a9a3">
+            <name>Kampers, Fritz</name>
+            <id type="gnd">120558424</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eb3d14b4-e8e4-42e1-bd14-b4e8e4e2e1ba">
+            <name>Flohr, Lilly</name>
+            <id type="gnd">1062232801</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5e7e65ec-bd1e-458a-be65-ecbd1ea58ac6">
+            <name>Morgan, Paul</name>
+            <id type="gnd">119368110</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6524de5f-a59d-4a8e-a4de-5fa59d5a8ef9">
+            <name>Rodenberg, Sylvia von</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a10e40aa-15bb-45ce-8e40-aa15bb05cef4">
+            <name>Berisch, Siegfried</name>
+            <id type="gnd">1062451538</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8310c11b-d38a-4d03-90c1-1bd38add038e">
+            <name>Stollhoff, Erich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a5365d25-337d-4b08-b65d-25337deb08ba">
+            <name>Wenzel, Kurt</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="05304139-dc1d-4437-b041-39dc1dd43794">
+            <name>Mann, Erika</name>
+            <id type="gnd">118747436</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="25bb31c6-b39f-4157-bb31-c6b39f5157ca">
+            <name>Fürst, Manfred</name>
+            <id type="gnd">116846364</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9fefe7d1-a148-495c-afe7-d1a148695c00">
+            <name>Hellmert, Wolfgang</name>
+            <id type="gnd">124231284</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="6eea815e-cab3-43be-aa81-5ecab3a3be1c">
+            <name>Rasp, Fritz</name>
+            <id type="gnd">116335874</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="88e9b04f-baba-4fd5-a9b0-4fbaba1fd5b8">
+            <name>Schuster, Hugo</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="58bc6a94-9326-43f4-bc6a-949326b3f4fb">
+            <name>Pledath, Werner</name>
+            <id type="gnd">1062185013</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1995c7cb-7917-4747-95c7-cb7917c747af">
+            <name>Weisz, Gézá</name>
+            <id type="gnd">117303100</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="34b121e6-8f21-40f9-b121-e68f2170f9ea">
+            <name>Müller, Renate</name>
+            <id type="gnd">117608335</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5e3fa547-ecfa-4333-bfa5-47ecfa73338e">
+            <name>Schwind, Wolfgang von</name>
+            <id type="gnd">133661385</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d6bc51f4-b76c-4827-bc51-f4b76c482793">
+            <name>Ottenwalter, Emil</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3176dcd4-a9d2-4eac-b6dc-d4a9d2eeacc3">
+            <name>Bienert, Gerhard</name>
+            <id type="gnd">118864696</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000031" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Sonderabdruck aus der Zeitschrift "Das Neue Blatt"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a55a1bd3-2f9b-4323-9a1b-d32f9b332323" type="Performance">
+    <groupingArgument actorID="e7156020-124d-40aa-9560-20124d50aa6b">Flitterwochen+23.09.1938+Völger, Werner</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Flitterwochen</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000036"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000036"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>23.09.1938</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000036"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theateraufführung der Münchner Kammerspiele, Premiere</text>
+            <object id="IFT_OBJ_HW000036"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="02752aaa-3c66-4be7-b52a-aa3c66ebe7ab">
+            <name>Helwig, Paul</name>
+            <id type="gnd">116693223</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e0961776-169b-40a6-9617-76169bd0a6e2">
+            <name>Münchner Kammerspiele</name>
+            <id type="gnd">2068173-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="e7156020-124d-40aa-9560-20124d50aa6b">
+            <name>Völger, Werner</name>
+            <id type="gnd">1062482271</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4575ce75-53b4-45d9-b5ce-7553b4f5d9e4">
+            <name>Sturm, Eduard</name>
+            <id type="gnd">117363782</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="efc8e6ca-520e-4ad8-88e6-ca520edad8cb">
+            <name>Rothe, Annemarie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c3299f7c-59e7-434f-a99f-7c59e7134f0f">
+            <name>Denk, Paula</name>
+            <id type="gnd">1061411109</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da33daee-d551-4c1c-b3da-eed551ec1c2c">
+            <name>Thormann, Gundel</name>
+            <id type="gnd">106132771X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="33eb70e4-5b58-4192-ab70-e45b58c192fa">
+            <name>Nigg, Josef</name>
+            <id type="gnd">1062159918</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3c432611-76ca-44d7-8326-1176ca14d7b3">
+            <name>Ponto, Alexander</name>
+            <id type="gnd">106144810X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000036" type="Fotografie: Album" aat="300026695">
+            <title>Fotoalbum Hedwig Wangel</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

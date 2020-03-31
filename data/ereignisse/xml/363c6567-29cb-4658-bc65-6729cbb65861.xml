@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="363c6567-29cb-4658-bc65-6729cbb65861" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">Sache, die sich Liebe nennt, Die+22.12.1931+Ambach, Josef</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Sache, die sich Liebe nennt, Die</title>
+            <listObject>
+                <object id="IFT_KON_JA000013"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Mährisch-Ostrau</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="IFT_KON_JA000013"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>22.12.1931</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_KON_JA000013"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Deutschen Theaters Mährisch-Ostrau, Premiere</text>
+            <object id="IFT_KON_JA000013"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="86895391-7044-48d9-8953-91704478d945">
+            <name>Burke, Edwin J.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="52f8c3ba-01f6-4b21-b8c3-ba01f68b2166">
+            <name>Chitz, Lothar</name>
+            <id type="gnd">117221929</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="85264f1b-09c7-479e-a64f-1b09c7e79e98">
+            <name>Deutsches Theater (Mährisch-Ostrau)</name>
+            <id type="gnd">122890-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="f38b5110-7775-400a-8b51-107775900acc">
+            <name>Dättel, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d934fc6-d298-4267-934f-c6d29802673d">
+            <name>Eilers, Ina</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e575e97f-b4c7-4139-b5e9-7fb4c7213998">
+            <name>Felden, Richard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="58d6365f-ec55-420f-9636-5fec55020f44">
+            <name>Lauterbach, Frauke</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b2d0bd11-100a-44f1-90bd-11100ad4f184">
+            <name>Lerbs, Karl</name>
+            <id type="gnd">116946245</id>
+            <roleActor>
+                <role>Übersetzer_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b2141b43-4ae7-4f0e-941b-434ae7df0e67">
+            <name>Paust, Elfriede</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="abbd54ba-3d87-4be0-bd54-ba3d87dbe07b">
+            <name>Sekler, Maurycius</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38d37af7-f780-4bfc-937a-f7f780fbfcd5">
+            <name>Sommer, Eva</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="96b7d529-e7c4-4e8c-b7d5-29e7c42e8c08">
+            <name>Stoss, Franz</name>
+            <id type="gnd">117304794</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_KON_JA000013" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritikenkonvolut Deutsches Theater Mährisch-Ostrau</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="6cbd800d-a717-4d27-bd80-0da7170d271e" type="Performance">
+    <groupingArgument actorID="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">Turandot, Prinzessin von China+09.05.1948+Müthel, Lothar</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Turandot, Prinzessin von China</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Turandot, Prinzessin von China</title>
+            <listObject>
+                <object id="IFT_OBJ_LM000013"/>
+                <object id="IFT_OBJ_LM000004"/>
+                <object id="IFT_KON_LM000013"/>
+                <object id="IFT_KON_LM000001"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Weimar</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Nationaltheater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LM000013"/>
+                    <object id="IFT_OBJ_LM000004"/>
+                    <object id="IFT_KON_LM000013"/>
+                    <object id="IFT_KON_LM000001"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>09.05.1948</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_LM000013"/>
+                    <object id="IFT_OBJ_LM000004"/>
+                    <object id="IFT_KON_LM000013"/>
+                    <object id="IFT_KON_LM000001"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des DNT Weimar</text>
+            <object id="IFT_OBJ_LM000013"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="c6edada1-a0b6-4a24-adad-a1a0b67a2458">
+            <name>Becker, Gerhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Barak</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="34e16158-75b1-4610-a161-5875b17610dd">
+            <name>Bunzl, Tilla</name>
+            <id type="gnd">126243328</id>
+            <roleActor>
+                <role>Regieassistent_in</role>
+                <role>Regieassistenz</role>
+            </roleActor>
+        </actor>
+        <actor id="82451bb0-1c3e-45a3-851b-b01c3e85a34b">
+            <name>Christiansen, Rolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="21a951eb-eb4a-405b-a951-ebeb4ac05b35">
+            <name>Diefenbach, Waldemar</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="a89b73c1-b4fe-4ba3-9b73-c1b4fe4ba3fd">
+            <name>Eichhorn, Gregor</name>
+            <id type="gnd">134365909</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="806948a8-63b3-4d41-a948-a863b3ed41a4">
+            <name>Grundmann, Helene</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Skirina</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d4d3ebc4-3e13-4a5f-93eb-c43e136a5fae">
+            <name>Holtz, Wilhelm Hinrich</name>
+            <id type="gnd">1061904598</id>
+            <roleActor>
+                <role type="Rolle">Truffaldin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9b2c61b4-79d3-4ecd-ac61-b479d33ecdb8">
+            <name>Jupé, Walter</name>
+            <id type="gnd">1061580938</id>
+            <roleActor>
+                <role type="Rolle">Altoum</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="06921297-8667-49f1-9212-97866789f11f">
+            <name>Koch, Horst</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Timur</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="af50d388-e937-438f-90d3-88e937938f09">
+            <name>Kötteritzsch, Fred</name>
+            <id type="gnd">106164166X</id>
+            <roleActor>
+                <role type="Rolle">Ismael</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bcbf5561-e069-4a32-bf55-61e0690a32dd">
+            <name>Kühne, Maria</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zelima</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b1140ba7-d5b8-4d11-940b-a7d5b8ad113d">
+            <name>Lehmann, Christa</name>
+            <id type="gnd">1104951045</id>
+            <roleActor>
+                <role type="Rolle">Turandot</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3ed72d6e-fb2e-4ecd-972d-6efb2edecdaf">
+            <name>Metzner, Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Henker</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Inspizient</role>
+            </roleActor>
+        </actor>
+        <actor id="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">
+            <name>Müthel, Lothar</name>
+            <id type="gnd">119049309</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e472e6b9-1efd-459a-b2e6-b91efd059a95">
+            <name>Preußler, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Maskenbildner_in</role>
+            </roleActor>
+        </actor>
+        <actor id="27e3676e-d0d1-422c-a367-6ed0d1222cad">
+            <name>Reichmann, Willy</name>
+            <id type="gnd">1062056558</id>
+            <roleActor>
+                <role type="Rolle">Kalaf</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fd137403-bd05-4c08-9374-03bd059c0833">
+            <name>Schacht, Renate</name>
+            <id type="gnd">1062364031</id>
+            <roleActor>
+                <role type="Rolle">Adelma</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="76306200-f74e-4a3e-b062-00f74e1a3e31">
+            <name>Schiller, Friedrich von</name>
+            <id type="gnd">118607626</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="9aef04e1-43de-4db8-af04-e143debdb824">
+            <name>Schlick, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Pantalon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3daa35c2-2563-4a3a-aa35-c225639a3abe">
+            <name>Scholz, Heinz</name>
+            <id type="gnd">1151890472</id>
+            <roleActor>
+                <role type="Rolle">Brigella</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e1cc5322-69e8-49c6-8c53-2269e879c6e2">
+            <name>Schröder, Max</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+                <role>Beleuchter_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8c35a86e-49ae-4c3b-b5a8-6e49aefc3b1f">
+            <name>Strunz, Anton</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Tartaglia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57902d91-12fd-464f-902d-9112fdd64f2a">
+            <name>Ulbrich, Werner</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zeremonienmeister</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="66cdd552-04a9-45ee-8dd5-5204a905ee23">
+            <name>Deutsches Nationaltheater Weimar</name>
+            <id type="gnd">117758-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="afb92666-5fb4-4eca-b926-665fb4fecaac">
+            <name>Hennerberg, Gerd-Michael</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Tartaglia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5f11e357-2aa4-4b87-91e3-572aa40b878b">
+            <name>Lanius, Erika</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Souffleur_in</role>
+            </roleActor>
+        </actor>
+        <actor id="4ab047df-b4c4-4674-b047-dfb4c4c6749e">
+            <name>Müller, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient</role>
+            </roleActor>
+        </actor>
+        <actor id="90aa33b0-41f5-43bc-aa33-b041f5d3bcd0">
+            <name>Sand, Hugo</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenmaler_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b51ff3ce-9629-4c07-9ff3-ce96296c07b9">
+            <name>Zopp, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Schneider_in</role>
+            </roleActor>
+        </actor>
+        <actor id="0c71d2d8-10cb-4f7b-b1d2-d810cb6f7b37">
+            <name>Schiller, Friedrich</name>
+            <id type="gnd">118607626</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b5990e4a-1492-4b83-990e-4a14925b8326">
+            <name>Gozzi, Carlo</name>
+            <id type="gnd">118696823</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="4">
+        <object id="IFT_OBJ_LM000013" type="Publikation: Programmheft" aat="300027217">
+            <title>Programmheft zu "Turandot, Prinzessin von China" in Weimar 1948</title>
+        </object>
+        <object id="IFT_OBJ_LM000004" type="Publikation: Buch" aat="300028051">
+            <title>Regiebuch zu "Turandot, Prinzessin von China" in Weimar 1948</title>
+        </object>
+        <object id="IFT_KON_LM000013" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Konvolut Szenenfotografien zu "Turandot, Prinzessin von China" in Weimar 1948</title>
+        </object>
+        <object id="IFT_KON_LM000001" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritikenkonvolut zu "Turandot, Prinzessin von China" in Weimar 1948</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

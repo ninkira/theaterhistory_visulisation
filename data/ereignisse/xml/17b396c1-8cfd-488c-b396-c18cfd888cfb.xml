@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="17b396c1-8cfd-488c-b396-c18cfd888cfb" type="Performance">
+    <groupingArgument actorID="7e1f2012-f8de-49cc-9f20-12f8de19cc82">Rasputin, die Romanows, der Krieg und das Volk, das gegen sie aufstand++Piscator, Erwin</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Rasputin, die Romanows, der Krieg und das Volk, das gegen sie aufstand</title>
+            <listObject>
+                <object id="IFT_OBJ_JR000006"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Piscator-Bühne</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JR000006"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="12.11.1927" to="20.01.1928">
+                <listObject>
+                    <object id="IFT_OBJ_JR000006"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Einheitssachtitel: Rasputin od. die Verschwörung der Zarin : ein Stück Weltgeschichte in 5 Aufz. u. 1 Vorsp.</text>
+            <object id="IFT_OBJ_JR000006"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="36bb4efc-d2fc-4ce3-bb4e-fcd2fc4ce3fd">
+            <name>Tolstoj, Aleksej N.</name>
+            <id type="gnd">118642901</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e7489daf-e9d1-4887-889d-afe9d1c8874d">
+            <name>Ščëgolev, Pavel Eliseevič</name>
+            <id type="gnd">119396688</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="95960a72-dfc1-44bd-960a-72dfc174bdcc">
+            <name>Rosenberg, Käthe</name>
+            <id type="gnd">116622288</id>
+            <roleActor>
+                <role>Übersetzerin des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="7e1f2012-f8de-49cc-9f20-12f8de19cc82">
+            <name>Piscator, Erwin</name>
+            <id type="gnd">118594648</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="a288af77-a91c-46c6-88af-77a91c06c6f7">
+            <name>Müller, Traugott</name>
+            <id type="gnd">119307251</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="156bc00b-11db-4c56-abc0-0b11dbcc561f">
+            <name>Meisel, Edmund</name>
+            <id type="gnd">119077876</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="f10396aa-37db-49f0-8396-aa37dba9f019">
+            <name>Hübler-Kahla, Johann Alexander</name>
+            <id type="gnd">1020719354</id>
+            <roleActor>
+                <role>Filmregisseur</role>
+            </roleActor>
+        </actor>
+        <actor id="5ed9ca6c-bde2-4084-99ca-6cbde2808409">
+            <name>Lichtenstein, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="48bfcde8-6691-4109-bfcd-e86691b109d3">
+            <name>Kalser, Erwin</name>
+            <id type="gnd">116035064</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="efd38bbd-65ca-4e90-938b-bd65cabe90d1">
+            <name>Binder, Sybille</name>
+            <id type="gnd">141405449</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cbc6029d-f567-4deb-8602-9df5679deb2b">
+            <name>Wegener, Paul</name>
+            <id type="gnd">118765981</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e511aa11-57b5-4366-91aa-1157b5536633">
+            <name>Lindtberg, Leopold</name>
+            <id type="gnd">118728415</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7fcae8e1-9ff6-4d18-8ae8-e19ff65d18e6">
+            <name>Hollmann, Werner</name>
+            <id type="gnd">1067754091</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b2bffe38-3d5f-47cf-bffe-383d5f47cfb1">
+            <name>Edthofer, Anton</name>
+            <id type="gnd">13014407X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="50d7258a-d6a3-4a44-9725-8ad6a3fa444b">
+            <name>Eisenberg, Bertl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b444f1bc-e403-4fcd-84f1-bce403bfcd68">
+            <name>Frank, Ellen</name>
+            <id type="gnd">1019841192</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="25724cad-b08d-4cbf-b24c-adb08dbcbf2e">
+            <name>Genschow, Fritz</name>
+            <id type="gnd">130883360</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b02dcb86-7172-4ae9-adcb-8671727ae99a">
+            <name>Huch, William</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ffafb1ec-ec3b-462e-afb1-ecec3bc62edb">
+            <name>Venohr, Albert</name>
+            <id type="gnd">117370371</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fab30f04-be33-4a86-b30f-04be337a8621">
+            <name>Loebinger, Lotte</name>
+            <id type="gnd">1026793408</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="82445e35-b885-4acf-845e-35b885dacf00">
+            <name>Busch, Ernst</name>
+            <id type="gnd">118517864</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7e09fcc8-c763-42c1-89fc-c8c76312c17b">
+            <name>Sima, Oskar</name>
+            <id type="gnd">130872091</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="553d9a8b-17aa-4153-bd9a-8b17aa7153cc">
+            <name>Herm, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38193060-80f6-4a33-9930-6080f64a33c5">
+            <name>Wittmann, Max</name>
+            <id type="gnd">117427713</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b7ae84f2-1f6e-4d16-ae84-f21f6e1d164a">
+            <name>Granach, Alexander</name>
+            <id type="gnd">11854148X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b1b8129e-218b-4a1d-b812-9e218bda1d39">
+            <name>Kepich, Werner</name>
+            <id type="gnd">1062325702</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="55c4508f-8912-4ce2-8450-8f8912ace228">
+            <name>Roth, Ludwig</name>
+            <id type="gnd">1167799895</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3176dcd4-a9d2-4eac-b6dc-d4a9d2eeacc3">
+            <name>Bienert, Gerhard</name>
+            <id type="gnd">118864696</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="520021e4-5b6a-4f21-8021-e45b6a8f2183">
+            <name>Schreck, Max</name>
+            <id type="gnd">12461874X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b671c9d8-28c6-4d7f-b1c9-d828c69d7f56">
+            <name>Angold, Edith</name>
+            <id type="gnd">1047930390</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8310c11b-d38a-4d03-90c1-1bd38add038e">
+            <name>Stollhoff, Erich</name>
+            <id type="gnd">1060988747</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="be5f113d-b698-4db9-9f11-3db6985db987">
+            <name>Hannemann, Karl</name>
+            <id type="gnd">1035256231</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5af09fd0-41b7-4a4b-b09f-d041b79a4b1d">
+            <name>Garisson, Robert</name>
+            <id type="gnd">116441119</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8c26d4f7-232a-4644-a6d4-f7232ae6444a">
+            <name>Weisse, Kurt</name>
+            <id type="gnd">1062211847</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="221b13ba-acfd-45e8-9b13-baacfd65e8f5">
+            <name>Danegger, Josef</name>
+            <id type="gnd">1059141582</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5ea96e08-6769-4bc8-a96e-086769dbc887">
+            <name>Duschinsky, Richard</name>
+            <id type="gnd">116257067</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3fee64b2-941d-4bb7-ae64-b2941dcbb776">
+            <name>Peters, Erich Oswald</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9986eab0-35a4-4fb4-86ea-b035a4ffb44a">
+            <name>Schöps, Jakob</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="02fbcbc8-f73f-4aff-bbcb-c8f73f4aff4e">
+            <name>Richter, Julius</name>
+            <id type="gnd">116512415</id>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_JR000006" type="Autograf: Manuskript" aat="300028569">
+            <title>"Abschnitt 5" der Autobiografie von Julius Richter</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Aufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>Konjunktur</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Berlin</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Piscator-Bühne</placeName>
+                </place>
+                <listObject>
+                    <object id="IFT_OBJ_JR000006"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <time from="08.04.1928" to="03.05.1928">
+                        <listObject>
+                            <object id=""/>
+                        </listObject>
+                    </time>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList>
+                <actor id="0e511708-5b33-4467-9117-085b33346779">
+                    <name>Lania, Leo</name>
+                    <id type="gnd">11672949X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="7e1f2012-f8de-49cc-9f20-12f8de19cc82">
+                    <name>Piscator, Erwin</name>
+                    <id type="gnd">118594648</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Regisseur_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="a288af77-a91c-46c6-88af-77a91c06c6f7">
+                    <name>Müller, Traugott</name>
+                    <id type="gnd">119307251</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Bühnenbildner_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="224bd547-dbb9-42a2-8bd5-47dbb9c2a244">
+                    <name>Weill, Kurt</name>
+                    <id type="gnd">118630202</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Komponist_in der Bühnenmusik</role>
+                    </roleActor>
+                </actor>
+                <actor id="f213447f-dfdf-40e3-9344-7fdfdf30e349">
+                    <name>Noldan, Svend</name>
+                    <id type="gnd">118827588</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Filmregisseur</role>
+                    </roleActor>
+                </actor>
+                <actor id="47e9ce3f-0be1-48d6-a9ce-3f0be1f8d68c">
+                    <name>Gasbarra, Felix</name>
+                    <id type="gnd">116442158</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Librettist</role>
+                    </roleActor>
+                </actor>
+                <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+                    <name>Durieux, Tilla</name>
+                    <id type="gnd">118528262</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="1883b148-0082-4393-83b1-48008223937a">
+                    <name>Bahn, Roma</name>
+                    <id type="gnd">116039582</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="56d333a0-d92c-4a78-9333-a0d92cca78cd">
+                    <name>Stobrawa, Renée</name>
+                    <id type="gnd">11726069X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="a0557107-297b-4e5f-9571-07297bde5fe7">
+                    <name>Danegger, Joseph</name>
+                    <id type="gnd">1059141582</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="48bfcde8-6691-4109-bfcd-e86691b109d3">
+                    <name>Kalser, Erwin</name>
+                    <id type="gnd">116035064</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="9e0f9732-6ad1-46d8-8f97-326ad176d808">
+                    <name>Steckel, Leonard</name>
+                    <id type="gnd">117224685</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="f8329030-d519-49b5-b290-30d51909b52f">
+                    <name>Rappard, Gillis von</name>
+                    <id type="gnd">1061423468</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="dd829f2b-4873-4973-829f-2b487379733b">
+                    <name>Bois, Curt</name>
+                    <id type="gnd">118512994</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="b7ae84f2-1f6e-4d16-ae84-f21f6e1d164a">
+                    <name>Granach, Alexander</name>
+                    <id type="gnd">11854148X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="657cdf70-da70-44b3-bcdf-70da7024b39f">
+                    <name>Fröhlich, Imre</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="069e44a4-41ff-476f-9e44-a441fff76fe3">
+                    <name>Lovric, Nicolaus von</name>
+                    <id type="gnd">1067463208</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="7fcae8e1-9ff6-4d18-8ae8-e19ff65d18e6">
+                    <name>Hollmann, Werner</name>
+                    <id type="gnd">1067754091</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="ffafb1ec-ec3b-462e-afb1-ecec3bc62edb">
+                    <name>Venohr, Albert</name>
+                    <id type="gnd">117370371</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="6c672002-39e0-4bf7-a720-0239e08bf7cb">
+                    <name>Katsch, Kurt</name>
+                    <id type="gnd">136871186</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="b1b8129e-218b-4a1d-b812-9e218bda1d39">
+                    <name>Kepich, Werner</name>
+                    <id type="gnd">1062325702</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="d9cf5550-56d9-4cda-8f55-5056d97cdab1">
+                    <name>Weisz, Geza L.</name>
+                    <id type="gnd">117303100</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="3650fa3a-6eff-401d-90fa-3a6eff101d24">
+                    <name>Pohl, Klaus</name>
+                    <id type="gnd">1025268636</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="3176dcd4-a9d2-4eac-b6dc-d4a9d2eeacc3">
+                    <name>Bienert, Gerhard</name>
+                    <id type="gnd">118864696</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="5aed1d12-3edd-41c4-ad1d-123eddd1c4c0">
+                    <name>Fischer, Adolf</name>
+                    <id type="gnd">1139663569</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="2c8ff381-0c2b-4e96-8ff3-810c2b3e96aa">
+                    <name>Unruh, Julius</name>
+                    <id type="gnd">106223412X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="9986eab0-35a4-4fb4-86ea-b035a4ffb44a">
+                    <name>Schöps, Jakob</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="52637f44-ba4f-4723-a37f-44ba4f072377">
+                    <name>Kostendi, Joseph</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="e657b699-4e33-472c-97b6-994e33472c5d">
+                    <name>Schäfer, Willi</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="9e5b822e-ea02-4e47-9b82-2eea022e4777">
+                    <name>Günther, Paul</name>
+                    <id type="gnd">1067512799</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="02fbcbc8-f73f-4aff-bbcb-c8f73f4aff4e">
+                    <name>Richter, Julius</name>
+                    <id type="gnd">116512415</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Technische Leitung</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+        <event type="Aufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>Die Abenteuer des braven Soldaten Schwejk</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Berlin</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Piscator-Bühne</placeName>
+                </place>
+                <listObject>
+                    <object id="IFT_OBJ_JR000006"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <time from="23.01.1928" to="12.04.1928">
+                        <listObject>
+                            <object id=""/>
+                        </listObject>
+                    </time>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description>
+                    <beschreibung>
+                        <text>Einheitssachtitiel: Osudy dobrého vojáka Švejka za světové valky</text>
+                        <object>IFT_OBJ_JR000006</object>
+                    </beschreibung>
+                </description>
+            </descriptionList>
+            <actorList>
+                <actor id="af088b35-985a-4fdf-888b-35985affdf5b">
+                    <name>Hašek, Jaroslav</name>
+                    <id type="gnd">118546554</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="b3c6b489-ee05-472c-86b4-89ee05472c26">
+                    <name>Brod, Max</name>
+                    <id type="gnd">118515624</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Bearbeiter des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="e5655039-9a31-44ba-a550-399a3164bace">
+                    <name>Reimann, Hans</name>
+                    <id type="gnd">118744089</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Bearbeiter des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="7e1f2012-f8de-49cc-9f20-12f8de19cc82">
+                    <name>Piscator, Erwin</name>
+                    <id type="gnd">118594648</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Regisseur_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="566fb7d5-8ff0-4691-afb7-d58ff0169137">
+                    <name>Grosz, George</name>
+                    <id type="gnd">118542672</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Bühnenbildner_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="156bc00b-11db-4c56-abc0-0b11dbcc561f">
+                    <name>Meisel, Edmund</name>
+                    <id type="gnd">119077876</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Komponist_in der Bühnenmusik</role>
+                    </roleActor>
+                </actor>
+                <actor id="f10396aa-37db-49f0-8396-aa37dba9f019">
+                    <name>Hübler-Kahla, Johann Alexander</name>
+                    <id type="gnd">1020719354</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Fimregisseur</role>
+                    </roleActor>
+                </actor>
+                <actor id="02fbcbc8-f73f-4aff-bbcb-c8f73f4aff4e">
+                    <name>Richter, Julius</name>
+                    <id type="gnd">116512415</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Technische Leitung</role>
+                    </roleActor>
+                </actor>
+                <actor id="d987fd2d-5c32-4762-87fd-2d5c320762a1">
+                    <name>Pallenberg, Max</name>
+                    <id type="gnd">11859138X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="e8d8b8bc-1788-4228-98b8-bc1788822805">
+                    <name>Neumann-Viertel, Elisabeth</name>
+                    <id type="gnd">119157160</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="90270134-c7ef-45da-a701-34c7ef15da23">
+                    <name>Szakall, Szöke</name>
+                    <id type="gnd">117391379</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="fe5db666-10c0-49f5-9db6-6610c0a9f597">
+                    <name>Pröckl, Ernst Johann</name>
+                    <id type="gnd">116292148</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="221b13ba-acfd-45e8-9b13-baacfd65e8f5">
+                    <name>Danegger, Josef</name>
+                    <id type="gnd">1059141582</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="a7b0e898-e749-46d0-b0e8-98e74996d0d9">
+                    <name>Pollandt, Franz</name>
+                    <id type="gnd">106154348X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="d9cf5550-56d9-4cda-8f55-5056d97cdab1">
+                    <name>Weisz, Geza L.</name>
+                    <id type="gnd">117303100</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="7f46d52e-b761-4a48-86d5-2eb761ba4852">
+                    <name>Wallburg, Ernst Egon</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="38193060-80f6-4a33-9930-6080f64a33c5">
+                    <name>Wittmann, Max</name>
+                    <id type="gnd">117427713</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="8c26d4f7-232a-4644-a6d4-f7232ae6444a">
+                    <name>Weisse, Kurt</name>
+                    <id type="gnd">1062211847</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="520021e4-5b6a-4f21-8021-e45b6a8f2183">
+                    <name>Schreck, Max</name>
+                    <id type="gnd">12461874X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="3164b459-c80f-4f64-a4b4-59c80f8f644f">
+                    <name>Werner-Kahle, Hugo</name>
+                    <id type="gnd">116024925</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="1a04646d-8202-4e33-8464-6d82029e3368">
+                    <name>Mylong-Münz, Jack</name>
+                    <id type="gnd">1021053074</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="7e09fcc8-c763-42c1-89fc-c8c76312c17b">
+                    <name>Sima, Oskar</name>
+                    <id type="gnd">130872091</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="361d947e-5095-44d3-9d94-7e5095e4d35a">
+                    <name>Wendt, Emmy</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="9986eab0-35a4-4fb4-86ea-b035a4ffb44a">
+                    <name>Schöps, Jakob</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="b6fdfaee-5519-476c-bdfa-ee5519576c17">
+                    <name>Stippinger, Hans</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="92a720f1-934f-4ff2-a720-f1934ffff2f9">
+                    <name>Horn, Fritz</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="3583a8ea-9adb-4e48-83a8-ea9adb7e4855">
+                    <name>Woiwode, Lina</name>
+                    <id type="gnd">117458139</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="a7b0e898-e749-46d0-b0e8-98e74996d0d9">
+                    <name>Pollandt, Franz</name>
+                    <id type="gnd">106154348X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="8a391824-b4bd-427b-b918-24b4bd227b52">
+                    <name>Kostendi, Josef</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="3ae2f602-00e3-42b8-a2f6-0200e3e2b858">
+                    <name>Fürth, Jaro</name>
+                    <id type="gnd">1019732121</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

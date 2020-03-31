@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="8461255b-6bea-4b6d-a125-5b6beafb6d9c" type="Performance">
+    <groupingArgument actorID="">Hamlet++</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Hamlet</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title/>
+            <listObject>
+                <object id="TWS_OBJ0000617"/>
+            </listObject>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Hamlet</title>
+            <listObject>
+                <object id="TWS_OBJ0000624"/>
+                <object id="TWS_OBJ0000669"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName/>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000617"/>
+                </listObject>
+            </place>
+        </place>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000624"/>
+                </listObject>
+            </place>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000669"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1909" to="1913">
+                <listObject>
+                    <object id="TWS_OBJ0000617"/>
+                </listObject>
+            </time>
+            <time from="1906" to="1906">
+                <listObject>
+                    <object id="TWS_OBJ0000624"/>
+                </listObject>
+            </time>
+            <time from="1914" to="1917">
+                <listObject>
+                    <object id="TWS_OBJ0000669"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="a288af77-a91c-46c6-88af-77a91c06c6f7">
+            <name>Müller, Traugott</name>
+            <id type="gnd">119307251</id>
+            <roleActor>
+                <role type="Rolle">Hamlet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="31c68fce-8887-44e7-868f-ce888704e756">
+            <name>Behrens, Peter</name>
+            <id type="gnd">118508466</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e2bfd1b6-52c4-4395-bfd1-b652c46395a1">
+            <name>Schauspielhaus Düsseldorf</name>
+            <id type="gnd">2009323-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="3">
+        <object id="TWS_OBJ0000617" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Postkarte mit Fotografie und Autogramm, Traugott Müller als Hamlet, 26.01.1911</title>
+        </object>
+        <object id="TWS_OBJ0000624" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Fotografie Bühnenbildmodell von Peter Behrens zu Hamlet 1906</title>
+        </object>
+        <object id="TWS_OBJ0000669" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Knut Ström zu Hamlet in Düsseldorf 1914/17</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="fdc0682c-4cc6-4281-8068-2c4cc672815d" type="Performance">
+    <groupingArgument actorID="">List und Phlegma+08.11.1899+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>List und Phlegma</title>
+            <listObject>
+                <object id="TWS_OBJ0000146"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>concession, Theater-Vorbereitungsschule</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000146"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>08.11.1899</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000146"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>5. Vorstellung des Zweiten Eleven-Abends
+Burian als Herr v. Ruhleben, reicher Hausbesitzer
+Chmella als Baron Palm
+Seldorf als Adolphine
+Trauner als Louise</text>
+            <object id="TWS_OBJ0000146"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="1e6dddbe-b6da-4b6b-addd-beb6daab6b5a">
+            <name>Angely, Louis</name>
+            <id type="gnd">116311118</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e129ed2c-e86a-4e53-a9ed-2ce86a7e53ca">
+            <name>Arnau, Carl</name>
+            <id type="gnd">116341831</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="6f469a1c-f349-42f1-869a-1cf349f2f19a">
+            <name>Burian</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9c6ae298-cee8-48d1-aae2-98cee818d1ae">
+            <name>Chmella</name>
+            <id type="gnd">undefined</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0e3c6cac-d671-4ade-bc6c-acd671bade44">
+            <name>Seldorf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b77680d5-fb53-4b9e-b680-d5fb53db9e0b">
+            <name>Trauner</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000146" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Zweite Eleven-Vorstellung" in Wien 1899</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

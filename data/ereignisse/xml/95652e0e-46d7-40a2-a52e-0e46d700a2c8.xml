@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="95652e0e-46d7-40a2-a52e-0e46d700a2c8" type="Performance">
+    <groupingArgument actorID="b393ce05-c7ef-4c46-93ce-05c7ef6c46db">Romeo and Juliet++Fischer, G. von</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Romeo and Juliet</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Romeo und Julia</title>
+            <listObject>
+                <object id="TWS_OBJ0000524"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Breslau</placeName>
+            <place type="Institution">
+                <placeName>Breslauer Stadttheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000524"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="17.01.1885" to="17.01.1885">
+                <listObject>
+                    <object id="TWS_OBJ0000524"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="f9e27c6a-c71e-4d39-a27c-6ac71ebd39ab">
+            <name>Badewitz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Capulet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ace31e5f-eb8c-4e49-a31e-5feb8c3e494c">
+            <name>Bormann</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Julia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="10aefef6-2059-4a28-aefe-f62059ca28a4">
+            <name>Breslauer Stadttheater</name>
+            <id type="gnd">16343427-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="b393ce05-c7ef-4c46-93ce-05c7ef6c46db">
+            <name>Fischer, G. von</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Tybalt</role>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="418de94a-7bc7-40f6-8de9-4a7bc7f0f6f1">
+            <name>Golde</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Abraham</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a533280a-0706-421e-b328-0a0706a21ea3">
+            <name>Greiner</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Benvolio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2fba9a0d-75e1-4f18-ba9a-0d75e16f1878">
+            <name>Hermany-Benedix, Gerda</name>
+            <id type="gnd">1064714447</id>
+            <roleActor>
+                <role type="Rolle">Gräfin Capulet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="09ce89c7-565e-4a47-8e89-c7565e6a4795">
+            <name>Herz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Juliens Amme</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38572b12-555a-4a50-972b-12555a6a5045">
+            <name>Hradetzky</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Erster Bürger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7ee7e064-2d2d-4f6d-a7e0-642d2d1f6d49">
+            <name>Jenke</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Balthasar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f025ff51-abd8-415f-a5ff-51abd8215fb5">
+            <name>Kauer</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Graf Paris</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a4c43039-523d-4e33-8430-39523d8e33f8">
+            <name>Keuter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zweiter Capulet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b7f04abe-b3c0-4f78-b04a-beb3c00f78ef">
+            <name>Krause</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Escalus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="43da9087-2a7a-4f13-9a90-872a7a4f13d5">
+            <name>Lamprecht</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Gregorio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d9ebefa5-6c48-4834-abef-a56c48c83494">
+            <name>Lissé</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Grafin Montague</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="18bb6cbf-9a4b-426e-bb6c-bf9a4b126e89">
+            <name>Lucas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Diener Capulet's</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5a6fecf-350b-4813-a6fe-cf350b981385">
+            <name>Meyer</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Romeo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="be0fc528-5057-4b54-8fc5-2850577b545c">
+            <name>Oeser</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Montague</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c84d0fb6-6b4a-4e27-8d0f-b66b4a7e2774">
+            <name>Pallatscheck</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Page des Paris</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6abc750f-a32a-420b-bc75-0fa32a520bb4">
+            <name>Resemann, Leon</name>
+            <id type="gnd">116449195</id>
+            <roleActor>
+                <role type="Rolle">Mercutio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="05603d41-b84c-4282-a03d-41b84cb282d2">
+            <name>Schlegel, August Wilhelm von</name>
+            <id type="gnd">118607960</id>
+            <roleActor>
+                <role>Übersetzer_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3f9bfaa9-75cd-427d-9bfa-a975cd427dd6">
+            <name>Schwarzbach</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bruder Johannes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="5e00cea9-a0a6-49ad-80ce-a9a0a659ad81">
+            <name>Thomas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Apotheker</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f16a42ae-3686-48c4-aa42-ae3686d8c459">
+            <name>Willutzky, Ludwig Oskar</name>
+            <id type="gnd">101785341X</id>
+            <roleActor>
+                <role type="Rolle">Peter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000524" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu Max Behrend in "Romeo und Julia", Breslau 1885</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

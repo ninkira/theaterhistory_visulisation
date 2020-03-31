@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="66c44526-9070-4ff4-8445-2690709ff493" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Morgenröte, Die+15.11.1904+Reinhardt, Max</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Morgenröte, Die</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Morgenröte, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000643"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Theater am Schiffbauerdamm</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000643"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>15.11.1904</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000643"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="e9b2c402-0e37-4923-b2c4-020e37c923ab">
+            <name>Atelier Hugo Baruch &amp; Co.</name>
+            <id type="gnd">5155469-0</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a7d3b61d-9474-40f3-93b6-1d947410f37a">
+            <name>Dill, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Hauptmann Baur von Breitenfeld</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0fa186b4-7709-419f-a186-b47709519f35">
+            <name>Eisfeld, Max</name>
+            <id type="gnd">1063684536</id>
+            <roleActor>
+                <role type="Rolle">Staatsminister von Berks</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="af9dc891-937a-40c6-9dc8-91937a10c6c1">
+            <name>Engels, Georg</name>
+            <id type="gnd">116497483</id>
+            <roleActor>
+                <role type="Rolle">Karl Hermersbacher</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f887927d-435d-4d94-8792-7d435dbd94b2">
+            <name>Fehdmer, Helene</name>
+            <id type="gnd">116143851</id>
+            <roleActor>
+                <role type="Rolle">Lola Montez</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="593fd38f-16b6-4930-bfd3-8f16b6893067">
+            <name>Höflich, Lucie</name>
+            <id type="gnd">118963805</id>
+            <roleActor>
+                <role type="Rolle">Genofeva</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6486cf64-e70d-4c98-86cf-64e70d0c98f2">
+            <name>Kayssler, Friedrich</name>
+            <id type="gnd">118721402</id>
+            <roleActor>
+                <role type="Rolle">Xaver</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="46a52721-d0ba-4746-a527-21d0bae74655">
+            <name>Klein, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Alois Singspieler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ecc49639-d53a-4c7c-8496-39d53abc7c7e">
+            <name>Pagay, Hans</name>
+            <id type="gnd">116015454</id>
+            <roleActor>
+                <role type="Rolle">Peter Wammerl</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role type="Rolle">Ignatius Abel</role>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="27301946-a6b7-4d89-b019-46a6b72d89b2">
+            <name>Ruederer, Josef</name>
+            <id type="gnd">118791508</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d7f90c88-e9a4-4d7a-b90c-88e9a42d7ae0">
+            <name>Walser, Karl</name>
+            <id type="gnd">118764152</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Krezenia Lunglmayer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4c964803-3d8f-4bbf-9648-033d8ffbbf01">
+            <name>Waßmann, Hans</name>
+            <id type="gnd">117149853</id>
+            <roleActor>
+                <role type="Rolle">Fritz Peißner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000643" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Die Morgenröte" in Berlin 1904</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Aufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>Morgenröte, Die</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Berlin</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Theater am Schiffbauerdamm</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000643"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>19.11.1904</eventDate>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList>
+                <actor id="e9b2c402-0e37-4923-b2c4-020e37c923ab">
+                    <name>Atelier Hugo Baruch &amp; Co.</name>
+                    <id type="gnd">5155469-0</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Bühnenbildner_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="a7d3b61d-9474-40f3-93b6-1d947410f37a">
+                    <name>Dill, Josef</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                        <role>Rolle: Hauptmann Baur von Breitenfeld</role>
+                    </roleActor>
+                </actor>
+                <actor id="0fa186b4-7709-419f-a186-b47709519f35">
+                    <name>Eisfeld, Max</name>
+                    <id type="gnd">1063684536</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                        <role>Rolle: Staatsminister von Berks</role>
+                    </roleActor>
+                </actor>
+                <actor id="af9dc891-937a-40c6-9dc8-91937a10c6c1">
+                    <name>Engels, Georg</name>
+                    <id type="gnd">116497483</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                        <role>Rolle: Karl Hermersbacher</role>
+                    </roleActor>
+                </actor>
+                <actor id="f887927d-435d-4d94-8792-7d435dbd94b2">
+                    <name>Fehdmer, Helene</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                        <role>Rolle: Lola Montez</role>
+                    </roleActor>
+                </actor>
+                <actor id="593fd38f-16b6-4930-bfd3-8f16b6893067">
+                    <name>Höflich, Lucie</name>
+                    <id type="gnd">118963805</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                        <role>Rolle: Genofeva</role>
+                    </roleActor>
+                </actor>
+                <actor id="6486cf64-e70d-4c98-86cf-64e70d0c98f2">
+                    <name>Kayssler, Friedrich</name>
+                    <id type="gnd">118721402</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                        <role>Rolle: Xaver</role>
+                    </roleActor>
+                </actor>
+                <actor id="46a52721-d0ba-4746-a527-21d0bae74655">
+                    <name>Klein, Josef</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                        <role>Rolle: Alois Singspieler</role>
+                    </roleActor>
+                </actor>
+                <actor id="ecc49639-d53a-4c7c-8496-39d53abc7c7e">
+                    <name>Pagay, Hans</name>
+                    <id type="gnd">116015454</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                        <role>Rolle: Peter Wammerl</role>
+                    </roleActor>
+                </actor>
+                <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+                    <name>Reinhardt, Max</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Regisseur_in des inszenierten Werks</role>
+                        <role>Darsteller_in der Inszenierung</role>
+                        <role>Rolle: Ignatius Abel</role>
+                    </roleActor>
+                </actor>
+                <actor id="27301946-a6b7-4d89-b019-46a6b72d89b2">
+                    <name>Ruederer, Josef</name>
+                    <id type="gnd">118791508</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="d7f90c88-e9a4-4d7a-b90c-88e9a42d7ae0">
+                    <name>Walser, Karl</name>
+                    <id type="gnd">118764152</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Bühnenbildner_in der Inszenierung</role>
+                        <role>Kostümbildner_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+                    <name>Wangel, Hedwig</name>
+                    <id type="gnd">117136964</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                        <role>Rolle: Krezenia Lunglmayer</role>
+                    </roleActor>
+                </actor>
+                <actor id="4c964803-3d8f-4bbf-9648-033d8ffbbf01">
+                    <name>Waßmann, Hans</name>
+                    <id type="gnd">117149853</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                        <role>Rolle: Fritz Peißner</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

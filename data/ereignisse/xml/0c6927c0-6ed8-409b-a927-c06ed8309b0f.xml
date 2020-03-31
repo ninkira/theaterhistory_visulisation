@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="0c6927c0-6ed8-409b-a927-c06ed8309b0f" type="Performance">
+    <groupingArgument actorID="858e847c-b884-4800-8e84-7cb8848800c2">Arzt am Scheideweg, Der+29.03.1940+Müller, Hans Carl</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Arzt am Scheideweg, Der</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000036"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000036"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>29.03.1940</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000036"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theateraufführung der Münchner Kammerspiele, Premiere</text>
+            <object id="IFT_OBJ_HW000036"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e0961776-169b-40a6-9617-76169bd0a6e2">
+            <name>Münchner Kammerspiele</name>
+            <id type="gnd">2068173-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="fe5b4f6d-1d4c-4de6-9b4f-6d1d4c8de671">
+            <name>Shaw, Bernard</name>
+            <id type="gnd">118642375</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="858e847c-b884-4800-8e84-7cb8848800c2">
+            <name>Müller, Hans Carl</name>
+            <id type="gnd">11758861X</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4575ce75-53b4-45d9-b5ce-7553b4f5d9e4">
+            <name>Sturm, Eduard</name>
+            <id type="gnd">117363782</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="630593ad-5d7d-4cc0-8593-ad5d7dbcc02e">
+            <name>Nicklisch, Maria</name>
+            <id type="gnd">116995084</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9a6636c8-38f6-4c92-a636-c838f60c92c9">
+            <name>Domin, Friedrich</name>
+            <id type="gnd">116176601</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d6caf66-9189-4bcd-acaf-669189dbcdbf">
+            <name>Fernau, Rudolf</name>
+            <id type="gnd">11853260X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000036" type="Fotografie: Album" aat="300026695">
+            <title>Fotoalbum Hedwig Wangel</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

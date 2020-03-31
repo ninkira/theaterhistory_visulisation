@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="8f729978-4c4e-4a7e-b299-784c4eda7e43" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">Le verre d'eau+22.11.1930+Ambach, Josef</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>neu einstudiert</secondaryType>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Le verre d'eau</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Glas Wasser, Das oder Ursachen und Wirkungen</title>
+            <listObject>
+                <object id="IFT_OBJ_JA000117"/>
+                <object id="IFT_OBJ_JA000116"/>
+                <object id="IFT_OBJ_JA000115"/>
+                <object id="IFT_OBJ_JA000114"/>
+                <object id="IFT_OBJ_JA000005"/>
+                <object id="IFT_KON_JA000007"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Frankfurt am Main</placeName>
+            <place type="Institution">
+                <placeName>Neues Theater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JA000117"/>
+                    <object id="IFT_OBJ_JA000116"/>
+                    <object id="IFT_OBJ_JA000115"/>
+                    <object id="IFT_OBJ_JA000114"/>
+                    <object id="IFT_OBJ_JA000005"/>
+                    <object id="IFT_KON_JA000007"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>22.11.1930</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JA000117"/>
+                    <object id="IFT_OBJ_JA000116"/>
+                    <object id="IFT_OBJ_JA000115"/>
+                    <object id="IFT_OBJ_JA000114"/>
+                    <object id="IFT_OBJ_JA000005"/>
+                    <object id="IFT_KON_JA000007"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Neuen Theaters Frankfurt, Gastspiel Hermine Körner</text>
+            <object id="IFT_OBJ_JA000117"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="7779be29-67d2-4759-b9be-2967d217599d">
+            <name>Neues Theater (Frankfurt am Main)</name>
+            <id type="gnd">4223280-6</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="5b5b7951-a83e-412c-9b79-51a83e012cce">
+            <name>Scribe, Eugène</name>
+            <id type="gnd">118612425</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="eee922a0-0b69-447e-a922-a00b69047ec7">
+            <name>Liessem, Wera</name>
+            <id type="gnd">1062304594</id>
+            <roleActor>
+                <role type="Rolle">Abigail</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cbb7be8e-d98c-49ed-b7be-8ed98c29ed60">
+            <name>Tiedemann, Elsa</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c69219d5-7b58-4ee9-9219-d57b583ee931">
+            <name>Körner, Hermine</name>
+            <id type="gnd">118713477</id>
+            <roleActor>
+                <role type="Rolle">Herzogin von Marlborough</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="adfc6c34-08c1-4656-bc6c-3408c12656c0">
+            <name>Bergmann, Hellmuth</name>
+            <id type="gnd">1053234562</id>
+            <roleActor>
+                <role type="Rolle">Henry Saint-John</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="900eeb34-8924-4e41-8eeb-3489248e41a6">
+            <name>Rühl, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Thompson</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2e2fd123-8dcb-4c68-afd1-238dcb2c68c1">
+            <name>Just, Harry</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Marquis von Torcy</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4f43f25a-a1f1-48dd-83f2-5aa1f1b8ddde">
+            <name>Arco, Michael</name>
+            <id type="gnd">106239285X</id>
+            <roleActor>
+                <role type="Rolle">Masham</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="6">
+        <object id="IFT_OBJ_JA000117" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Das Glas Wasser" in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000116" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Das Glas Wasser" in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000115" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Das Glas Wasser" in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000114" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Das Glas Wasser" in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000005" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Das Glas Wasser" in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_KON_JA000007" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Konvolut Szenenfotografien zu "Das Glas Wasser" in Frankfurt am Main 1930</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

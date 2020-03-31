@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="07f5c030-ace0-4f28-b5c0-30ace0df28e7" type="Performance">
+    <groupingArgument actorID="6058b37c-b7f2-4962-98b3-7cb7f2896238">Männer sind mal so! Musikalischer Schwank in drei Akten, Die+04.01.1933+Kenter, Heinz Dietrich</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Männer sind mal so! Musikalischer Schwank in drei Akten, Die</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Männer sind mal so!, Die</title>
+            <listObject>
+                <object id="IFT_OBJ_HL000025"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Schiller-Theater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HL000025"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>04.01.1933</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HL000025"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Operetteninszenierung des Schiller-Theaters Berlin</text>
+            <object id="IFT_OBJ_HL000025"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="ce550677-d32f-4244-9506-77d32fe24421">
+            <name>Lingen, Heinz</name>
+            <id type="gnd">106194171X</id>
+            <roleActor>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="9572bece-ee3e-494a-b2be-ceee3e494a62">
+            <name>Kollo, Walter</name>
+            <id type="gnd">123942837</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="70eff8fd-28e3-43d7-aff8-fd28e303d716">
+            <name>Schiller-Theater</name>
+            <id type="gnd">4403888-4</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="db576800-fe67-40b6-9768-00fe6750b617">
+            <name>Heidemann, Paul</name>
+            <id type="gnd">116604832</id>
+            <roleActor>
+                <role type="Rolle">Dr. Gert Riemann, Rechtsanwalt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="87c08aae-dcfc-4b45-808a-aedcfcab45f5">
+            <name>Halton, Theo</name>
+            <id type="gnd">1037721292</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="87dc9ae7-28b0-4a39-9c9a-e728b01a39e6">
+            <name>Rideamus</name>
+            <id type="gnd">118745123</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="9ccd5570-9532-4fdf-8d55-7095329fdf02">
+            <name>Söneland, Senta</name>
+            <id type="gnd">117459488</id>
+            <roleActor>
+                <role type="Rolle">Ottilie Grönau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8c9a3f27-9210-47b9-9a3f-27921057b9a3">
+            <name>Schur, Willi</name>
+            <id type="gnd">1056890525</id>
+            <roleActor>
+                <role type="Rolle">Adolf Grönau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8816d245-a181-422d-96d2-45a181d22da0">
+            <name>Lind, Georgia</name>
+            <id type="gnd">138664501</id>
+            <roleActor>
+                <role type="Rolle">Margot</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5b77159b-30b1-486e-b715-9b30b1b86e43">
+            <name>Carlsen, Carla</name>
+            <id type="gnd">1062415094</id>
+            <roleActor>
+                <role type="Rolle">Adele Wilms</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="088aee3a-e045-4ed4-8aee-3ae0452ed400">
+            <name>Ackermann, Curt</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Dr. Alexander Schlichte</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="40683525-398f-4b07-a835-25398fab07ac">
+            <name>Setty, Aja</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Wanda Lüdecke</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e86e9d60-ed13-458e-ae9d-60ed13858ee5">
+            <name>Schönemann, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Amandus von Hahn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6058b37c-b7f2-4962-98b3-7cb7f2896238">
+            <name>Kenter, Heinz Dietrich</name>
+            <id type="gnd">11639238X</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="a72814cd-526c-4414-a814-cd526cd41438">
+            <name>Herweg, Kurt</name>
+            <id type="gnd">1177417944</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="cc15c7c4-51c7-4f4f-95c7-c451c7af4fea">
+            <name>Suhr, Edward</name>
+            <id type="gnd">117372587</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ff56d943-0f79-4615-96d9-430f79c615aa">
+            <name>Strömer, Erich</name>
+            <id type="gnd">117343773</id>
+            <roleActor>
+                <role type="Rolle">Dr. Max Lüdecke</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ff47154f-2ac3-4f36-8715-4f2ac38f36d5">
+            <name>Jöken-König, Käthe</name>
+            <id type="gnd">1062332741</id>
+            <roleActor>
+                <role type="Rolle">Agathe, Kinderfrau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7dd94954-6cff-4253-9949-546cffd253e2">
+            <name>Köstlin, Reinhold</name>
+            <id type="gnd">116301716</id>
+            <roleActor>
+                <role type="Rolle">Franz, Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ed7ba395-b5ba-48cd-bba3-95b5ba78cda3">
+            <name>Dietrich, Marga</name>
+            <id type="gnd">116113022</id>
+            <roleActor>
+                <role type="Rolle">Fanny, Köchin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HL000025" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Die Männer sind mal so!" in Berlin 1933</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

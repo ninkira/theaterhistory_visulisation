@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="2c8690cf-9a88-46cf-8690-cf9a8876cfb5" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Was ihr Wollt+05.05.1950+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Was ihr Wollt</title>
+            <listObject>
+                <object id="TWS_OBJ0000082"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Essen-Steele</placeName>
+            <place type="Institution">
+                <placeName>Die Bühnen der Stadt Essen</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000082"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>05.05.1950</premier>
+            <time from="05.05.1950" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000082"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="553f877d-e4ab-4203-bf87-7de4ab920355">
+            <name>Bauer, Karl</name>
+            <id type="gnd">116085347</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="05603d41-b84c-4282-a03d-41b84cb282d2">
+            <name>Schlegel, August Wilhelm von</name>
+            <id type="gnd">118607960</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3ee12e62-12bb-488a-a12e-6212bbc88af5">
+            <name>Razlag, Filip</name>
+            <id type="gnd">1136032096</id>
+            <roleActor>
+                <role>Musik</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8527252c-d182-4a9c-a725-2cd1820a9cb5">
+            <name>Knauer, Hans-Jürgen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="96077e99-2251-4b52-877e-992251cb521c">
+            <name>Naumann, Harry</name>
+            <id type="gnd">105974145</id>
+            <roleActor>
+                <role type="Rolle">Orsino</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Sebastian</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2a82797e-a953-456d-8279-7ea953656d7d">
+            <name>Schrade, Arno</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Antonio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a6e5be48-90b3-4d6e-a5be-4890b37d6e4c">
+            <name>Lübke, Lucian</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">ein Schiffshauptmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="978cd288-c915-425d-8cd2-88c915825d87">
+            <name>Bollmann, Horst</name>
+            <id type="gnd">116236639</id>
+            <roleActor>
+                <role type="Rolle">Valentin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c86ef33b-2421-4342-aef3-3b2421834246">
+            <name>Schröder, Udo</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Curio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="487d30ba-1cf9-41ee-bd30-ba1cf9a1ee51">
+            <name>Mitulsik, Ernstwalter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Junker Tobias von Rülp</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="73836073-dca7-401b-8360-73dca7701b67">
+            <name>Braun, Horst</name>
+            <id type="gnd">1095913859</id>
+            <roleActor>
+                <role type="Rolle">Junker Andreas von Bleichenwang</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="376e598a-4d99-4460-ae59-8a4d99d460db">
+            <name>Schirlitz, Wolfgang</name>
+            <id type="gnd">1061881652</id>
+            <roleActor>
+                <role type="Rolle">Malvolio</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4207e862-5493-4d98-87e8-6254932d9800">
+            <name>Romberg, Günther</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fabio</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="07ec01ed-3872-4638-ac01-ed3872f6389c">
+            <name>Meinertzhagen, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Narr</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4041a7f0-ae89-424d-81a7-f0ae89624d4c">
+            <name>Jäger, Elsbeth</name>
+            <id type="gnd">1050486358</id>
+            <roleActor>
+                <role type="Rolle">Olivia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c320c20b-8bbc-4ab4-a0c2-0b8bbc4ab402">
+            <name>Bieler, Margot</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Viola</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2bd23a22-3080-4cd4-923a-2230808cd43a">
+            <name>Asendorf, Charlotte</name>
+            <id type="gnd">1061552543</id>
+            <roleActor>
+                <role type="Rolle">Maria</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e4e67a60-7833-47dd-a67a-60783387dd3c">
+            <name>Stroth, Kurt</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Priester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="167a4b13-e9a2-4682-ba4b-13e9a2b6825e">
+            <name>Velten, Werner</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Erster Gerichtsdiener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="66f724ff-f6b6-4fd0-b724-fff6b67fd00f">
+            <name>Rehnert, Peter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zweiter Gerichtsdiener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2cac4d72-e3e2-448a-ac4d-72e3e2948af2">
+            <name>Ryba, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="46088f68-de7a-4403-888f-68de7a340360">
+            <name>Reiß, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="57c80a2b-cdbb-4657-880a-2bcdbbc65762">
+            <name>Lick, Karlheinz</name>
+            <id type="gnd">1061564487</id>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000082" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu Was ihr wollt</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

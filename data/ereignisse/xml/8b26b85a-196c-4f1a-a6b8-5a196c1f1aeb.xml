@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="8b26b85a-196c-4f1a-a6b8-5a196c1f1aeb" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">merchant of Venice, The+25.05.1955+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>merchant of Venice, The</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Kaufmann von Venedig, Der</title>
+            <listObject>
+                <object id="TWS_OBJ0000112"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000112"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>25.05.1955</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000112"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="df53798c-2f49-4e8f-9379-8c2f491e8faa">
+            <name>Amberger, Günter</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Prinz von Marokko - Freier der Porzia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dda5e9e1-2be7-4dba-a5e9-e12be79dbaad">
+            <name>Bennent, Heinz</name>
+            <id type="gnd">129386952</id>
+            <roleActor>
+                <role type="Rolle">Lorenzo, Liebhaber der Jessica</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="39169fad-3803-410b-969f-ad3803310b68">
+            <name>Böhm, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="1c7eaa3d-dafd-4791-beaa-3ddafd3791a2">
+            <name>Costa, Julia</name>
+            <id type="gnd">1013914554</id>
+            <roleActor>
+                <role type="Rolle">Nerissa, Begleiterin der Porzia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c15caee7-0159-4a06-9cae-e701595a066f">
+            <name>Helfmann, Alexander</name>
+            <id type="gnd">1141080273</id>
+            <roleActor>
+                <role type="Rolle">Balthasar, Porzias Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5d7f670-1a25-40ee-97f6-701a2510ee85">
+            <name>Hofer, Claus</name>
+            <id type="gnd">1061490157</id>
+            <roleActor>
+                <role type="Rolle">Graziano - Freund des Antonio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e949e404-4e9e-4f7e-89e4-044e9e9f7e79">
+            <name>Landestheater Darmstadt</name>
+            <id type="gnd">2002342-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="cd3983cf-ee12-493d-b983-cfee12693de6">
+            <name>Leyrer, Willy</name>
+            <id type="gnd">1061403572</id>
+            <roleActor>
+                <role type="Rolle">Antonio, der Kaufmann von Venedig</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b987bc5d-b0e2-49ad-87bc-5db0e239adc9">
+            <name>Lübbert, Martin</name>
+            <id type="gnd">1061327752</id>
+            <roleActor>
+                <role type="Rolle">Der Doge von Venedig</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da9f16cd-ce19-446e-9f16-cdce19846efb">
+            <name>Mittelhaus, Gerhard</name>
+            <id type="gnd">1062011414</id>
+            <roleActor>
+                <role type="Rolle">Der alte Gobbo, Lanzelots Vater</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="791a3822-9bd9-4ba1-9a38-229bd92ba1d1">
+            <name>Müller-Elmau, Raidar</name>
+            <id type="gnd">1061745511</id>
+            <roleActor>
+                <role type="Rolle">Solanio - Freund des Antonio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1c178e5-9f55-4cc0-8178-e59f551cc060">
+            <name>Noack, Max</name>
+            <id type="gnd">1031177310</id>
+            <roleActor>
+                <role type="Rolle">Shylock, ein Jude</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="f407b8e1-c7f1-40cc-87b8-e1c7f140cc64">
+            <name>Reinmann, Ingrid</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Jessica, Shylocks Tochter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57f536e8-98df-4506-b536-e898df850677">
+            <name>Rueffer, Alwin Michael</name>
+            <id type="gnd">118821458</id>
+            <roleActor>
+                <role type="Rolle">Bassanio, Freund von Antonio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="05603d41-b84c-4282-a03d-41b84cb282d2">
+            <name>Schlegel, August Wilhelm von</name>
+            <id type="gnd">118607960</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3eb0d4d8-7a37-4d06-b0d4-d87a37dd06e9">
+            <name>Steiger, Klaus</name>
+            <id type="gnd">110419287X</id>
+            <roleActor>
+                <role type="Rolle">Prinz von Arragon - Freier der Porzia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f334a29a-faa3-4b02-b4a2-9afaa34b0272">
+            <name>Stromberger, Robert</name>
+            <id type="gnd">134029658</id>
+            <roleActor>
+                <role type="Rolle">Leonardo, Bassanios Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5caecbeb-9438-4976-aecb-eb9438f976c1">
+            <name>Weicker, Hans</name>
+            <id type="gnd">1055072586</id>
+            <roleActor>
+                <role type="Rolle">Lanzelot Gobbo, Shylocks Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="08d2d171-df5f-44aa-92d1-71df5f74aa3f">
+            <name>Westphal, Lilian</name>
+            <id type="gnd">117321206</id>
+            <roleActor>
+                <role type="Rolle">Porzia, eine reiche Erbin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4cfae690-c3bf-4e67-bae6-90c3bf4e67c3">
+            <name>Wien, Herbert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Tubal, ein Jude, Freund des Shylock</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d586c30f-3636-445e-86c3-0f3636b45e22">
+            <name>Witt, Claus Peter</name>
+            <id type="gnd">124811035</id>
+            <roleActor>
+                <role type="Rolle">Salarino - Freund des Antonio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000112" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Der Kaufmann von Venedig" in Darmstadt 1955</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

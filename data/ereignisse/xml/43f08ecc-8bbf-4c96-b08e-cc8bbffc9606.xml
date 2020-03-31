@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="43f08ecc-8bbf-4c96-b08e-cc8bbffc9606" type="Performance">
+    <groupingArgument actorID="">Gyges und sein Ring+02.05.1907+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Gyges und sein Ring</title>
+            <listObject>
+                <object id="TWS_OBJ0000191"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele des Deutschen Theaters</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000191"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>02.05.1907</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000191"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Rhodope</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5f0fb9e6-ea32-4193-8fb9-e6ea3291939a">
+            <name>Stern, Ernst</name>
+            <id type="gnd">118753614</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cbc6029d-f567-4deb-8602-9df5679deb2b">
+            <name>Wegener, Paul</name>
+            <id type="gnd">118765981</id>
+            <roleActor>
+                <role type="Rolle">Kandaules</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6486cf64-e70d-4c98-86cf-64e70d0c98f2">
+            <name>Kayssler, Friedrich</name>
+            <id type="gnd">118721402</id>
+            <roleActor>
+                <role type="Rolle">Gyges</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6e9d4ba5-f884-44e6-9d4b-a5f884e4e61a">
+            <name>Konstantin, Leopoldine</name>
+            <id type="gnd">116331577</id>
+            <roleActor>
+                <role type="Rolle">Lesbia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="02c68416-cfa7-4aa5-8684-16cfa79aa5cd">
+            <name>Wellhoener, Margarete</name>
+            <id type="gnd">106239559X</id>
+            <roleActor>
+                <role type="Rolle">Hero</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="58bd6d59-c814-4f75-bd6d-59c814bf7550">
+            <name>Zillich, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Thoas</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9b8c0f0b-5e98-40be-8c0f-0b5e9820be29">
+            <name>Sillé, Ludwig</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Karna</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5a31bcdd-2e3b-45d1-b1bc-dd2e3b45d119">
+            <name>Hebbel, Friedrich</name>
+            <id type="gnd">118547445</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="88626368-1e64-4dba-a263-681e641dbac4">
+            <name>Kammerspiele Berlin</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000191" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Gyges und sein Ring" in Berlin 1908</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

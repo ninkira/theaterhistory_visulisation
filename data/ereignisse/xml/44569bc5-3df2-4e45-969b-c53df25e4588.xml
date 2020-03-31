@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="44569bc5-3df2-4e45-969b-c53df25e4588" type="Performance">
+    <groupingArgument actorID="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">Othello++Lewinger, Ernst</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Othello</title>
+            <listObject>
+                <object id="TWS_OBJ0000496"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater (Köln)</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000496"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="06.03.1893" to="06.03.1893">
+                <listObject>
+                    <object id="TWS_OBJ0000496"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="f03361f6-648d-4abb-b361-f6648dcabbb4">
+            <name>Stadttheater (Köln)</name>
+            <id type="gnd">216478-4</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="793acec2-580c-4417-bace-c2580cf4176d">
+            <name>Hofmann, Julius</name>
+            <id type="gnd">116951621</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="05603d41-b84c-4282-a03d-41b84cb282d2">
+            <name>Schlegel, August Wilhelm von</name>
+            <id type="gnd">118607960</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">
+            <name>Lewinger, Ernst</name>
+            <id type="gnd">116971835</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="c1ab1481-f8e7-490d-ab14-81f8e7690dcb">
+            <name>Schwarzenberg, Judith</name>
+            <id type="gnd">1050520998</id>
+            <roleActor>
+                <role type="Rolle">Emilie, Jago's Frau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Jago, Othello's Fähnrich</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fa70854e-da8b-4fd8-b085-4eda8b0fd823">
+            <name>Zimmermann, Ludwig</name>
+            <id type="gnd">116999772</id>
+            <roleActor>
+                <role type="Rolle">Brabantio, Senator</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57dc5d0b-e612-4202-9c5d-0be612120205">
+            <name>Hecken, Max</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Erster Edelmaun</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c09f6d81-6c0b-439a-9f6d-816c0b239a8f">
+            <name>Tenhaeff, Reinhard</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Der Doge von Venedig</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="002d665e-9183-4752-ad66-5e9183c7527a">
+            <name>Richter, Emil</name>
+            <id type="gnd">1019375442</id>
+            <roleActor>
+                <role type="Rolle">Ein Senator</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7b0990a0-38ed-4569-8990-a038ed5569c3">
+            <name>Schäzle, Ernst</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Zweiter Edelmaun</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="df1e436d-3222-4877-9e43-6d3222a87724">
+            <name>Tieck, Ludwig</name>
+            <id type="gnd">12989432X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="9f85cfc6-f3d6-4f55-85cf-c6f3d6df5521">
+            <name>Leyrer, Rudolf</name>
+            <id type="gnd">130227463</id>
+            <roleActor>
+                <role type="Rolle">Lodovico</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="06a99e8b-2da7-4d44-a99e-8b2da7bd44bb">
+            <name>Heine, Hermann</name>
+            <id type="gnd">143746669</id>
+            <roleActor>
+                <role type="Rolle">Othello, Feldherr</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="096a1e5c-9bca-4f43-aa1e-5c9bca1f4357">
+            <name>Benthien, Willy</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Rodrigo, ein junger Venetianer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b40f32da-1cc1-45a6-8f32-da1cc1a5a651">
+            <name>Biehler, Alfred</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Montano, Stadthalter von Zypern</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3302e84b-7602-4ed3-82e8-4b76020ed38f">
+            <name>Doré, Adele</name>
+            <id type="gnd">117031453</id>
+            <roleActor>
+                <role type="Rolle">Desdemona, Brabantio's Tochter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="097e6ddd-abeb-49ac-be6d-ddabebd9acff">
+            <name>Ziegler, Lina</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Bianca</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ac5f2958-4fc2-4f3a-9f29-584fc28f3a6a">
+            <name>Herr, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Bote</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="69daba24-b3df-469e-9aba-24b3dfc69eb7">
+            <name>Conrad, Paul</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Ein Herold</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000496" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu Max Behren in 'Othello', Köln 1893</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

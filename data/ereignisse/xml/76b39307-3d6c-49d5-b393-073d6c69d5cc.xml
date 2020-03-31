@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="76b39307-3d6c-49d5-b393-073d6c69d5cc" type="Performance">
+    <groupingArgument actorID="">Gold'ne Meisterin, Die++</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Gold'ne Meisterin, Die</title>
+            <listObject>
+                <object id="IFT_OBJ_LK000039"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>Theater an der Wien</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LK000039"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="13.09.1927" to="20.09.1927">
+                <listObject>
+                    <object id="IFT_OBJ_LK000039"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Aufführung der Operette am Theater an der Wien, der Lucy Kieselhausen als Zuschauerin beigewohnt hat.</text>
+            <object id="IFT_OBJ_LK000039"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="11acac19-9b0a-41f1-acac-199b0aa1f19c">
+            <name>Kieselhausen, Lucy</name>
+            <id type="gnd">116169354</id>
+            <roleActor>
+                <role>Zuschauer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="f90dd56e-4f6c-4f95-8dd5-6e4f6c9f95a7">
+            <name>Eysler, Edmund</name>
+            <id type="gnd">11868289X</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0634ce1c-575b-4677-b4ce-1c575be67771">
+            <name>Fischer, Betty</name>
+            <id type="gnd">1078244154</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Sänger_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e978396b-0cab-42c3-b839-6b0caba2c328">
+            <name>Brammer, Julius</name>
+            <id type="gnd">121760251</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="83d78632-75ca-4804-9786-3275caa80422">
+            <name>Grünwald, Alfred</name>
+            <id type="gnd">118972340</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8d043804-742c-4ab6-8438-04742c6ab685">
+            <name>Marischka, Hubert</name>
+            <id type="gnd">116067411</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Sänger_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_LK000039" type="Autograf: Brief" aat="300026879">
+            <title>Brief von Lucy Kieselhausen an Lea Kieselhausen</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="e7db318f-c921-4239-9b31-8fc921623965" type="Performance">
+    <groupingArgument actorID="">Johannes++</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Johannes</title>
+            <listObject>
+                <object id="TWS_OBJ0000535"/>
+                <object id="TWS_OBJ0000534"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000535"/>
+                </listObject>
+            </place>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000534"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="556a05ba-00a5-4b0d-aa05-ba00a5cb0de2">
+            <name>Dumont, Louise</name>
+            <id type="gnd">118681192</id>
+            <roleActor>
+                <role type="Rolle">Herodias</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5c6a0cc4-ed78-4f29-aa0c-c4ed78bf2973">
+            <name>Sudermann, Hermann</name>
+            <id type="gnd">118619853</id>
+            <roleActor>
+                <role type="Rolle">118619853</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000535" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Inszenierungsfoto von Louise Dumont als Herodias, 1898</title>
+        </object>
+        <object id="TWS_OBJ0000534" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Inszenierungsfoto von Louise Dumont als Herodias, 1898</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

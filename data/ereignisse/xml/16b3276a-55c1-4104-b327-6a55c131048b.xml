@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="16b3276a-55c1-4104-b327-6a55c131048b" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Gengangere+08.11.1906+Reinhardt, Max</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Gengangere</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Gespenster</title>
+            <listObject>
+                <object id="TWS_OBJ0000187"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000187"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>08.11.1906</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000187"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="8995e70a-7152-40d4-95e7-0a7152a0d418">
+            <name>Ibsen, Henrik</name>
+            <id type="gnd">118555286</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="06f455a0-a2c4-4605-b455-a0a2c4860525">
+            <name>Lange, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d7073bf3-d43f-4918-873b-f3d43f09188e">
+            <name>Sorma, Agnes</name>
+            <id type="gnd">118798073</id>
+            <roleActor>
+                <role type="Rolle">Frau Helene Alwing</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bd135b2e-b813-4135-935b-2eb81391354c">
+            <name>Moissi, Alexander</name>
+            <id type="gnd">118583271</id>
+            <roleActor>
+                <role type="Rolle">Oswald</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6486cf64-e70d-4c98-86cf-64e70d0c98f2">
+            <name>Kayssler, Friedrich</name>
+            <id type="gnd">118721402</id>
+            <roleActor>
+                <role type="Rolle">Pastor Manders</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Frau Alwing</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d37ee122-d523-4e77-bee1-22d5231e77fc">
+            <name>Wassmann, Hans</name>
+            <id type="gnd">117149853</id>
+            <roleActor>
+                <role type="Rolle">Jakob Engstrand</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000187" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Gespenster" in Berlin 1907</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

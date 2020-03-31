@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ab3a3c6e-947a-4a79-ba3c-6e947a6a79a5" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">Tischlein deck dich, Goldesel und Knüppel aus dem Sack+17.12.1930+Ambach, Josef</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Tischlein deck dich, Goldesel und Knüppel aus dem Sack</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Tischlein deck dich, Esel streck dich, Knüppel aus dem Sack</title>
+            <listObject>
+                <object id="IFT_OBJ_JA000119"/>
+                <object id="IFT_OBJ_JA000118"/>
+                <object id="IFT_OBJ_JA000006"/>
+                <object id="IFT_KON_JA000008"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Frankfurt am Main</placeName>
+            <place type="Institution">
+                <placeName>Neues Theater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JA000119"/>
+                    <object id="IFT_OBJ_JA000118"/>
+                    <object id="IFT_OBJ_JA000006"/>
+                    <object id="IFT_KON_JA000008"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>17.12.1930</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JA000119"/>
+                    <object id="IFT_OBJ_JA000118"/>
+                    <object id="IFT_OBJ_JA000006"/>
+                    <object id="IFT_KON_JA000008"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Neuen Theaters Frankfurt</text>
+            <object id="IFT_OBJ_JA000119"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung des Neuen Theaters Frankfurt am Main</text>
+            <object id="IFT_OBJ_JA000006"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="7779be29-67d2-4759-b9be-2967d217599d">
+            <name>Neues Theater (Frankfurt am Main)</name>
+            <id type="gnd">4223280-6</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="eee922a0-0b69-447e-a922-a00b69047ec7">
+            <name>Liessem, Wera</name>
+            <id type="gnd">1062304594</id>
+            <roleActor>
+                <role type="Rolle">Die Tannenkönigin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="900eeb34-8924-4e41-8eeb-3489248e41a6">
+            <name>Rühl, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Amtdiener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4f43f25a-a1f1-48dd-83f2-5aa1f1b8ddde">
+            <name>Arco, Michael</name>
+            <id type="gnd">106239285X</id>
+            <roleActor>
+                <role type="Rolle">Hans</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="786b3592-57a2-47e0-ab35-9257a237e02c">
+            <name>Gareis, Joseph</name>
+            <id type="gnd">13243797X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>Bearbeiter_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="66c2d366-1969-46d4-82d3-66196966d459">
+            <name>Geiger-Kullmann, Rosy</name>
+            <id type="gnd">1141688816</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="a4635eb5-e091-49dd-a35e-b5e091e9dd89">
+            <name>Morgenstern-Lorsch, Leni</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="54ef159d-0933-40a0-af15-9d0933d0a027">
+            <name>Sprankel, Arthur</name>
+            <id type="gnd">113702755X</id>
+            <roleActor>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="dd2ef13c-1ef9-40e0-aef1-3c1ef990e0ee">
+            <name>Hahlo, Julius</name>
+            <id type="gnd">106131619X</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9ad2c1c2-ec1c-4679-92c1-c2ec1ce67907">
+            <name>Lewin, Moritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="efa67d0b-9464-485d-a67d-0b9464f85d0d">
+            <name>Dorner, Erich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Meister Zwirn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d7c708c4-7eb2-44ce-8708-c47eb254ce02">
+            <name>Monnard, Else</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Trine</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e6faee9f-32e2-42af-baee-9f32e2e2afc4">
+            <name>Stelzer, Hannes</name>
+            <id type="gnd">1062467388</id>
+            <roleActor>
+                <role type="Rolle">Veit</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2716058a-0776-4df6-9605-8a07760df6e2">
+            <name>Riedy, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Stoffel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="45a541e8-3c8a-40f7-a541-e83c8a20f75f">
+            <name>Haneke, Fritz</name>
+            <id type="gnd">1062064674</id>
+            <roleActor>
+                <role type="Rolle">König Wurzel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38193060-80f6-4a33-9930-6080f64a33c5">
+            <name>Wittmann, Max</name>
+            <id type="gnd">117427713</id>
+            <roleActor>
+                <role type="Rolle">Der Wirt Schlaumeier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="09f4191e-a099-4dde-b419-1ea0990dde42">
+            <name>Bischoff, Karl</name>
+            <id type="gnd">1051385555</id>
+            <roleActor>
+                <role type="Rolle">Der Nachtwächter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5695b87-35ff-4cbb-a95b-8735ff4cbb7c">
+            <name>Schneider, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Schneider</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="4">
+        <object id="IFT_OBJ_JA000119" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Tischlein deck dich..." in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000118" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Tischlein deck dich..." in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000006" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Tischlein deck dich..." in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_KON_JA000008" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Konvolut Szenenfotografien zu "Tischlein deck dich..." in Frankfurt am Main 1930</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

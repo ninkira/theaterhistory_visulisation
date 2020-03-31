@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ff3ec05a-9613-4028-bec0-5a96139028fb" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Über allen Zauber Liebe+14.01.1957+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Über allen Zauber Liebe</title>
+            <listObject>
+                <object id="TWS_OBJ0000087"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Hessisches Landestheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000087"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>14.01.1957</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000087"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="1a586410-f54a-47d4-9864-10f54af7d430">
+            <name>Calderón de la Barca, Pedro</name>
+            <id type="gnd">118514768</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="7eb14141-8b2b-456f-b141-418b2b756f6d">
+            <name>Carl, Margaret</name>
+            <id type="gnd">1037209982</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000087" type="Publikation: Programmheft" aat="300027217">
+            <title>Artikel im "Das neue Forum" zu "Über allen Zauber Liebe" in Darmstadt 1957</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

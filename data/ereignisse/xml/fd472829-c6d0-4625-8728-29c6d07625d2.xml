@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="fd472829-c6d0-4625-8728-29c6d07625d2" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Sündflut, Die+11.03.1954+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Sündflut, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000131"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Landestheater Darmstadt</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000131"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>11.03.1954</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000131"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="df53798c-2f49-4e8f-9379-8c2f491e8faa">
+            <name>Amberger, Günter</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Japhet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1afa1187-b35f-4de0-ba11-87b35f5de09b">
+            <name>Barlach, Ernst</name>
+            <id type="gnd">118506617</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="39169fad-3803-410b-969f-ad3803310b68">
+            <name>Böhm, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="1c7eaa3d-dafd-4791-beaa-3ddafd3791a2">
+            <name>Costa, Julia</name>
+            <id type="gnd">1013914554</id>
+            <roleActor>
+                <role type="Rolle">Awah</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5d7f670-1a25-40ee-97f6-701a2510ee85">
+            <name>Hofer, Claus</name>
+            <id type="gnd">1061490157</id>
+            <roleActor>
+                <role type="Rolle">ein buckeliger Aussätziger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="49c2b6bd-a677-48f9-82b6-bda677b8f90a">
+            <name>Hübner, Rolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Baptista Seni</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f9052409-d0e3-423b-8524-09d0e3623bb5">
+            <name>Krug, Ellen</name>
+            <id type="gnd">1061646645</id>
+            <roleActor>
+                <role type="Rolle">Ahire</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="cd3983cf-ee12-493d-b983-cfee12693de6">
+            <name>Leyrer, Willy</name>
+            <id type="gnd">1061403572</id>
+            <roleActor>
+                <role type="Rolle">Noah</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b987bc5d-b0e2-49ad-87bc-5db0e239adc9">
+            <name>Lübbert, Martin</name>
+            <id type="gnd">1061327752</id>
+            <roleActor>
+                <role type="Rolle">ein Nachbar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1c178e5-9f55-4cc0-8178-e59f551cc060">
+            <name>Noack, Max</name>
+            <id type="gnd">1031177310</id>
+            <roleActor>
+                <role type="Rolle">ein vornehmer Reisender und ein Bettler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="f407b8e1-c7f1-40cc-87b8-e1c7f140cc64">
+            <name>Reinmann, Ingrid</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">ein Engel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="41c1242a-596d-4512-8124-2a596db5127c">
+            <name>Saussen, Edmund</name>
+            <id type="gnd">1061370453</id>
+            <roleActor>
+                <role type="Rolle">Sem</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e06dab95-2ac4-4c38-adab-952ac4cc388f">
+            <name>Schleiermacher, Annette</name>
+            <id type="gnd">1061260917</id>
+            <roleActor>
+                <role type="Rolle">ein Engel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3eb0d4d8-7a37-4d06-b0d4-d87a37dd06e9">
+            <name>Steiger, Klaus</name>
+            <id type="gnd">110419287X</id>
+            <roleActor>
+                <role type="Rolle">ein Nachbar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2aa027fc-159c-4758-a027-fc159ce758a1">
+            <name>Streck, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ham</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="11f8ca36-2e4a-4712-b8ca-362e4a4712ae">
+            <name>Traser, Kurt</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Bediente</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ea325aa4-1852-4b33-b25a-a418527b33ad">
+            <name>Valenta, Lucy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zebid</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0f856989-0165-43a9-8569-890165e3a9bb">
+            <name>Wachsmuth, Rolf Dieter</name>
+            <id type="gnd">117077224</id>
+            <roleActor>
+                <role type="Rolle">Bediente</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5caecbeb-9438-4976-aecb-eb9438f976c1">
+            <name>Weicker, Hans</name>
+            <id type="gnd">1055072586</id>
+            <roleActor>
+                <role type="Rolle">ein Nachbar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4cfae690-c3bf-4e67-bae6-90c3bf4e67c3">
+            <name>Wien, Herbert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="87b81bf0-991c-4656-b81b-f0991cd65607">
+            <name>Wischnewski, Siegfried</name>
+            <id type="gnd">138597472</id>
+            <roleActor>
+                <role type="Rolle">Calan</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d586c30f-3636-445e-86c3-0f3636b45e22">
+            <name>Witt, Claus Peter</name>
+            <id type="gnd">124811035</id>
+            <roleActor>
+                <role type="Rolle">ein junger Hirt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000131" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Die Sündflut" in Darmstadt 1954</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

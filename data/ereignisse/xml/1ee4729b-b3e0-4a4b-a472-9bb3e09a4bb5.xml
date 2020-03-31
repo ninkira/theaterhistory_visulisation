@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="1ee4729b-b3e0-4a4b-a472-9bb3e09a4bb5" type="Performance">
+    <groupingArgument actorID="ee75923d-a316-4a1b-b592-3da3165a1be0">Paganini+03.11.2018+Fischer, Karl</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Paganini</title>
+            <listObject>
+                <object id="IFT_OBJ_LK000050"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Metropol-Theater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LK000050"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>03.11.2018</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_LK000050"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Die Premiere unter der musikalischen Leitung von Karl Fischer findet im Rahmen der Wiedereröffnung des Metropol-Theaters in Berlin statt. Lucy Kieselhausen übernimmt jedoch nicht - wie sie in dem vorliegenden Brief angekündigt - die Rolle der Soubrette, sondern ist nur mit einer Tanzeinlage beteiligt. Der Gesangspart wird von Hella Kürty übernommen.</text>
+            <object id="IFT_OBJ_LK000050"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="11acac19-9b0a-41f1-acac-199b0aa1f19c">
+            <name>Kieselhausen, Lucy</name>
+            <id type="gnd">116169354</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9ea2ea7e-4300-4f6f-a2ea-7e43003f6fe8">
+            <name>Lehár, Franz</name>
+            <id type="gnd">118571036</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d8b1114d-6ef5-4fca-b111-4d6ef56fcab2">
+            <name>Lichtenstein, Eduard</name>
+            <id type="gnd">1059554992</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8fc996d3-c4f5-4de5-8996-d3c4f5bde52d">
+            <name>Kürty, Hella</name>
+            <id type="gnd">123738504</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ee75923d-a316-4a1b-b592-3da3165a1be0">
+            <name>Fischer, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="73fa8f66-1da0-44b7-ba8f-661da0b4b717">
+            <name>Kolbe, Gustav</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="66580743-009a-42a2-9807-43009a72a2e1">
+            <name>Trojanowski, Jan</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f3adf530-524d-43f5-adf5-30524db3f56a">
+            <name>Wilhelm, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="adc1808b-6f7a-4f45-8180-8b6f7acf4506">
+            <name>Jolan, Erny</name>
+            <id type="gnd">1021997749</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d2099914-9c87-44de-8999-149c87e4debc">
+            <name>Hell, Arthur</name>
+            <id type="gnd">1062477618</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f6eeaca7-6afa-4b59-aeac-a76afaab59c5">
+            <name>Hartenfels, Adolf</name>
+            <id type="gnd">1061424162</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_LK000050" type="Autograf: Brief" aat="300026879">
+            <title>Brief von Lucy Kieselhausen an Lea Kieselhausen</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

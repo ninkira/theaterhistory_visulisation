@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="5928ab6c-29b9-4ba6-a8ab-6c29b94ba6cf" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">Freudiges Ereignis: Komödie in 3 Akten+16.09.1930+Ambach, Josef</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Freudiges Ereignis: Komödie in 3 Akten</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Freudiges Ereignis</title>
+            <listObject>
+                <object id="IFT_OBJ_JA000113"/>
+                <object id="IFT_OBJ_JA000112"/>
+                <object id="IFT_OBJ_JA000111"/>
+                <object id="IFT_KON_JA000006"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Frankfurt am Main</placeName>
+            <place type="Institution">
+                <placeName>Neues Theater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JA000113"/>
+                    <object id="IFT_OBJ_JA000112"/>
+                    <object id="IFT_OBJ_JA000111"/>
+                    <object id="IFT_KON_JA000006"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>16.09.1930</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JA000113"/>
+                    <object id="IFT_OBJ_JA000112"/>
+                    <object id="IFT_OBJ_JA000111"/>
+                    <object id="IFT_KON_JA000006"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Neuen Theaters Frankfurt</text>
+            <object id="IFT_OBJ_JA000113"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="7779be29-67d2-4759-b9be-2967d217599d">
+            <name>Neues Theater (Frankfurt am Main)</name>
+            <id type="gnd">4223280-6</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="4f28667e-c08f-442e-a866-7ec08fa42eeb">
+            <name>Dell, Floyd</name>
+            <id type="gnd">118671391</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="6f5caf2c-6458-40d0-9caf-2c645870d072">
+            <name>Mitchell, Thomas</name>
+            <id type="gnd">13210184X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3e1d1db6-ee6d-4347-9d1d-b6ee6d334741">
+            <name>Hoppe, Marianne</name>
+            <id type="gnd">11698225X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eee922a0-0b69-447e-a922-a00b69047ec7">
+            <name>Liessem, Wera</name>
+            <id type="gnd">1062304594</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d7c708c4-7eb2-44ce-8708-c47eb254ce02">
+            <name>Monnard, Else</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="00ead03c-33be-4f3b-aad0-3c33be9f3b97">
+            <name>Reiter, Annie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4eafa75b-3823-4f6b-afa7-5b3823ef6b97">
+            <name>Epskamp, Hans</name>
+            <id type="gnd">1062093755</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="900eeb34-8924-4e41-8eeb-3489248e41a6">
+            <name>Rühl, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38193060-80f6-4a33-9930-6080f64a33c5">
+            <name>Wittmann, Max</name>
+            <id type="gnd">117427713</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="745fae7c-e0ce-4cf8-9fae-7ce0ce1cf886">
+            <name>Arzdorf, Franz</name>
+            <id type="gnd">1050401050</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="45440f7c-93c6-4359-840f-7c93c6435972">
+            <name>Antburg, Hedy von</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0f9d803a-b853-4a3e-9d80-3ab8536a3ecd">
+            <name>Gantzert, Hella</name>
+            <id type="gnd">1061279391</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f39699a5-10a6-4c20-9699-a510a6cc204e">
+            <name>Sais, Tatjana</name>
+            <id type="gnd">106808885</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="4">
+        <object id="IFT_OBJ_JA000113" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Freudiges Ereignis" in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000112" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Freudiges Ereignis" in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000111" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Freudiges Ereignis" in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_KON_JA000006" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Konvolut Szenenfotografien zu "Freudiges Ereignis" in Frankfurt am Main 1930</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

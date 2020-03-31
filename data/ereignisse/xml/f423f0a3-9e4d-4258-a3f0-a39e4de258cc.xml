@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="f423f0a3-9e4d-4258-a3f0-a39e4de258cc" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Die Heiratsvermittlerin+04.01.1956+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Die Heiratsvermittlerin</title>
+            <listObject>
+                <object id="TWS_OBJ0000127"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Landestheater Darmstadt</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000127"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>04.01.1956</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000127"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Erstaufführung</text>
+            <object id="TWS_OBJ0000127"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="57d285bc-f174-4b52-9285-bcf1749b52fd">
+            <name>Joeres, Charlotte</name>
+            <id type="gnd">134633792</id>
+            <roleActor>
+                <role type="Rolle">Mrs. Irene Molloy, Putzmacherin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">August</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="39169fad-3803-410b-969f-ad3803310b68">
+            <name>Böhm, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="a0cc5b93-584b-4628-8c5b-93584b262883">
+            <name>Fendel, Rosemarie</name>
+            <id type="gnd">124725287</id>
+            <roleActor>
+                <role type="Rolle">Minnie Fay</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c15caee7-0159-4a06-9cae-e701595a066f">
+            <name>Helfmann, Alexander</name>
+            <id type="gnd">1141080273</id>
+            <roleActor>
+                <role type="Rolle">ein Lohnkutscher</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="035551b2-7871-46b6-9551-b27871c6b69c">
+            <name>Herder, Johann Gottfried von</name>
+            <id type="gnd">118549553</id>
+            <roleActor>
+                <role>Übersetzer</role>
+            </roleActor>
+        </actor>
+        <actor id="f9052409-d0e3-423b-8524-09d0e3623bb5">
+            <name>Krug, Ellen</name>
+            <id type="gnd">1061646645</id>
+            <roleActor>
+                <role type="Rolle">Miß Floria van Hyusen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="788deb1e-ad46-4234-8deb-1ead46123441">
+            <name>König, Brigitte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mrs. Dolly Lewin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="cd3983cf-ee12-493d-b983-cfee12693de6">
+            <name>Leyrer, Willy</name>
+            <id type="gnd">1061403572</id>
+            <roleActor>
+                <role type="Rolle">Horace Vandergelder</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a7a54dd4-b171-438c-a54d-d4b171d38cf7">
+            <name>Madin, Hans</name>
+            <id type="gnd">1062269985</id>
+            <roleActor>
+                <role type="Rolle">Rudolph</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="67c225b5-156c-42bf-8225-b5156cc2bf4a">
+            <name>Meißner, Käthe</name>
+            <id type="gnd">126389055</id>
+            <roleActor>
+                <role type="Rolle">Gertrude und Miß van Huysens Köchin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da9f16cd-ce19-446e-9f16-cdce19846efb">
+            <name>Mittelhaus, Gerhard</name>
+            <id type="gnd">1062011414</id>
+            <roleActor>
+                <role type="Rolle">Joe Scanlon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5b1f66a7-2b58-49e8-9f66-a72b5819e8bb">
+            <name>Müller, Raidar</name>
+            <id type="gnd">1061745511</id>
+            <roleActor>
+                <role type="Rolle">Ambrose Kemper</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="41c1242a-596d-4512-8124-2a596db5127c">
+            <name>Saussen, Edmund</name>
+            <id type="gnd">1061370453</id>
+            <roleActor>
+                <role type="Rolle">Malachi Stack</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8b3c2a24-e73c-4768-bc2a-24e73c076880">
+            <name>Schiemer, Marie-Louise</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ermengarde, Vandergelders Nichte</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3eb0d4d8-7a37-4d06-b0d4-d87a37dd06e9">
+            <name>Steiger, Klaus</name>
+            <id type="gnd">110419287X</id>
+            <roleActor>
+                <role type="Rolle">Cornelius Hackl</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cf4f9039-f960-4058-8f90-39f960605876">
+            <name>Tieck, Dorothea</name>
+            <id type="gnd">11737606X</id>
+            <roleActor>
+                <role>Übersetzerin</role>
+            </roleActor>
+        </actor>
+        <actor id="11f8ca36-2e4a-4712-b8ca-362e4a4712ae">
+            <name>Traser, Kurt</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Seyton</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a54cda70-1e76-4a96-8cda-701e763a965f">
+            <name>Weiker, Hans</name>
+            <id type="gnd">1055072586</id>
+            <roleActor>
+                <role type="Rolle">Barnaby Tucker</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000127" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Die Heiratsvermittlerin" in Darmstadt 1956</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Erstaufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>Die Heiratsvermittlerin</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Darmstadt</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Landestheater Darmstadt</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000127"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>04.01.1956</eventDate>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList>
+                <actor id="e949e404-4e9e-4f7e-89e4-044e9e9f7e79">
+                    <name>Landestheater Darmstadt</name>
+                    <id type="gnd">2002342-X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Produktion (Theater)</role>
+                    </roleActor>
+                </actor>
+                <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+                    <name>Shakespeare, William</name>
+                    <id type="gnd">118613723</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+                    <name>Sellner, Gustav Rudolf</name>
+                    <id type="gnd">117479276</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Regisseur_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

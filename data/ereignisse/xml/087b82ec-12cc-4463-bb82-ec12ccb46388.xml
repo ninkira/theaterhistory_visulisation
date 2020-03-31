@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="087b82ec-12cc-4463-bb82-ec12ccb46388" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Maria Stuart+23.05.1951+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Maria Stuart</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Maria Stuart</title>
+            <listObject>
+                <object id="TWS_OBJ0000076"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Essen</placeName>
+            <place type="Institution">
+                <placeName>Die Bühnen der Stadt</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000076"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>23.05.1951</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000076"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Neueinstudierung</text>
+            <object id="TWS_OBJ0000076"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Wilhelm Davison, Staatssekretär</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e81ae2f6-f643-4457-9ae2-f6f643b4578f">
+            <name>Arnswald, Günter</name>
+            <id type="gnd">1090807988</id>
+            <roleActor>
+                <role type="Rolle">Graf Bellievre, außerordentlicher Botschaft von Frankreich</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2bd23a22-3080-4cd4-923a-2230808cd43a">
+            <name>Asendorf, Charlotte</name>
+            <id type="gnd">1061552543</id>
+            <roleActor>
+                <role type="Rolle">Margarete Kurl, Kammerfrau der Maria</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4259405f-0bec-4526-9940-5f0becc526e2">
+            <name>Bauer, Karl Dr.</name>
+            <id type="gnd">116085347</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="c320c20b-8bbc-4ab4-a0c2-0b8bbc4ab402">
+            <name>Bieler, Margot</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Maria Stuart, Königin von Schottland, Gefangene in England</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a9c25889-6e40-483d-8258-896e40083d9c">
+            <name>Clairmont, Berni</name>
+            <id type="gnd">136682170</id>
+            <roleActor>
+                <role type="Rolle">Hanna Kennedy, Amme der Maria</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b0ec4754-6d2d-49db-ac47-546d2d99dbe4">
+            <name>Clausen, Claus</name>
+            <id type="gnd">116540028</id>
+            <roleActor>
+                <role type="Rolle">Wilhelm Cecil, Baron von Burleigh, Großschatzmeister</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="108eb185-d724-4b89-8eb1-85d7246b89f5">
+            <name>Die Bühnen der Stadt Essen</name>
+            <id type="gnd">4204085-1</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="d4291700-a9e8-48ea-a917-00a9e848eadb">
+            <name>Dietz, Ernst</name>
+            <id type="gnd">116116390</id>
+            <roleActor>
+                <role type="Rolle">Robert Dudley, Graf von Leicester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4041a7f0-ae89-424d-81a7-f0ae89624d4c">
+            <name>Jäger, Elsbeth</name>
+            <id type="gnd">1050486358</id>
+            <roleActor>
+                <role type="Rolle">Elisabeth, Königin von England</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57c80a2b-cdbb-4657-880a-2bcdbbc65762">
+            <name>Lick, Karlheinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="84156c01-d7cd-437d-956c-01d7cdd37d85">
+            <name>Loges, Hannes</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Graf von Kent</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a6e5be48-90b3-4d6e-a5be-4890b37d6e4c">
+            <name>Lübke, Lucian</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Melvil, Haushofmeister der Maria</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="faba7182-2d43-479b-ba71-822d43179b0f">
+            <name>Martell, Karl-Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Okelly, Mortimers Freund</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="07ec01ed-3872-4638-ac01-ed3872f6389c">
+            <name>Meinertzhagen, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Graf Aubespine, französischer Gesandter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5fd66472-e63d-4865-9664-72e63dc8652e">
+            <name>Ortmann, Friedhelm</name>
+            <id type="gnd">117149489</id>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="46088f68-de7a-4403-888f-68de7a340360">
+            <name>Reiß, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="4207e862-5493-4d98-87e8-6254932d9800">
+            <name>Romberg, Günther</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Drugeon Drury, zweiter Hüter der Maria</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0c71d2d8-10cb-4f7b-b1d2-d810cb6f7b37">
+            <name>Schiller, Friedrich</name>
+            <id type="gnd">118607626</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="376e598a-4d99-4460-ae59-8a4d99d460db">
+            <name>Schirlitz, Wolfgang</name>
+            <id type="gnd">1061881652</id>
+            <roleActor>
+                <role type="Rolle">Georg Talbot, Graf von Shrewsbury</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0764677e-f650-4319-a467-7ef65023197a">
+            <name>Wilfert, Bernhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Amias Paulet, Ritter, Hüter der Maria</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="74f8b644-061f-45d5-b8b6-44061f05d550">
+            <name>Wolf, Andreas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mortimer, Neffe des Amias Paulet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000076" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Programmzettel zu Maria Stuart in Essen 1951</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

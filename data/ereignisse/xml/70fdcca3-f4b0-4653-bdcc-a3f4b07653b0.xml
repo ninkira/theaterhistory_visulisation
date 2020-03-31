@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="70fdcca3-f4b0-4653-bdcc-a3f4b07653b0" type="Performance">
+    <groupingArgument actorID="5f3d8635-96c0-450a-bd86-3596c0750ae8">bist Du!, Das+27.08.1927+Hollaender, Friedrich</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>bist Du!, Das</title>
+            <listObject>
+                <object id="IFT_OBJ_LK000052"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Theater am Kurfürstendamm</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LK000052"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>27.08.1927</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_LK000052"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Operetteninszenierung des Theaters am Kurfürstendamm</text>
+            <object id="IFT_OBJ_LK000052"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="5f3d8635-96c0-450a-bd86-3596c0750ae8">
+            <name>Hollaender, Friedrich</name>
+            <id type="gnd">118706489</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>Komponist_in des inszenierten Werks</role>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="11acac19-9b0a-41f1-acac-199b0aa1f19c">
+            <name>Kieselhausen, Lucy</name>
+            <id type="gnd">116169354</id>
+            <roleActor>
+                <role>Zuschauer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="2bdbd978-3138-4fb5-9bd9-783138cfb507">
+            <name>Ebinger, Blandine</name>
+            <id type="gnd">118850806</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a6a2dd60-3636-4ea3-a2dd-603636fea3b6">
+            <name>Döblin, Herbert</name>
+            <id type="gnd">116152761</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="580d41d1-9c03-47b9-8d41-d19c0397b95c">
+            <name>Fischer-Köppe, Hugo</name>
+            <id type="gnd">1062310470</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e5a8e745-8134-4256-a8e7-45813422560e">
+            <name>Twardowski, Hans Heinrich von</name>
+            <id type="gnd">116173092</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2e0b3d8c-5349-4d65-8b3d-8c5349ad656b">
+            <name>Schafheitlin, Franz</name>
+            <id type="gnd">106369784</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="01ca66d5-bd94-4c4b-8a66-d5bd945c4b12">
+            <name>Palfi, Marion</name>
+            <id type="gnd">136197906</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2b08f898-60e5-4e9a-88f8-9860e5ce9a24">
+            <name>Ehser, Else</name>
+            <id type="gnd">116409703</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5f9a9c60-1ece-4a86-9a9c-601eceaa8699">
+            <name>Hase, Annemarie</name>
+            <id type="gnd">116510846</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="37236daf-6a21-45bd-a36d-af6a2145bd36">
+            <name>Kosleck, Martin</name>
+            <id type="gnd">139171835</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="847343fe-e018-4505-b343-fee018750541">
+            <name>Weintraubs Syncopators</name>
+            <id type="gnd">4696496-4</id>
+            <roleActor>
+                <role>Jazzband</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_LK000052" type="Autograf: Brief" aat="300026879">
+            <title>Brief von Lucy Kieselhausen an Lea Kieselhausen</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

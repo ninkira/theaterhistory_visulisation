@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="d565f7e6-5760-4ec8-a5f7-e657608ec859" type="Performance">
+    <groupingArgument actorID="">Faust+1908+</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Faust</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Faust I</title>
+            <listObject>
+                <object id="TWS_OBJ0000691"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000691"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>1908</premier>
+            <time from="1908" to="1908">
+                <listObject>
+                    <object id="TWS_OBJ0000691"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="1c03f344-eff3-42b7-83f3-44eff372b7ae">
+            <name>Goethe, Johann Wolfgang von</name>
+            <id type="gnd">118540238</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8865a33e-1841-4589-a5a3-3e184145893a">
+            <name>Wunderwald, Gustav</name>
+            <id type="gnd">118635611</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000691" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Gustav Wunderwald</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

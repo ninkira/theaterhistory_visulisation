@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="f89924d6-b7db-44c4-9924-d6b7dbb4c43f" type="Performance">
+    <groupingArgument actorID="">Ein Glas Wasser+14.05.1937+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Ein Glas Wasser</title>
+            <listObject>
+                <object id="TWS_OBJ0000098"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Oldenburg</placeName>
+            <place type="Institution">
+                <placeName>Oldenburg, Landestheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000098"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>14.05.1937</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000098"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Anrechtausstellung 14.05.1937</text>
+            <object id="TWS_OBJ0000098"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="23236916-e9ee-4038-a369-16e9ee4038e6">
+            <name>Adelberger, Waldemar</name>
+            <id type="gnd">1061825477</id>
+            <roleActor>
+                <role type="Rolle">Zeremonienmeister</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f4e7c137-7e3a-4549-a7c1-377e3a654923">
+            <name>Döhler, Erich</name>
+            <id type="gnd">105323721</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="58cb6046-ae56-412a-8b60-46ae56712a7e">
+            <name>Faber du Faur, Annemarie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Anna, Königin von England</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d00db70f-bc9c-4010-8db7-0fbc9c701004">
+            <name>Gotthold, Hansernst</name>
+            <id type="gnd">1112818456</id>
+            <roleActor>
+                <role type="Rolle">Sir Harley, Graf von Oxford</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a3ce1658-776d-4ef8-8e16-58776d5ef8d2">
+            <name>Harder, Karl-Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">2. Parlamentsmitglied</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7734bdde-8dce-4f7f-b4bd-de8dceef7fa4">
+            <name>Holterhoff, Maria</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lady Churchill</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8a626e60-fc2d-41fa-a26e-60fc2d21fac7">
+            <name>Hückel, Rudolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">1. Parlamentsmitglied</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0a162dc2-7e93-42a7-962d-c27e9392a7d0">
+            <name>Knotte, Elfriede</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lady Abercrombie</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da9f16cd-ce19-446e-9f16-cdce19846efb">
+            <name>Mittelhaus, Gerhard</name>
+            <id type="gnd">1062011414</id>
+            <roleActor>
+                <role type="Rolle">Heinrich von St. John</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c50de619-8251-431d-8de6-198251c31d07">
+            <name>Orth, Walter</name>
+            <id type="gnd">1061579050</id>
+            <roleActor>
+                <role type="Rolle">Thomson, Kammerdiener der Königin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c3b8ab4b-a9dc-4413-b8ab-4ba9dc3413c7">
+            <name>Pfahl, Artur</name>
+            <id type="gnd">127053654</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="a48facb0-96fd-4e57-8fac-b096fdce57be">
+            <name>Schützendorf, Lore</name>
+            <id type="gnd">1062015053</id>
+            <roleActor>
+                <role type="Rolle">Abigail Churchill</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5b5b7951-a83e-412c-9b79-51a83e012cce">
+            <name>Scribe, Eugène</name>
+            <id type="gnd">118612425</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6baaa5d7-a6bb-439f-aaa5-d7a6bb939fb2">
+            <name>Steiniger, Herbert</name>
+            <id type="gnd">1061287157</id>
+            <roleActor>
+                <role type="Rolle">Marquis von Toren</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="575b9323-8bc2-493b-9b93-238bc2893b73">
+            <name>Thorwek, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Masham, Fähnrich im Garderegiment</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000098" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Ein Glas Wasser"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

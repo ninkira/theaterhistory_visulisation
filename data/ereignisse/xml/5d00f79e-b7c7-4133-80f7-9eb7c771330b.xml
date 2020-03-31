@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="5d00f79e-b7c7-4133-80f7-9eb7c771330b" type="Performance">
+    <groupingArgument actorID="ce550677-d32f-4244-9506-77d32fe24421">Orphée aux enfers++Lingen, Heinz</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Orphée aux enfers</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Orpheus in der Unterwelt</title>
+            <listObject>
+                <object id="IFT_KON_HL000004"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Kassel</placeName>
+            <place type="Institution">
+                <placeName>Staatstheater</placeName>
+                <listObject>
+                    <object id="IFT_KON_HL000004"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1951" to="1951">
+                <listObject>
+                    <object id="IFT_KON_HL000004"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Operetteninszenierung des Kasseler Staatstheaters, Heinz Lingen als Gastregisseur</text>
+            <object id="IFT_KON_HL000004"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="d2f7e18c-0426-4d06-b7e1-8c04269d0689">
+            <name>Conzen, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Herkules</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="13f5f8f9-aedd-4c06-b5f8-f9aedd4c06ea">
+            <name>Crémieux, Hector</name>
+            <id type="gnd">119545438</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f4e7c137-7e3a-4549-a7c1-377e3a654923">
+            <name>Döhler, Erich</name>
+            <id type="gnd">105323721</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cd582f13-c337-4bdf-982f-13c3379bdf5a">
+            <name>Ebhardt, Karl</name>
+            <id type="gnd">116332808</id>
+            <roleActor>
+                <role type="Rolle">Bacchus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6573f7d9-54ee-44da-b3f7-d954ee44da25">
+            <name>Gyl, Cara</name>
+            <id type="gnd">116937971</id>
+            <roleActor>
+                <role type="Rolle">Die öffentliche Meinung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0fb895f8-4317-4b19-b895-f843179b19cc">
+            <name>Halévy, Ludovic</name>
+            <id type="gnd">118919660</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="83bdb158-8a60-45fe-bdb1-588a6095fe50">
+            <name>Hanke, Wolf</name>
+            <id type="gnd">121494942</id>
+            <roleActor>
+                <role type="Rolle">Mars, Gott des Krieges</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="02710d01-cc46-4b91-b10d-01cc460b9194">
+            <name>Kühnholz, Margarete</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ce550677-d32f-4244-9506-77d32fe24421">
+            <name>Lingen, Heinz</name>
+            <id type="gnd">106194171X</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Bearbeiter_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="181836eb-9d8d-4667-9836-eb9d8d5667e2">
+            <name>Mauthe, Karlheinz</name>
+            <id type="gnd">1061801616</id>
+            <roleActor>
+                <role type="Rolle">Styx</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="946db020-5216-4e81-adb0-205216ce81b7">
+            <name>Mock, Joachim</name>
+            <id type="gnd">117066206</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="80a09441-80b2-4e96-a094-4180b26e96e7">
+            <name>Motschach, Hermann</name>
+            <id type="gnd">1062448448</id>
+            <roleActor>
+                <role type="Rolle">Morpheus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="52cf100d-898b-42f0-8f10-0d898b12f0c5">
+            <name>Möller, Trudel</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Diana, Göttin der Jagd</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="42aae1ed-dd60-4674-aae1-eddd608674f6">
+            <name>Mörbitz, Kurt</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Jupiter, oberster Gott, Herr des Olymp</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="298eec5c-7a20-4186-8eec-5c7a20f186d0">
+            <name>Offenbach, Jacques</name>
+            <id type="gnd">118589598</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e3772990-9efc-4d24-b729-909efcdd2440">
+            <name>Pfitzner, Ellen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Eurydike</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0eddf50b-7c0f-47c7-9df5-0b7c0fe7c79e">
+            <name>Schneider, Bert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Orpheus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7c416321-3578-41ee-8163-213578a1eef9">
+            <name>Staatstheater Kassel</name>
+            <id type="gnd">2022470-9</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="3437a9ff-6ead-485f-b7a9-ff6ead485fe1">
+            <name>Söhning, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Pluto, Aristäus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6f957848-fe30-4802-9578-48fe30a80237">
+            <name>Tandar, Trude</name>
+            <id type="gnd">1061702898</id>
+            <roleActor>
+                <role type="Rolle">Juno</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2a11a9d9-1b6a-4170-91a9-d91b6a917044">
+            <name>Vibach, Karl</name>
+            <id type="gnd">138754608</id>
+            <roleActor>
+                <role type="Rolle">Apollo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6b937785-d653-44c6-9377-85d653c4c625">
+            <name>Wunderlich, Hans Joachim</name>
+            <id type="gnd">134561759</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_KON_HL000004" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritikenkonvolut zu "Orpheus in der Unterwelt" in Kassel 1951</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

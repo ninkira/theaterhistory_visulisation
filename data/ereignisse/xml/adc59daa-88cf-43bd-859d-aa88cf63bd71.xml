@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="adc59daa-88cf-43bd-859d-aa88cf63bd71" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">Konto X, Das : Ein Stück von Liebe und anderen unmodernen Dingen in 3 Akten+16.08.1930+Ambach, Josef</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Konto X, Das : Ein Stück von Liebe und anderen unmodernen Dingen in 3 Akten</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Konto X, Das</title>
+            <listObject>
+                <object id="IFT_OBJ_JA000110"/>
+                <object id="IFT_OBJ_JA000109"/>
+                <object id="IFT_OBJ_JA000108"/>
+                <object id="IFT_OBJ_JA000107"/>
+                <object id="IFT_OBJ_JA000106"/>
+                <object id="IFT_OBJ_JA000048"/>
+                <object id="IFT_OBJ_JA000047"/>
+                <object id="IFT_OBJ_JA000046"/>
+                <object id="IFT_KON_JA000005"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Frankfurt am Main</placeName>
+            <place type="Institution">
+                <placeName>Neues Theater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JA000110"/>
+                    <object id="IFT_OBJ_JA000109"/>
+                    <object id="IFT_OBJ_JA000108"/>
+                    <object id="IFT_OBJ_JA000107"/>
+                    <object id="IFT_OBJ_JA000106"/>
+                    <object id="IFT_OBJ_JA000048"/>
+                    <object id="IFT_OBJ_JA000047"/>
+                    <object id="IFT_OBJ_JA000046"/>
+                    <object id="IFT_KON_JA000005"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>16.08.1930</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JA000110"/>
+                    <object id="IFT_OBJ_JA000109"/>
+                    <object id="IFT_OBJ_JA000108"/>
+                    <object id="IFT_OBJ_JA000107"/>
+                    <object id="IFT_OBJ_JA000106"/>
+                    <object id="IFT_OBJ_JA000048"/>
+                    <object id="IFT_OBJ_JA000047"/>
+                    <object id="IFT_OBJ_JA000046"/>
+                    <object id="IFT_KON_JA000005"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Neuen Theaters Frankfurt</text>
+            <object id="IFT_OBJ_JA000110"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung des Neuen Theaters Frankfurt am Main</text>
+            <object id="IFT_OBJ_JA000048"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="7779be29-67d2-4759-b9be-2967d217599d">
+            <name>Neues Theater (Frankfurt am Main)</name>
+            <id type="gnd">4223280-6</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="95fba391-f632-4a23-bba3-91f632fa2330">
+            <name>Bernauer, Rudolf</name>
+            <id type="gnd">118656295</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f3c834c1-137a-4cfe-8834-c1137a6cfeac">
+            <name>Oesterreicher, Rudolf</name>
+            <id type="gnd">11710776X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3e1d1db6-ee6d-4347-9d1d-b6ee6d334741">
+            <name>Hoppe, Marianne</name>
+            <id type="gnd">11698225X</id>
+            <roleActor>
+                <role type="Rolle">Ulli von Waldhofen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eee922a0-0b69-447e-a922-a00b69047ec7">
+            <name>Liessem, Wera</name>
+            <id type="gnd">1062304594</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d7c708c4-7eb2-44ce-8708-c47eb254ce02">
+            <name>Monnard, Else</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="00ead03c-33be-4f3b-aad0-3c33be9f3b97">
+            <name>Reiter, Annie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Exzcellenzin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="adfc6c34-08c1-4656-bc6c-3408c12656c0">
+            <name>Bergmann, Hellmuth</name>
+            <id type="gnd">1053234562</id>
+            <roleActor>
+                <role type="Rolle">Dr. Schiller</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="efa67d0b-9464-485d-a67d-0b9464f85d0d">
+            <name>Dorner, Erich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4eafa75b-3823-4f6b-afa7-5b3823ef6b97">
+            <name>Epskamp, Hans</name>
+            <id type="gnd">1062093755</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d9517277-b89a-416b-9172-77b89ae16b50">
+            <name>Lüders, Günther</name>
+            <id type="gnd">118747398</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="900eeb34-8924-4e41-8eeb-3489248e41a6">
+            <name>Rühl, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Korvettenkapitän</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e6faee9f-32e2-42af-baee-9f32e2e2afc4">
+            <name>Stelzer, Hannes</name>
+            <id type="gnd">1062467388</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38193060-80f6-4a33-9930-6080f64a33c5">
+            <name>Wittmann, Max</name>
+            <id type="gnd">117427713</id>
+            <roleActor>
+                <role type="Rolle">Bürovorsteher Reißnagel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0400f7f8-09ad-4079-80f7-f809ada079ee">
+            <name>Schwarz, Gerhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="9">
+        <object id="IFT_OBJ_JA000110" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Das Konto X" in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000109" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Das Konto X" in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000108" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Das Konto X" in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000107" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Das Konto X" in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000106" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Das Konto X" in Frankfurt am Main 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000048" type="Autograf: Brief" aat="300026879">
+            <title>Brief von Josef Ambach an Lucie Strassfeld-Kaiser 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000047" type="Autograf: Brief" aat="300026879">
+            <title>Brief von Arthur Hellmer an Josef Ambach 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000046" type="Autograf: Brief" aat="300026879">
+            <title>Brief von Büro Hellmer an Josef Ambach 1930</title>
+        </object>
+        <object id="IFT_KON_JA000005" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Konvolut Szenenfotografien zu "Das Konto X" in Frankfurt am Main 1930</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

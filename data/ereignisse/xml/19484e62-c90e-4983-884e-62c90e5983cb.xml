@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="19484e62-c90e-4983-884e-62c90e5983cb" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Fidelio+07.11.1962+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Fidelio</title>
+            <listObject>
+                <object id="TWS_OBJ0000092"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsche Oper Berlin</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000092"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>07.11.1962</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000092"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="71e054ec-ea17-40cb-a054-ecea1710cbc9">
+            <name>Hagen-Groll, Walter</name>
+            <id type="gnd">13229057X</id>
+            <roleActor>
+                <role>Chorleiter</role>
+            </roleActor>
+        </actor>
+        <actor id="50a57412-1c65-4789-a574-121c6507895b">
+            <name>Röhrl, Manfred</name>
+            <id type="gnd">132411989</id>
+            <roleActor>
+                <role type="Rolle">Zweiter Gefangener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="28196469-a843-4a92-9964-69a8437a92ec">
+            <name>Treitschke, Georg Friedrich</name>
+            <id type="gnd">117409030</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="16412fa4-1c9c-4058-812f-a41c9c305871">
+            <name>Beethoven, Ludwig van</name>
+            <id type="gnd">135916488</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="695ed0fb-c1ec-483c-9ed0-fbc1eca83c09">
+            <name>Berry, Walter</name>
+            <id type="gnd">118656643</id>
+            <roleActor>
+                <role type="Rolle">Don Pizarro</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fec4483c-7aee-47f6-8448-3c7aeed7f6a6">
+            <name>Bouilly, Jean Nicolas</name>
+            <id type="gnd">118864815</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4553071e-971a-4a0e-9307-1e971a1a0eb8">
+            <name>Greindl, Josef</name>
+            <id type="gnd">123193931</id>
+            <roleActor>
+                <role type="Rolle">Rocco</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="10cbe8f9-6eea-414b-8be8-f96eea814b5c">
+            <name>Grobe, Donald</name>
+            <id type="gnd">13439142X</id>
+            <roleActor>
+                <role type="Rolle">Jaquino</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c2d9eb34-1470-4594-99eb-341470f59465">
+            <name>King, James</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Florestan</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f5166dae-1f13-4f78-966d-ae1f13bf7876">
+            <name>Lehmann, Peter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="280c2853-0511-4839-8c28-530511183993">
+            <name>Ludwig, Christa</name>
+            <id type="gnd">118729489</id>
+            <roleActor>
+                <role type="Rolle">Leonore</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="45344817-d72f-4398-b448-17d72fa39832">
+            <name>McDaniel, Barry</name>
+            <id type="gnd">124150675</id>
+            <roleActor>
+                <role type="Rolle">erster Gefangener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="114c2c73-ada5-4dcb-8c2c-73ada5adcb94">
+            <name>Otto, Lisa</name>
+            <id type="gnd">128989424</id>
+            <roleActor>
+                <role type="Rolle">Marzellina</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1fb1ce29-621a-4bd5-b1ce-29621aabd5b8">
+            <name>Reinking, Wilhelm</name>
+            <id type="gnd">118599496</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="21e9963d-ebac-484e-a996-3debacf84e0a">
+            <name>Rother, Artur</name>
+            <id type="gnd">116640960</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="f7e77695-3a28-45ce-a776-953a2825cefb">
+            <name>Sonnleithner, Joseph</name>
+            <id type="gnd">104332042</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f866e88f-45df-42d7-a6e8-8f45df62d70d">
+            <name>Talvela, Martti</name>
+            <id type="gnd">124057810</id>
+            <roleActor>
+                <role type="Rolle">Don Fernando</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000092" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Fidelio"</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Persönlicher Kontakt / Zusammenkunft">
+            <listTitle>
+                <titleStmt>
+                    <title>Anlässlich der 50. Wiederkehr des Eöffnungstages der Charlottenburger Oper</title>
+                </titleStmt>
+            </listTitle>
+            <listDate/>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList/>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

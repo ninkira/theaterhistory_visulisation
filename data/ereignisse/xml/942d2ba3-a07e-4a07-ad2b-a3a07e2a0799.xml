@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="942d2ba3-a07e-4a07-ad2b-a3a07e2a0799" type="Performance">
+    <groupingArgument actorID="d6d880d1-dd5f-4d2d-9880-d1dd5f3d2d0b">Maria Stuart+20.02.1940+Falckenberg, Otto</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Maria Stuart</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000036"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000036"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>20.02.1940</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000036"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theateraufführung der Münchner Kammerspiele, Premiere</text>
+            <object id="IFT_OBJ_HW000036"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e0961776-169b-40a6-9617-76169bd0a6e2">
+            <name>Münchner Kammerspiele</name>
+            <id type="gnd">2068173-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="76306200-f74e-4a3e-b062-00f74e1a3e31">
+            <name>Schiller, Friedrich von</name>
+            <id type="gnd">118607626</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d6d880d1-dd5f-4d2d-9880-d1dd5f3d2d0b">
+            <name>Falckenberg, Otto</name>
+            <id type="gnd">118531832</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Theaterleiter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="4575ce75-53b4-45d9-b5ce-7553b4f5d9e4">
+            <name>Sturm, Eduard</name>
+            <id type="gnd">118531832</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="23ab71d9-5d92-45f0-ab71-d95d92f5f045">
+            <name>Kopp, Mila</name>
+            <id type="gnd">116141247</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f6cf1805-4daf-4bb6-8f18-054daf2bb64c">
+            <name>Mertens, Hanne</name>
+            <id type="gnd">1062100794</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9a6636c8-38f6-4c92-a636-c838f60c92c9">
+            <name>Domin, Friedrich</name>
+            <id type="gnd">116176601</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9d64db19-9312-4d2a-a4db-1993129d2a0a">
+            <name>Wery, Carl</name>
+            <id type="gnd">117308064</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38d230af-e70e-44e7-9230-afe70ec4e7e6">
+            <name>Eckard, Max</name>
+            <id type="gnd">1054311692</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000036" type="Fotografie: Album" aat="300026695">
+            <title>Fotoalbum Hedwig Wangel</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

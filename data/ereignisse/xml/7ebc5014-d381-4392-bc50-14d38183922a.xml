@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="7ebc5014-d381-4392-bc50-14d38183922a" type="Performance">
+    <groupingArgument actorID="d56eda19-7bce-429c-aeda-197bce729ca0">The Man from the Ministry+20.11.1951+Hoffmann-Harnisch, Wolfgang</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>The Man from the Ministry</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Herr vom Ministerium, Der</title>
+            <listObject>
+                <object id="IFT_OBJ_HL000026"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Komödie am Kurfürstendamm</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HL000026"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>20.11.1951</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HL000026"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Komödie am Kurfürstendamm</text>
+            <object id="IFT_OBJ_HL000026"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="ffccc720-7069-4100-8cc7-207069b1005c">
+            <name>Komödie am Kurfürstendamm</name>
+            <id type="gnd">7562914-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="ce550677-d32f-4244-9506-77d32fe24421">
+            <name>Lingen, Heinz</name>
+            <id type="gnd">106194171X</id>
+            <roleActor>
+                <role type="Rolle">Stadtrat Fox</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="aa732732-c14d-4061-b327-32c14de06188">
+            <name>Wenck, Ewald</name>
+            <id type="gnd">1045035890</id>
+            <roleActor>
+                <role type="Rolle">Higgins, Gemeindesekretär in Bellington</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="54c62881-f8d6-42b9-8628-81f8d612b9d3">
+            <name>Rose, Willi</name>
+            <id type="gnd">11660929X</id>
+            <roleActor>
+                <role type="Rolle">George Stockton, Ziegeleibesitzer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="367288ac-d8a1-47e6-b288-acd8a147e664">
+            <name>Tiedtke, Jakob</name>
+            <id type="gnd">117377066</id>
+            <roleActor>
+                <role type="Rolle">Hooper, Bürgermeister von Bellington</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="03b12bbd-4454-4ed7-b12b-bd44540ed75d">
+            <name>Bingham, Madeleine</name>
+            <id type="gnd">1053074700</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="7126d867-0503-4eed-a6d8-670503beed29">
+            <name>Braun, Curt J.</name>
+            <id type="gnd">104688750</id>
+            <roleActor>
+                <role>Übersetzer_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d56eda19-7bce-429c-aeda-197bce729ca0">
+            <name>Hoffmann-Harnisch, Wolfgang</name>
+            <id type="gnd">116483733</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Bearbeiter_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="7a7f0698-914a-4c1e-bf06-98914a5c1ee9">
+            <name>Mücke, René</name>
+            <id type="gnd">1062348613</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="56655188-f6ff-4e5b-a551-88f6ff2e5b97">
+            <name>Höling, Ann</name>
+            <id type="gnd">133467058</id>
+            <roleActor>
+                <role type="Rolle">Violet Weston, Journalistin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b506dfbb-06e3-4ac3-86df-bb06e3dac3ba">
+            <name>Gebühr, Otto</name>
+            <id type="gnd">124979610</id>
+            <roleActor>
+                <role type="Rolle">Der Minister</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="745fae7c-e0ce-4cf8-9fae-7ce0ce1cf886">
+            <name>Arzdorf, Franz</name>
+            <id type="gnd">1050401050</id>
+            <roleActor>
+                <role type="Rolle">S. A. D. 2, Mr. Vincent</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1400cc47-9fa1-4a21-80cc-479fa1da21f4">
+            <name>Hamann, Charlotte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Elsie, Sekretärin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8b1c8da5-14b5-44ba-9c8d-a514b5b4ba0f">
+            <name>Prothmann, Ingrid</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Phyllis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e4b32cc9-ea9e-4c4c-b32c-c9ea9edc4cca">
+            <name>Nimbach, Ruth</name>
+            <id type="gnd">1061976475</id>
+            <roleActor>
+                <role type="Rolle">Katie Jones</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="138792b5-96f3-460e-8792-b596f3f60e44">
+            <name>Harnisch, Wolf</name>
+            <id type="gnd">11648375X</id>
+            <roleActor>
+                <role type="Rolle">Sergeant Henry Brown</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="230a262f-c765-4959-8a26-2fc7658959c7">
+            <name>Braun, Lore</name>
+            <id type="gnd">109591457X</id>
+            <roleActor>
+                <role type="Rolle">Die Frau mit der Einholetasche</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HL000026" type="Publikation: Programmheft" aat="300027217">
+            <title>Programmheft zu "Der Herr vom Ministerium" in Berlin 1951</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

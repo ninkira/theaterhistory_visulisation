@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="e2e3c97a-6140-47a5-a3c9-7a614097a56a" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Ein Engel kommt nach Babylon+17.05.1956+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Ein Engel kommt nach Babylon</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Ein Engel kommt nach Babylon</title>
+            <listObject>
+                <object id="TWS_OBJ0000110"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Orangeriehaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000110"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>17.05.1956</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000110"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="df53798c-2f49-4e8f-9379-8c2f491e8faa">
+            <name>Amberger, Günter</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Ein Polizist</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c4017053-f20d-4b27-8170-53f20d8b2770">
+            <name>Arndt, Alfred</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Dritter Soldat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="54243512-8f39-4e50-a435-128f391e5009">
+            <name>Bremer, Klaus</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Erster Dichter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bd6c4c1b-7cd8-431d-ac4c-1b7cd8231d88">
+            <name>Böhm, Willy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="ccb0ffbe-76f3-472d-b0ff-be76f3872dee">
+            <name>Büttner, Elly</name>
+            <id type="gnd">1023863960</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dc53f8c5-51b6-4ead-93f8-c551b6feada7">
+            <name>Dürrenmatt, Friedrich</name>
+            <id type="gnd">118527908</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="7853523d-0c2a-4d1d-9352-3d0c2a8d1dcb">
+            <name>Gerdes, Günter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Kronprinz, Sohn des Nimrod und des Nebukadnezar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c15caee7-0159-4a06-9cae-e701595a066f">
+            <name>Helfmann, Alexander</name>
+            <id type="gnd">1141080273</id>
+            <roleActor>
+                <role type="Rolle">Erster Arbeiter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5d7f670-1a25-40ee-97f6-701a2510ee85">
+            <name>Hofer, Claus</name>
+            <id type="gnd">1061490157</id>
+            <roleActor>
+                <role type="Rolle">Nebukadnezar, König von Babylon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57d285bc-f174-4b52-9285-bcf1749b52fd">
+            <name>Joeres, Charlotte</name>
+            <id type="gnd">134633792</id>
+            <roleActor>
+                <role type="Rolle">Die Hetäre Tabtum</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f9052409-d0e3-423b-8524-09d0e3623bb5">
+            <name>Krug, Ellen</name>
+            <id type="gnd">1061646645</id>
+            <roleActor>
+                <role type="Rolle">Erste Arbeiterfrau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e949e404-4e9e-4f7e-89e4-044e9e9f7e79">
+            <name>Landestheater Darmstadt</name>
+            <id type="gnd">2002342-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="b987bc5d-b0e2-49ad-87bc-5db0e239adc9">
+            <name>Lübbert, Martin</name>
+            <id type="gnd">1061327752</id>
+            <roleActor>
+                <role type="Rolle">Der Obertheologe Utnapischtim</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a7a54dd4-b171-438c-a54d-d4b171d38cf7">
+            <name>Madin, Hans</name>
+            <id type="gnd">1062269985</id>
+            <roleActor>
+                <role type="Rolle">Der Bankier Enggibi</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da9f16cd-ce19-446e-9f16-cdce19846efb">
+            <name>Mittelhaus, Gerhard</name>
+            <id type="gnd">1062011414</id>
+            <roleActor>
+                <role type="Rolle">Der Erzminister</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ea8245c5-d85b-4cdf-8245-c5d85bbcdf05">
+            <name>Mohr, Jochen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zweiter Soldat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="791a3822-9bd9-4ba1-9a38-229bd92ba1d1">
+            <name>Müller-Elmau, Raidar</name>
+            <id type="gnd">1061745511</id>
+            <roleActor>
+                <role type="Rolle">Erster Soldat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1c178e5-9f55-4cc0-8178-e59f551cc060">
+            <name>Noack, Max</name>
+            <id type="gnd">1031177310</id>
+            <roleActor>
+                <role type="Rolle">Akki</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f993cef-8979-46b7-993c-ef897996b74b">
+            <name>Pruppacher, Rosmarie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Das Mädchen Kurrubi</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f407b8e1-c7f1-40cc-87b8-e1c7f140cc64">
+            <name>Reinmann, Ingrid</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Zweite Arbeiterfrau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57f536e8-98df-4506-b536-e898df850677">
+            <name>Rueffer, Alwin Michael</name>
+            <id type="gnd">118821458</id>
+            <roleActor>
+                <role type="Rolle">Der Engel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="41c1242a-596d-4512-8124-2a596db5127c">
+            <name>Saussen, Edmund</name>
+            <id type="gnd">1061370453</id>
+            <roleActor>
+                <role type="Rolle">Nimrod, Exkönig von Babylon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3eb0d4d8-7a37-4d06-b0d4-d87a37dd06e9">
+            <name>Steiger, Klaus</name>
+            <id type="gnd">110419287X</id>
+            <roleActor>
+                <role type="Rolle">Der Feierliche</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f334a29a-faa3-4b02-b4a2-9afaa34b0272">
+            <name>Stromberger, Robert</name>
+            <id type="gnd">134029658</id>
+            <roleActor>
+                <role type="Rolle">Zweiter Arbeiter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7a47b328-8806-4060-87b3-288806b060f6">
+            <name>Weber, Willi</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Zweiter Dichter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5caecbeb-9438-4976-aecb-eb9438f976c1">
+            <name>Weicker, Hans</name>
+            <id type="gnd">1055072586</id>
+            <roleActor>
+                <role type="Rolle">Der Eselmilchverkäufer Gimmil</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4cfae690-c3bf-4e67-bae6-90c3bf4e67c3">
+            <name>Wien, Herbert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Weinhändler Ali</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9ccbab01-1f98-4606-8bab-011f9856069e">
+            <name>Wiese, Peter von</name>
+            <id type="gnd">117753602</id>
+            <roleActor>
+                <role type="Rolle">Der General</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000110" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Ein Engel kommt nach Babylon" in Darmstadt 1956</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

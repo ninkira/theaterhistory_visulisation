@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="f1c2ddbd-3d11-42c7-82dd-bd3d11b2c7aa" type="Performance">
+    <groupingArgument actorID="bd877b75-813b-4966-877b-75813b2966ec">Liebeskönig, Der+17.10.1906+Milan, Emil</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Liebeskönig, Der</title>
+            <listObject>
+                <object id="TWS_OBJ0000234"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000234"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>17.10.1906</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000234"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="21779bab-c988-4247-b79b-abc98852470e">
+            <name>Greiner, Leo</name>
+            <id type="gnd">116830980</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Isabella</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bd877b75-813b-4966-877b-75813b2966ec">
+            <name>Milan, Emil</name>
+            <id type="gnd">117031410</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="5f0fb9e6-ea32-4193-8fb9-e6ea3291939a">
+            <name>Stern, Ernst</name>
+            <id type="gnd">118753614</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bb792b16-3044-4088-b92b-163044f088a1">
+            <name>Bermann, Friedrich</name>
+            <id type="gnd">116136383</id>
+            <roleActor>
+                <role>Musik</role>
+            </roleActor>
+        </actor>
+        <actor id="cbc6029d-f567-4deb-8602-9df5679deb2b">
+            <name>Wegener, Paul</name>
+            <id type="gnd">118765981</id>
+            <roleActor>
+                <role type="Rolle">Wladimir</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6c0c0d17-3c58-4793-8c0d-173c58a793fa">
+            <name>Henrich, George</name>
+            <id type="gnd">118690507</id>
+            <roleActor>
+                <role type="Rolle">Alphonso</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5d20605a-3933-4de0-a060-5a39335de04e">
+            <name>Winterstein, Eduard von</name>
+            <id type="gnd">118633864</id>
+            <roleActor>
+                <role type="Rolle">Lodislaus?</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="645e5999-ac66-473e-9e59-99ac66a73ede">
+            <name>Steinrück, Albert</name>
+            <id type="gnd">117263923</id>
+            <roleActor>
+                <role type="Rolle">Kunhardt v. Brabant</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="50601e69-2d76-4f47-a01e-692d768f47d1">
+            <name>Diegelmann, Wilhelm</name>
+            <id type="gnd">11610046X</id>
+            <roleActor>
+                <role type="Rolle">Miller</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1b37abd1-0226-4d91-b7ab-d102263d912b">
+            <name>Hartau, Ludwig</name>
+            <id type="gnd">11649008X</id>
+            <roleActor>
+                <role type="Rolle">Wladimirs Kanzler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="067f50db-53c0-450d-bf50-db53c0450d1c">
+            <name>Jacobi, Bernhard von</name>
+            <id type="gnd">117032719</id>
+            <roleActor>
+                <role type="Rolle">Fürst Jan Zaleski</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1b1ea67-d2f3-4d48-b1ea-67d2f38d4897">
+            <name>Lorm, Sidonie</name>
+            <id type="gnd">1062292707</id>
+            <roleActor>
+                <role type="Rolle">Melitta</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f8a2473f-376b-4503-a247-3f376b3503a4">
+            <name>Eysoldt, Gertrud</name>
+            <id type="gnd">119115522</id>
+            <roleActor>
+                <role type="Rolle">Marianne</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="221c111a-4cd6-4fba-9c11-1a4cd68fba03">
+            <name>Berger, Grete</name>
+            <id type="gnd">116131519</id>
+            <roleActor>
+                <role type="Rolle">Helene</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3bea46a9-712c-4df2-aa46-a9712cedf252">
+            <name>Korn, Gertrud</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lenore</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="49c58c8e-5f39-4516-858c-8e5f39a51662">
+            <name>Weirauch, Anna Elisabet</name>
+            <id type="gnd">118766333</id>
+            <roleActor>
+                <role type="Rolle">Clara</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="013b2806-09e3-4df8-bb28-0609e37df844">
+            <name>Schütz, Max</name>
+            <id type="gnd">117141151</id>
+            <roleActor>
+                <role type="Rolle">Ritter Wolfram</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3d7729fa-395b-484e-b729-fa395b484e87">
+            <name>Techel, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">1. Hellebardier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="49641deb-e877-49ad-a41d-ebe87749add7">
+            <name>Thorndike, Edith</name>
+            <id type="gnd">1066662584</id>
+            <roleActor>
+                <role type="Rolle">Gattin des Ritter Wolfram</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ef643371-996a-42d9-a433-71996a42d9cb">
+            <name>Scholz, Max</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">2. Hellebardier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f0e99fc-b70e-4149-8e99-fcb70e91493f">
+            <name>Gottowt, John</name>
+            <id type="gnd">1062117123</id>
+            <roleActor>
+                <role type="Rolle">Narr</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5b1de11d-a34b-42b5-9de1-1da34b12b5f7">
+            <name>Conradi, Paul</name>
+            <id type="gnd">1097218341</id>
+            <roleActor>
+                <role type="Rolle">Kurier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="acf997c1-c8cd-424d-b997-c1c8cdf24dd6">
+            <name>Feldhammer, Jacob</name>
+            <id type="gnd">126714703</id>
+            <roleActor>
+                <role type="Rolle">Junger Edelmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0da3aa15-2ae0-44df-a3aa-152ae014df7f">
+            <name>Grossmann, Richard</name>
+            <id type="gnd">116873299</id>
+            <roleActor>
+                <role type="Rolle">betrunkener Edelmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000234" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Fotografie zu "Der Liebeskönig" in Berlin 1906</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

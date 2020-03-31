@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="b1660927-4caa-46c5-a609-274caa96c5e1" type="Performance">
+    <groupingArgument actorID="9046c0ed-0db4-4abc-86c0-ed0db4cabc40">La guerre de Troie n'aura pas lieu+18.04.1947+Hasse, O. E.</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>La guerre de Troie n'aura pas lieu</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>trojanische Krieg findet nicht statt!, Der</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000020"/>
+                <object id="IFT_OBJ_HW000019"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Hebbel-Theater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000020"/>
+                    <object id="IFT_OBJ_HW000019"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>18.04.1947</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000020"/>
+                    <object id="IFT_OBJ_HW000019"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Hebbel-Theaters Berlin</text>
+            <object id="IFT_OBJ_HW000020"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Hekuba</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="552f6504-8ae2-422e-af65-048ae2222ec7">
+            <name>Hebbel-Theater (Berlin, West)</name>
+            <id type="gnd">3003010-9</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="d30ea27e-d86e-46b2-8ea2-7ed86e26b20a">
+            <name>Giraudoux, Jean</name>
+            <id type="gnd">118539523</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b169c28f-f226-4053-a9c2-8ff226205312">
+            <name>Borresholm, Boris von</name>
+            <id type="gnd">178854638</id>
+            <roleActor>
+                <role>Übersetzer_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="9046c0ed-0db4-4abc-86c0-ed0db4cabc40">
+            <name>Hasse, O. E.</name>
+            <id type="gnd">11854666X</id>
+            <roleActor>
+                <role type="Rolle">Odysseus</role>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7b824446-185e-497e-8244-46185e697e49">
+            <name>Kilger, Heinrich</name>
+            <id type="gnd">118722263</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b9d0c878-324b-409f-90c8-78324b309f8e">
+            <name>Müller, Robert</name>
+            <id type="gnd">117609889</id>
+            <roleActor>
+                <role type="Rolle">Priamus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eaf46f33-1291-4ee4-b46f-331291fee42b">
+            <name>Meisel, Kurt</name>
+            <id type="gnd">118991698</id>
+            <roleActor>
+                <role type="Rolle">Hektor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6739c68f-0478-49aa-b9c6-8f0478a9aa31">
+            <name>Weisgerber, Antje</name>
+            <id type="gnd">116467754</id>
+            <roleActor>
+                <role type="Rolle">Andromache</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3a121906-cb61-429c-9219-06cb61929c8a">
+            <name>Holberg, Harald</name>
+            <id type="gnd">106150056X</id>
+            <roleActor>
+                <role type="Rolle">Paris</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6254e8f4-504d-4e50-94e8-f4504d1e501e">
+            <name>Säuberlich, Lu</name>
+            <id type="gnd">1065933975</id>
+            <roleActor>
+                <role type="Rolle">Kassandra</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c893a62a-d2cd-445e-93a6-2ad2cd045e2a">
+            <name>Fischer, Karl Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Troilus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8cdfcb08-27f8-4eac-9fcb-0827f8deacb6">
+            <name>Schuseil, Christa Vera</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Die kleine Polyxenia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="aa616c36-6fee-48d1-a16c-366fee58d1f7">
+            <name>Gorvin, Joana Maria</name>
+            <id type="gnd">119289482</id>
+            <roleActor>
+                <role type="Rolle">Helena</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="80b0cd13-cfc7-4f16-b0cd-13cfc7bf16c6">
+            <name>Nicklisch, Franz</name>
+            <id type="gnd">116995068</id>
+            <roleActor>
+                <role type="Rolle">Ajax</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0ddd787f-1914-4c49-9d78-7f19149c49bf">
+            <name>Kuhlmann, Carl</name>
+            <id type="gnd">102375813X</id>
+            <roleActor>
+                <role type="Rolle">Demokos</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="61cb1eb6-b429-43a7-8b1e-b6b42993a7bf">
+            <name>Halden, Hans</name>
+            <id type="gnd">1161222979</id>
+            <roleActor>
+                <role type="Rolle">Der Geometer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="98d7b633-9300-42a1-97b6-33930032a19e">
+            <name>Eggers-Kestner, Kurt</name>
+            <id type="gnd">105141928X</id>
+            <roleActor>
+                <role type="Rolle">Abneos</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3a54a43c-a74b-4cb0-94a4-3ca74b5cb0b7">
+            <name>Schaufuß, Hans-Herrmann</name>
+            <id type="gnd">1013823664</id>
+            <roleActor>
+                <role type="Rolle">Busiris</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b364724c-ee35-46f3-a472-4cee35d6f33a">
+            <name>Wandrey, Eduard</name>
+            <id type="gnd">14054853X</id>
+            <roleActor>
+                <role type="Rolle">Der alte Mariner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4b15e77a-087a-42f6-95e7-7a087a32f67b">
+            <name>Schaefer, Gert</name>
+            <id type="gnd">141293055</id>
+            <roleActor>
+                <role type="Rolle">Der junge Mariner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="09b7a0ae-5030-4016-b7a0-ae5030101614">
+            <name>Vesco, Giselle</name>
+            <id type="gnd">106246950X</id>
+            <roleActor>
+                <role type="Rolle">Iris</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da286c41-c6e6-4abb-a86c-41c6e61abb4f">
+            <name>Schäfer, Gerda</name>
+            <id type="gnd">1062275187</id>
+            <roleActor>
+                <role type="Rolle">Die Friedensgöttin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8cbda622-0e63-4fe5-bda6-220e630fe532">
+            <name>Kamke, Renate</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">1. Dienerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="349c8a23-4282-462c-9c8a-234282c62cf2">
+            <name>Habecker, Charlotte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">2. Dienerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2b5421bb-8a29-4822-9421-bb8a29382234">
+            <name>Schön, Irmgard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">3. Dienerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4b659c92-7ffe-4081-a59c-927ffef081f0">
+            <name>Asmis, Herbert</name>
+            <id type="gnd">1062419766</id>
+            <roleActor>
+                <role type="Rolle">1. Bote</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="82818704-de91-44d1-8187-04de9174d1b8">
+            <name>Donaubauer, Ponz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">2. Bote</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1c5ca8cd-e6c2-41bc-9ca8-cde6c241bc5b">
+            <name>Honna, Friedrich</name>
+            <id type="gnd">1057769207</id>
+            <roleActor>
+                <role type="Rolle">1. Greis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f96c8387-cb32-42db-ac83-87cb3202db43">
+            <name>Wehlau, Ernst</name>
+            <id type="gnd">117220345</id>
+            <roleActor>
+                <role type="Rolle">2. Greis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="IFT_OBJ_HW000020" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfoto aus "Der trojanische Krieg findet nicht statt!" in Berlin 1947</title>
+        </object>
+        <object id="IFT_OBJ_HW000019" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfoto aus "Der trojanische Krieg findet nicht statt!" in Berlin 1947</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

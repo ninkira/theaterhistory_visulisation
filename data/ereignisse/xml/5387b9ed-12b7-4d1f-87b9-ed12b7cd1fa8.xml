@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="5387b9ed-12b7-4d1f-87b9-ed12b7cd1fa8" type="Performance">
+    <groupingArgument actorID="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">Kinder der Excellenz, Die+17.01.1891+Lewinger, Ernst</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Kinder der Excellenz, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000494"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater (Köln)</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000494"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>17.01.1891</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000494"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="f03361f6-648d-4abb-b361-f6648dcabbb4">
+            <name>Stadttheater (Köln)</name>
+            <id type="gnd">216478-4</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="793acec2-580c-4417-bace-c2580cf4176d">
+            <name>Hofmann, Julius</name>
+            <id type="gnd">116951621</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="032d6dde-9b9b-4164-ad6d-de9b9bf1644a">
+            <name>Wolzogen, Ernst von</name>
+            <id type="gnd">11889028X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">
+            <name>Lewinger, Ernst</name>
+            <id type="gnd">116971835</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="c1ab1481-f8e7-490d-ab14-81f8e7690dcb">
+            <name>Schwarzenberg, Judith</name>
+            <id type="gnd">1050520998</id>
+            <roleActor>
+                <role type="Rolle">Mathilde, Freifrau von Lersen, Excellenz, Generalswitwe</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Diedrichsen, Musikdirektor a. D.</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3302e84b-7602-4ed3-82e8-4b76020ed38f">
+            <name>Doré, Adele</name>
+            <id type="gnd">117031453</id>
+            <roleActor>
+                <role type="Rolle">Asta, Tochter der Excellenz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="230d4927-f106-49ee-8d49-27f10639ee5f">
+            <name>Schumann, William</name>
+            <id type="gnd">1049774531</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="fb48918d-e634-42ac-8891-8de634a2ac55">
+            <name>Braga, Anna</name>
+            <id type="gnd">1069312347</id>
+            <roleActor>
+                <role type="Rolle">Trudi, Tochter der Excellenz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6ca6ad5-0afb-4974-8a6a-d50afb29743b">
+            <name>Eyben, Julius</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Major a. D. von Muzell</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="aea915d2-3ee3-49ab-a915-d23ee3f9abc8">
+            <name>Leyrer, Robert</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Ralph Norman</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6917069-7051-4936-9170-697051293661">
+            <name>Beck, Otto</name>
+            <id type="gnd">116101997</id>
+            <roleActor>
+                <role type="Rolle">Dr. Hans Diedrichsen, Sohn des Musikdirektors</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b40f32da-1cc1-45a6-8f32-da1cc1a5a651">
+            <name>Biehler, Alfred</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Agentur</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2331c12-835d-4299-b31c-12835d229931">
+            <name>Portz, Hans</name>
+            <id type="gnd">116269448</id>
+            <roleActor>
+                <role type="Rolle">Lautenschläger, Diener des Majors</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="90c3b67e-b695-4acc-83b6-7eb6953accdb">
+            <name>Hedeberg, Egon</name>
+            <id type="gnd">143596748</id>
+            <roleActor>
+                <role type="Rolle">Bodo, Dragonerleutnant, Sohn der Excellenz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000494" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu Max Behren in 'Die Kinder der Excellenz', Köln 1891</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

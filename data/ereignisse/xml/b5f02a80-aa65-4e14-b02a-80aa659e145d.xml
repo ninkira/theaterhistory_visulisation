@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="b5f02a80-aa65-4e14-b02a-80aa659e145d" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Electra+30.10.1903+Reinhardt, Max</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Electra</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Elektra</title>
+            <listObject>
+                <object id="TWS_KON0000024"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kleines Theater</placeName>
+                <listObject>
+                    <object id="TWS_KON0000024"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>30.10.1903</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_KON0000024"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="67cc73d7-96c9-42f4-8c73-d796c972f4fc">
+            <name>Sophocles</name>
+            <id type="gnd">118615688</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Klytämnestra</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da2446b8-794c-4335-a446-b8794c5335a6">
+            <name>Kleines Theater</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="1c084510-cc71-46a8-8845-10cc71d6a81a">
+            <name>Hofmannsthal, Hugo von</name>
+            <id type="gnd">118552759</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_KON0000024" type="Publikation: Rezension" aat="300026480">
+            <title>Kritiken zu "Elektra" in Berlin 1903</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="e03d7e26-aa78-483b-bd7e-26aa78f83b45" type="Performance">
+    <groupingArgument actorID="">Alkestis?+22.04.1920+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Alkestis?</title>
+            <listObject>
+                <object id="TWS_OBJ0000201"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus Berlin</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000201"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>22.04.1920</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000201"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Alkestis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dc022d25-0156-4678-822d-250156967889">
+            <name>Schauspielhaus Berlin</name>
+            <id type="gnd">2118679-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="f6f40e68-0082-49b6-b40e-68008279b679">
+            <name>Euripides</name>
+            <id type="gnd">118531395</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000201" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto zu "Alkestis" in Berlin 1920</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

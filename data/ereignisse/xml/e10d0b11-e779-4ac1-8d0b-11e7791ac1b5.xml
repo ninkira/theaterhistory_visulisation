@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="e10d0b11-e779-4ac1-8d0b-11e7791ac1b5" type="Performance">
+    <groupingArgument actorID="3beb6d26-c5c5-492b-ab6d-26c5c5e92bc3">Brand+07.04.1912+Altmann, Georg</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Brand</title>
+            <listObject>
+                <object id="IFT_OBJ_JR000002"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Hannover</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater (Hannover)</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JR000002"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>07.04.1912</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JR000002"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Deutschen Theaters Hannover; Bühnenaufbauten auf mobilen Wagen; Premiere</text>
+            <object id="IFT_OBJ_JR000002"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="3d3f5056-53f7-4e28-bf50-5653f7be287c">
+            <name>Deutsches Theater (Hannover)</name>
+            <id type="gnd">10019843-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="3beb6d26-c5c5-492b-ab6d-26c5c5e92bc3">
+            <name>Altmann, Georg</name>
+            <id type="gnd">118648462</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="02fbcbc8-f73f-4aff-bbcb-c8f73f4aff4e">
+            <name>Richter, Julius</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8995e70a-7152-40d4-95e7-0a7152a0d418">
+            <name>Ibsen, Henrik</name>
+            <id type="gnd">118555286</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_JR000002" type="Autograf: Manuskript" aat="300028569">
+            <title>"Abschnitt 1" der Autobiografie von Julius Richter</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="bb2fa53e-fc7e-47df-afa5-3efc7e57dfba" type="Performance">
+    <groupingArgument actorID="">malade imaginaire, Le+1921+</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>malade imaginaire, Le</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>eingebildete Kranke, Der</title>
+            <listObject>
+                <object id="TWS_OBJ0000695"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000695"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>1921</premier>
+            <time from="1921" to="1921">
+                <listObject>
+                    <object id="TWS_OBJ0000695"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="6be07fe4-d0a3-43b6-a07f-e4d0a303b63a">
+            <name>Wecus, Walter von</name>
+            <id type="gnd">119128403</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="80f661b3-2921-45f6-b661-b3292155f64b">
+            <name>Molière</name>
+            <id type="gnd">11858331X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000695" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Walter von Wecus</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

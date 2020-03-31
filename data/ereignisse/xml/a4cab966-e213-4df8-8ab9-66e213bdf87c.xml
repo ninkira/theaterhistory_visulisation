@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a4cab966-e213-4df8-8ab9-66e213bdf87c" type="Performance">
+    <groupingArgument actorID="2cd7cc71-339a-4c30-97cc-71339a5c3054">Eine Frau von Format++Welisch, Ernst</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Eine Frau von Format</title>
+            <listObject>
+                <object id="IFT_OBJ_LK000047"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Theater des Westens</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LK000047"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="21.09.1927" to="03.10.1927">
+                <listObject>
+                    <object id="IFT_OBJ_LK000047"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Theaters des Westens, Lucy Kieselhausen besucht eine Aufführung jener Inszenierung.</text>
+            <object id="IFT_OBJ_LK000047"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="3f3f1dff-e2e4-4570-bf1d-ffe2e4a5707b">
+            <name>Schanzer, Rudolph</name>
+            <id type="gnd">117104957</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="11acac19-9b0a-41f1-acac-199b0aa1f19c">
+            <name>Kieselhausen, Lucy</name>
+            <id type="gnd">116169354</id>
+            <roleActor>
+                <role>Zuschauer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="2cd7cc71-339a-4c30-97cc-71339a5c3054">
+            <name>Welisch, Ernst</name>
+            <id type="gnd">117343536</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f067b47f-25c8-4d2f-a7b4-7f25c84d2f41">
+            <name>Krausz, Michael</name>
+            <id type="gnd">1017714541</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="68d75269-3ef5-45a2-9752-693ef525a2e1">
+            <name>Hauke, Ernst</name>
+            <id type="gnd">134400003</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="93efd53f-ed4c-4a79-afd5-3fed4c8a7990">
+            <name>Massary, Fritzi</name>
+            <id type="gnd">118731572</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3d741879-ae79-4a7e-b418-79ae79da7ece">
+            <name>Pirchan, Emil</name>
+            <id type="gnd">118594559</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="760d038e-3b16-47a7-8d03-8e3b16c7a739">
+            <name>Sterler, Hermine</name>
+            <id type="gnd">117273627</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="75251331-432b-4c30-a513-31432bfc30c6">
+            <name>Matzner, Gustav</name>
+            <id type="gnd">1019408545</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8028495c-47f5-4916-a849-5c47f5a916a2">
+            <name>Schollwer, Edith</name>
+            <id type="gnd">116901810</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d3e39615-6a98-485a-a396-156a98d85a84">
+            <name>Sikla, Ferry</name>
+            <id type="gnd">106098671X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f01a5465-cca4-46bc-9a54-65cca496bc75">
+            <name>Hansen, Max</name>
+            <id type="gnd">132295377</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7bc26a62-0638-489f-826a-620638c89f65">
+            <name>Bollmann, Hans-Heinz</name>
+            <id type="gnd">132362740</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_LK000047" type="Autograf: Brief" aat="300026879">
+            <title>Brief von Lucy Kieselhausen an Lea Kieselhausen</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

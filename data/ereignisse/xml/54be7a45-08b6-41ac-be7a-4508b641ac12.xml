@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="54be7a45-08b6-41ac-be7a-4508b641ac12" type="Performance">
+    <groupingArgument actorID="4d04d922-4e42-4d5d-84d9-224e424d5d81">Herz ist Trumpf+01.09.1925+Otto, Paul</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Herz ist Trumpf</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000031"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Komödie</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000031"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>01.09.1925</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000031"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Komödie, Berlin, Premiere</text>
+            <object id="IFT_OBJ_HW000031"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="ffccc720-7069-4100-8cc7-207069b1005c">
+            <name>Komödie am Kurfürstendamm</name>
+            <id type="gnd">7562914-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="1e7867d8-6103-4620-b867-d86103e62069">
+            <name>Gandéra, Félix</name>
+            <id type="gnd">126265879</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4d04d922-4e42-4d5d-84d9-224e424d5d81">
+            <name>Otto, Paul</name>
+            <id type="gnd">1016966490</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="76d60d25-5a0c-4f39-960d-255a0cdf39a0">
+            <name>Schütte, Ernst</name>
+            <id type="gnd">117140074</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="346242ba-db50-4aaf-a242-badb503aaf80">
+            <name>Thellmann, Erika von</name>
+            <id type="gnd">117301906</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f8ffc1fd-3a93-41a1-bfc1-fd3a9351a1e4">
+            <name>Pröckl, Ernst</name>
+            <id type="gnd">116292148</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9905ade0-bc95-4b4c-85ad-e0bc95fb4c93">
+            <name>Gronau, Ernst</name>
+            <id type="gnd">1032448512</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81e577c8-3c26-4ee0-a577-c83c266ee063">
+            <name>Hell, Ludmilla</name>
+            <id type="gnd">116684445</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b9d0c878-324b-409f-90c8-78324b309f8e">
+            <name>Müller, Robert</name>
+            <id type="gnd">117609889</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1b2b5a6f-af7e-495d-ab5a-6faf7ee95d3a">
+            <name>Hiller, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="db71da96-ef6f-4e1a-b1da-96ef6f0e1a5b">
+            <name>Keller-Nebri, Kurt</name>
+            <id type="gnd">1062178580</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="77ff672d-57fa-47a4-bf67-2d57fa47a4d9">
+            <name>Manning, Philipp</name>
+            <id type="gnd">116734698</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="221c111a-4cd6-4fba-9c11-1a4cd68fba03">
+            <name>Berger, Grete</name>
+            <id type="gnd">116131519</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6dcd8754-5d65-4be8-8d87-545d65ebe850">
+            <name>Braut, Frigga</name>
+            <id type="gnd">1062260910</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="35c292cb-d4f6-4ca7-8292-cbd4f61ca79d">
+            <name>Gerlach-Jacobi, Gertrud</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="47a34df5-dc74-42a8-a34d-f5dc74b2a806">
+            <name>Klein-Rhoden, Claire</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4ba49b08-ca2d-4c8c-a49b-08ca2d1c8c67">
+            <name>Werkmeister, Käthe</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c796afc1-b2d4-463e-96af-c1b2d4863e92">
+            <name>Mendel, Georg</name>
+            <id type="gnd">1062279514</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e3bf1164-f0d5-4429-bf11-64f0d5042996">
+            <name>Berber, Harry</name>
+            <id type="gnd">11612475X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000031" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Sonderabdruck aus der Zeitschrift "Das Neue Blatt"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

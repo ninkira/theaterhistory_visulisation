@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="56321cc8-c514-492c-b21c-c8c514892ce7" type="Performance">
+    <groupingArgument actorID="">Lady vom Lido, Die++</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Lady vom Lido, Die</title>
+            <listObject>
+                <object id="IFT_OBJ_LK000039"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>Johann-Strauss-Theater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LK000039"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="16.09.1927" to="20.09.1927">
+                <listObject>
+                    <object id="IFT_OBJ_LK000039"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Aufführung der Revueoperette am Wiener Johann-Strauss-Theater, der Lucy Kieselhausen als Zuschauerin beigewohnt hat.</text>
+            <object id="IFT_OBJ_LK000039"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="3acbd959-cf4b-4ec9-8bd9-59cf4baec97d">
+            <name>Katscher, Florian</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="11acac19-9b0a-41f1-acac-199b0aa1f19c">
+            <name>Kieselhausen, Lucy</name>
+            <id type="gnd">116169354</id>
+            <roleActor>
+                <role>Zuschauer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="0f566a51-a3bf-4584-966a-51a3bfd584dc">
+            <name>Katscher, Robert</name>
+            <id type="gnd">130208272</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ba29405a-b652-4d78-a940-5ab6525d7826">
+            <name>Kartousch, Louise</name>
+            <id type="gnd">130208175</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Sänger_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0a525d97-e9fe-4c73-925d-97e9feec7359">
+            <name>Tautenhayn, Ernst</name>
+            <id type="gnd">117256722</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Sänger_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8efcee40-9c68-4094-bcee-409c68b0941a">
+            <name>Koempel-Pilot, Manfred André</name>
+            <id type="gnd">1019309105</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bb86cd33-389f-4fdb-86cd-33389f1fdbce">
+            <name>Erdélyi, Mici</name>
+            <id type="gnd">1061368556</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ad52ab1a-c157-462e-92ab-1ac157462e18">
+            <name>Latabar, Kálman</name>
+            <id type="gnd">1031692878</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_LK000039" type="Autograf: Brief" aat="300026879">
+            <title>Brief von Lucy Kieselhausen an Lea Kieselhausen</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

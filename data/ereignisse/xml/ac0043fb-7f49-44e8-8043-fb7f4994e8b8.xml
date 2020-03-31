@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ac0043fb-7f49-44e8-8043-fb7f4994e8b8" type="Performance">
+    <groupingArgument actorID="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">Mädchen aus der Feenwelt, Das++Lewinger, Ernst</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Mädchen aus der Feenwelt, Das</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Bauer als Millionär oder Das Mädchen aus der Feenwelt, Der</title>
+            <listObject>
+                <object id="TWS_OBJ0000493"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater (Köln)</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000493"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="23.11.1891" to="23.11.1891">
+                <listObject>
+                    <object id="TWS_OBJ0000493"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="793acec2-580c-4417-bace-c2580cf4176d">
+            <name>Hofmann, Julius</name>
+            <id type="gnd">116951621</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="f03361f6-648d-4abb-b361-f6648dcabbb4">
+            <name>Stadttheater (Köln)</name>
+            <id type="gnd">216478-4</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="9a40d89a-67d9-42af-80d8-9a67d912af64">
+            <name>Raimund, Ferdinand</name>
+            <id type="gnd">118597914</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="392dfffe-d6c2-4f71-adff-fed6c2cf71cf">
+            <name>Drechsler, Josef</name>
+            <id type="gnd">127916148</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">
+            <name>Lewinger, Ernst</name>
+            <id type="gnd">116971835</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="afd2ec8e-b448-4d2e-92ec-8eb448bd2e5e">
+            <name>Filler, Berthold</name>
+            <id type="gnd">101318601X</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="013aee77-f959-4df4-baee-77f959bdf4c5">
+            <name>Roberts, Jaroslava</name>
+            <id type="gnd">116576472</id>
+            <roleActor>
+                <role type="Rolle">Lacrimosa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2ecf3231-7634-4c95-8f32-317634bc95ec">
+            <name>Lanius, Caroline</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Antimonia, die Fee der Widerwärtigkeit</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9f85cfc6-f3d6-4f55-85cf-c6f3d6df5521">
+            <name>Leyrer, Rudolf</name>
+            <id type="gnd">130227463</id>
+            <roleActor>
+                <role type="Rolle">Bustorius, Zauberer aus Barasdin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="096a1e5c-9bca-4f43-aa1e-5c9bca1f4357">
+            <name>Benthien, Willy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ajaxerle, Lacrimosas Vetter und Magier aus Donau-Eschingen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0a90f8de-6faa-4f31-90f8-de6faa3f31f4">
+            <name>Ulbrich, August</name>
+            <id type="gnd">1013009339</id>
+            <roleActor>
+                <role type="Rolle">Zenobius, Haushofmeister u. Vertrauter der Fee Lacrimosa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="72f3ef14-e245-4627-b3ef-14e245062786">
+            <name>Heymann, Selma</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Borax, Sohn der Antimonia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2983ad80-1dfc-4cbb-83ad-801dfc2cbb60">
+            <name>Helbig, Amalie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Selima, Fee aus der Türkei</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0e0f065f-b18b-4930-8f06-5fb18bb93042">
+            <name>Bartels, Alma</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zulma, Fee aus der Türkei</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d39a8af8-4df1-4e38-9a8a-f84df14e3894">
+            <name>Scheer, Josefine</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Hymen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e10012f4-7f20-4ca0-8012-f47f204ca04e">
+            <name>Levermann, Paula</name>
+            <id type="gnd">116037989</id>
+            <roleActor>
+                <role type="Rolle">Amor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3302e84b-7602-4ed3-82e8-4b76020ed38f">
+            <name>Doré, Adele</name>
+            <id type="gnd">117031453</id>
+            <roleActor>
+                <role type="Rolle">Die Zufriedenheit</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6dfad09-b51c-4251-9fad-09b51ce25146">
+            <name>Sicker, Anna</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Die Jugend</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Das hohe Alter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b40f32da-1cc1-45a6-8f32-da1cc1a5a651">
+            <name>Biehler, Alfred</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Neid</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fa70854e-da8b-4fd8-b085-4eda8b0fd823">
+            <name>Zimmermann, Ludwig</name>
+            <id type="gnd">116999772</id>
+            <roleActor>
+                <role type="Rolle">Der Haß</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="82a0d397-def9-4a64-a0d3-97def91a6492">
+            <name>Heinemann, Louise</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lira, die Nymphe von Karlsbad</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="de1e0bd3-e98f-40d9-9e0b-d3e98f20d9e9">
+            <name>Stopal, Franzy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Illy, Briefbote im Geisterreiche</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c09f6d81-6c0b-439a-9f6d-816c0b239a8f">
+            <name>Tenhaeff, Reinhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Tophan, Kammerdiener des Hasses</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="599ad917-4207-4c9a-9ad9-1742074c9a83">
+            <name>Pahlau, Otto</name>
+            <id type="gnd">116017945</id>
+            <roleActor>
+                <role type="Rolle">Nigowitz, ein Dienstbarer Geist des Hasses</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="14e797ae-6721-4d40-a797-ae67218d4097">
+            <name>Wings, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Triton, Tonkünstler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d910570-00a0-4a47-9105-7000a0fa4708">
+            <name>Kammerer, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Erste Furie, Tonkünstler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bf0535b2-bb31-45da-8535-b2bb3115da26">
+            <name>Weiß, Oskar</name>
+            <id type="gnd">1057771694</id>
+            <roleActor>
+                <role type="Rolle">Zweite Furie, Tonkünstler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a2252bc1-04df-4762-a52b-c104df676208">
+            <name>Musik, Dora</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Satyr</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2b30a5fe-1395-4297-b0a5-fe1395a2970d">
+            <name>Fuhr, Bertha</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Morgen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e76858d4-42f5-4d2f-a858-d442f51d2ff9">
+            <name>Altmann, Elise</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Abend</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9a26664c-c21e-45f1-a666-4cc21e05f1f1">
+            <name>Rousché, Georgine</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Die Nacht</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ca81ea7b-fdb5-4619-81ea-7bfdb5b619b0">
+            <name>Irmler, Thekla</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Genius der Nacht</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8055c3a0-4ae0-457a-95c3-a04ae0457a64">
+            <name>kl. Lazarus</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Genius als Laternbub</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ac5f2958-4fc2-4f3a-9f29-584fc28f3a6a">
+            <name>Herr, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Diener der Fee Lacrimosa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6ca6ad5-0afb-4974-8a6a-d50afb29743b">
+            <name>Eyben, Julius</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fortunas Wurzel, ehemals Waldbauer, jetzt Millionär</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="058d94c7-7766-4713-8d94-c777667713a8">
+            <name>Waldegg, Tilly</name>
+            <id type="gnd">117118427</id>
+            <roleActor>
+                <role type="Rolle">Lottchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2331c12-835d-4299-b31c-12835d229931">
+            <name>Portz, Hans</name>
+            <id type="gnd">116269448</id>
+            <roleActor>
+                <role type="Rolle">Lorenz, ehemals Kuhhirte bei Wurzel, jetzt sein erster Kammerdiener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b283f9b3-fd8c-458c-83f9-b3fd8cf58c1b">
+            <name>Anders, Carl</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Habakuk, Bedienter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe20bc0-3653-4e9a-a20b-c036531e9a4c">
+            <name>Heding, Edmund</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Karl Schilf, ein armer Fischer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="04c533af-3060-48a7-8533-af306058a78f">
+            <name>Wenkhaus, Georg</name>
+            <id type="gnd">1062159373</id>
+            <roleActor>
+                <role type="Rolle">Musensohn, Wurzels Zechbruder</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7b0990a0-38ed-4569-8990-a038ed5569c3">
+            <name>Schäzle, Ernst</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Schmeichelfeld, Wurzels Zechbruder</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57dc5d0b-e612-4202-9c5d-0be612120205">
+            <name>Hecken, Max</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Afterling</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e6254385-f955-429c-a543-85f955729cde">
+            <name>Tomasini, Paul</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8e33b037-c910-48af-b3b0-37c910f8af3f">
+            <name>Taube, Gertrud</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role>Tänzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="5f727f6b-0d42-43d8-b27f-6b0d4203d8e4">
+            <name>Laube, Robert</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role>Tänzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="27928780-2adc-43dd-9287-802adc53ddc0">
+            <name>Koschat, Thomas</name>
+            <id type="gnd">119013584</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="445cb3dc-6789-48b5-9cb3-dc678998b54b">
+            <name>Corti, Gertrud</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role>Sänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="88f45b1e-9791-4ea2-b45b-1e97910ea244">
+            <name>Kuner, Henriette</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role>Sänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="7385a2f8-0eeb-4724-85a2-f80eeb5724e8">
+            <name>Quint, Mary</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Sänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="adff23f5-54d9-4e7f-bf23-f554d98e7fd8">
+            <name>Schäfer-Kruse, Marie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Sänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="d17200f5-2bf0-4270-b200-f52bf0c270be">
+            <name>Keller, Fritz</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role>Musiker_in</role>
+            </roleActor>
+        </actor>
+        <actor id="4e6fb6c3-fbc1-4635-afb6-c3fbc1a6352b">
+            <name>Braun, Oskar</name>
+            <id type="gnd">116422173</id>
+            <roleActor>
+                <role>Sänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="ac1a55be-565b-4a35-9a55-be565bda359f">
+            <name>Millöcker, Karl</name>
+            <id type="gnd">119208946</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="ccc008c6-eee7-4902-8008-c6eee7a90262">
+            <name>Kalman, Meta</name>
+            <id type="gnd">101310594X</id>
+            <roleActor>
+                <role>Sänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="2810a9b9-1751-4a42-90a9-b917511a4200">
+            <name>Mohwinkel, Henry</name>
+            <id type="gnd">117118397</id>
+            <roleActor>
+                <role>Sänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="384eb0b1-c61b-4487-8eb0-b1c61b14871b">
+            <name>Mosel, Max</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role>Sänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="bf4630f1-3b50-4c3e-8630-f13b502c3edb">
+            <name>Kautsky, Johann</name>
+            <id type="gnd">137727615</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0e677f95-1414-44e7-a77f-951414d4e7a0">
+            <name>Kuhn, Wilhelm</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role>Dekorationsmaler_in</role>
+            </roleActor>
+        </actor>
+        <actor id="3033ecf2-b3f5-4f7c-b3ec-f2b3f55f7c28">
+            <name>Brückner, Max</name>
+            <id type="gnd">118886932</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0a2d6c9a-f375-4231-ad6c-9af375d23124">
+            <name>Brückner, Gotthold</name>
+            <id type="gnd">118886940</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6438e154-62ab-42ad-b8e1-5462aba2ada9">
+            <name>Rosenberg, Albert</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000493" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu Max Behrend in 'Der Bauer als Millionär', Köln 1891</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Benefiz-Vorstellung für den Oberregisseur Ernst Lewinger">
+            <listTitle>
+                <titleStmt>
+                    <title>Der Bauer als Millionär oder Das Mädchen aus der Feenwelt</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Köln</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Stadttheater (Köln)</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000493"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>23.11.1891</eventDate>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList>
+                <actor id="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">
+                    <name>Lewinger, Ernst</name>
+                    <id type="gnd">116971835</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Regisseur_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

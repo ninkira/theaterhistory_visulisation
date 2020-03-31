@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="fc33ac59-ade4-4f2a-b3ac-59ade42f2acc" type="Performance">
+    <groupingArgument actorID="">Dritte Eleven-Vorstellung+29.11.1899+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Dritte Eleven-Vorstellung</title>
+            <listObject>
+                <object id="TWS_OBJ0000146"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>concession, Theater-Vorbereitungsschule</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000146"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>29.11.1899</premier>
+            <time from="undefined" to="undefined">
+                <listObject>
+                    <object id="TWS_OBJ0000146"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext>undefined</culturalContext>
+    <listDescription>
+        <description>
+            <text>Szenen aus: "Traum ein Leben"; "Sappho"; "Cyprienne"; "Goldene Eva"; "Dir wie mir"; "Die Zaubergeige"</text>
+            <object id="TWS_OBJ0000146"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="73495d4f-76d9-48ed-895d-4f76d928edfd">
+            <name>Böhm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Cyprienne</role>
+            </roleActor>
+        </actor>
+        <actor id="329c49ec-cec9-40da-9c49-eccec9a0dad7">
+            <name>Hesse</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="27da02ff-b532-4429-9a02-ffb532442957">
+            <name>Klitsch</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a1d8772d-24df-4801-9877-2d24dfe80144">
+            <name>Klötzel</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="904168a9-273c-4661-8168-a9273cd6610a">
+            <name>Lejeune</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="54ebf666-47ed-4d56-abf6-6647eded56bb">
+            <name>Orlando</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3342dbeb-0cc8-441b-82db-eb0cc8e41b48">
+            <name>Ostheim</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0e3c6cac-d671-4ade-bc6c-acd671bade44">
+            <name>Seldorf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="001bd0ef-ce4f-41e2-9bd0-efce4f51e271">
+            <name>Walden</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000146" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Zweite Eleven-Vorstellung" in Wien 1899</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="d56d9c85-8652-4c38-ad9c-858652dc385f" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">Zu viel Familie+12.01.1932+Ambach, Josef</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Zu viel Familie</title>
+            <listObject>
+                <object id="IFT_KON_JA000013"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Mährisch-Ostrau</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="IFT_KON_JA000013"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>12.01.1932</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_KON_JA000013"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Deutschen Theaters Mährisch-Ostrau, Premiere</text>
+            <object id="IFT_KON_JA000013"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="709eab92-886c-4c9d-9eab-92886cec9d33">
+            <name>Bauer, Albine</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8ca88e6d-6a0a-4b34-a88e-6d6a0aeb34b7">
+            <name>Bergner, Horst</name>
+            <id type="gnd">106164152X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="52f8c3ba-01f6-4b21-b8c3-ba01f68b2166">
+            <name>Chitz, Lothar</name>
+            <id type="gnd">117221929</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="603b9492-d0a1-40ae-bb94-92d0a1b0aeab">
+            <name>Delf, Harry</name>
+            <id type="gnd">126186812</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="85264f1b-09c7-479e-a64f-1b09c7e79e98">
+            <name>Deutsches Theater (Mährisch-Ostrau)</name>
+            <id type="gnd">122890-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="f38b5110-7775-400a-8b51-107775900acc">
+            <name>Dättel, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d934fc6-d298-4267-934f-c6d29802673d">
+            <name>Eilers, Ina</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="33831b79-b816-486b-831b-79b816386b3c">
+            <name>Engels, Fritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e575e97f-b4c7-4139-b5e9-7fb4c7213998">
+            <name>Felden, Richard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="baa7f5cf-54b1-404f-a7f5-cf54b1304f5c">
+            <name>Gerzhofer, Camilla</name>
+            <id type="gnd">1061595625</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b82f8a15-2e16-4dee-af8a-152e16adee00">
+            <name>Hönigsberg, Felicitas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8114632f-552b-41bc-9463-2f552b71bcd1">
+            <name>Juhn, Hugo</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b1fb0eb6-ea96-4839-bb0e-b6ea96683909">
+            <name>Kranz, Heinrich B.</name>
+            <id type="gnd">116380918</id>
+            <roleActor>
+                <role>Übersetzer_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b2141b43-4ae7-4f0e-941b-434ae7df0e67">
+            <name>Paust, Elfriede</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="abbd54ba-3d87-4be0-bd54-ba3d87dbe07b">
+            <name>Sekler, Maurycius</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="96b7d529-e7c4-4e8c-b7d5-29e7c42e8c08">
+            <name>Stoss, Franz</name>
+            <id type="gnd">117304794</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_KON_JA000013" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritikenkonvolut Deutsches Theater Mährisch-Ostrau</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

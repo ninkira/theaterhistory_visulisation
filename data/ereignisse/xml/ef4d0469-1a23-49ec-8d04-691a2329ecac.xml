@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ef4d0469-1a23-49ec-8d04-691a2329ecac" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Salomé+29.09.1903+Reinhardt, Max</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Salomé</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Salome</title>
+            <listObject>
+                <object id="TWS_OBJ0000662"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Neues Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000662"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>29.09.1903</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000662"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="556a05ba-00a5-4b0d-aa05-ba00a5cb0de2">
+            <name>Dumont, Louise</name>
+            <id type="gnd">118681192</id>
+            <roleActor>
+                <role type="Rolle">Herodias</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Salome</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0fa186b4-7709-419f-a186-b47709519f35">
+            <name>Eisfeld, Max</name>
+            <id type="gnd">1063684536</id>
+            <roleActor>
+                <role type="Rolle">Jochanaan</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f8a2473f-376b-4503-a247-3f376b3503a4">
+            <name>Eysoldt, Gertrud</name>
+            <id type="gnd">119115522</id>
+            <roleActor>
+                <role type="Rolle">Salome</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6486cf64-e70d-4c98-86cf-64e70d0c98f2">
+            <name>Kayssler, Friedrich</name>
+            <id type="gnd">118721402</id>
+            <roleActor>
+                <role type="Rolle">Jochanaan</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4f41b96f-bc5a-422e-81b9-6fbc5a822e11">
+            <name>Kruse, Max</name>
+            <id type="gnd">118778137</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a44de5e9-ca8f-4e82-8de5-e9ca8f2e82bd">
+            <name>Lachmann, Hedwig</name>
+            <id type="gnd">119115441</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="48774ad7-f1de-413b-b74a-d7f1dea13b84">
+            <name>Reicher, Ernst</name>
+            <id type="gnd">139049363</id>
+            <roleActor>
+                <role type="Rolle">Herodes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Herodias</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="463f20b3-d9b0-44e9-bf20-b3d9b054e928">
+            <name>Wilde, Oscar</name>
+            <id type="gnd">118632779</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="5d20605a-3933-4de0-a060-5a39335de04e">
+            <name>Winterstein, Eduard von</name>
+            <id type="gnd">118633864</id>
+            <roleActor>
+                <role type="Rolle">Herodes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000662" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfotografie "Salome" in Berlin 29.09.1903</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

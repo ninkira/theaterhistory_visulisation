@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="07f684c7-9991-4a6d-b684-c79991da6d55" type="Performance">
+    <groupingArgument actorID="e852642d-6dd7-4a8d-9264-2d6dd7fa8da3">Anders als du und ich+29.08.1957+Harlan, Veit</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Anders als du und ich</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Anders als du und ich (§ 175)</title>
+            <listObject>
+                <object id="IFT_OBJ_HL000032"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="IFT_OBJ_HL000032"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>29.08.1957</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HL000032"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Spielfilm der Arca-Filmproduktion GmbH, Titel der Originalfassung zur Uraufführung in Wien: "Das dritte Geschlecht"</text>
+            <object id="IFT_OBJ_HL000032"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e852642d-6dd7-4a8d-9264-2d6dd7fa8da3">
+            <name>Harlan, Veit</name>
+            <id type="gnd">118545981</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="40d537f5-84a9-4b15-9537-f584a9eb1514">
+            <name>Wessely, Paula</name>
+            <id type="gnd">118631756</id>
+            <roleActor>
+                <role type="Rolle">Christa Teichmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e62da4f2-13df-456f-ada4-f213dfc56f4b">
+            <name>Dahlke, Paul</name>
+            <id type="gnd">116012943</id>
+            <roleActor>
+                <role type="Rolle">Dir. Werner Teichmann</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="82ee5665-b704-46b7-ae56-65b70406b71e">
+            <name>Wolff, Christian</name>
+            <id type="gnd">129065366</id>
+            <roleActor>
+                <role type="Rolle">Klaus Teichmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6209bd5-07e2-4d26-a09b-d507e2ed2616">
+            <name>Stenn, Ingrid</name>
+            <id type="gnd">1061805735</id>
+            <roleActor>
+                <role type="Rolle">Gerda Böttcher</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5eefaf31-ead3-4468-afaf-31ead35468a3">
+            <name>Nielsen, Hans</name>
+            <id type="gnd">117001449</id>
+            <roleActor>
+                <role type="Rolle">Max Mertens</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cb7037cf-bab2-44cf-b037-cfbab204cf18">
+            <name>Joloff, Friedrich</name>
+            <id type="gnd">111388880</id>
+            <roleActor>
+                <role type="Rolle">Dr. Boris Winkler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ce550677-d32f-4244-9506-77d32fe24421">
+            <name>Lingen, Heinz</name>
+            <id type="gnd">106194171X</id>
+            <roleActor>
+                <role type="Rolle">Diener Maurice</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a83188e8-48c8-49e1-b188-e848c8e9e1ff">
+            <name>Körber, Hilde</name>
+            <id type="gnd">11903946X</id>
+            <roleActor>
+                <role type="Rolle">Frau Glatz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="efb0ec84-de7c-4944-b0ec-84de7cf9449f">
+            <name>Theil, Günther</name>
+            <id type="gnd">1046087762</id>
+            <roleActor>
+                <role type="Rolle">Manfred Glatz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5742a58a-e9dc-4ff5-82a5-8ae9dc1ff51d">
+            <name>Hübner, Herbert</name>
+            <id type="gnd">117045128</id>
+            <roleActor>
+                <role type="Rolle">Verteidiger Dr. Schwarz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dc847486-20f3-458d-8474-8620f3f58d05">
+            <name>Schürenberg, Siegfried</name>
+            <id type="gnd">130627984</id>
+            <roleActor>
+                <role type="Rolle">Staatsanwalt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c5717c8c-db66-4617-b17c-8cdb66e6171f">
+            <name>Graf, Otto</name>
+            <id type="gnd">116815299</id>
+            <roleActor>
+                <role type="Rolle">Gerichtspräsident</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a3e95389-b1f9-4936-a953-89b1f9393635">
+            <name>Esser, Paul</name>
+            <id type="gnd">135768918</id>
+            <roleActor>
+                <role type="Rolle">Kommissar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0cde10d2-6645-4d23-9e10-d266454d232f">
+            <name>Vespermann, Kurt</name>
+            <id type="gnd">1031195793</id>
+            <roleActor>
+                <role type="Rolle">Dr. Schmidt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="438364a6-59a9-4bca-8364-a659a92bcaa8">
+            <name>Schumm, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Jugendpsychologe</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="846671de-d3cc-42a3-a671-ded3ccf2a343">
+            <name>Paschen, Susanne</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Petra Mertens</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="85d3f0db-494d-40b7-93f0-db494dc0b7f9">
+            <name>Nijinskij, Peter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Achim</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="80dc1648-c214-4c8e-9c16-48c2148c8ed2">
+            <name>Arca-Filmproduktion GmbH</name>
+            <id type="gnd">1078769176</id>
+            <roleActor>
+                <role>Produktion (Film)</role>
+            </roleActor>
+        </actor>
+        <actor id="7af1a63a-223d-49a0-b1a6-3a223d69a02d">
+            <name>Lützkendorf, Felix</name>
+            <id type="gnd">107935163</id>
+            <roleActor>
+                <role>Drehbuchautor_in des Films</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HL000032" type="Publikation: Filmprogramm" aat="">
+            <title>Filmprogramm zu "Anders als du und ich (§ 175)" 1957</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

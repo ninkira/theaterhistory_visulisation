@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="0accf916-309e-4913-8cf9-16309ed913a1" type="Performance">
+    <groupingArgument actorID="">Oedipus tyrannus++</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Oedipus tyrannus</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>König Ödipus</title>
+            <listObject>
+                <object id="TWS_OBJ0000671"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000671"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1911" to="1911">
+                <listObject>
+                    <object id="TWS_OBJ0000671"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="e2bfd1b6-52c4-4395-bfd1-b652c46395a1">
+            <name>Schauspielhaus Düsseldorf</name>
+            <id type="gnd">2009323-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="67cc73d7-96c9-42f4-8c73-d796c972f4fc">
+            <name>Sophocles</name>
+            <id type="gnd">118615688</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000671" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Eduard Sturm zu König Ödipus in Düsseldorf 1911</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ea7a7412-87e0-49a8-ba74-1287e089a8be" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">Lumpenparadies: Schwank in 3 Akten+11.04.1930+Ambach, Josef</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Lumpenparadies: Schwank in 3 Akten</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Lumpenparadies</title>
+            <listObject>
+                <object id="IFT_OBJ_JA000105"/>
+                <object id="IFT_OBJ_JA000104"/>
+                <object id="IFT_OBJ_JA000021"/>
+                <object id="IFT_KON_JA000004"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>Neues Wiener Schauspielhaus</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JA000105"/>
+                    <object id="IFT_OBJ_JA000104"/>
+                    <object id="IFT_OBJ_JA000021"/>
+                    <object id="IFT_KON_JA000004"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>11.04.1930</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JA000105"/>
+                    <object id="IFT_OBJ_JA000104"/>
+                    <object id="IFT_OBJ_JA000021"/>
+                    <object id="IFT_KON_JA000004"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Neuen Wiener Schauspielhauses</text>
+            <object id="IFT_OBJ_JA000105"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="089cd334-d046-4328-9cd3-34d046032812">
+            <name>Bachmann, Karl</name>
+            <id type="gnd">1020864974</id>
+            <roleActor>
+                <role type="Rolle">Gefängnisinspektor Höllriegl</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="89a6ecd0-ca35-441c-a6ec-d0ca35241c93">
+            <name>Engel, Alexander</name>
+            <id type="gnd">116478411</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e868423b-5632-4478-a842-3b5632c47882">
+            <name>Epp, Leon</name>
+            <id type="gnd">116516453</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3867fe7a-7c52-4003-a7fe-7a7c52e00364">
+            <name>Fontana, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dc5cdcaa-7095-40c7-9cdc-aa7095a0c7fc">
+            <name>Gamberti, Fritz</name>
+            <id type="gnd">1062422341</id>
+            <roleActor>
+                <role type="Rolle">Sträfling</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="32911850-7e72-41a7-9118-507e7231a7e3">
+            <name>Herold, Hadolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bräutigam</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="65995892-fa6f-4c4a-9958-92fa6f8c4aa2">
+            <name>Horeschovsky, Melanie</name>
+            <id type="gnd">116982918</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5e373569-0ee2-4a4c-b735-690ee2ba4c31">
+            <name>Horst, Julius</name>
+            <id type="gnd">130186511</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8c172388-986e-4da1-9723-88986edda15a">
+            <name>Kalwoda, Karl</name>
+            <id type="gnd">1061428397</id>
+            <roleActor>
+                <role type="Rolle">Gefängniswärter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2e2a836f-11eb-491e-aa83-6f11eb991e94">
+            <name>Kneidinger, Karl</name>
+            <id type="gnd">1061385256</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bfe5105c-9139-462a-a510-5c9139262ae3">
+            <name>Koch, Georg August</name>
+            <id type="gnd">14128966X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8f928f3b-6a98-4376-928f-3b6a98037698">
+            <name>Kretschmer, Grete</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Braut</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fb96954b-b6c1-4e83-9695-4bb6c1ae8327">
+            <name>Moser, Hans</name>
+            <id type="gnd">118584391</id>
+            <roleActor>
+                <role type="Rolle">Gefängnisdirektor Schwalbach</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e3a0f63c-5444-437a-a0f6-3c5444e37a24">
+            <name>Neues Wiener Schauspielhaus</name>
+            <id type="gnd">16050090-4</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="9038a488-8b46-4f01-b8a4-888b469f0152">
+            <name>Niedermoser, Otto</name>
+            <id type="gnd">128571551</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ae67c0ce-1927-4970-a7c0-ce1927397085">
+            <name>Rambausek, Else</name>
+            <id type="gnd">134638581</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1a0e1fe-2ba1-4ee5-a0e1-fe2ba1dee5c6">
+            <name>Seidner, Irene</name>
+            <id type="gnd">1061436233</id>
+            <roleActor>
+                <role type="Rolle">Frau Schwalbach</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ba59db2a-e7da-4c64-99db-2ae7da9c6443">
+            <name>Varndal, Walter</name>
+            <id type="gnd">1062124146</id>
+            <roleActor>
+                <role type="Rolle">Sträfling</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="4">
+        <object id="IFT_OBJ_JA000105" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Lumpenparadies" in Wien 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000104" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Lumpenparadies" in Wien 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000021" type="Plakat: Theater" aat="300027221">
+            <title>Theaterplakat zu "Lumpenparadies" in Wien 1930</title>
+        </object>
+        <object id="IFT_KON_JA000004" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Konvolut Szenenfotografien zu "Lumpenparadies" in Wien 1930</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

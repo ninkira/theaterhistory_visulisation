@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="0f1d7d07-6de8-4dc7-9d7d-076de86dc7ed" type="Performance">
+    <groupingArgument actorID="">Antony and Cleopatra+29.06.1913+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Antony and Cleopatra</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Antonius und Kleopatra</title>
+            <listObject>
+                <object id="TWS_OBJ0000207"/>
+                <object id="TWS_OBJ0000206"/>
+                <object id="TWS_OBJ0000205"/>
+                <object id="TWS_OBJ0000204"/>
+                <object id="TWS_OBJ0000203"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Verein Münchener Künstler-Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000207"/>
+                    <object id="TWS_OBJ0000206"/>
+                    <object id="TWS_OBJ0000205"/>
+                </listObject>
+            </place>
+        </place>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus Berlin</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000204"/>
+                    <object id="TWS_OBJ0000203"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>29.06.1913</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000207"/>
+                    <object id="TWS_OBJ0000206"/>
+                    <object id="TWS_OBJ0000205"/>
+                    <object id="TWS_OBJ0000204"/>
+                    <object id="TWS_OBJ0000203"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Cleopatra/Kleopatra</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bc4339a2-5d9f-48a5-8339-a25d9f88a5b0">
+            <name>Verein Münchener Künstler-Theater</name>
+            <id type="gnd">5236330-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d373aa5e-55c4-4f17-b3aa-5e55c40f17c8">
+            <name>Clewing, Carl</name>
+            <id type="gnd">116545828</id>
+            <roleActor>
+                <role type="Rolle">Antonius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dc022d25-0156-4678-822d-250156967889">
+            <name>Schauspielhaus Berlin</name>
+            <id type="gnd">2118679-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="5">
+        <object id="TWS_OBJ0000207" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Postkarte zu "Antonius und Kleopatra" in München 1913</title>
+        </object>
+        <object id="TWS_OBJ0000206" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Antonius und Kleopatra" in München 1913</title>
+        </object>
+        <object id="TWS_OBJ0000205" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Antonius und Kleopatra" in München 1913</title>
+        </object>
+        <object id="TWS_OBJ0000204" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Postkarte zu "Antonius und Kleopatra"</title>
+        </object>
+        <object id="TWS_OBJ0000203" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Postkarte zu "Antonius und Kleopatra"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

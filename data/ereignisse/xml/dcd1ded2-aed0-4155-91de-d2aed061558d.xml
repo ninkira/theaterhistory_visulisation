@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="dcd1ded2-aed0-4155-91de-d2aed061558d" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Matchmaker, The+04.01.1956+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Matchmaker, The</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Heiratsvermittlerin, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000109"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Orangeriehaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000109"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>04.01.1956</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000109"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="df53798c-2f49-4e8f-9379-8c2f491e8faa">
+            <name>Amberger, Günter</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">August - Kellner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bd6c4c1b-7cd8-431d-ac4c-1b7cd8231d88">
+            <name>Böhm, Willy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="cda43a28-e56b-42f1-a43a-28e56b52f187">
+            <name>Büttner, Elli</name>
+            <id type="gnd">1023863960</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a0cc5b93-584b-4628-8c5b-93584b262883">
+            <name>Fendel, Rosemarie</name>
+            <id type="gnd">124725287</id>
+            <roleActor>
+                <role type="Rolle">Minnie Fay, Assistentin der Mrs. Irene Molloy</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c15caee7-0159-4a06-9cae-e701595a066f">
+            <name>Helfmann, Alexander</name>
+            <id type="gnd">1141080273</id>
+            <roleActor>
+                <role type="Rolle">Ein Lohnkutscher</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57d285bc-f174-4b52-9285-bcf1749b52fd">
+            <name>Joeres, Charlotte</name>
+            <id type="gnd">134633792</id>
+            <roleActor>
+                <role type="Rolle">Mrs. Irene Molloy, Putzmacherin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f9052409-d0e3-423b-8524-09d0e3623bb5">
+            <name>Krug, Ellen</name>
+            <id type="gnd">1061646645</id>
+            <roleActor>
+                <role type="Rolle">Miß Floria van Huysen - Freundin der verstorbenen Frau Vandergelders</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="788deb1e-ad46-4234-8deb-1ead46123441">
+            <name>König, Brigitte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mrs. Dolly Lewin - Freundin der verstorbenen Frau Vandergelders</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e949e404-4e9e-4f7e-89e4-044e9e9f7e79">
+            <name>Landestheater Darmstadt</name>
+            <id type="gnd">2002342-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="cd3983cf-ee12-493d-b983-cfee12693de6">
+            <name>Leyrer, Willy</name>
+            <id type="gnd">1061403572</id>
+            <roleActor>
+                <role type="Rolle">Horace Vandergelder, Kaufmann von Yonkers, New York, USA</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a7a54dd4-b171-438c-a54d-d4b171d38cf7">
+            <name>Madin, Hans</name>
+            <id type="gnd">1062269985</id>
+            <roleActor>
+                <role type="Rolle">Rudolph - Kellner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="67c225b5-156c-42bf-8225-b5156cc2bf4a">
+            <name>Meißner, Käthe</name>
+            <id type="gnd">126389055</id>
+            <roleActor>
+                <role type="Rolle">Gertrude, Vandergelders Haushälterin / Miß van Huysens Köchin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da9f16cd-ce19-446e-9f16-cdce19846efb">
+            <name>Mittelhaus, Gerhard</name>
+            <id type="gnd">1062011414</id>
+            <roleActor>
+                <role type="Rolle">Joe Scanlon, ein Barbier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="791a3822-9bd9-4ba1-9a38-229bd92ba1d1">
+            <name>Müller-Elmau, Raidar</name>
+            <id type="gnd">1061745511</id>
+            <roleActor>
+                <role type="Rolle">Ambrose Kemper, ein Künstler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="162d668c-ff8d-47df-ad66-8cff8d37df9e">
+            <name>Sahl, Hans</name>
+            <id type="gnd">118750747</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="41c1242a-596d-4512-8124-2a596db5127c">
+            <name>Saussen, Edmund</name>
+            <id type="gnd">1061370453</id>
+            <roleActor>
+                <role type="Rolle">Malachi Stack - Handlungsgehilfe des Horace Vandergelder</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8b3c2a24-e73c-4768-bc2a-24e73c076880">
+            <name>Schiemer, Marie-Louise</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3eb0d4d8-7a37-4d06-b0d4-d87a37dd06e9">
+            <name>Steiger, Klaus</name>
+            <id type="gnd">110419287X</id>
+            <roleActor>
+                <role type="Rolle">Cornelius Hackl - Handlungsgehilfe des Horace Vandergelder</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5caecbeb-9438-4976-aecb-eb9438f976c1">
+            <name>Weicker, Hans</name>
+            <id type="gnd">1055072586</id>
+            <roleActor>
+                <role type="Rolle">Barnaby Tucker - Handlungsgehilfe des Horace Vandergelder</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2aff8d8d-c10b-4d62-bf8d-8dc10b0d623b">
+            <name>Wilder, Thornton</name>
+            <id type="gnd">118632817</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000109" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Die Heiratsvermittlerin" in Darmstadt 1956</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

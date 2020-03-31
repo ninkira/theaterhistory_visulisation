@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="30fc7ac7-e7a4-474a-bc7a-c7e7a4c74aaf" type="Performance">
+    <groupingArgument actorID="">Letzte Liebe++</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Letzte Liebe</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Letzte Liebe</title>
+            <listObject>
+                <object id="TWS_OBJ0000555"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Bonn</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000555"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="31.10.1890" to="31.10.1890">
+                <listObject>
+                    <object id="TWS_OBJ0000555"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Kanzler Bubel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c1ab1481-f8e7-490d-ab14-81f8e7690dcb">
+            <name>Schwarzenberg, Judith</name>
+            <id type="gnd">1050520998</id>
+            <roleActor>
+                <role type="Rolle">Königin Elisabeth</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7f8ca004-a814-4248-8ca0-04a814724822">
+            <name>Landori, Ludmilla</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Maria von Drugeth, Mündel der Königin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="793acec2-580c-4417-bace-c2580cf4176d">
+            <name>Hofmann, Julius</name>
+            <id type="gnd">116951621</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="bf155429-8013-477c-9554-298013877c5e">
+            <name>Stadttheater (Bonn)</name>
+            <id type="gnd">217619-1</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="a58dc0c7-7379-414d-8dc0-c77379a14da1">
+            <name>von Dóczi, Ludwig</name>
+            <id type="gnd">116151846</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="a1f4d4c0-3358-44be-b4d4-c0335834bebc">
+            <name>Heine, Heinrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ludwig von Anjou, genannt der Große, König von Ungarn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="90c3b67e-b695-4acc-83b6-7eb6953accdb">
+            <name>Hedeberg, Egon</name>
+            <id type="gnd">143596748</id>
+            <roleActor>
+                <role type="Rolle">Stephan Laczsi von Apor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2331c12-835d-4299-b31c-12835d229931">
+            <name>Portz, Hans</name>
+            <id type="gnd">116269448</id>
+            <roleActor>
+                <role type="Rolle">Servaz, Knappe des Stephan Laczsi von Apor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fb48918d-e634-42ac-8891-8de634a2ac55">
+            <name>Braga, Anna</name>
+            <id type="gnd">1069312347</id>
+            <roleActor>
+                <role type="Rolle">Julius von Monoszlai, genannt Duczi, Marias Page</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b40f32da-1cc1-45a6-8f32-da1cc1a5a651">
+            <name>Biehler, Alfred</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lorenz von Tóth, ungarischer Edelmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6ca6ad5-0afb-4974-8a6a-d50afb29743b">
+            <name>Eyben, Julius</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Simon, ungarischer Edelmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57dc5d0b-e612-4202-9c5d-0be612120205">
+            <name>Hecken, Max</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Szerda, ungarischer Edelmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0a90f8de-6faa-4f31-90f8-de6faa3f31f4">
+            <name>Ulbrich, August</name>
+            <id type="gnd">1013009339</id>
+            <roleActor>
+                <role type="Rolle">Barbo Pantaleone, Gesandter von Venedig</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fa70854e-da8b-4fd8-b085-4eda8b0fd823">
+            <name>Zimmermann, Ludwig</name>
+            <id type="gnd">116999772</id>
+            <roleActor>
+                <role type="Rolle">Francesco Carrara, Herr von Padua</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a3da67ad-018a-4f92-9a67-ad018aaf92bb">
+            <name>Robert, Waldemar</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Francesco, Sohn des Francesco Carrara, genannt Cecco</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3302e84b-7602-4ed3-82e8-4b76020ed38f">
+            <name>Doré, Adele</name>
+            <id type="gnd">117031453</id>
+            <roleActor>
+                <role type="Rolle">Katharina, Tochter des Francesco Carrara</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7c7f8524-b67d-4897-bf85-24b67db89741">
+            <name>Cronau, Emmy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Anselma, Milchschwester des Francesco und der Katharina</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c09f6d81-6c0b-439a-9f6d-816c0b239a8f">
+            <name>Tenhaeff, Reinhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Conterini, Doge von Venedig</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="09786ae3-da91-44d4-b86a-e3da9104d4fc">
+            <name>Garbrecht, Arno</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Dandolo, venezianischer Edelmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="002d665e-9183-4752-ad66-5e9183c7527a">
+            <name>Richter, Emil</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Giuglio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ac5f2958-4fc2-4f3a-9f29-584fc28f3a6a">
+            <name>Herr, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Harcsa, ein ungarischer Reiter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7b0990a0-38ed-4569-8990-a038ed5569c3">
+            <name>Schäzle, Ernst</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Erster Offizier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d910570-00a0-4a47-9105-7000a0fa4708">
+            <name>Kammerer, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zweiter Offizier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4ee0bc44-84cf-4931-a0bc-4484cf993132">
+            <name>Stellmach, Karl</name>
+            <id type="gnd">184572495</id>
+            <roleActor>
+                <role type="Rolle">ein Thürsteher</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="14e797ae-6721-4d40-a797-ae67218d4097">
+            <name>Wings, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Wache</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000555" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu Max Behrend in "Letzte Liebe" in Bonn 1890</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

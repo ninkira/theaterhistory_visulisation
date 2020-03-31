@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="fcc750d8-fe11-4b66-8750-d8fe114b66a9" type="Performance">
+    <groupingArgument actorID="">Circe+22.05.1912+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Circe</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Circe</title>
+            <listObject>
+                <object id="TWS_OBJ0000212"/>
+                <object id="TWS_OBJ0000211"/>
+                <object id="TWS_OBJ0000209"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Künstlertheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000212"/>
+                    <object id="TWS_OBJ0000211"/>
+                    <object id="TWS_OBJ0000209"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>22.05.1912</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000212"/>
+                    <object id="TWS_OBJ0000211"/>
+                    <object id="TWS_OBJ0000209"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="1337e202-6fbc-49ab-b7e2-026fbc49abe6">
+            <name>Fuchs, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Circe</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="57e38caf-e964-482a-a38c-afe964882a52">
+            <name>Künstlertheater München</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="3">
+        <object id="TWS_OBJ0000212" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Circe" in München 1912</title>
+        </object>
+        <object id="TWS_OBJ0000211" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Fotografie zu "Circe" in München 1912</title>
+        </object>
+        <object id="TWS_OBJ0000209" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Fotografie zu "Circe" in München 1912</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

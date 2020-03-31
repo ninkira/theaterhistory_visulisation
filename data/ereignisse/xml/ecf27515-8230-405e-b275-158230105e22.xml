@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ecf27515-8230-405e-b275-158230105e22" type="Performance">
+    <groupingArgument actorID="34a0cc1a-fb58-47fe-a0cc-1afb5857fe31">Frauenarzt, Der: Schauspiel in 3 Akten+02.11.1928+Barnowsky, Victor</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Frauenarzt, Der: Schauspiel in 3 Akten</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Frauenarzt, Der</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000013"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Theater in der Königgrätzer Straße</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000013"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>02.11.1928</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000013"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Theaters in der Königgrätzer Straße, Berlin</text>
+            <object id="IFT_OBJ_HW000013"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Frau Gottgetreu</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a82b789b-7232-4b6d-ab78-9b7232cb6d53">
+            <name>Haack, Käte</name>
+            <id type="gnd">118543997</id>
+            <roleActor>
+                <role type="Rolle">Lotte</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ef0de4ff-f3a2-4f93-8de4-fff3a24f9322">
+            <name>Forster, Rudolf</name>
+            <id type="gnd">118692267</id>
+            <roleActor>
+                <role type="Rolle">Fechner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e3c86104-b933-4152-8861-04b933f1525c">
+            <name>Rehfisch, Hans J.</name>
+            <id type="gnd">116392401</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d5bf90e5-0e9c-4e2a-bf90-e50e9c6e2ab1">
+            <name>Theater in der Königgrätzer Straße</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="34a0cc1a-fb58-47fe-a0cc-1afb5857fe31">
+            <name>Barnowsky, Victor</name>
+            <id type="gnd">118652613</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="7f380a4d-f93f-4da0-b80a-4df93fada0ce">
+            <name>Krehan, Hermann</name>
+            <id type="gnd">126527059</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6faf6693-5131-4a8c-af66-9351314a8cf1">
+            <name>Mendelssohn, Eleonora von</name>
+            <id type="gnd">116877065</id>
+            <roleActor>
+                <role type="Rolle">Frau von Carlow</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="14f71cde-32ac-4a85-b71c-de32ac0a85c2">
+            <name>Terwin, Johanna</name>
+            <id type="gnd">117118893</id>
+            <roleActor>
+                <role type="Rolle">Käte-Lore Fabian</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="19a56d31-f636-4456-a56d-31f63644562e">
+            <name>Ludwig, Marlise</name>
+            <id type="gnd">1050422813</id>
+            <roleActor>
+                <role type="Rolle">Irma</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c0752acd-1b4c-488c-b52a-cd1b4ca88ca2">
+            <name>Selo, Cläre</name>
+            <id type="gnd">1061828913</id>
+            <roleActor>
+                <role type="Rolle">Die Schwester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cd6c4afe-1b7b-48f8-ac4a-fe1b7ba8f843">
+            <name>Grätz, Paul</name>
+            <id type="gnd">11681375X</id>
+            <roleActor>
+                <role type="Rolle">Losch</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="16881581-e977-46d9-8815-81e97716d9ec">
+            <name>Stahl-Nachbaur, Ernst</name>
+            <id type="gnd">117203688</id>
+            <roleActor>
+                <role type="Rolle">Kressling</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="741e4463-30a1-4df6-9e44-6330a1ddf652">
+            <name>Platte, Rudolf</name>
+            <id type="gnd">116208368</id>
+            <roleActor>
+                <role type="Rolle">Ehricke</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d74ef50e-142f-4667-8ef5-0e142f8667ec">
+            <name>Neßler, Ernst</name>
+            <id type="gnd">116941928</id>
+            <roleActor>
+                <role type="Rolle">Kronert</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="931d2f89-340d-43c6-9d2f-89340de3c640">
+            <name>Herrmann, Julius E.</name>
+            <id type="gnd">116748214</id>
+            <roleActor>
+                <role type="Rolle">Rodemann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="654c4afd-431c-4de8-8c4a-fd431cdde88d">
+            <name>Klebusch, Franz</name>
+            <id type="gnd">1060807947</id>
+            <roleActor>
+                <role type="Rolle">Chauffeur</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000013" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfoto aus "Der Frauenarzt" in Berlin 1928</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

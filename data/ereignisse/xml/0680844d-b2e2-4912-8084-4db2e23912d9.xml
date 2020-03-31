@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="0680844d-b2e2-4912-8084-4db2e23912d9" type="Performance">
+    <groupingArgument actorID="7e1f2012-f8de-49cc-9f20-12f8de19cc82">Räuber, Die+11.09.1926+Piscator, Erwin</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Räuber, Die</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Räuber, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000638"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Preußische Staatstheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000638"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>11.09.1926</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000638"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="0c71d2d8-10cb-4f7b-b1d2-d810cb6f7b37">
+            <name>Schiller, Friedrich</name>
+            <id type="gnd">118607626</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="a288af77-a91c-46c6-88af-77a91c06c6f7">
+            <name>Müller, Traugott</name>
+            <id type="gnd">119307251</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7013fb2f-7eba-415d-93fb-2f7eba515d05">
+            <name>Preußische Staatstheater</name>
+            <id type="gnd">7861026-6</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="7e1f2012-f8de-49cc-9f20-12f8de19cc82">
+            <name>Piscator, Erwin</name>
+            <id type="gnd">118594648</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000638" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf der Inszenierung "Räuber" 1926 von friedrich Sciller</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

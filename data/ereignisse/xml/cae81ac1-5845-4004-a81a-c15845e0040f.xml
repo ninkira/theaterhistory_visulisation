@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="cae81ac1-5845-4004-a81a-c15845e0040f" type="Performance">
+    <groupingArgument actorID="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">Hamlet+21.01.1936+Müthel, Lothar</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Hamlet</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Hamlet</title>
+            <listObject>
+                <object id="IFT_OBJ_LM000459"/>
+                <object id="IFT_OBJ_LM000125"/>
+                <object id="IFT_OBJ_LM000124"/>
+                <object id="IFT_OBJ_LM000123"/>
+                <object id="IFT_OBJ_LM000122"/>
+                <object id="IFT_OBJ_LM000121"/>
+                <object id="IFT_OBJ_LM000120"/>
+                <object id="IFT_OBJ_LM000119"/>
+                <object id="IFT_OBJ_LM000118"/>
+                <object id="IFT_OBJ_LM000117"/>
+                <object id="IFT_OBJ_LM000116"/>
+                <object id="IFT_OBJ_LM000115"/>
+                <object id="IFT_OBJ_LM000114"/>
+                <object id="IFT_OBJ_LM000113"/>
+                <object id="IFT_OBJ_LM000112"/>
+                <object id="IFT_OBJ_LM000111"/>
+                <object id="IFT_OBJ_LM000110"/>
+                <object id="IFT_OBJ_LM000109"/>
+                <object id="IFT_OBJ_LM000108"/>
+                <object id="IFT_OBJ_LM000107"/>
+                <object id="IFT_OBJ_LM000106"/>
+                <object id="IFT_OBJ_LM000105"/>
+                <object id="IFT_OBJ_LM000104"/>
+                <object id="IFT_OBJ_LM000103"/>
+                <object id="IFT_OBJ_LM000102"/>
+                <object id="IFT_OBJ_LM000101"/>
+                <object id="IFT_OBJ_LM000100"/>
+                <object id="IFT_OBJ_LM000099"/>
+                <object id="IFT_OBJ_LM000098"/>
+                <object id="IFT_OBJ_LM000097"/>
+                <object id="IFT_OBJ_LM000096"/>
+                <object id="IFT_OBJ_LM000095"/>
+                <object id="IFT_OBJ_LM000008"/>
+                <object id="IFT_KON_LM000009"/>
+                <object id="IFT_KON_LM000017"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus am Gendarmenmarkt</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LM000459"/>
+                    <object id="IFT_OBJ_LM000125"/>
+                    <object id="IFT_OBJ_LM000124"/>
+                    <object id="IFT_OBJ_LM000123"/>
+                    <object id="IFT_OBJ_LM000122"/>
+                    <object id="IFT_OBJ_LM000121"/>
+                    <object id="IFT_OBJ_LM000120"/>
+                    <object id="IFT_OBJ_LM000119"/>
+                    <object id="IFT_OBJ_LM000118"/>
+                    <object id="IFT_OBJ_LM000117"/>
+                    <object id="IFT_OBJ_LM000116"/>
+                    <object id="IFT_OBJ_LM000115"/>
+                    <object id="IFT_OBJ_LM000114"/>
+                    <object id="IFT_OBJ_LM000113"/>
+                    <object id="IFT_OBJ_LM000112"/>
+                    <object id="IFT_OBJ_LM000111"/>
+                    <object id="IFT_OBJ_LM000110"/>
+                    <object id="IFT_OBJ_LM000109"/>
+                    <object id="IFT_OBJ_LM000108"/>
+                    <object id="IFT_OBJ_LM000107"/>
+                    <object id="IFT_OBJ_LM000106"/>
+                    <object id="IFT_OBJ_LM000105"/>
+                    <object id="IFT_OBJ_LM000104"/>
+                    <object id="IFT_OBJ_LM000103"/>
+                    <object id="IFT_OBJ_LM000102"/>
+                    <object id="IFT_OBJ_LM000101"/>
+                    <object id="IFT_OBJ_LM000100"/>
+                    <object id="IFT_OBJ_LM000099"/>
+                    <object id="IFT_OBJ_LM000098"/>
+                    <object id="IFT_OBJ_LM000097"/>
+                    <object id="IFT_OBJ_LM000096"/>
+                    <object id="IFT_OBJ_LM000095"/>
+                    <object id="IFT_OBJ_LM000008"/>
+                    <object id="IFT_KON_LM000017"/>
+                    <object id="IFT_KON_LM000009"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>21.01.1936</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_LM000459"/>
+                    <object id="IFT_OBJ_LM000125"/>
+                    <object id="IFT_OBJ_LM000124"/>
+                    <object id="IFT_OBJ_LM000123"/>
+                    <object id="IFT_OBJ_LM000122"/>
+                    <object id="IFT_OBJ_LM000121"/>
+                    <object id="IFT_OBJ_LM000120"/>
+                    <object id="IFT_OBJ_LM000119"/>
+                    <object id="IFT_OBJ_LM000118"/>
+                    <object id="IFT_OBJ_LM000117"/>
+                    <object id="IFT_OBJ_LM000116"/>
+                    <object id="IFT_OBJ_LM000115"/>
+                    <object id="IFT_OBJ_LM000114"/>
+                    <object id="IFT_OBJ_LM000113"/>
+                    <object id="IFT_OBJ_LM000112"/>
+                    <object id="IFT_OBJ_LM000111"/>
+                    <object id="IFT_OBJ_LM000110"/>
+                    <object id="IFT_OBJ_LM000109"/>
+                    <object id="IFT_OBJ_LM000108"/>
+                    <object id="IFT_OBJ_LM000107"/>
+                    <object id="IFT_OBJ_LM000106"/>
+                    <object id="IFT_OBJ_LM000105"/>
+                    <object id="IFT_OBJ_LM000104"/>
+                    <object id="IFT_OBJ_LM000103"/>
+                    <object id="IFT_OBJ_LM000102"/>
+                    <object id="IFT_OBJ_LM000101"/>
+                    <object id="IFT_OBJ_LM000100"/>
+                    <object id="IFT_OBJ_LM000099"/>
+                    <object id="IFT_OBJ_LM000098"/>
+                    <object id="IFT_OBJ_LM000097"/>
+                    <object id="IFT_OBJ_LM000096"/>
+                    <object id="IFT_OBJ_LM000095"/>
+                    <object id="IFT_OBJ_LM000008"/>
+                    <object id="IFT_KON_LM000017"/>
+                    <object id="IFT_KON_LM000009"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext>Nationalsozialismus</culturalContext>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Berliner Staatsschauspiels</text>
+            <object id="IFT_OBJ_LM000459"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung des Berliner Staatstheaters</text>
+            <object id="IFT_OBJ_LM000008"/>
+        </description>
+        <description>
+            <text>Ursprüngliche Theaterinszenierung des Berliner Staatsschauspiels 1936; z.T. abweichende Besetzung</text>
+            <object id="IFT_KON_LM000017"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">
+            <name>Müthel, Lothar</name>
+            <id type="gnd">119049309</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="05603d41-b84c-4282-a03d-41b84cb282d2">
+            <name>Schlegel, August Wilhelm von</name>
+            <id type="gnd">118607960</id>
+            <roleActor>
+                <role>Übersetzer_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f52330ce-023c-4fac-a330-ce023ccfac1d">
+            <name>Gliese, Rochus</name>
+            <id type="gnd">116663308</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b23ef603-8fc5-4dc8-bef6-038fc5cdc811">
+            <name>Gründgens, Gustaf</name>
+            <id type="gnd">118542850</id>
+            <roleActor>
+                <role type="Rolle">Hamlet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="278535bb-680c-4a5a-8535-bb680cfa5abb">
+            <name>Franck, Walter</name>
+            <id type="gnd">118692518</id>
+            <roleActor>
+                <role type="Rolle">König Claudius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c69219d5-7b58-4ee9-9219-d57b583ee931">
+            <name>Körner, Hermine</name>
+            <id type="gnd">118713477</id>
+            <roleActor>
+                <role type="Rolle">Königin Gertrude</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0a5f3c59-38d2-43ca-9f3c-5938d253ca6e">
+            <name>Leibelt, Hans</name>
+            <id type="gnd">116876972</id>
+            <roleActor>
+                <role type="Rolle">Polonius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2ff545d8-692d-42bd-b545-d8692df2bd77">
+            <name>Spies, Leo</name>
+            <id type="gnd">118752022</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="12db375e-14a9-4661-9b37-5e14a93661e5">
+            <name>Hadank, Günther</name>
+            <id type="gnd">116357924</id>
+            <roleActor>
+                <role type="Rolle">Der Geist von Hamlets Vater</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3d461314-7f0c-45d0-8613-147f0c15d0d7">
+            <name>Gold, Käthe</name>
+            <id type="gnd">118696106</id>
+            <roleActor>
+                <role type="Rolle">Ophelia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b0ec4754-6d2d-49db-ac47-546d2d99dbe4">
+            <name>Clausen, Claus</name>
+            <id type="gnd">116540028</id>
+            <roleActor>
+                <role type="Rolle">Laertes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="adfc6c34-08c1-4656-bc6c-3408c12656c0">
+            <name>Bergmann, Hellmuth</name>
+            <id type="gnd">1053234562</id>
+            <roleActor>
+                <role type="Rolle">Horatio</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e21311d3-d99e-41c3-9311-d3d99e41c375">
+            <name>Scheu, Just</name>
+            <id type="gnd">117222860</id>
+            <roleActor>
+                <role type="Rolle">Rosenkranz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c298f60c-fc13-4039-98f6-0cfc13203942">
+            <name>Lommer, Horst</name>
+            <id type="gnd">133951537</id>
+            <roleActor>
+                <role type="Rolle">Güldenstern</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f413b729-60ac-48b7-93b7-2960acf8b7a5">
+            <name>Köckert, Alexander</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Osrick</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="330ec6c5-5fdc-40ff-8ec6-c55fdc80ff5c">
+            <name>Betge, Albrecht</name>
+            <id type="gnd">1062167236</id>
+            <roleActor>
+                <role type="Rolle">Marcellus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b14cc439-dacf-449f-8cc4-39dacf549f3f">
+            <name>Dunskus, Erich</name>
+            <id type="gnd">1017668612</id>
+            <roleActor>
+                <role type="Rolle">Bernardo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0d6c5ddd-a1af-4ca5-ac5d-dda1af2ca564">
+            <name>Hauer, Jochen</name>
+            <id type="gnd">1061795640</id>
+            <roleActor>
+                <role type="Rolle">Francisco</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="899d7a62-2206-447d-9d7a-622206f47daf">
+            <name>Haupt, Ulrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Offizier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4fd62d70-fbb4-4300-962d-70fbb46300c6">
+            <name>Kinder, Kurt</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bote</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8d6e49c0-f3c0-4da9-ae49-c0f3c06da92d">
+            <name>Werner, Walter Gotthard</name>
+            <id type="gnd">117303852</id>
+            <roleActor>
+                <role type="Rolle">Totengräber</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c89f1702-2d3f-4a0b-9f17-022d3f1a0b6a">
+            <name>Tarrach, Walter</name>
+            <id type="gnd">1061626083</id>
+            <roleActor>
+                <role type="Rolle">Totengräber</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3cafd778-2753-4573-afd7-78275395733f">
+            <name>Menzel, Arthur</name>
+            <id type="gnd">1078941505</id>
+            <roleActor>
+                <role type="Rolle">Priester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fc7ffc0a-ffc2-4e31-bffc-0affc28e318d">
+            <name>Bildt, Paul</name>
+            <id type="gnd">11618051X</id>
+            <roleActor>
+                <role type="Rolle">Schauspieler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0285ec14-bf5a-4a1a-85ec-14bf5a0a1aa0">
+            <name>Müthel, Lola</name>
+            <id type="gnd">117179515</id>
+            <roleActor>
+                <role type="Rolle">Königin (Pantomime)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="32377bd5-76b4-4264-b77b-d576b4e26407">
+            <name>Wedekind, Pamela</name>
+            <id type="gnd">107676176</id>
+            <roleActor>
+                <role type="Rolle">Königin (Schauspiel)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dc022d25-0156-4678-822d-250156967889">
+            <name>Schauspielhaus Berlin</name>
+            <id type="gnd">2118679-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="1f6845ca-decd-4fe3-a845-cadecd7fe3e6">
+            <name>Hartmann, Paul</name>
+            <id type="gnd">116501375</id>
+            <roleActor>
+                <role type="Rolle">Fortinbras</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="935df871-d996-4166-9df8-71d99661660d">
+            <name>Steininger, Herbert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">König (Pantomime)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8bb3019c-6beb-4f93-b301-9c6beb5f933e">
+            <name>Haupt, Ullrich</name>
+            <id type="gnd">13827925X</id>
+            <roleActor>
+                <role type="Rolle">Offizier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a11ce329-ec0b-4151-9ce3-29ec0ba151f0">
+            <name>Kökert, Alexander</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Osrick</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bc2debdc-c2f0-4e0b-adeb-dcc2f08e0b08">
+            <name>Voissel, Paul</name>
+            <id type="gnd">1061799514</id>
+            <roleActor>
+                <role type="Rolle">Prolog (Schauspiel)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="49db729a-f572-44c1-9b72-9af57254c12a">
+            <name>Walter, Franck</name>
+            <id type="gnd">118692518</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="be804c8d-935e-4d68-804c-8d935e3d683e">
+            <name>Handank, Günther</name>
+            <id type="gnd">116357924</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="35">
+        <object id="IFT_OBJ_LM000459" type="Publikation: Regiebuch" aat="">
+            <title>Regiebuch zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000125" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000124" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000123" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000122" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000121" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000120" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000119" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000118" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000117" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000116" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000115" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000114" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000113" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000112" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000111" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000110" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000109" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000108" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000107" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000106" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000105" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000104" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000103" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000102" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000101" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000100" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000099" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000098" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000097" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000096" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000095" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_OBJ_LM000008" type="Publikation: Programmheft" aat="300027217">
+            <title>Programmheft zu "Hamlet" in Berlin 1936</title>
+        </object>
+        <object id="IFT_KON_LM000017" type="Zeitungsausschnitt" aat="">
+            <title>Kritikenkovolut zum "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_KON_LM000009" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritikenkovolut zu "Hamlet" in Berlin 1936</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Gastspiel">
+            <listTitle>
+                <titleStmt>
+                    <title>Hamlet</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Wien</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Burgtheater</placeName>
+                </place>
+                <listObject>
+                    <object id="IFT_KON_LM000009"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>13.06.1938</eventDate>
+                </date>
+            </listDate>
+            <culturalContext>Nationalsozialismus</culturalContext>
+            <descriptionList>
+                <description>
+                    <beschreibung>
+                        <text>Gastspiel am Wiener Burgtheater während der V. Reichs-Theaterfestwoche 1938; teilweise mit abweichender Besetzung</text>
+                        <object>IFT_KON_LM000009</object>
+                    </beschreibung>
+                </description>
+            </descriptionList>
+            <actorList/>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

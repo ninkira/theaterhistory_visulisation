@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="990bed97-7162-4a68-8bed-977162ca68cb" type="Performance">
+    <groupingArgument actorID="39445d17-0dc7-4702-845d-170dc7270257">Gartenlaube, Die+12.12.1929+Engel, Erich</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Gartenlaube, Die</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Gartenlaube, Die</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000003"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Theater am Schiffbauerdamm</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000003"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>12.12.1929</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000003"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Theaters am Schiffbauerdamm, Berlin</text>
+            <object id="IFT_OBJ_HW000003"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="4f16e6d1-b589-4dc3-96e6-d1b589cdc38b">
+            <name>Ungar, Hermann</name>
+            <id type="gnd">118763687</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="39445d17-0dc7-4702-845d-170dc7270257">
+            <name>Engel, Erich</name>
+            <id type="gnd">118684647</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8cdeff75-c741-4b72-9eff-75c741eb72b5">
+            <name>Neher, Caspar</name>
+            <id type="gnd">118738356</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6a952f60-7fbb-4b1a-952f-607fbb7b1ab7">
+            <name>Sachs, Hanns</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="8582ab27-5519-4192-82ab-275519319254">
+            <name>Theater am Schiffbauerdamm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="bd61fba8-5e56-425e-a1fb-a85e56525e35">
+            <name>Ponto, Erich</name>
+            <id type="gnd">116266422</id>
+            <roleActor>
+                <role type="Rolle">Josef Colbert</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Melanie Colbert</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a83188e8-48c8-49e1-b188-e848c8e9e1ff">
+            <name>Körber, Hilde</name>
+            <id type="gnd">11903946X</id>
+            <roleActor>
+                <role type="Rolle">Amelie Colbert</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="90270134-c7ef-45da-a701-34c7ef15da23">
+            <name>Szakall, Szöke</name>
+            <id type="gnd">117391379</id>
+            <roleActor>
+                <role type="Rolle">Kudernak</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5a25567a-3b5c-436f-a556-7a3b5c636fcd">
+            <name>Lingen, Theo</name>
+            <id type="gnd">118728431</id>
+            <roleActor>
+                <role type="Rolle">Ferdinand</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7e09fcc8-c763-42c1-89fc-c8c76312c17b">
+            <name>Sima, Oskar</name>
+            <id type="gnd">130872091</id>
+            <roleActor>
+                <role type="Rolle">Modlizki</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="01c46617-ebf7-4bd1-8466-17ebf72bd144">
+            <name>Servaes, Dagny</name>
+            <id type="gnd">117467944</id>
+            <roleActor>
+                <role type="Rolle">Josefine</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2e658ae0-a944-4e5a-a58a-e0a9448e5a53">
+            <name>Kuffner, Gerda</name>
+            <id type="gnd">1062391462</id>
+            <roleActor>
+                <role type="Rolle">Anna</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000003" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Die Gartenlaube" in Berlin 1929</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

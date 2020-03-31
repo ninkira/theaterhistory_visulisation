@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="2823f8da-523f-4c98-a3f8-da523f2c9872" type="Performance">
+    <groupingArgument actorID="bdeed7cc-3c36-4578-aed7-cc3c36457878">So machen's alle+30.09.1937+Ludwig, Leopold</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>So machen's alle</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Così fan tutte</title>
+            <listObject>
+                <object id="TWS_OBJ0000099"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Oldenburg</placeName>
+            <place type="Institution">
+                <placeName>Oldenburg, Landestheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000099"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>30.09.1937</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000099"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Anrechtvorstellung 30.09.1937</text>
+            <object id="TWS_OBJ0000099"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="41585c0d-c8cb-4d26-985c-0dc8cb3d260a">
+            <name>Da Ponte, Lorenzo</name>
+            <id type="gnd">118678841</id>
+            <roleActor>
+                <role>Librettist</role>
+            </roleActor>
+        </actor>
+        <actor id="e82db7c6-e35b-430d-adb7-c6e35be30dae">
+            <name>Mozart, Wolfgang Amadeus</name>
+            <id type="gnd">118584596</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="21954402-dd69-4e81-9544-02dd692e8147">
+            <name>Anheißer, Siegfried</name>
+            <id type="gnd">116311959</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bfb94645-ba7e-47e9-b946-45ba7e67e9c5">
+            <name>Delp, Hildegard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Despina</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="35cd0c83-3b4d-401a-8d0c-833b4da01a4b">
+            <name>Drews, Maria</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Dorabella</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f4e7c137-7e3a-4549-a7c1-377e3a654923">
+            <name>Döhler, Erich</name>
+            <id type="gnd">105323721</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ff4ec454-78fa-4f2c-8ec4-5478fa2f2ccd">
+            <name>Fuchs, Otto</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ferrando</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3ba0d9b9-88d9-405f-a0d9-b988d9705f3a">
+            <name>Höfle, Emil</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Don Alfonso</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bdeed7cc-3c36-4578-aed7-cc3c36457878">
+            <name>Ludwig, Leopold</name>
+            <id type="gnd">118729497</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="4725f75f-3256-490e-a5f7-5f3256c90e80">
+            <name>Oswald, Fritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Guglielmo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ecaf04b8-9d45-4efe-af04-b89d458efe5d">
+            <name>Prömper, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Spielwart</role>
+            </roleActor>
+        </actor>
+        <actor id="d39157aa-b823-4655-9157-aab82386555d">
+            <name>Scheibenhofer, Grete</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fiordiligi</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000099" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Così fan tutte "</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="7795e77a-266b-4e43-95e7-7a266bae43f9" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Agnes Bernauer+11.10.1939+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Agnes Bernauer</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Agnes Bernauer</title>
+            <listObject>
+                <object id="TWS_OBJ0000102"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Oldenburg</placeName>
+            <place type="Institution">
+                <placeName>Oldenburger Landestheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000102"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>11.10.1939</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000102"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="23236916-e9ee-4038-a369-16e9ee4038e6">
+            <name>Adelberger, Waldemar</name>
+            <id type="gnd">1061825477</id>
+            <roleActor>
+                <role type="Rolle">Stachus, ein Diener und ein Herold des Reichs</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="afdce3f0-8a39-4772-9ce3-f08a39b77254">
+            <name>Blanck, Peter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Nothafft von Wernberg</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="234ffcb2-55dd-45a7-8ffc-b255dd25a7f0">
+            <name>Bäumer, Walter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Graf Törring</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="75281256-046b-4666-a812-56046b9666af">
+            <name>Crost, Waltraut</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Martha</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c0a382ea-d288-483a-a382-ead288083a89">
+            <name>Diedrich, Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Knippeldollinger, sein Gevatter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="160c34a1-6332-44dc-8c34-a1633234dc8e">
+            <name>Dietrich, Adam</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Wolfram von Pienzenau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c5b744ae-19b9-46a0-b744-ae19b9e6a075">
+            <name>Ebhardt, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ignaz von Seyboltstorf</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="13f3aef2-8f90-4ae4-b3ae-f28f90aae46e">
+            <name>Eyer, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="83340071-3bfb-4dea-b400-713bfbadea4a">
+            <name>Freymann, Arthur von</name>
+            <id type="gnd">1176747258</id>
+            <roleActor>
+                <role type="Rolle">Der Kastellan auf Vohburg und Straubing</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57e9d25c-5910-458b-a9d2-5c5910658b34">
+            <name>Görlich, Theodor</name>
+            <id type="gnd">116723971</id>
+            <roleActor>
+                <role type="Rolle">Hermann Nördlinger, Bürgermeister zu Augsburg</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d8b6df9c-7b3f-444a-b6df-9c7b3f544af5">
+            <name>Haienhoff, Helmut</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Marschall von Pappenheim</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5a31bcdd-2e3b-45d1-b1bc-dd2e3b45d119">
+            <name>Hebbel, Friedrich</name>
+            <id type="gnd">118547445</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0b2f4576-6e48-42c5-af45-766e4852c531">
+            <name>Horn, Dieter</name>
+            <id type="gnd">1138050946</id>
+            <roleActor>
+                <role type="Rolle">Albrecht, sein Sohn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8a626e60-fc2d-41fa-a26e-60fc2d21fac7">
+            <name>Hückel, Rudolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Frauenhoven, Rolf von</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="505c42d3-e3d0-4a07-9c42-d3e3d05a075b">
+            <name>Lehre, Kurt</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Emeran Nusperger zu Kalmperg, Richter zu Straubing</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Spielwart</role>
+            </roleActor>
+        </actor>
+        <actor id="08623924-ddc6-49e6-a239-24ddc6c9e6cf">
+            <name>Medenwaldt, Immanuel</name>
+            <id type="gnd">124979505</id>
+            <roleActor>
+                <role type="Rolle">Kaspar Bernauer, Bader und Chirurgus zu Augsburg</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="40db4b80-aac6-4acd-9b4b-80aac60acd95">
+            <name>Menschel, Hermann</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ernst, regierender Herzog zu München-Bayern</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6f385adf-2c14-432e-b85a-df2c14432e6e">
+            <name>Nicolai, Kai</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Theobald, sein Geselle</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4c39f1b9-be70-4df0-b9f1-b9be707df0b3">
+            <name>Reimers, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Einrichtung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4dd34128-8ea5-4f25-9341-288ea58f2502">
+            <name>Simon, Carl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Hans von Preising, sein Kanzler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7a60afb0-418a-4f3d-a0af-b0418a6f3dc4">
+            <name>Stenner, Paula</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Barbara</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0359bd21-90e8-4890-99bd-2190e8989057">
+            <name>Vaitl, Eva</name>
+            <id type="gnd">1052144403</id>
+            <roleActor>
+                <role type="Rolle">Agnes, seine Tochter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1fd93b28-6dcc-4957-993b-286dccf9579b">
+            <name>Harth, Walter</name>
+            <id type="gnd">116490616</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c025392e-b983-4bfb-a539-2eb9836bfb42">
+            <name>Wenthe, Frieda</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f98ee8b5-1f19-4a57-8ee8-b51f19da57aa">
+            <name>Oldenburger Landestheater</name>
+            <id type="gnd">116349-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000102" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Agnes Bernauer"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

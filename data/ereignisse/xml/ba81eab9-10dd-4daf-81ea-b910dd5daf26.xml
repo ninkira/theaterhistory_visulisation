@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ba81eab9-10dd-4daf-81ea-b910dd5daf26" type="Performance">
+    <groupingArgument actorID="">Hamlet+23.02.1885+</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Hamlet</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Hamlet, Prinz von Dänemark</title>
+            <listObject>
+                <object id="TWS_OBJ0000527"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Breslau</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater Breslau</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000527"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>23.02.1885</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000527"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Vorletztes Gastspiel des italienischen Tragöden Ernesto Rossi</text>
+            <object id="TWS_OBJ0000527"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="f9e27c6a-c71e-4d39-a27c-6ac71ebd39ab">
+            <name>Badewitz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Polonius, Oberkämmerer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">116110627</id>
+            <roleActor>
+                <role type="Rolle">König; Erster Schauspieler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b8160b11-6ea7-49c1-960b-116ea769c1c5">
+            <name>Bischoff</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Marcellus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ace31e5f-eb8c-4e49-a31e-5feb8c3e494c">
+            <name>Bormann</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ophelia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="de160da3-fed6-4b3d-960d-a3fed69b3d15">
+            <name>Delavigne</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Matrose</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="418de94a-7bc7-40f6-8de9-4a7bc7f0f6f1">
+            <name>Golde</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zweiter Totengräber</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a533280a-0706-421e-b328-0a0706a21ea3">
+            <name>Greiner</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Rosenkranz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0d3eb891-47c8-448d-beb8-9147c8448d6f">
+            <name>Herrmann-Benedix</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Gertrude, Königin von Dänemark</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f025ff51-abd8-415f-a5ff-51abd8215fb5">
+            <name>Kauer</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Horatio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b7f04abe-b3c0-4f78-b04a-beb3c00f78ef">
+            <name>Krause</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bernardo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="43da9087-2a7a-4f13-9a90-872a7a4f13d5">
+            <name>Lamprecht</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Osrick</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="18bb6cbf-9a4b-426e-bb6c-bf9a4b126e89">
+            <name>Lucas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Francisko</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5a6fecf-350b-4813-a6fe-cf350b981385">
+            <name>Meyer</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Laertes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="be0fc528-5057-4b54-8fc5-2850577b545c">
+            <name>Oeser</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Geist von Hamlets Vater</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e13dbe2c-7ee1-4970-bdbe-2c7ee1e97074">
+            <name>Rossi, Ernesto</name>
+            <id type="gnd">118836412</id>
+            <roleActor>
+                <role type="Rolle">Hamlet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="50b64ed6-40de-475f-b64e-d640de375f34">
+            <name>Schmid</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Königin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3f9bfaa9-75cd-427d-9bfa-a975cd427dd6">
+            <name>Schwarzbach</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lucianus; Zweiter Schauspieler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="95f839f2-80a7-441c-b839-f280a7941cf6">
+            <name>Stadttheater Breslau</name>
+            <id type="gnd">16343427-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="5e00cea9-a0a6-49ad-80ce-a9a0a659ad81">
+            <name>Thomas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Güldenstern</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="216609ba-a6e1-4960-a609-baa6e1396024">
+            <name>von Fischer</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Claudius, König von Dänemark</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="47a0684d-dba9-41e3-a068-4ddba971e32a">
+            <name>Will</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Erster Totengräber</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000527" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zur "Hamlet"-Inszenierung in Breslau 1885</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

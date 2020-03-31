@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="daa70359-8a5b-4250-a703-598a5b025044" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Liebeskönig, Der+17.10.1906+Reinhardt, Max</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Liebeskönig, Der</title>
+            <listObject>
+                <object id="TWS_OBJ0000161"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000161"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>17.10.1906</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000161"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="21779bab-c988-4247-b79b-abc98852470e">
+            <name>Greiner, Leo</name>
+            <id type="gnd">116830980</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Isabella</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e7a4ac9e-c6a8-44dc-a4ac-9ec6a894dcb1">
+            <name>Henrich, Georg</name>
+            <id type="gnd">116717556</id>
+            <roleActor>
+                <role type="Rolle">Alphonso</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000161" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Fotografie zu "Der Liebeskönig" in Berlin 1906</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

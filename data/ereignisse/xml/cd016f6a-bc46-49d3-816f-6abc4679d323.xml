@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="cd016f6a-bc46-49d3-816f-6abc4679d323" type="Performance">
+    <groupingArgument actorID="65cf183e-db3e-46e9-8f18-3edb3e86e93e">Arlecchino++Hagemann, Carl</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Arlecchino</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Arlecchino</title>
+            <listObject>
+                <object id="TWS_OBJ0000546"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wiesbaden</placeName>
+            <place type="Institution">
+                <placeName>Staatstheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000546"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1925" to="1926">
+                <listObject>
+                    <object id="TWS_OBJ0000546"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="37df8264-89e0-43f9-9f82-6489e0e3f9e0">
+            <name>Langhoff, Wolfgang</name>
+            <id type="gnd">118569538</id>
+            <roleActor>
+                <role type="Rolle">Arlecchino</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fe0ff586-e00c-45dc-8ff5-86e00c35dccc">
+            <name>Müller-Reichel, Therese</name>
+            <id type="gnd">102132423X</id>
+            <roleActor>
+                <role type="Rolle">Colombina</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="074a8fbe-f268-46b6-8a8f-bef268f6b636">
+            <name>Biehler, Franz</name>
+            <id type="gnd">132361663</id>
+            <roleActor>
+                <role type="Rolle">Ser Matteo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="65cf183e-db3e-46e9-8f18-3edb3e86e93e">
+            <name>Hagemann, Carl</name>
+            <id type="gnd">119368277</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="b73cfb04-f038-4c61-bcfb-04f0384c619f">
+            <name>Klemperer, Otto</name>
+            <id type="gnd">118563181</id>
+            <roleActor>
+                <role>Dirigent</role>
+            </roleActor>
+        </actor>
+        <actor id="2394220a-0b0f-4da5-9422-0a0b0f8da5a1">
+            <name>Busoni, Ferruccio</name>
+            <id type="gnd">118518011</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0af69dc2-1637-4917-b69d-c21637891766">
+            <name>Staatstheater Wiesbaden</name>
+            <id type="gnd">2042913-7</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000546" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritik zur "Arlecchino"-Inszenierung in Wiesbaden 1925/26</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

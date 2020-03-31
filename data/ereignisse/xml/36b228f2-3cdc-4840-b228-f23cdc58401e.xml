@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="36b228f2-3cdc-4840-b228-f23cdc58401e" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Meine Schwester und ich+05.12.1938+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Meine Schwester und ich</title>
+            <listObject>
+                <object id="TWS_OBJ0000100"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Oldenburg</placeName>
+            <place type="Institution">
+                <placeName>Oldenburg, Landestheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000100"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>05.12.1938</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000100"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="23236916-e9ee-4038-a369-16e9ee4038e6">
+            <name>Adelberger, Waldemar</name>
+            <id type="gnd">1061825477</id>
+            <roleActor>
+                <role type="Rolle">Gerichtsdiener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="17934ec5-c6db-4df6-934e-c5c6dbbdf6fd">
+            <name>Appelt, Adi</name>
+            <id type="gnd">13511750X</id>
+            <roleActor>
+                <role type="Rolle">Dr. Roger Fleuriot</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3375745e-f298-46c1-b574-5ef29856c10c">
+            <name>Balzer, Karla</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="32944090-aa26-48b5-9440-90aa2608b5b7">
+            <name>Benatzky, Ralph</name>
+            <id type="gnd">118655272</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="c0a382ea-d288-483a-a382-ead288083a89">
+            <name>Diedrich, Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Filosel, Inhaber eines Schuhgeschäfts</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="837f61c3-414a-4525-bf61-c3414a7525de">
+            <name>Eichelmann, Annemarie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Dolly Fleuriot</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="70ba4bdc-8e03-4dc0-ba4b-dc8e039dc069">
+            <name>Ferrau, Walter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Charly, Kammerdiener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="83340071-3bfb-4dea-b400-713bfbadea4a">
+            <name>Freymann, Arthur von</name>
+            <id type="gnd">1176747258</id>
+            <roleActor>
+                <role type="Rolle">ein Minister</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57e9d25c-5910-458b-a9d2-5c5910658b34">
+            <name>Görlich, Theodor</name>
+            <id type="gnd">116723971</id>
+            <roleActor>
+                <role type="Rolle">Der Gerichtspräsident</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c50de619-8251-431d-8de6-198251c31d07">
+            <name>Orth, Walter</name>
+            <id type="gnd">1061579050</id>
+            <roleActor>
+                <role type="Rolle">Ein Kunde</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="cdf204ff-9613-46a4-b204-ff961336a403">
+            <name>Papperitz, Carmen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Irma, Verkäuferin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1921ecbd-d602-4f62-a1ec-bdd6022f621e">
+            <name>Parther, Ilfe</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Henriette</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ecaf04b8-9d45-4efe-af04-b89d458efe5d">
+            <name>Prömper, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Spielwart</role>
+            </roleActor>
+        </actor>
+        <actor id="78a99b3e-4a07-4782-a99b-3e4a07b78225">
+            <name>Remmele, Lothar</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="7de5f4b7-3c5f-4e93-a5f4-b73c5fce936d">
+            <name>Weber, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Graf Lacy de Nagyfaludi</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f46267f6-c994-407b-a267-f6c994907b35">
+            <name>Wohlau, Maria</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">eine Frau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000100" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Meine Schwester und ich"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

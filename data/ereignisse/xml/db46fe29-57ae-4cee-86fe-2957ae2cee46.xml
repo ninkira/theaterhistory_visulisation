@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="db46fe29-57ae-4cee-86fe-2957ae2cee46" type="Performance">
+    <groupingArgument actorID="c4781361-ef9d-40c9-b813-61ef9db0c910">Logierbesuch (The Painted Face)++Sistig, Alfred Erich</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Logierbesuch (The Painted Face)</title>
+            <listObject>
+                <object id="TWS_OBJ0000152"/>
+                <object id="TWS_OBJ0000145"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000152"/>
+                </listObject>
+            </place>
+            <place type="Institution">
+                <placeName>Hebbeltheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000145"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1964" to="1965">
+                <listObject>
+                    <object id="TWS_OBJ0000152"/>
+                    <object id="TWS_OBJ0000145"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Deutsche Erstaufführung; hier spielt Trude Hesterberg die Rolle der Lady Carley, später wird sie gespielt von Lia Eibenschütz</text>
+            <object id="TWS_OBJ0000152"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="13c1380c-8cfc-4dd9-8138-0c8cfc1dd93e">
+            <name>Ryton, Royce</name>
+            <id type="gnd">1072055007</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="992bac4b-d060-4d9d-abac-4bd060ad9d40">
+            <name>Barrington, Mary Rose</name>
+            <id type="gnd">109017196</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="899dd9fc-029f-4e7f-9dd9-fc029ffe7f98">
+            <name>Baumrucker, Gerhard</name>
+            <id type="gnd">1036153746</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="818444d6-6b79-4ca1-8444-d66b798ca115">
+            <name>Baumrucker, Alexandra</name>
+            <id type="gnd">104635959</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="c4781361-ef9d-40c9-b813-61ef9db0c910">
+            <name>Sistig, Alfred Erich</name>
+            <id type="gnd">117418072</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Einrichtung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2583279-2b56-434d-9832-792b56334d82">
+            <name>Vogel, Carl Wilhelm</name>
+            <id type="gnd">136426832</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d9edf358-75c1-4a72-adf3-5875c1fa72e6">
+            <name>Lynn, Christa</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="95c1cd67-88c4-4bc0-81cd-6788c48bc09d">
+            <name>Hannemann, Horst</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="5ce7afc4-7ccd-44f8-a7af-c47ccd54f80c">
+            <name>Petersilge, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Einrichtung</role>
+            </roleActor>
+        </actor>
+        <actor id="5646a618-5d5a-4d2e-86a6-185d5add2ed3">
+            <name>Angermann, Ernie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Maskenbildner_in</role>
+            </roleActor>
+        </actor>
+        <actor id="68791555-877f-4b08-b915-55877f3b0846">
+            <name>Köbisch, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="1e3c2bb5-8fd8-47ec-bc2b-b58fd8a7ecff">
+            <name>Lengwinat, Elisabeth</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Souffleur_in</role>
+            </roleActor>
+        </actor>
+        <actor id="7006fc8c-b29a-41c8-86fc-8cb29aa1c800">
+            <name>Janssen, Walter</name>
+            <id type="gnd">136550592</id>
+            <roleActor>
+                <role type="Rolle">Colonel Alec Maclntyre</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c3299f7c-59e7-434f-a99f-7c59e7134f0f">
+            <name>Denk, Paula</name>
+            <id type="gnd">1061411109</id>
+            <roleActor>
+                <role type="Rolle">Stella MacIntyre</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="66da10b5-5bba-44ef-9a10-b55bba34ef23">
+            <name>Cramer, Michael</name>
+            <id type="gnd">102046741X</id>
+            <roleActor>
+                <role type="Rolle">Peter MacIntyre</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a78fb735-b264-4223-8fb7-35b264b223cc">
+            <name>Lichti, Rüdiger</name>
+            <id type="gnd">1061882454</id>
+            <roleActor>
+                <role type="Rolle">George MacIntyre</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Baronin Mathilde v. Schönberg-Baritzka</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="297def2d-f63a-41e2-bdef-2df63a81e218">
+            <name>Urban, Maria</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Anne von Schönberg-Baritzka</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f483c166-8c80-4688-83c1-668c80e6886e">
+            <name>Hesterberg, Trude</name>
+            <id type="gnd">118704257</id>
+            <roleActor>
+                <role type="Rolle">Lady Carley</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="25fa3fa7-3776-4969-ba3f-a73776b969d3">
+            <name>Sawade, Harald</name>
+            <id type="gnd">1062362071</id>
+            <roleActor>
+                <role type="Rolle">Vivian de Vere</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4e04b426-a621-4113-84b4-26a621111366">
+            <name>Dugal, Elfie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mrs. Thompson</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="907bf5ca-37c5-47b5-bbf5-ca37c5a7b5a8">
+            <name>Berliner Theater</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="f94d6d6b-350c-4178-8d6d-6b350c017879">
+            <name>Gerber, Hela</name>
+            <id type="gnd">137938233</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="b170e7ea-b60b-4e39-b0e7-eab60bee3967">
+            <name>Croner, Harry</name>
+            <id type="gnd">1064910017</id>
+            <roleActor>
+                <role>Fotograf_in</role>
+            </roleActor>
+        </actor>
+        <actor id="24074d0f-4428-48e1-874d-0f442838e1be">
+            <name>Eibenschütz, Lia</name>
+            <id type="gnd">1061679179</id>
+            <roleActor>
+                <role type="Rolle">Lady Carley</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6ddca60-f01d-4c10-9dca-60f01d0c10de">
+            <name>Düsseldorfer Theater- und Konzertdirektion D. Dickers &amp; Co.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000152" type="Publikation: Programmheft" aat="300027217">
+            <title>Tournee-Programmheft zu "Logierbesuch"</title>
+        </object>
+        <object id="TWS_OBJ0000145" type="Publikation: Programmheft" aat="300027217">
+            <title>Programmheft zu "Logierbesuch" in Berlin 1964/65</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

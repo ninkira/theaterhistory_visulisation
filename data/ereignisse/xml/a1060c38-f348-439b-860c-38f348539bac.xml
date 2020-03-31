@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a1060c38-f348-439b-860c-38f348539bac" type="Performance">
+    <groupingArgument actorID="afed4617-3104-4732-ad46-173104773235">Gyges und sein Ring+19.08.1919+Holl, Fritz</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Gyges und sein Ring</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Gyges und sein Ring</title>
+            <listObject>
+                <object id="TWS_OBJ0000689"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000689"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>19.08.1919</premier>
+            <time from="19.08.1919" to="1919">
+                <listObject>
+                    <object id="TWS_OBJ0000689"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="6be07fe4-d0a3-43b6-a07f-e4d0a303b63a">
+            <name>Wecus, Walter von</name>
+            <id type="gnd">119128403</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5a31bcdd-2e3b-45d1-b1bc-dd2e3b45d119">
+            <name>Hebbel, Friedrich</name>
+            <id type="gnd">118547445</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="afed4617-3104-4732-ad46-173104773235">
+            <name>Holl, Fritz</name>
+            <id type="gnd">116961309</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000689" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Walter von Wecus</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

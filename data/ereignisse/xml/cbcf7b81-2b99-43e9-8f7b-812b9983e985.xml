@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="cbcf7b81-2b99-43e9-8f7b-812b9983e985" type="Performance">
+    <groupingArgument actorID="5b3d696d-7877-476d-bd69-6d7877176dc1">sechs Schwäne, Die+1919+Keller, Eugen</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>sechs Schwäne, Die</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>sechs Schwäne, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000696"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000696"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>1919</premier>
+            <time from="1919" to="1919">
+                <listObject>
+                    <object id="TWS_OBJ0000696"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="6be07fe4-d0a3-43b6-a07f-e4d0a303b63a">
+            <name>Wecus, Walter von</name>
+            <id type="gnd">119128403</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2ea2c117-8258-4c72-a2c1-1782588c72d2">
+            <name>Röttger, Karl</name>
+            <id type="gnd">119491818</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="5b3d696d-7877-476d-bd69-6d7877176dc1">
+            <name>Keller, Eugen</name>
+            <id type="gnd">116118911</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000696" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Walter von Wecus</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

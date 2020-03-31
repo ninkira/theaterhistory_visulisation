@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="121f9e6f-fe8e-438a-9f9e-6ffe8e038a63" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Stedinge, De+12.02.1937+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Stedinge, De</title>
+            <listObject>
+                <object id="TWS_OBJ0000097"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Oldenburg</placeName>
+            <place type="Institution">
+                <placeName>Niederdeutsche Gedenkstätte "Stedingsehre" Bookholzberg</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000097"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>12.02.1937</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000097"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Freilichttheater-Inszenierung</text>
+            <object id="TWS_OBJ0000097"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="a14d0736-5d39-4947-8d07-365d39694742">
+            <name>Hinrichs, August</name>
+            <id type="gnd">118551302</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000097" type="Publikation: Programmheft" aat="300027217">
+            <title>Programmheft zu "De Stedinge" in Oldenburg 1937</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

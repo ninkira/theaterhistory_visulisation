@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="bfc3f903-2a43-4bc7-83f9-032a437bc7a1" type="Performance">
+    <groupingArgument actorID="">Vasantasena+1930+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Vasantasena</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Vasantasena</title>
+            <listObject>
+                <object id="TWS_OBJ0000833"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wiesbaden</placeName>
+            <place type="Institution">
+                <placeName>Hessisches Staatstheater, Großes Haus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000833"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>1930</premier>
+            <time from="1930" to="1930">
+                <listObject>
+                    <object id="TWS_OBJ0000833"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="53104697-ffbb-4a3e-9046-97ffbb7a3e0c">
+            <name>Feuchtwanger, Lion</name>
+            <id type="gnd">118532715</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="efccbb7a-9f0d-405d-8cbb-7a9f0da05de7">
+            <name>Hessisches Staatstheater (Wiesbaden)</name>
+            <id type="gnd">4366400-3</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="b7ed6ed8-f182-4937-ad6e-d8f18269370f">
+            <name>Singer, Gustav</name>
+            <id type="gnd">117401935</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000833" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto zu "Vasantasena" in Wiesbaden 1930</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

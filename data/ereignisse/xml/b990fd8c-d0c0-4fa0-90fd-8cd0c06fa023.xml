@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="b990fd8c-d0c0-4fa0-90fd-8cd0c06fa023" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Antigone+28.03.1957+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Antigone</title>
+            <listObject>
+                <object id="TWS_OBJ0000088"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Landestheater Darmstadt</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000088"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>28.03.1957</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000088"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="04226d6b-4d75-4900-a26d-6b4d7529006c">
+            <name>Hölderlin, Friedrich</name>
+            <id type="gnd">118551981</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>Übersetzer</role>
+            </roleActor>
+        </actor>
+        <actor id="57d285bc-f174-4b52-9285-bcf1749b52fd">
+            <name>Joeres, Charlotte</name>
+            <id type="gnd">134633792</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f9052409-d0e3-423b-8524-09d0e3623bb5">
+            <name>Krug, Ellen</name>
+            <id type="gnd">1061646645</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1c178e5-9f55-4cc0-8178-e59f551cc060">
+            <name>Noack, Max</name>
+            <id type="gnd">1031177310</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f407b8e1-c7f1-40cc-87b8-e1c7f140cc64">
+            <name>Reinmann, Ingrid</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="67cc73d7-96c9-42f4-8c73-d796c972f4fc">
+            <name>Sophocles</name>
+            <id type="gnd">118615688</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="a28d374e-d304-4435-8d37-4ed304443586">
+            <name>Vioff, Udo</name>
+            <id type="gnd">140633561</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e949e404-4e9e-4f7e-89e4-044e9e9f7e79">
+            <name>Landestheater Darmstadt</name>
+            <id type="gnd">2002342-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000088" type="Publikation: Programmheft" aat="300027217">
+            <title>Artikel im "Das neue Forum" zu "Antigone" in Darmstadt 1957</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

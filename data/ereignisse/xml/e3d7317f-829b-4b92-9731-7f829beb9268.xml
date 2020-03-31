@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="e3d7317f-829b-4b92-9731-7f829beb9268" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Moses und Aron+03.10.1959+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Deutsche Erstaufführung(DEA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Moses und Aron</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Moses und Aron</title>
+            <listObject>
+                <object id="TWS_OBJ0000308"/>
+                <object id="TWS_OBJ0000307"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Städtische Oper</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000308"/>
+                    <object id="TWS_OBJ0000307"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>03.10.1959</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000308"/>
+                    <object id="TWS_OBJ0000307"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>"Moses und Aron" verursachte Pfiffe, Getrampel, Zwischenrufe und gehässige Sprechchöre in der Städtischen Oper. Die Tumulte blockierten den Ablauf der ersten deutschen Bühnenaufführung des Werkes. 
+
+Uraufführung in Zürich 1957
+
+Quelle: http://www.spiegel.de/spiegel/print/d-42622913.html</text>
+            <object id="TWS_OBJ0000308"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="02bbd5ca-c835-40dc-bbd5-cac83590dce1">
+            <name>Schönberg, Arnold</name>
+            <id type="gnd">118610023</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="c72e9d10-d104-44ba-ae9d-10d10464ba54">
+            <name>Scherchen, Hermann</name>
+            <id type="gnd">118754653</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0b5c7110-c434-4707-9c71-10c434a707fe">
+            <name>Raffaelli, Michel</name>
+            <id type="gnd">131941208</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="46489c40-a725-4ee6-889c-40a725cee691">
+            <name>Lear, Evelyn</name>
+            <id type="gnd">123980437</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4553071e-971a-4a0e-9307-1e971a1a0eb8">
+            <name>Greindl, Josef</name>
+            <id type="gnd">123193931</id>
+            <roleActor>
+                <role type="Rolle">Moses</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="51add0d6-a435-46b8-add0-d6a435d6b802">
+            <name>Melchert, Helmut</name>
+            <id type="gnd">130237655</id>
+            <roleActor>
+                <role type="Rolle">Aron</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0bbdb3bf-a449-4a29-bdb3-bfa4498a295e">
+            <name>Städtische Oper Berlin</name>
+            <id type="gnd">230083-7</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="2e241be2-f2ff-4936-a41b-e2f2ff693661">
+            <name>Schütz, Gert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="2e1bf36b-fb08-477f-9bf3-6bfb08577fb7">
+            <name>Eisler, Hanns</name>
+            <id type="gnd">118529692</id>
+            <roleActor>
+                <role>Zuschauer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="07b2e536-c493-4725-b2e5-36c493f7253e">
+            <name>Kroll, Erwin</name>
+            <id type="gnd">116552298</id>
+            <roleActor>
+                <role>Zuschauer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="1549c0f6-b8e8-4585-89c0-f6b8e86585c1">
+            <name>Hoyer, Dore</name>
+            <id type="gnd">118553887</id>
+            <roleActor>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e0e10976-9b5e-4b6f-a109-769b5e6b6f5d">
+            <name>Westphal, Kurt</name>
+            <id type="gnd">117321184</id>
+            <roleActor>
+                <role>Zuschauer_in</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000308" type="Figur: Stockpuppe" aat="300138750">
+            <title>Figurine zu "Moses und Aron" in Berlin 1959</title>
+        </object>
+        <object id="TWS_OBJ0000307" type="Figur: Stockpuppe" aat="300138750">
+            <title>Figurine zu "Moses und Aron" in Berlin 1959</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

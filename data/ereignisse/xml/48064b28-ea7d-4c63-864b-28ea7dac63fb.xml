@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="48064b28-ea7d-4c63-864b-28ea7dac63fb" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">Dornröschen: ein Kindermärchenlustspiel in 3 Bildern+26.12.1931+Ambach, Josef</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Dornröschen: ein Kindermärchenlustspiel in 3 Bildern</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Dornröschen</title>
+            <listObject>
+                <object id="IFT_OBJ_JA000011"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Mährisch-Ostrau</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater Mährisch-Ostrau</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JA000011"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>26.12.1931</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JA000011"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Deutschen Theaters Mährisch-Ostrau</text>
+            <object id="IFT_OBJ_JA000011"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="85264f1b-09c7-479e-a64f-1b09c7e79e98">
+            <name>Deutsches Theater (Mährisch-Ostrau)</name>
+            <id type="gnd">122890-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e726cbd9-ebdc-4fe6-a6cb-d9ebdcefe6b0">
+            <name>Bürkner, Robert</name>
+            <id type="gnd">117143650</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f38b5110-7775-400a-8b51-107775900acc">
+            <name>Dättel, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der König</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="52f8c3ba-01f6-4b21-b8c3-ba01f68b2166">
+            <name>Chitz, Lothar</name>
+            <id type="gnd">117221929</id>
+            <roleActor>
+                <role type="Rolle">Lustiger Geselle</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="58d6365f-ec55-420f-9636-5fec55020f44">
+            <name>Lauterbach, Frauke</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Die Magd</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d934fc6-d298-4267-934f-c6d29802673d">
+            <name>Eilers, Ina</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Küchenjunge</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="709eab92-886c-4c9d-9eab-92886cec9d33">
+            <name>Bauer, Albine</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Die böse Fee</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="baa7f5cf-54b1-404f-a7f5-cf54b1304f5c">
+            <name>Gerzhofer, Camilla</name>
+            <id type="gnd">1061595625</id>
+            <roleActor>
+                <role type="Rolle">Die Königin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b82f8a15-2e16-4dee-af8a-152e16adee00">
+            <name>Hönigsberg, Felicitas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Prinzess Dornröschen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8ca88e6d-6a0a-4b34-a88e-6d6a0aeb34b7">
+            <name>Bergner, Horst</name>
+            <id type="gnd">106164152X</id>
+            <roleActor>
+                <role type="Rolle">Der Prinz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8114632f-552b-41bc-9463-2f552b71bcd1">
+            <name>Juhn, Hugo</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Koch</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_JA000011" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Dornröschen" in Mährisch-Ostrau 1931</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

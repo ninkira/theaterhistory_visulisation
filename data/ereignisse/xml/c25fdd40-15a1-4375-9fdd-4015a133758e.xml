@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="c25fdd40-15a1-4375-9fdd-4015a133758e" type="Performance">
+    <groupingArgument actorID="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">Hamlet+04.01.1953+Müthel, Lothar</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Hamlet</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Hamlet</title>
+            <listObject>
+                <object id="IFT_OBJ_LM000460"/>
+                <object id="IFT_OBJ_LM000249"/>
+                <object id="IFT_OBJ_LM000248"/>
+                <object id="IFT_OBJ_LM000247"/>
+                <object id="IFT_OBJ_LM000246"/>
+                <object id="IFT_OBJ_LM000245"/>
+                <object id="IFT_OBJ_LM000244"/>
+                <object id="IFT_OBJ_LM000243"/>
+                <object id="IFT_OBJ_LM000242"/>
+                <object id="IFT_OBJ_LM000241"/>
+                <object id="IFT_OBJ_LM000240"/>
+                <object id="IFT_OBJ_LM000239"/>
+                <object id="IFT_OBJ_LM000238"/>
+                <object id="IFT_OBJ_LM000237"/>
+                <object id="IFT_OBJ_LM000236"/>
+                <object id="IFT_OBJ_LM000235"/>
+                <object id="IFT_OBJ_LM000234"/>
+                <object id="IFT_OBJ_LM000233"/>
+                <object id="IFT_OBJ_LM000232"/>
+                <object id="IFT_OBJ_LM000231"/>
+                <object id="IFT_OBJ_LM000230"/>
+                <object id="IFT_OBJ_LM000229"/>
+                <object id="IFT_OBJ_LM000228"/>
+                <object id="IFT_OBJ_LM000227"/>
+                <object id="IFT_OBJ_LM000226"/>
+                <object id="IFT_OBJ_LM000225"/>
+                <object id="IFT_OBJ_LM000224"/>
+                <object id="IFT_OBJ_LM000223"/>
+                <object id="IFT_OBJ_LM000222"/>
+                <object id="IFT_OBJ_LM000221"/>
+                <object id="IFT_OBJ_LM000220"/>
+                <object id="IFT_OBJ_LM000219"/>
+                <object id="IFT_OBJ_LM000218"/>
+                <object id="IFT_OBJ_LM000217"/>
+                <object id="IFT_OBJ_LM000216"/>
+                <object id="IFT_OBJ_LM000215"/>
+                <object id="IFT_OBJ_LM000214"/>
+                <object id="IFT_OBJ_LM000213"/>
+                <object id="IFT_OBJ_LM000212"/>
+                <object id="IFT_OBJ_LM000211"/>
+                <object id="IFT_OBJ_LM000210"/>
+                <object id="IFT_OBJ_LM000209"/>
+                <object id="IFT_OBJ_LM000208"/>
+                <object id="IFT_OBJ_LM000207"/>
+                <object id="IFT_OBJ_LM000206"/>
+                <object id="IFT_OBJ_LM000205"/>
+                <object id="IFT_OBJ_LM000204"/>
+                <object id="IFT_OBJ_LM000203"/>
+                <object id="IFT_OBJ_LM000202"/>
+                <object id="IFT_OBJ_LM000201"/>
+                <object id="IFT_OBJ_LM000200"/>
+                <object id="IFT_OBJ_LM000199"/>
+                <object id="IFT_OBJ_LM000198"/>
+                <object id="IFT_KON_LM000010"/>
+            </listObject>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Hamlet, Prinz von Dänemark</title>
+            <listObject>
+                <object id="IFT_OBJ_LM000015"/>
+                <object id="IFT_OBJ_LM000014"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Frankfurt am Main</placeName>
+            <place type="Institution">
+                <placeName>Kleines Haus im Börsensaal</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LM000460"/>
+                    <object id="IFT_OBJ_LM000249"/>
+                    <object id="IFT_OBJ_LM000248"/>
+                    <object id="IFT_OBJ_LM000247"/>
+                    <object id="IFT_OBJ_LM000246"/>
+                    <object id="IFT_OBJ_LM000245"/>
+                    <object id="IFT_OBJ_LM000244"/>
+                    <object id="IFT_OBJ_LM000243"/>
+                    <object id="IFT_OBJ_LM000242"/>
+                    <object id="IFT_OBJ_LM000241"/>
+                    <object id="IFT_OBJ_LM000240"/>
+                    <object id="IFT_OBJ_LM000239"/>
+                    <object id="IFT_OBJ_LM000238"/>
+                    <object id="IFT_OBJ_LM000237"/>
+                    <object id="IFT_OBJ_LM000236"/>
+                    <object id="IFT_OBJ_LM000235"/>
+                    <object id="IFT_OBJ_LM000234"/>
+                    <object id="IFT_OBJ_LM000233"/>
+                    <object id="IFT_OBJ_LM000232"/>
+                    <object id="IFT_OBJ_LM000231"/>
+                    <object id="IFT_OBJ_LM000230"/>
+                    <object id="IFT_OBJ_LM000229"/>
+                    <object id="IFT_OBJ_LM000228"/>
+                    <object id="IFT_OBJ_LM000227"/>
+                    <object id="IFT_OBJ_LM000226"/>
+                    <object id="IFT_OBJ_LM000225"/>
+                    <object id="IFT_OBJ_LM000224"/>
+                    <object id="IFT_OBJ_LM000223"/>
+                    <object id="IFT_OBJ_LM000222"/>
+                    <object id="IFT_OBJ_LM000221"/>
+                    <object id="IFT_OBJ_LM000220"/>
+                    <object id="IFT_OBJ_LM000219"/>
+                    <object id="IFT_OBJ_LM000218"/>
+                    <object id="IFT_OBJ_LM000217"/>
+                    <object id="IFT_OBJ_LM000216"/>
+                    <object id="IFT_OBJ_LM000215"/>
+                    <object id="IFT_OBJ_LM000214"/>
+                    <object id="IFT_OBJ_LM000213"/>
+                    <object id="IFT_OBJ_LM000212"/>
+                    <object id="IFT_OBJ_LM000211"/>
+                    <object id="IFT_OBJ_LM000210"/>
+                    <object id="IFT_OBJ_LM000209"/>
+                    <object id="IFT_OBJ_LM000208"/>
+                    <object id="IFT_OBJ_LM000207"/>
+                    <object id="IFT_OBJ_LM000206"/>
+                    <object id="IFT_OBJ_LM000205"/>
+                    <object id="IFT_OBJ_LM000204"/>
+                    <object id="IFT_OBJ_LM000203"/>
+                    <object id="IFT_OBJ_LM000202"/>
+                    <object id="IFT_OBJ_LM000201"/>
+                    <object id="IFT_OBJ_LM000200"/>
+                    <object id="IFT_OBJ_LM000199"/>
+                    <object id="IFT_OBJ_LM000198"/>
+                    <object id="IFT_OBJ_LM000015"/>
+                    <object id="IFT_OBJ_LM000014"/>
+                    <object id="IFT_KON_LM000010"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>04.01.1953</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_LM000460"/>
+                    <object id="IFT_OBJ_LM000249"/>
+                    <object id="IFT_OBJ_LM000248"/>
+                    <object id="IFT_OBJ_LM000247"/>
+                    <object id="IFT_OBJ_LM000246"/>
+                    <object id="IFT_OBJ_LM000245"/>
+                    <object id="IFT_OBJ_LM000244"/>
+                    <object id="IFT_OBJ_LM000243"/>
+                    <object id="IFT_OBJ_LM000242"/>
+                    <object id="IFT_OBJ_LM000241"/>
+                    <object id="IFT_OBJ_LM000240"/>
+                    <object id="IFT_OBJ_LM000239"/>
+                    <object id="IFT_OBJ_LM000238"/>
+                    <object id="IFT_OBJ_LM000237"/>
+                    <object id="IFT_OBJ_LM000236"/>
+                    <object id="IFT_OBJ_LM000235"/>
+                    <object id="IFT_OBJ_LM000234"/>
+                    <object id="IFT_OBJ_LM000233"/>
+                    <object id="IFT_OBJ_LM000232"/>
+                    <object id="IFT_OBJ_LM000231"/>
+                    <object id="IFT_OBJ_LM000230"/>
+                    <object id="IFT_OBJ_LM000229"/>
+                    <object id="IFT_OBJ_LM000228"/>
+                    <object id="IFT_OBJ_LM000227"/>
+                    <object id="IFT_OBJ_LM000226"/>
+                    <object id="IFT_OBJ_LM000225"/>
+                    <object id="IFT_OBJ_LM000224"/>
+                    <object id="IFT_OBJ_LM000223"/>
+                    <object id="IFT_OBJ_LM000222"/>
+                    <object id="IFT_OBJ_LM000221"/>
+                    <object id="IFT_OBJ_LM000220"/>
+                    <object id="IFT_OBJ_LM000219"/>
+                    <object id="IFT_OBJ_LM000218"/>
+                    <object id="IFT_OBJ_LM000217"/>
+                    <object id="IFT_OBJ_LM000216"/>
+                    <object id="IFT_OBJ_LM000215"/>
+                    <object id="IFT_OBJ_LM000214"/>
+                    <object id="IFT_OBJ_LM000213"/>
+                    <object id="IFT_OBJ_LM000212"/>
+                    <object id="IFT_OBJ_LM000211"/>
+                    <object id="IFT_OBJ_LM000210"/>
+                    <object id="IFT_OBJ_LM000209"/>
+                    <object id="IFT_OBJ_LM000208"/>
+                    <object id="IFT_OBJ_LM000207"/>
+                    <object id="IFT_OBJ_LM000206"/>
+                    <object id="IFT_OBJ_LM000205"/>
+                    <object id="IFT_OBJ_LM000204"/>
+                    <object id="IFT_OBJ_LM000203"/>
+                    <object id="IFT_OBJ_LM000202"/>
+                    <object id="IFT_OBJ_LM000201"/>
+                    <object id="IFT_OBJ_LM000200"/>
+                    <object id="IFT_OBJ_LM000199"/>
+                    <object id="IFT_OBJ_LM000198"/>
+                    <object id="IFT_OBJ_LM000015"/>
+                    <object id="IFT_OBJ_LM000014"/>
+                    <object id="IFT_KON_LM000010"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext>Bundesrepublik Deutschland</culturalContext>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Städtischen Bühnen Frankfurt am Main</text>
+            <object id="IFT_OBJ_LM000460"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">
+            <name>Müthel, Lothar</name>
+            <id type="gnd">119049309</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="05603d41-b84c-4282-a03d-41b84cb282d2">
+            <name>Schlegel, August Wilhelm von</name>
+            <id type="gnd">118607960</id>
+            <roleActor>
+                <role>Übersetzer_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="82451bb0-1c3e-45a3-851b-b01c3e85a34b">
+            <name>Christiansen, Rolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="6217233c-b89c-4e5e-9723-3cb89cee5eaf">
+            <name>Werner, Oskar</name>
+            <id type="gnd">118767186</id>
+            <roleActor>
+                <role type="Rolle">Hamlet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2a0b8d0-54c6-422f-a0b8-d054c6e22fee">
+            <name>Mitulski, Ernst Walter</name>
+            <id type="gnd">1061564487</id>
+            <roleActor>
+                <role type="Rolle">König Claudius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d86fe85a-728e-43c1-afe8-5a728ea3c157">
+            <name>Kuhlmann, Elisabeth</name>
+            <id type="gnd">173460976</id>
+            <roleActor>
+                <role type="Rolle">Königin Gertrude</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b522de4d-a0bf-41c1-a2de-4da0bfc1c140">
+            <name>Troxbömker, Heinrich</name>
+            <id type="gnd">1062439902</id>
+            <roleActor>
+                <role type="Rolle">Polonius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="312b3e27-0ca6-4e02-ab3e-270ca67e02e9">
+            <name>Purcell, Henry</name>
+            <id type="gnd">118742973</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="05e029b1-5f7a-4715-a029-b15f7a071532">
+            <name>Georg, Konrad</name>
+            <id type="gnd">1016927290</id>
+            <roleActor>
+                <role type="Rolle">Der Geist von Hamlets Vater</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b0c2ddce-f404-4988-82dd-cef404c9884c">
+            <name>Scharf, Lucia</name>
+            <id type="gnd">117108693</id>
+            <roleActor>
+                <role type="Rolle">Ophelia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b17e9c81-57c7-415d-be9c-8157c7615d36">
+            <name>Schumann, Erik</name>
+            <id type="gnd">123143691</id>
+            <roleActor>
+                <role type="Rolle">Laertes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d831887f-b8fc-492d-b188-7fb8fce92d41">
+            <name>Wussow, Klausjürgen</name>
+            <id type="gnd">119468670</id>
+            <roleActor>
+                <role type="Rolle">Horatio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0b4c38e3-8d61-49e6-8c38-e38d61f9e627">
+            <name>Gobert, Boy</name>
+            <id type="gnd">118539981</id>
+            <roleActor>
+                <role type="Rolle">Rosenkranz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="698fe58c-fcc2-4872-8fe5-8cfcc2d872c0">
+            <name>Lieffen, Karl</name>
+            <id type="gnd">118572806</id>
+            <roleActor>
+                <role type="Rolle">Güldenstern</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e951b497-a91a-4540-91b4-97a91ab54028">
+            <name>Windhorst, Karl-Heinz</name>
+            <id type="gnd">1061392570</id>
+            <roleActor>
+                <role type="Rolle">Osrick</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="af203b8a-dc29-4df5-a03b-8adc295df5a3">
+            <name>Dommisch, Kurt</name>
+            <id type="gnd">1061519953</id>
+            <roleActor>
+                <role type="Rolle">Marcellus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fe5f4ba6-13bb-4043-9f4b-a613bba04305">
+            <name>Mandel, Edgar</name>
+            <id type="gnd">1061351181</id>
+            <roleActor>
+                <role type="Rolle">Bernardo</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="8dbf9e94-0ef3-4c27-bf9e-940ef38c2741">
+            <name>Dennechaud, Walter</name>
+            <id type="gnd">1061930890</id>
+            <roleActor>
+                <role type="Rolle">Francisco</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d91e6ac-cf43-41fa-91e6-accf4391fa0c">
+            <name>Pohle, Herbert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Totengräber</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8363e498-a12a-459b-a3e4-98a12a459b2c">
+            <name>Siedhoff, Werner</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Priester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7e13e99b-3a9c-4b74-93e9-9b3a9cdb74b2">
+            <name>Rouvel, Otto</name>
+            <id type="gnd">103209625X</id>
+            <roleActor>
+                <role type="Rolle">Schauspieler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7f6f50ba-4500-4f0e-af50-ba4500df0ef4">
+            <name>Montijn, Aleida</name>
+            <id type="gnd">11888364X</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="1271ef7b-8096-4c5d-b1ef-7b80960c5dad">
+            <name>Matschuck, Walter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="b6713ecd-749e-4a85-b13e-cd749e4a8513">
+            <name>Schwindt, Friedrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="bb45a7ab-a220-4dbe-85a7-aba220bdbe06">
+            <name>Schoenfelder, Friedrich</name>
+            <id type="gnd">11938275X</id>
+            <roleActor>
+                <role type="Rolle">Fortinbras</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="792eca5d-8e81-4f22-aeca-5d8e81cf22fe">
+            <name>Kleines Haus (Frankfurt am Main)</name>
+            <id type="gnd">1156348889</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="6e191846-139d-4f3f-9918-46139d6f3fa4">
+            <name>Kleines Haus (Frankfurt am Main</name>
+            <id type="gnd">1156348889</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="56">
+        <object id="IFT_OBJ_LM000460" type="Publikation: Buch" aat="300028051">
+            <title>Soufflierbuch zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000249" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000248" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000247" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000246" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000245" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000244" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000243" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000242" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000241" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000240" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000239" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000238" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000237" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000236" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000235" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000234" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000233" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000232" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000231" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000230" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000229" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000228" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000227" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000226" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000225" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000224" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000223" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000222" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000221" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000220" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000219" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000218" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000217" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000216" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000215" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000214" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000213" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000212" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000211" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000210" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000209" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000208" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000207" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000206" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000205" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000204" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000203" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000202" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000201" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000200" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000199" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000198" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000015" type="Publikation: Programmheft" aat="300027217">
+            <title>Programmheft zu "Hamlet, Prinz von Dänemark" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_OBJ_LM000014" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Hamlet, Prinz von Dänemark" in Frankfurt am Main 1953</title>
+        </object>
+        <object id="IFT_KON_LM000010" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Konvolut Szenenfotografien zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

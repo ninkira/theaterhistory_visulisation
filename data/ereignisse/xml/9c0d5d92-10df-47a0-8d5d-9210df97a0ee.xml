@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="9c0d5d92-10df-47a0-8d5d-9210df97a0ee" type="Performance">
+    <groupingArgument actorID="cce6d6b2-98f0-4d1d-a6d6-b298f0dd1d7b">Engel mit dem Saitenspiel, Der+23.02.1939+Kiesau, Georg</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Engel mit dem Saitenspiel, Der</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000036"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000036"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>23.02.1939</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000036"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theateraufführung der Münchner Kammerspiele, Premiere</text>
+            <object id="IFT_OBJ_HW000036"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e0961776-169b-40a6-9617-76169bd0a6e2">
+            <name>Münchner Kammerspiele</name>
+            <id type="gnd">2068173-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="6b2732c0-b338-48e8-a732-c0b338e8e828">
+            <name>Lippl, Alois Johannes</name>
+            <id type="gnd">117044733</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="cce6d6b2-98f0-4d1d-a6d6-b298f0dd1d7b">
+            <name>Kiesau, Georg</name>
+            <id type="gnd">116169192</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4575ce75-53b4-45d9-b5ce-7553b4f5d9e4">
+            <name>Sturm, Eduard</name>
+            <id type="gnd">117363782</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0e9e9854-0b59-4837-9e98-540b59483729">
+            <name>Hatheyer, Heidemarie</name>
+            <id type="gnd">119010895</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3c432611-76ca-44d7-8326-1176ca14d7b3">
+            <name>Ponto, Alexander</name>
+            <id type="gnd">106144810X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eae2d72b-dbb8-403e-a2d7-2bdbb8003e39">
+            <name>Reiff, Fritz</name>
+            <id type="gnd">116403772</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000036" type="Fotografie: Album" aat="300026695">
+            <title>Fotoalbum Hedwig Wangel</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

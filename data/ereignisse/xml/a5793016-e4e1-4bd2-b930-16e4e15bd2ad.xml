@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a5793016-e4e1-4bd2-b930-16e4e15bd2ad" type="Performance">
+    <groupingArgument actorID="0bc13c79-78e2-4a08-813c-7978e23a08b2">armseligen Besenbinder, Die : Altes Märchen in 5 Akten+16.05.1942+Schultze-Griesheim, Hermann</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>armseligen Besenbinder, Die : Altes Märchen in 5 Akten</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>armseligen Besenbinder, Die</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000021"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000021"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>16.05.1942</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000021"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Münchner Kammerspiele</text>
+            <object id="IFT_OBJ_HW000021"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Frau Raschke</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1ac07ec4-ef90-495e-807e-c4ef90495e9e">
+            <name>Schewior, Hilde</name>
+            <id type="gnd">117225665</id>
+            <roleActor>
+                <role type="Rolle">Prinzessin Trull</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="28168169-e474-425d-9681-69e474b25d3c">
+            <name>Hauptmann, Carl</name>
+            <id type="gnd">118546910</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0bc13c79-78e2-4a08-813c-7978e23a08b2">
+            <name>Schultze-Griesheim, Hermann</name>
+            <id type="gnd">1177398672</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="be471543-baf0-4a43-8715-43baf0fa43c9">
+            <name>Klihm, Wolfgang</name>
+            <id type="gnd">104427302X</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da33daee-d551-4c1c-b3da-eed551ec1c2c">
+            <name>Thormann, Gundel</name>
+            <id type="gnd">106132771X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="01e5dc2f-f3ea-4641-a5dc-2ff3eae641ef">
+            <name>Helwig, Lisa</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b30a4939-64af-4654-8a49-3964af1654b8">
+            <name>Brefin, Otto</name>
+            <id type="gnd">116469722</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="33eb70e4-5b58-4192-ab70-e45b58c192fa">
+            <name>Nigg, Josef</name>
+            <id type="gnd">1062159918</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="82b3a352-a1cf-4feb-b3a3-52a1cfbfeb14">
+            <name>Menhart, Alfred</name>
+            <id type="gnd">1062174801</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f2e7b747-8df3-43b7-a7b7-478df3e3b73b">
+            <name>Lantzsch, Walter</name>
+            <id type="gnd">116731524</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e0961776-169b-40a6-9617-76169bd0a6e2">
+            <name>Münchner Kammerspiele</name>
+            <id type="gnd">2068173-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000021" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfoto aus "Die armseligen Besenbinder" in München 1942</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

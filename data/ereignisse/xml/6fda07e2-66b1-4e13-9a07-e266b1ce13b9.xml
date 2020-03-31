@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="6fda07e2-66b1-4e13-9a07-e266b1ce13b9" type="Performance">
+    <groupingArgument actorID="7e1f2012-f8de-49cc-9f20-12f8de19cc82">Krieg und Frieden+20.09.1955+Piscator, Erwin</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Krieg und Frieden</title>
+            <listObject>
+                <object id="TWS_OBJ0000125"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Landestheater Darmstadt</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000125"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>20.09.1955</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000125"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="57d285bc-f174-4b52-9285-bcf1749b52fd">
+            <name>Joeres, Charlotte</name>
+            <id type="gnd">134633792</id>
+            <roleActor>
+                <role type="Rolle">Marja, Andreis Schwester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8b176568-ade2-47d8-9765-68ade287d8fc">
+            <name>Neumann, Alfred</name>
+            <id type="gnd">120427354</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>Nacherzähler</role>
+            </roleActor>
+        </actor>
+        <actor id="7e1f2012-f8de-49cc-9f20-12f8de19cc82">
+            <name>Piscator, Erwin</name>
+            <id type="gnd">118594648</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>Nacherzähler</role>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dfa8e82b-79f5-411c-a8e8-2b79f5c11cbb">
+            <name>Prüfer, Guntram</name>
+            <id type="gnd">11630569X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>Nacherzähler</role>
+            </roleActor>
+        </actor>
+        <actor id="57f536e8-98df-4506-b536-e898df850677">
+            <name>Rueffer, Alwin Michael</name>
+            <id type="gnd">118821458</id>
+            <roleActor>
+                <role type="Rolle">Andrei, Fürst Bolkonski</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7645a45d-4a71-4dcc-85a4-5d4a710dcc27">
+            <name>Tolstoj, Lev Lʹvovič</name>
+            <id type="gnd">141487755</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Anatol</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="694a8fef-f6a7-4ce1-8a8f-eff6a7fce185">
+            <name>Blacher, Boris</name>
+            <id type="gnd">118663631</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="69cd1467-f6bd-4e72-8d14-67f6bdee727e">
+            <name>Bösiger, Paul</name>
+            <id type="gnd">1062464664</id>
+            <roleActor>
+                <role type="Rolle">Nikolai Graf Rosotw</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ccb0ffbe-76f3-472d-b0ff-be76f3872dee">
+            <name>Büttner, Elly</name>
+            <id type="gnd">1023863960</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1c7eaa3d-dafd-4791-beaa-3ddafd3791a2">
+            <name>Costa, Julia</name>
+            <id type="gnd">1013914554</id>
+            <roleActor>
+                <role type="Rolle">Natascha, ihre Mütter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4bd4aaea-0666-4789-94aa-ea0666878989">
+            <name>Düggelin, Werner</name>
+            <id type="gnd">105893722</id>
+            <roleActor>
+                <role type="Rolle">Zar Alexander</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a0cc5b93-584b-4628-8c5b-93584b262883">
+            <name>Fendel, Rosemarie</name>
+            <id type="gnd">124725287</id>
+            <roleActor>
+                <role type="Rolle">Lisa, Andreis Frau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c15caee7-0159-4a06-9cae-e701595a066f">
+            <name>Helfmann, Alexander</name>
+            <id type="gnd">1141080273</id>
+            <roleActor>
+                <role type="Rolle">Alapatytsch</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5d7f670-1a25-40ee-97f6-701a2510ee85">
+            <name>Hofer, Claus</name>
+            <id type="gnd">1061490157</id>
+            <roleActor>
+                <role type="Rolle">Dolochow</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="41ed9a99-4b65-4083-ad9a-994b6590837d">
+            <name>Höfgen, Christian</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="f9052409-d0e3-423b-8524-09d0e3623bb5">
+            <name>Krug, Ellen</name>
+            <id type="gnd">1061646645</id>
+            <roleActor>
+                <role type="Rolle">Die Gräfin, ihre Mutter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="cd3983cf-ee12-493d-b983-cfee12693de6">
+            <name>Leyrer, Willy</name>
+            <id type="gnd">1061403572</id>
+            <roleActor>
+                <role type="Rolle">Pierre, zuerst Monsieur Pierre, dann Graf Besuchow</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b987bc5d-b0e2-49ad-87bc-5db0e239adc9">
+            <name>Lübbert, Martin</name>
+            <id type="gnd">1061327752</id>
+            <roleActor>
+                <role type="Rolle">Der alte Fürst, Andreis Vater</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a7a54dd4-b171-438c-a54d-d4b171d38cf7">
+            <name>Madin, Hans</name>
+            <id type="gnd">1062269985</id>
+            <roleActor>
+                <role type="Rolle">Michael Ilarjonowitsch Kutusow</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da9f16cd-ce19-446e-9f16-cdce19846efb">
+            <name>Mittelhaus, Gerhard</name>
+            <id type="gnd">1062011414</id>
+            <roleActor>
+                <role type="Rolle">Sergei Kusmitsch</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="791a3822-9bd9-4ba1-9a38-229bd92ba1d1">
+            <name>Müller-Elmau, Raidar</name>
+            <id type="gnd">1061745511</id>
+            <roleActor>
+                <role type="Rolle">zweiter Offizier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="10728375-a033-4fce-b283-75a033cfcee6">
+            <name>Noak, Max</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Erzähler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="41c1242a-596d-4512-8124-2a596db5127c">
+            <name>Saussen, Edmund</name>
+            <id type="gnd">1061370453</id>
+            <roleActor>
+                <role type="Rolle">Napoleon Bonaparte</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7a47b328-8806-4060-87b3-288806b060f6">
+            <name>Weber, Willi</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="a54cda70-1e76-4a96-8cda-701e763a965f">
+            <name>Weiker, Hans</name>
+            <id type="gnd">1055072586</id>
+            <roleActor>
+                <role type="Rolle">erster Offizier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4cfae690-c3bf-4e67-bae6-90c3bf4e67c3">
+            <name>Wien, Herbert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Karatajew</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000125" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Krieg und Frieden" in Darmstadt 1955</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

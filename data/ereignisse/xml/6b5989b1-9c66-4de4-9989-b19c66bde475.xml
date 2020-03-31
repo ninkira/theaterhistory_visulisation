@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="6b5989b1-9c66-4de4-9989-b19c66bde475" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Rigoletto+26.12.1939+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Rigoletto</title>
+            <listObject>
+                <object id="TWS_OBJ0000103"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Oldenburg</placeName>
+            <place type="Institution">
+                <placeName>Oldeburg, Lnadestheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000103"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>26.12.1939</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000103"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>außer Anrecht Gastspiel Kammersänger Karl Schmitt-Walter vom Deutschen Opernhaus Berlin</text>
+            <object id="TWS_OBJ0000103"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="3375745e-f298-46c1-b574-5ef29856c10c">
+            <name>Balzer, Karla</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8ef3930a-1a3e-4bac-b393-0a1a3e4bac2d">
+            <name>Bergström, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Graf Borsa</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b9e4b7a6-7a13-474c-a4b7-a67a13774cb2">
+            <name>Bohonek, Franz</name>
+            <id type="gnd">1136989587</id>
+            <roleActor>
+                <role type="Rolle">Herzog von Mantua</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0aa06e06-263d-4f62-a06e-06263d9f6222">
+            <name>Büttner, Alfred</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Graf von Monterone</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="20b7819d-4841-4765-b781-9d4841b7651e">
+            <name>Cavosi, Frida</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Maddalena, seine Schwester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b572fb22-9556-45ad-b2fb-22955625ad4f">
+            <name>Eybisch, Werner</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Spielwart</role>
+            </roleActor>
+        </actor>
+        <actor id="13f3aef2-8f90-4ae4-b3ae-f28f90aae46e">
+            <name>Eyer, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="fde7fe9b-57b2-49dd-a7fe-9b57b229ddca">
+            <name>Faber, Maria</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Gilda, dessen Tochter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="25bcdfe6-e18e-4af7-bcdf-e6e18e4af7a2">
+            <name>Fafner, Jack</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Graf von Ceprano</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c1b37d79-1bcc-4a72-b37d-791bccea721b">
+            <name>Harth, Walther</name>
+            <id type="gnd">1141835169</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="23525461-1230-41e1-9254-611230f1e1b5">
+            <name>Hunold, Johannes</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Anführer der Wache</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3ba0d9b9-88d9-405f-a0d9-b988d9705f3a">
+            <name>Höfle, Emil</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Sparafucile, ein Bandit</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1927de8d-6a8c-4fa3-a7de-8d6a8cdfa3ef">
+            <name>Reh, Elisabeth</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">ein Page der Herzogin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4c39f1b9-be70-4df0-b9f1-b9be707df0b3">
+            <name>Reimers, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="f81fae40-1c2c-483f-9fae-401c2c183f43">
+            <name>Rischewski, Edith</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Die Gräfin, seine Gemahlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f7884e00-4f43-46d9-884e-004f43b6d974">
+            <name>Schmidt-Gronau, Luise</name>
+            <id type="gnd">117510807</id>
+            <roleActor>
+                <role type="Rolle">Giovanna</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a99bf796-b476-4921-9bf7-96b476592171">
+            <name>Schmitt-Walter, Karl</name>
+            <id type="gnd">123738652</id>
+            <roleActor>
+                <role type="Rolle">Rigoletto, sein Hofnarr</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f8ef5b7b-d257-4f6d-af5b-7bd2571f6df8">
+            <name>Verdi, Giuseppe</name>
+            <id type="gnd">118626523</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="7de5f4b7-3c5f-4e93-a5f4-b73c5fce936d">
+            <name>Weber, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Marullo, Höfling</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c025392e-b983-4bfb-a539-2eb9836bfb42">
+            <name>Wenthe, Frieda</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000103" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Rigoletto"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

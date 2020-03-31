@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ac651d4c-6c3e-483b-a51d-4c6c3e583bfd" type="Performance">
+    <groupingArgument actorID="ecaf536a-280e-4cf4-af53-6a280eccf498">Leonce und Lena+25.01.1912+Lindemann, Gustav</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Leonce und Lena</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Leonce und Lena</title>
+            <listObject>
+                <object id="TWS_OBJ0000692"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000692"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>25.01.1912</premier>
+            <time from="25.01.1912" to="1912">
+                <listObject>
+                    <object id="TWS_OBJ0000692"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="df178f26-b07b-4e8c-978f-26b07bce8c1a">
+            <name>Büchner, Georg</name>
+            <id type="gnd">118516906</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4575ce75-53b4-45d9-b5ce-7553b4f5d9e4">
+            <name>Sturm, Eduard</name>
+            <id type="gnd">117363782</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ecaf536a-280e-4cf4-af53-6a280eccf498">
+            <name>Lindemann, Gustav</name>
+            <id type="gnd">118728377</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000692" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Eduard Sturm</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

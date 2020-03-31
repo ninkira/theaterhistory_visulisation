@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="2f053fca-6d2c-40bf-853f-ca6d2ca0bff0" type="Performance">
+    <groupingArgument actorID="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">Wallensteins Lager++Lewinger, Ernst</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Wallensteins Lager</title>
+            <listObject>
+                <object id="TWS_OBJ0000490"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater (Köln)</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000490"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="09.04.1892" to="09.04.1892">
+                <listObject>
+                    <object id="TWS_OBJ0000490"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="f03361f6-648d-4abb-b361-f6648dcabbb4">
+            <name>Stadttheater (Köln)</name>
+            <id type="gnd">216478-4</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="793acec2-580c-4417-bace-c2580cf4176d">
+            <name>Hofmann, Julius</name>
+            <id type="gnd">116951621</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="0c71d2d8-10cb-4f7b-b1d2-d810cb6f7b37">
+            <name>Schiller, Friedrich</name>
+            <id type="gnd">118607626</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">
+            <name>Lewinger, Ernst</name>
+            <id type="gnd">116971835</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="c09f6d81-6c0b-439a-9f6d-816c0b239a8f">
+            <name>Tenhaeff, Reinhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Wachtmeister</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b40f32da-1cc1-45a6-8f32-da1cc1a5a651">
+            <name>Biehler, Alfred</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Trompeter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b283f9b3-fd8c-458c-83f9-b3fd8cf58c1b">
+            <name>Anders, Carl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Konstabler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7b0990a0-38ed-4569-8990-a038ed5569c3">
+            <name>Schäzle, Ernst</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Erster Scharfschütze</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d910570-00a0-4a47-9105-7000a0fa4708">
+            <name>Kammerer, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zweiter Scharfschütze</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe20bc0-3653-4e9a-a20b-c036531e9a4c">
+            <name>Heding, Edmund</name>
+            <id type="gnd">1061283194</id>
+            <roleActor>
+                <role type="Rolle">Erster Holkischer reitender Jäger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="599ad917-4207-4c9a-9ad9-1742074c9a83">
+            <name>Pahlau, Otto</name>
+            <id type="gnd">116017945</id>
+            <roleActor>
+                <role type="Rolle">Zweiter Holkischer reitender Jäger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="096a1e5c-9bca-4f43-aa1e-5c9bca1f4357">
+            <name>Benthien, Willy</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Buttlerischer Dragoner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Erster Arkebusier vom Regiment Tiefenbach</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="002d665e-9183-4752-ad66-5e9183c7527a">
+            <name>Richter, Emil</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Zweiter Arkebusier vom Regiment Tiefenbach</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="06a99e8b-2da7-4d44-a99e-8b2da7bd44bb">
+            <name>Heine, Hermann</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kürassier v. e. Wallonischen Regimente</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="68142e39-4cda-45de-942e-394cda65def2">
+            <name>Schaarschmidt, Clemens</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kürassier v. e. Lombardischen Regimente</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9f85cfc6-f3d6-4f55-85cf-c6f3d6df5521">
+            <name>Leyrer, Rudolf</name>
+            <id type="gnd">130227463</id>
+            <roleActor>
+                <role type="Rolle">Kroat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="69daba24-b3df-469e-9aba-24b3dfc69eb7">
+            <name>Conrad, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2331c12-835d-4299-b31c-12835d229931">
+            <name>Portz, Hans</name>
+            <id type="gnd">116269448</id>
+            <roleActor>
+                <role type="Rolle">Rekrut</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0a90f8de-6faa-4f31-90f8-de6faa3f31f4">
+            <name>Ulbrich, August</name>
+            <id type="gnd">1013009339</id>
+            <roleActor>
+                <role type="Rolle">Bürge</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57dc5d0b-e612-4202-9c5d-0be612120205">
+            <name>Hecken, Max</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Bauer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="54c01e13-10f0-4401-801e-1310f0040138">
+            <name>Heymann</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bauernknabe</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6ca6ad5-0afb-4974-8a6a-d50afb29743b">
+            <name>Eyben, Julius</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kapuziner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5abf8db0-7ff5-4b86-bf8d-b07ff58b8623">
+            <name>Piqué, Theodor</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Soldatenschulmeister</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2ecf3231-7634-4c95-8f32-317634bc95ec">
+            <name>Lanius, Caroline</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Marketenderin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="058d94c7-7766-4713-8d94-c777667713a8">
+            <name>Waldegg, Tilly</name>
+            <id type="gnd">117118427</id>
+            <roleActor>
+                <role type="Rolle">Eine Aufwärterin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000490" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu Max Behrend in 'Wallensteins Lager', Köln 1892</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

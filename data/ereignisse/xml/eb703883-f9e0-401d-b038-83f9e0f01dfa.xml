@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="eb703883-f9e0-401d-b038-83f9e0f01dfa" type="Performance">
+    <groupingArgument actorID="3beb6d26-c5c5-492b-ab6d-26c5c5e92bc3">Widerspenstigen Zähmung, Der+24.12.1924+Altmann, Georg</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Widerspenstigen Zähmung, Der</title>
+            <listObject>
+                <object id="IFT_OBJ_JR000005"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Lessing-Theater (Berlin)</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JR000005"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>24.12.1924</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JR000005"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Einheitssachtitel: The taming of the shrew 
+Theaterinszenierung am Lessing-Theater Berlin</text>
+            <object id="IFT_OBJ_JR000005"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="44ddd290-b175-483e-9dd2-90b175683e55">
+            <name>Lessing-Theater (Berlin)</name>
+            <id type="gnd">7590354-4</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f43ffc8f-ee56-48b1-bffc-8fee56d8b1a5">
+            <name>Baudissin, Wolf Heinrich von</name>
+            <id type="gnd">118507206</id>
+            <roleActor>
+                <role>Übersetzer des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3beb6d26-c5c5-492b-ab6d-26c5c5e92bc3">
+            <name>Altmann, Georg</name>
+            <id type="gnd">118648462</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="71ac3983-f755-4fd6-ac39-83f7556fd6d7">
+            <name>Montedoro, Marco</name>
+            <id type="gnd">106134956X</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6c3b9265-81f1-430c-bb92-6581f1f30cd6">
+            <name>Günther, Felix</name>
+            <id type="gnd">Günther, Felix</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="02fbcbc8-f73f-4aff-bbcb-c8f73f4aff4e">
+            <name>Richter, Julius</name>
+            <id type="gnd">116512415</id>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="20773ad7-1513-43e8-b73a-d71513b3e8ca">
+            <name>Leittinger, Rudolf</name>
+            <id type="gnd">11695633X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="410d72c8-fdfa-412a-8d72-c8fdfa112a53">
+            <name>Carsten, Maria</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="626e240c-1bc4-4a23-ae24-0c1bc4ea239a">
+            <name>Schlegel, Margarete</name>
+            <id type="gnd">132959399</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="57e27202-f36c-476d-a272-02f36c376db6">
+            <name>Hartwig, Martin</name>
+            <id type="gnd">116503661</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="32ae6ce8-47a6-4bd9-ae6c-e847a6dbd914">
+            <name>Lange, Raoul de</name>
+            <id type="gnd">1061300196</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e3117411-7b0b-428a-9174-117b0b828a92">
+            <name>Becker, Theodor</name>
+            <id type="gnd">116105186</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9c8e0f09-6cf8-4e39-8e0f-096cf8ee3940">
+            <name>Jung-Stilling, Roderich Eberhard von</name>
+            <id type="gnd">1020430834</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="79344952-c244-4f39-b449-52c244af39d3">
+            <name>Bringolf, Ernst</name>
+            <id type="gnd">1031887393</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="76479f97-9a80-496a-879f-979a80596a87">
+            <name>Reissig, Berthold</name>
+            <id type="gnd">11643175X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c540c94a-7375-4254-80c9-4a7375225438">
+            <name>Du Menil, Max</name>
+            <id type="gnd">11624478X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="263eb4d4-7e83-40ab-beb4-d47e83b0ab2c">
+            <name>Bonn, Ferdinand</name>
+            <id type="gnd">116241632</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cf3ddc44-c0be-4908-bddc-44c0be7908c4">
+            <name>Maass, Rudolf</name>
+            <id type="gnd">1036434494</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="75620937-9722-4e3c-a209-379722fe3c77">
+            <name>Jakob, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="334a02a5-cdfc-43d5-8a02-a5cdfc73d52c">
+            <name>Issberner, Walter</name>
+            <id type="gnd">1062190378</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="71bd7662-5c5d-4b09-bd76-625c5dab0926">
+            <name>Nessler, Ernst</name>
+            <id type="gnd">116941928</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2571f287-4a87-4fd5-b1f2-874a870fd545">
+            <name>Tietz, Ellen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c794a2f2-37d5-4552-94a2-f237d515520a">
+            <name>Bechmann, Walter</name>
+            <id type="gnd">1061316475</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_JR000005" type="Autograf: Manuskript" aat="300028569">
+            <title>"Abschnitt 4" der Autobiografie von Julius Richter</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

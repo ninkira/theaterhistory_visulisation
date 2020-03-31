@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="b8d21a0b-f205-4a79-921a-0bf205ca7910" type="Performance">
+    <groupingArgument actorID="ce550677-d32f-4244-9506-77d32fe24421">70 Millionen - ein Schlag+20.02.1937+Lingen, Heinz</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>70 Millionen - ein Schlag</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>70 Millionen - ein Schlag</title>
+            <listObject>
+                <object id="IFT_OBJ_HL000006"/>
+                <object id="IFT_OBJ_HL000005"/>
+                <object id="IFT_OBJ_HL000004"/>
+                <object id="IFT_OBJ_HL000003"/>
+                <object id="IFT_OBJ_HL000002"/>
+                <object id="IFT_OBJ_HL000001"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutschlandhalle</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HL000006"/>
+                    <object id="IFT_OBJ_HL000005"/>
+                    <object id="IFT_OBJ_HL000004"/>
+                    <object id="IFT_OBJ_HL000003"/>
+                    <object id="IFT_OBJ_HL000002"/>
+                    <object id="IFT_OBJ_HL000001"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>20.02.1937</premier>
+            <time from="20.02.1937" to="07.03.1937">
+                <listObject>
+                    <object id="IFT_OBJ_HL000006"/>
+                    <object id="IFT_OBJ_HL000005"/>
+                    <object id="IFT_OBJ_HL000004"/>
+                    <object id="IFT_OBJ_HL000003"/>
+                    <object id="IFT_OBJ_HL000002"/>
+                    <object id="IFT_OBJ_HL000001"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext>Nationalsozialismus</culturalContext>
+    <listDescription>
+        <description>
+            <text>Ausstattungsrevue im Rahmen der Internationalen Automobilausstellung in Berlin 1937</text>
+            <object id="IFT_OBJ_HL000006"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="ce550677-d32f-4244-9506-77d32fe24421">
+            <name>Lingen, Heinz</name>
+            <id type="gnd">106194171X</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="54284e7b-5b2d-41ef-a84e-7b5b2d21efdd">
+            <name>Kreuder, Peter</name>
+            <id type="gnd">118566725</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="ac816399-b79a-4159-8163-99b79a0159e9">
+            <name>Arent, Benno von</name>
+            <id type="gnd">116339950</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c5c8184d-1a0e-4231-8818-4d1a0ee2316c">
+            <name>Beckmann, Hans Fritz</name>
+            <id type="gnd">126803625</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="08bb4ee8-b158-489d-bb4e-e8b158e89dbd">
+            <name>Schwenn, Günther</name>
+            <id type="gnd">12637967X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="555b6359-b0f7-4226-9b63-59b0f78226cf">
+            <name>Claus, Lillie</name>
+            <id type="gnd">101826759X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6cf8f9eb-a574-4081-b8f9-eba574e08104">
+            <name>Höpfner, Hedi</name>
+            <id type="gnd">116928506</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5a4fcdfb-c383-4eb8-8fcd-fbc383beb8a6">
+            <name>Höpfner, Margot</name>
+            <id type="gnd">116928514</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="781187bb-b656-4b7c-9187-bbb656ab7c03">
+            <name>Kiefer, Melitta</name>
+            <id type="gnd">1061429385</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b156e630-4041-40bc-96e6-304041e0bc7d">
+            <name>Orth, Erna</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6af3d43a-24a0-40f2-b3d4-3a24a090f2f3">
+            <name>Spalinger, Liesl</name>
+            <id type="gnd">1062085876</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b506dfbb-06e3-4ac3-86df-bb06e3dac3ba">
+            <name>Gebühr, Otto</name>
+            <id type="gnd">124979610</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4543bd9d-daf5-4331-83bd-9ddaf5033186">
+            <name>Becker, Fred</name>
+            <id type="gnd">1094919586</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="54eb45e7-c3f8-451c-ab45-e7c3f8f51c96">
+            <name>Briese, Gaston</name>
+            <id type="gnd">1062391667</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6822e2b1-9bf6-4ef2-a2e2-b19bf62ef232">
+            <name>Gottschalk, Erich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3ea5f32-8cc5-4a6b-aa5f-328cc5aa6b79">
+            <name>Münch, Armin</name>
+            <id type="gnd">1140028189</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b9fa4f4f-ecbe-41c7-ba4f-4fecbee1c70d">
+            <name>Normann, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="6">
+        <object id="IFT_OBJ_HL000006" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfoto aus "70 Millionen - ein Schlag" in Berlin 1937</title>
+        </object>
+        <object id="IFT_OBJ_HL000005" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfoto aus "70 Millionen - ein Schlag" in Berlin 1937</title>
+        </object>
+        <object id="IFT_OBJ_HL000004" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfoto aus "70 Millionen - ein Schlag" in Berlin 1937</title>
+        </object>
+        <object id="IFT_OBJ_HL000003" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfoto aus "70 Millionen - ein Schlag" in Berlin 1937</title>
+        </object>
+        <object id="IFT_OBJ_HL000002" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfoto aus "70 Millionen - ein Schlag" in Berlin 1937</title>
+        </object>
+        <object id="IFT_OBJ_HL000001" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfoto aus "70 Millionen - ein Schlag" in Berlin 1937</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

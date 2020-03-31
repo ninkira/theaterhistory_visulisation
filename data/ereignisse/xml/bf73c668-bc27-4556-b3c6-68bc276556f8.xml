@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="bf73c668-bc27-4556-b3c6-68bc276556f8" type="Performance">
+    <groupingArgument actorID="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">Hamlet+06.01.1953+Müthel, Lothar</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Hamlet</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Hamlet</title>
+            <listObject>
+                <object id="IFT_KON_LM000015"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Frankfurt am Main</placeName>
+            <place type="Institution">
+                <placeName>Kleines Haus im Börsensaal</placeName>
+                <listObject>
+                    <object id="IFT_KON_LM000015"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>06.01.1953</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_KON_LM000015"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext>Bundesrepublik Deutschland</culturalContext>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Städtischen Bühnen Frankfurt am Main</text>
+            <object id="IFT_KON_LM000015"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">
+            <name>Müthel, Lothar</name>
+            <id type="gnd">119049309</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="6217233c-b89c-4e5e-9723-3cb89cee5eaf">
+            <name>Werner, Oskar</name>
+            <id type="gnd">118767186</id>
+            <roleActor>
+                <role type="Rolle">Hamlet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="82451bb0-1c3e-45a3-851b-b01c3e85a34b">
+            <name>Christiansen, Rolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2a0b8d0-54c6-422f-a0b8-d054c6e22fee">
+            <name>Mitulski, Ernst Walter</name>
+            <id type="gnd">1061564487</id>
+            <roleActor>
+                <role type="Rolle">König Claudius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d86fe85a-728e-43c1-afe8-5a728ea3c157">
+            <name>Kuhlmann, Elisabeth</name>
+            <id type="gnd">173460976</id>
+            <roleActor>
+                <role type="Rolle">Königin Gertrude</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b522de4d-a0bf-41c1-a2de-4da0bfc1c140">
+            <name>Troxbömker, Heinrich</name>
+            <id type="gnd">1062439902</id>
+            <roleActor>
+                <role type="Rolle">Polonius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d831887f-b8fc-492d-b188-7fb8fce92d41">
+            <name>Wussow, Klausjürgen</name>
+            <id type="gnd">119468670</id>
+            <roleActor>
+                <role type="Rolle">Horatio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b17e9c81-57c7-415d-be9c-8157c7615d36">
+            <name>Schumann, Erik</name>
+            <id type="gnd">123143691</id>
+            <roleActor>
+                <role type="Rolle">Laertes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="05e029b1-5f7a-4715-a029-b15f7a071532">
+            <name>Georg, Konrad</name>
+            <id type="gnd">1016927290</id>
+            <roleActor>
+                <role type="Rolle">Der Geist von Hamlets Vater</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b0c2ddce-f404-4988-82dd-cef404c9884c">
+            <name>Scharf, Lucia</name>
+            <id type="gnd">117108693</id>
+            <roleActor>
+                <role type="Rolle">Ophelia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="312b3e27-0ca6-4e02-ab3e-270ca67e02e9">
+            <name>Purcell, Henry</name>
+            <id type="gnd">118742973</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="7f6f50ba-4500-4f0e-af50-ba4500df0ef4">
+            <name>Montijn, Aleida</name>
+            <id type="gnd">11888364X</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="7e13e99b-3a9c-4b74-93e9-9b3a9cdb74b2">
+            <name>Rouvel, Otto</name>
+            <id type="gnd">103209625X</id>
+            <roleActor>
+                <role type="Rolle">Erster Schauspieler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="792eca5d-8e81-4f22-aeca-5d8e81cf22fe">
+            <name>Kleines Haus (Frankfurt am Main)</name>
+            <id type="gnd">1156348889</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_KON_LM000015" type="Publikation: Rezension" aat="">
+            <title>Kritikenkonvolut zu "Hamlet" in Frankfurt am Main 1953</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

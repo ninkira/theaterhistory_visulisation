@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="aff7c80e-eeb8-4edd-b7c8-0eeeb8cedd90" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">The turn of the screw+20.12.1957+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>The turn of the screw</title>
+            <listObject>
+                <object id="TWS_OBJ0000137"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Landestheater Darmstadt</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000137"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>20.12.1957</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000137"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Deutschsprachige Erstaufführung</text>
+            <object id="TWS_OBJ0000137"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="26544ed9-81ce-47a3-944e-d981ce57a30d">
+            <name>Maran, George</name>
+            <id type="gnd">134454715</id>
+            <roleActor>
+                <role type="Rolle">Quint, ein früherer Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="aba89d5c-a482-4aca-a89d-5ca4826acaf0">
+            <name>Benesch, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="e7cf1de5-2cc2-42ad-8f1d-e52cc282ad7b">
+            <name>Bill, Reinhold</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Miles</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6293c6b2-1464-4b1e-93c6-b21464db1eab">
+            <name>Britten, Benjamin</name>
+            <id type="gnd">118515527</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ccb0ffbe-76f3-472d-b0ff-be76f3872dee">
+            <name>Büttner, Elly</name>
+            <id type="gnd">1023863960</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8457b8fc-1379-4498-97b8-fc13793498fc">
+            <name>Esterl, Willy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Orchester</role>
+            </roleActor>
+        </actor>
+        <actor id="5b49a9bd-ab36-441c-89a9-bdab36541cd1">
+            <name>Fillsack, Alfred</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Orchester</role>
+            </roleActor>
+        </actor>
+        <actor id="9d48f86b-6731-4772-88f8-6b6731677282">
+            <name>Fricke, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Orchester</role>
+            </roleActor>
+        </actor>
+        <actor id="7ee01b00-d0ed-4bba-a01b-00d0edfbba76">
+            <name>Geister, Martha</name>
+            <id type="gnd">135419832</id>
+            <roleActor>
+                <role type="Rolle">Frau Gross, die Beschließerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4fc099fd-6a14-4dbd-8099-fd6a142dbdc0">
+            <name>Geppert, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Orchester</role>
+            </roleActor>
+        </actor>
+        <actor id="4de38da4-748b-418b-a38d-a4748bd18bfb">
+            <name>Gut, Irene</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Flora</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="93dd6460-d3ad-4966-9d64-60d3ad09663e">
+            <name>Hauck, H. Ludwig</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Orchester</role>
+            </roleActor>
+        </actor>
+        <actor id="101fe7ac-cd92-479d-9fe7-accd92a79d3c">
+            <name>Hauer, Willi</name>
+            <id type="gnd">116523042</id>
+            <roleActor>
+                <role type="Rolle">Der Prolog</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f56f3b22-f843-4fef-af3b-22f843afef03">
+            <name>Piper, Myfanwy</name>
+            <id type="gnd">12307441X</id>
+            <roleActor>
+                <role>Librettistin</role>
+            </roleActor>
+        </actor>
+        <actor id="8cd833a6-84df-4b13-9833-a684df3b1301">
+            <name>Hörner, Richard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Orchester</role>
+            </roleActor>
+        </actor>
+        <actor id="54cb6dca-9e4a-477e-8b6d-ca9e4a877e65">
+            <name>Klamand, Rudolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Orchester</role>
+            </roleActor>
+        </actor>
+        <actor id="50f992cd-8275-434e-b992-cd8275d34e7b">
+            <name>Landgraf, Ludwig</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Übersetzer</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="47f0710e-ac64-421f-b071-0eac64521f3a">
+            <name>Mendius, Helmut</name>
+            <id type="gnd">137579624</id>
+            <roleActor>
+                <role>Orchester</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6427e5c7-c134-45dc-a7e5-c7c13475dcde">
+            <name>Otto, Hermann</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Orchester</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2938333-0a7b-4297-9383-330a7b229725">
+            <name>Reith, Viktor</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Orchester</role>
+            </roleActor>
+        </actor>
+        <actor id="0f061cdd-0c0e-495e-861c-dd0c0ed95ebc">
+            <name>Reuß, Max</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Orchester</role>
+            </roleActor>
+        </actor>
+        <actor id="b76d8310-2e03-40f0-ad83-102e0320f089">
+            <name>Richter, Werner</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Orchester</role>
+            </roleActor>
+        </actor>
+        <actor id="0f44eab5-fe40-4c0f-84ea-b5fe409c0f3d">
+            <name>Roßmann, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Orchester</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="79d2d952-2215-4337-92d9-522215133712">
+            <name>Stein, Dorothea von</name>
+            <id type="gnd">143714996</id>
+            <roleActor>
+                <role type="Rolle">Miss Jessel, eine frühere Gouvernante</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ce31331b-c5ae-4bfe-b133-1bc5ae3bfe1b">
+            <name>Ursula, Lippmann</name>
+            <id type="gnd">1132071569</id>
+            <roleActor>
+                <role type="Rolle">Die Gouvernante</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2b2e5769-9bec-4eda-ae57-699bec3eda9a">
+            <name>Wesp, Hildegard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Orchester</role>
+            </roleActor>
+        </actor>
+        <actor id="3573b7ba-6a13-49ef-b3b7-ba6a1319ef28">
+            <name>Zanotelli, Hans</name>
+            <id type="gnd">132024020</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000137" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "The turn of the screw" in Darmstadt 1957</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Deutschsprachige Erstaufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>The turn of the screw</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Darmstadt</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Landestheater Darmstadt</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000137"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>20.12.1957</eventDate>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList>
+                <actor id="6293c6b2-1464-4b1e-93c6-b21464db1eab">
+                    <name>Britten, Benjamin</name>
+                    <id type="gnd">118515527</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Komponist_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="e949e404-4e9e-4f7e-89e4-044e9e9f7e79">
+                    <name>Landestheater Darmstadt</name>
+                    <id type="gnd">2002342-X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Produktion (Theater)</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

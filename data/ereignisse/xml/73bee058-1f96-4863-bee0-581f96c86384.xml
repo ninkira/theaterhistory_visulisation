@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="73bee058-1f96-4863-bee0-581f96c86384" type="Performance">
+    <groupingArgument actorID="85ba0699-c933-4f4d-ba06-99c9338f4d12">Turandot+20.09.1927+Runge, Woldemar</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Turandot</title>
+            <listObject>
+                <object id="IFT_OBJ_LK000039"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>Staatsoper</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LK000039"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>20.09.1927</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_LK000039"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Opernaufführung an der Wiener Staatsoper, der Lucy Kieselhausen als Zuschauerin sehr wahrscheinlich beigewohnt hat.</text>
+            <object id="IFT_OBJ_LK000039"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="11acac19-9b0a-41f1-acac-199b0aa1f19c">
+            <name>Kieselhausen, Lucy</name>
+            <id type="gnd">116169354</id>
+            <roleActor>
+                <role>Zuschauer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="332853e6-07f4-4cb8-a853-e607f49cb850">
+            <name>Jeritza, Maria</name>
+            <id type="gnd">118557408</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Sänger_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f003e1c2-7437-417a-83e1-c27437c17a40">
+            <name>Kiepura, Jan</name>
+            <id type="gnd">118984411</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Sänger_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7dd368b6-88fc-4999-9368-b688fcc999d0">
+            <name>Puccini, Giacomo</name>
+            <id type="gnd">118596942</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="85ba0699-c933-4f4d-ba06-99c9338f4d12">
+            <name>Runge, Woldemar</name>
+            <id type="gnd">116707739</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="a1df33c3-a281-44da-9f33-c3a28124da83">
+            <name>Reichenberger, Hugo</name>
+            <id type="gnd">116398833</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="9a0a945f-ec04-4e12-8a94-5fec040e1206">
+            <name>Roller, Alfred</name>
+            <id type="gnd">118791036</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="58975c07-0edf-4930-975c-070edfb930b3">
+            <name>Wernigk, William</name>
+            <id type="gnd">134882059</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Sänger_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_LK000039" type="Autograf: Brief" aat="300026879">
+            <title>Brief von Lucy Kieselhausen an Lea Kieselhausen</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

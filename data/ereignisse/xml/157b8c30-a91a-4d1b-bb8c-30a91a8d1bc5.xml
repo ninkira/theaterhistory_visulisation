@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="157b8c30-a91a-4d1b-bb8c-30a91a8d1bc5" type="Performance">
+    <groupingArgument actorID="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">Ulrich von Lichtenstein+11.11.1939+Müthel, Lothar</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Ulrich von Lichtenstein</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Ulrich von Lichtenstein</title>
+            <listObject>
+                <object id="IFT_KON_LM000008"/>
+                <object id="IFT_KON_LM000007"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>Burgtheater</placeName>
+                <listObject>
+                    <object id="IFT_KON_LM000008"/>
+                    <object id="IFT_KON_LM000007"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>11.11.1939</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_KON_LM000008"/>
+                    <object id="IFT_KON_LM000007"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Wiener Burgtheaters</text>
+            <object id="IFT_KON_LM000008"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="1169279b-3614-4a10-a927-9b36141a1046">
+            <name>Hauptmann, Gerhart</name>
+            <id type="gnd">118546937</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">
+            <name>Müthel, Lothar</name>
+            <id type="gnd">119049309</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="510ced52-655d-4d3a-8ced-52655d1d3aa4">
+            <name>Balser, Ewald</name>
+            <id type="gnd">116046163</id>
+            <roleActor>
+                <role type="Rolle">Ulrich von Lichtenstein</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="84c7007b-57ee-430a-8700-7b57ee230a5f">
+            <name>Hennings, Fred</name>
+            <id type="gnd">118710478</id>
+            <roleActor>
+                <role type="Rolle">Hund vom Stier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f52330ce-023c-4fac-a330-ce023ccfac1d">
+            <name>Gliese, Rochus</name>
+            <id type="gnd">116663308</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a9c16376-7dea-46a6-8163-767deaf6a6fb">
+            <name>Johannsen, Ebba</name>
+            <id type="gnd">1062370821</id>
+            <roleActor>
+                <role type="Rolle">Katharina Gräfin von Lichtenstein</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="01bebc34-48a7-4345-bebc-3448a7734500">
+            <name>Aslan, Raoul</name>
+            <id type="gnd">118504681</id>
+            <roleActor>
+                <role type="Rolle">Marchese Gino</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="90b563b8-9020-48b4-b563-b89020d8b4b6">
+            <name>Steinböck, Felix</name>
+            <id type="gnd">1025314409</id>
+            <roleActor>
+                <role type="Rolle">Blondel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9c98a70a-d508-4706-98a7-0ad5082706d8">
+            <name>Braun, Viktor</name>
+            <id type="gnd">130114170</id>
+            <roleActor>
+                <role type="Rolle">Marschalk</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="48f8be43-a9f8-4ac8-b8be-43a9f86ac8ba">
+            <name>Maierhofer, Ferdinand</name>
+            <id type="gnd">142430226</id>
+            <roleActor>
+                <role type="Rolle">Manasse</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bdd55fbb-4247-4e3e-955f-bb42479e3eb5">
+            <name>Häussermann, Reinhold</name>
+            <id type="gnd">130170402</id>
+            <roleActor>
+                <role type="Rolle">Schreiber</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bd434685-9e5a-4f23-8346-859e5aff235b">
+            <name>Schmöle, Otto</name>
+            <id type="gnd">1019536217</id>
+            <roleActor>
+                <role type="Rolle">Herold</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ff96b0c6-0d5c-445e-96b0-c60d5c545ece">
+            <name>Hitzinger, Hanns</name>
+            <id type="gnd">1061970701</id>
+            <roleActor>
+                <role type="Rolle">Kroyer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2f14a35-d19b-4857-b14a-35d19b38573e">
+            <name>Lehmann, Fritz</name>
+            <id type="gnd">1126991163</id>
+            <roleActor>
+                <role type="Rolle">Kammerlakai</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7946aa60-aecd-45d6-86aa-60aecd65d6a0">
+            <name>Dorsch, Käthe</name>
+            <id type="gnd">11868051X</id>
+            <roleActor>
+                <role type="Rolle">Herzogin Maria</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9d94d6f9-aa97-47da-94d6-f9aa9707da15">
+            <name>Seidler, Alma</name>
+            <id type="gnd">117464597</id>
+            <roleActor>
+                <role type="Rolle">Gräfin Isabella</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="88c68808-a1e6-4610-8688-08a1e6e610ff">
+            <name>Marr, Hans</name>
+            <id type="gnd">116789999</id>
+            <roleActor>
+                <role type="Rolle">Trostelin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4a30e235-82b1-4370-b0e2-3582b18370d6">
+            <name>Lietzau, Hans</name>
+            <id type="gnd">117000442</id>
+            <roleActor>
+                <role type="Rolle">Rebstock</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dda332ab-40e4-4f48-a332-ab40e49f488c">
+            <name>Lang, Martin</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Edelmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fb9a0fda-d638-456c-9a0f-dad638056cc7">
+            <name>Wicki, Bernhard</name>
+            <id type="gnd">118767682</id>
+            <roleActor>
+                <role type="Rolle">Ritter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="78d66bdb-cec5-4277-966b-dbcec5e277c7">
+            <name>Bauer, Erni</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Erste Kammerfrau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="530ba7ee-3724-4174-8ba7-ee37246174c6">
+            <name>Dux, Margarethe</name>
+            <id type="gnd">1062431081</id>
+            <roleActor>
+                <role type="Rolle">Zweite Kammerfrau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="95f1c330-40ec-4087-b1c3-3040ec3087bf">
+            <name>Medelsky, Liselotte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Dritte Kammerfrau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="82f2dd7b-b483-4e07-b2dd-7bb483ae078e">
+            <name>Trentin, Marie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Vierte Kammerfrau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dd1ac39b-8ba7-4554-9ac3-9b8ba725549b">
+            <name>Salmhofer, Franz</name>
+            <id type="gnd">120736640</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="77c275f3-2bcb-462d-8275-f32bcb262d04">
+            <name>Burgtheater Wien</name>
+            <id type="gnd">38633-9</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="IFT_KON_LM000008" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Konvolut Szenenfotografien zu "Ulrich von Lichtenstein" in Wien 1939</title>
+        </object>
+        <object id="IFT_KON_LM000007" type="Zeitungsausschnitt" aat="">
+            <title>Kritikenkonvolut zu "Ulrich von Lichtenstein" in Wien 1939</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="50f2406e-7bf8-4b89-b240-6e7bf8cb89df" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">Komparserie: ein Theaterstück in drei Akten+05.04.1932+Ambach, Josef</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Komparserie: ein Theaterstück in drei Akten</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Komparserie</title>
+            <listObject>
+                <object id="IFT_OBJ_JA000015"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Mährisch-Ostrau</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater Mährisch-Ostrau</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JA000015"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>05.04.1932</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JA000015"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Deutschen Theaters Mährisch-Ostrau</text>
+            <object id="IFT_OBJ_JA000015"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="85264f1b-09c7-479e-a64f-1b09c7e79e98">
+            <name>Deutsches Theater (Mährisch-Ostrau)</name>
+            <id type="gnd">122890-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="5ea96e08-6769-4bc8-a96e-086769dbc887">
+            <name>Duschinsky, Richard</name>
+            <id type="gnd">116257067</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f38b5110-7775-400a-8b51-107775900acc">
+            <name>Dättel, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Direktor Wulf aus Wien</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8114632f-552b-41bc-9463-2f552b71bcd1">
+            <name>Juhn, Hugo</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Krehmusch</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e575e97f-b4c7-4139-b5e9-7fb4c7213998">
+            <name>Felden, Richard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Willy Eschenbach</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="33831b79-b816-486b-831b-79b816386b3c">
+            <name>Engels, Fritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Minister Dr. Staudle; Schmidt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38d37af7-f780-4bfc-937a-f7f780fbfcd5">
+            <name>Sommer, Eva</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fräulein Tellheim</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2bf97d3a-f359-4c50-b97d-3af3594c5086">
+            <name>Scharwenka, Franz</name>
+            <id type="gnd">1014147247</id>
+            <roleActor>
+                <role type="Rolle">Fred  Gürtler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="185d035b-8028-4eb8-9d03-5b8028beb81b">
+            <name>Fellner, Emil</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chauffeur Gürtlers</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a5f8f7ea-5d3d-4c62-b8f7-ea5d3d1c6246">
+            <name>Eschbaum, Elisabeth</name>
+            <id type="gnd">12236208X</id>
+            <roleActor>
+                <role type="Rolle">Elisabeth Wagner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="96b7d529-e7c4-4e8c-b7d5-29e7c42e8c08">
+            <name>Stoss, Franz</name>
+            <id type="gnd">117304794</id>
+            <roleActor>
+                <role type="Rolle">Schönbrunn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="acf41a6c-81aa-4333-b41a-6c81aa7333ab">
+            <name>Muschau, Fredy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Pfibram; Direktor Abram</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9ef78f99-7469-4123-b78f-997469712390">
+            <name>Neckamm, Heinrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ernst Jürgens; Held</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="06d2c0d1-a557-454c-92c0-d1a557054c70">
+            <name>Wieland, Guido</name>
+            <id type="gnd">117361615</id>
+            <roleActor>
+                <role type="Rolle">Dr. Wörz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="52f8c3ba-01f6-4b21-b8c3-ba01f68b2166">
+            <name>Chitz, Lothar</name>
+            <id type="gnd">117221929</id>
+            <roleActor>
+                <role type="Rolle">Langhans</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="abbd54ba-3d87-4be0-bd54-ba3d87dbe07b">
+            <name>Sekler, Maurycius</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kranz; Garderobier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b82f8a15-2e16-4dee-af8a-152e16adee00">
+            <name>Hönigsberg, Felicitas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zofe</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8ca88e6d-6a0a-4b34-a88e-6d6a0aeb34b7">
+            <name>Bergner, Horst</name>
+            <id type="gnd">106164152X</id>
+            <roleActor>
+                <role type="Rolle">Friseur</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fb6c21bb-a8c2-436b-ac21-bba8c2e36bef">
+            <name>Streda, Konrad</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Amtsdiener; Inspizient</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e9874f29-256d-4234-874f-29256dd234ad">
+            <name>Prager, Guido</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Theaterarzt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_JA000015" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Komparserie" in Mährisch-Ostrau 1932</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

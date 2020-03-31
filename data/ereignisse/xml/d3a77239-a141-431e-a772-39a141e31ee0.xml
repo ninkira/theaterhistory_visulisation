@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="d3a77239-a141-431e-a772-39a141e31ee0" type="Performance">
+    <groupingArgument actorID="5fd66472-e63d-4865-9664-72e63dc8652e">Voyante, La++Ortmann, Friedhelm</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Voyante, La</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Hellseherin, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000149"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000149"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1965" to="1965">
+                <listObject>
+                    <object id="TWS_OBJ0000149"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Deutsche Erstaufführung</text>
+            <object id="TWS_OBJ0000149"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e8b9dd98-c376-4ef7-b9dd-98c3766ef7a7">
+            <name>Roussin, André</name>
+            <id type="gnd">120535866</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4d737737-6c8e-43d4-b377-376c8e93d467">
+            <name>Fichtner, Käte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="be8578c8-f1f7-47e4-8578-c8f1f717e423">
+            <name>Fichtner, G. W.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Karma</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c3299f7c-59e7-434f-a99f-7c59e7134f0f">
+            <name>Denk, Paula</name>
+            <id type="gnd">1061411109</id>
+            <roleActor>
+                <role type="Rolle">Rosa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dd3c725c-2c4d-4ebf-bc72-5c2c4d4ebfd7">
+            <name>Huber, Inge</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Yerma</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d7f6c775-ab89-4f0e-b6c7-75ab895f0e8f">
+            <name>Burg, Emmy</name>
+            <id type="gnd">1061969916</id>
+            <roleActor>
+                <role type="Rolle">Biscotte</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ba9d8822-8da7-4300-9d88-228da773001a">
+            <name>Prenzel, Marianne</name>
+            <id type="gnd">1061869075</id>
+            <roleActor>
+                <role type="Rolle">Klientin bei Rosa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="56029946-9466-413d-8299-469466713d55">
+            <name>Leistikow, Jo</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Klientin bei Karma</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3f1463bb-f98b-413b-9463-bbf98bc13b5d">
+            <name>Pohlenz, Marianne</name>
+            <id type="gnd">1061565394</id>
+            <roleActor>
+                <role type="Rolle">Klientin bei Karma</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7caee4f6-768b-4b7b-aee4-f6768bdb7b99">
+            <name>Heinze, Ursula</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Klientin bei Karma</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e708f6fc-d6ea-419a-88f6-fcd6eaa19a3f">
+            <name>Völz, Wolfgang</name>
+            <id type="gnd">122505913</id>
+            <roleActor>
+                <role type="Rolle">Reporter I</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8302b245-9a11-44dc-82b2-459a11d4dc70">
+            <name>Strobel, Ulrich O.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Reporter II</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0ec0a59e-cf43-4ca9-80a5-9ecf43cca999">
+            <name>Giese, Heinz</name>
+            <id type="gnd">134384822</id>
+            <roleActor>
+                <role type="Rolle">Dr. Pelletier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5fd66472-e63d-4865-9664-72e63dc8652e">
+            <name>Ortmann, Friedhelm</name>
+            <id type="gnd">117149489</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b3ae9b02-578f-467e-ae9b-02578f067ef4">
+            <name>Töffling, Werner Viktor</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="752886e4-1efd-476d-a886-e41efd076d05">
+            <name>Coene, Carló</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="432cbf8c-450d-48e5-acbf-8c450db8e592">
+            <name>Wesp, Peter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="5ce7afc4-7ccd-44f8-a7af-c47ccd54f80c">
+            <name>Petersilge, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Einrichtung und Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="a6ecd7ac-0167-4fef-acd7-ac01677fef8b">
+            <name>Bobsien, Walter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="5646a618-5d5a-4d2e-86a6-185d5add2ed3">
+            <name>Angermann, Ernie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Perückenausstatter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="ead1ee0a-e373-4a0b-91ee-0ae3733a0b87">
+            <name>Krause, Ernst</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="e70f1c27-1749-417c-8f1c-271749d17c14">
+            <name>Schröder, Elly</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Souffleur_in</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000149" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Die Hellseherin" in Berlin 1965</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

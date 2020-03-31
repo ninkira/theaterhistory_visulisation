@@ -1,3 +1,13 @@
+data/data/**
+data/_output/**
+data/DatenZuVis/**
+data/personen/**
+static/flare.json
+static/graphFile.json
+static/rep330map.html
+static/rep350swi.html
+static/rep360bub.html
+
 # Logs
 logs
 *.log

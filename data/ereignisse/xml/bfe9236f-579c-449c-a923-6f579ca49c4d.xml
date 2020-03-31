@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="bfe9236f-579c-449c-a923-6f579ca49c4d" type="Performance">
+    <groupingArgument actorID="1f56abbc-c467-4576-96ab-bcc46755764d">Ring des Nibelungen, Der. Zweiter Tag: Siegfried++Arnals, Alexander D'</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Ring des Nibelungen, Der. Zweiter Tag: Siegfried</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Siegfried</title>
+            <listObject>
+                <object id="TWS_OBJ0000509"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Opernhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000509"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="21.05.1911" to="21.05.1911">
+                <listObject>
+                    <object id="TWS_OBJ0000509"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Der Ring des Niebelungen - GND: 300170319</text>
+            <object id="TWS_OBJ0000509"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="7a088459-21ed-4048-8884-5921edc04801">
+            <name>Bühnen der Stadt Köln. Oper Köln</name>
+            <id type="gnd">2057209-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="1f56abbc-c467-4576-96ab-bcc46755764d">
+            <name>Arnals, Alexander D'</name>
+            <id type="gnd">186639066</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8384296c-f08c-4084-8429-6cf08c808476">
+            <name>Fink, Mizzi</name>
+            <id type="gnd">173837573</id>
+            <roleActor>
+                <role type="Rolle">Stimme des Waldvogels</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5bb969b1-8b82-430d-b969-b18b82930d69">
+            <name>Giesen, Karl</name>
+            <id type="gnd">132441187</id>
+            <roleActor>
+                <role type="Rolle">Fafner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8833ae56-176a-4a54-b3ae-56176aca5480">
+            <name>Guszalewicz, Alice</name>
+            <id type="gnd">119237970</id>
+            <roleActor>
+                <role type="Rolle">Brünnhilde</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e1bf2427-3d98-488f-bf24-273d98788ff8">
+            <name>Hemsing, Jan</name>
+            <id type="gnd">1022335669</id>
+            <roleActor>
+                <role type="Rolle">Alberich</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="61ef41f0-294e-48a8-af41-f0294e28a81e">
+            <name>Lohse, Otto</name>
+            <id type="gnd">117197351</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="7a350169-6430-403d-b501-696430103d22">
+            <name>Martersteig, Max</name>
+            <id type="gnd">118782207</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="75bf2d1b-d7c2-45db-bf2d-1bd7c235db90">
+            <name>Menzinsky, Modest</name>
+            <id type="gnd">11688651X</id>
+            <roleActor>
+                <role type="Rolle">Siegfried</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2412d44e-b61f-46b1-92d4-4eb61f76b1a0">
+            <name>Parker, Robert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Wanderer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5371af96-f0e4-4c4a-b1af-96f0e49c4a0d">
+            <name>Vanoni, Ludwig</name>
+            <id type="gnd">101413725X</id>
+            <roleActor>
+                <role type="Rolle">Mime</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cb0f3569-377a-49fc-8f35-69377ab9fcb8">
+            <name>Wagner, Richard</name>
+            <id type="gnd">118594117</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="57ac475c-d2ef-4124-ac47-5cd2ef2124a3">
+            <name>Welden, Anna</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Erda</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000509" type="Publikation: Programmheft" aat="300027217">
+            <title>Besetzungszettel von Siegfried, Köln 1911</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

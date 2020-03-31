@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="14fff989-a7cc-4733-bff9-89a7cca733fc" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">Souper; Eins, Zwei, Drei+02.02.1932+Ambach, Josef</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>EA</secondaryType>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Souper; Eins, Zwei, Drei</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Souper; Eins, Zwei, Drei</title>
+            <listObject>
+                <object id="IFT_OBJ_JA000125"/>
+                <object id="IFT_OBJ_JA000124"/>
+                <object id="IFT_OBJ_JA000123"/>
+                <object id="IFT_OBJ_JA000122"/>
+                <object id="IFT_OBJ_JA000013"/>
+                <object id="IFT_KON_JA000010"/>
+                <object id="IFT_KON_JA000013"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Mährisch-Ostrau</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater Mährisch-Ostrau</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JA000125"/>
+                    <object id="IFT_OBJ_JA000124"/>
+                    <object id="IFT_OBJ_JA000123"/>
+                    <object id="IFT_OBJ_JA000122"/>
+                    <object id="IFT_OBJ_JA000013"/>
+                </listObject>
+            </place>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="IFT_KON_JA000013"/>
+                </listObject>
+            </place>
+            <place type="Institution">
+                <placeName>Deutsches Theater (Mährisch-Ostrau)</placeName>
+                <listObject>
+                    <object id="IFT_KON_JA000010"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>02.02.1932</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JA000125"/>
+                    <object id="IFT_OBJ_JA000124"/>
+                    <object id="IFT_OBJ_JA000123"/>
+                    <object id="IFT_OBJ_JA000122"/>
+                    <object id="IFT_OBJ_JA000013"/>
+                    <object id="IFT_KON_JA000013"/>
+                    <object id="IFT_KON_JA000010"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>zweiteilige Theaterinszenierung am Deutschen Theater Mährisch-Ostrau</text>
+            <object id="IFT_OBJ_JA000125"/>
+        </description>
+        <description>
+            <text>zweiteilige Theaterinszenierung im Deutschen Theater Mährisch-Ostrau</text>
+            <object id="IFT_OBJ_JA000122"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung des Deutschen Theaters Mährisch-Ostrau, Premiere, Doppelinszenierung</text>
+            <object id="IFT_KON_JA000013"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="85264f1b-09c7-479e-a64f-1b09c7e79e98">
+            <name>Deutsches Theater (Mährisch-Ostrau)</name>
+            <id type="gnd">122890-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Dr. Pinsky</role>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Darsteller des inszenierten Werkes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="03b2538a-3a13-4b3f-b253-8a3a134b3f2d">
+            <name>Molnár, Ferenc</name>
+            <id type="gnd">118734598</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f38b5110-7775-400a-8b51-107775900acc">
+            <name>Dättel, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Hausherr (Souper); Dr. Faber (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="baa7f5cf-54b1-404f-a7f5-cf54b1304f5c">
+            <name>Gerzhofer, Camilla</name>
+            <id type="gnd">1061595625</id>
+            <roleActor>
+                <role type="Rolle">Hausfrau (Souper)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8114632f-552b-41bc-9463-2f552b71bcd1">
+            <name>Juhn, Hugo</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Herr Rat (Souper); Osso (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b2141b43-4ae7-4f0e-941b-434ae7df0e67">
+            <name>Paust, Elfriede</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Frau Rätin (Souper)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="acf41a6c-81aa-4333-b41a-6c81aa7333ab">
+            <name>Muschau, Fredy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der alte Doktor (Souper); Felix, Graf Dubois-Scholtenburg (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="709eab92-886c-4c9d-9eab-92886cec9d33">
+            <name>Bauer, Albine</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Frau Doktor (Souper); Fräulein Lind (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="58d6365f-ec55-420f-9636-5fec55020f44">
+            <name>Lauterbach, Frauke</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Baronin (Souper); Fräulein Brasch (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="52f8c3ba-01f6-4b21-b8c3-ba01f68b2166">
+            <name>Chitz, Lothar</name>
+            <id type="gnd">117221929</id>
+            <roleActor>
+                <role type="Rolle">Junger Mann (Souper); Schneider (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9ef78f99-7469-4123-b78f-997469712390">
+            <name>Neckamm, Heinrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Detektiv (Souper); Colleon (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e9874f29-256d-4234-874f-29256dd234ad">
+            <name>Prager, Guido</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Diener (Souper); Diener (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="96b7d529-e7c4-4e8c-b7d5-29e7c42e8c08">
+            <name>Stoss, Franz</name>
+            <id type="gnd">117304794</id>
+            <roleActor>
+                <role type="Rolle">Norrison (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="06d2c0d1-a557-454c-92c0-d1a557054c70">
+            <name>Wieland, Guido</name>
+            <id type="gnd">117361615</id>
+            <roleActor>
+                <role type="Rolle">Anton (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b82f8a15-2e16-4dee-af8a-152e16adee00">
+            <name>Hönigsberg, Felicitas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lydia (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="abbd54ba-3d87-4be0-bd54-ba3d87dbe07b">
+            <name>Sekler, Maurycius</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Sekretär</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38d37af7-f780-4bfc-937a-f7f780fbfcd5">
+            <name>Sommer, Eva</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fräulein Kuno (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c74a1eb2-7f10-4f2c-8a1e-b27f104f2cd2">
+            <name>Gaál, Olga</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fräulein Posner (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d934fc6-d298-4267-934f-c6d29802673d">
+            <name>Eilers, Ina</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fräulein Petrowitsch</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="33831b79-b816-486b-831b-79b816386b3c">
+            <name>Engels, Fritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ciring (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e575e97f-b4c7-4139-b5e9-7fb4c7213998">
+            <name>Felden, Richard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Dr. Wolf (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="185d035b-8028-4eb8-9d03-5b8028beb81b">
+            <name>Fellner, Emil</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kristian (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8ca88e6d-6a0a-4b34-a88e-6d6a0aeb34b7">
+            <name>Bergner, Horst</name>
+            <id type="gnd">106164152X</id>
+            <roleActor>
+                <role type="Rolle">Verkäufer von Michae (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fb6c21bb-a8c2-436b-ac21-bba8c2e36bef">
+            <name>Streda, Konrad</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Maitre d'hôtel (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="698f7a47-9e50-4360-8f7a-479e5053600d">
+            <name>Weis, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Karl (Eins, Zwei, Drei)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4431ff8d-5521-4014-b1ff-8d55211014de">
+            <name>Saida, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Friseur</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="7">
+        <object id="IFT_OBJ_JA000125" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Souper; Eins, Zwei, Drei" in Mährisch-Ostrau 1932</title>
+        </object>
+        <object id="IFT_OBJ_JA000124" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Souper; Eins, Zwei, Drei" in Mährisch-Ostrau 1932</title>
+        </object>
+        <object id="IFT_OBJ_JA000123" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Souper; Eins, Zwei, Drei" in Mährisch-Ostrau 1932</title>
+        </object>
+        <object id="IFT_OBJ_JA000122" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Souper; Eins, Zwei, Drei" in Mährisch-Ostrau 1932</title>
+        </object>
+        <object id="IFT_OBJ_JA000013" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Souper" und "Eins, Zwei, Drei" in Mährisch-Ostrau 1932</title>
+        </object>
+        <object id="IFT_KON_JA000013" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritikenkonvolut Deutsches Theater Mährisch-Ostrau</title>
+        </object>
+        <object id="IFT_KON_JA000010" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Konvolut Szenenfotografien zu "Souper; Eins, Zwei, Drei" in Mährisch-Ostrau 1932</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

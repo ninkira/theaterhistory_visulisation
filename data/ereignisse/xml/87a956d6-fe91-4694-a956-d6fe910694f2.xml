@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="87a956d6-fe91-4694-a956-d6fe910694f2" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">Schneider Wibbel+02.05.31+Ambach, Josef</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Schneider Wibbel</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Schneider Wibbel</title>
+            <listObject>
+                <object id="IFT_OBJ_JA000008"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Frankfurt am Main</placeName>
+            <place type="Institution">
+                <placeName>Neues Theater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JA000008"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>02.05.31</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JA000008"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Neuen Theaters Frankfurt am Main</text>
+            <object id="IFT_OBJ_JA000008"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4f43f25a-a1f1-48dd-83f2-5aa1f1b8ddde">
+            <name>Arco, Michael</name>
+            <id type="gnd">106239285X</id>
+            <roleActor>
+                <role type="Rolle">Fitzkes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="745fae7c-e0ce-4cf8-9fae-7ce0ce1cf886">
+            <name>Arzdorf, Franz</name>
+            <id type="gnd">1050401050</id>
+            <roleActor>
+                <role type="Rolle">Mölfes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7792bc9b-0f66-4e2d-92bc-9b0f660e2de5">
+            <name>Bachmann, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Küster</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="09f4191e-a099-4dde-b419-1ea0990dde42">
+            <name>Bischoff, Karl</name>
+            <id type="gnd">1051385555</id>
+            <roleActor>
+                <role type="Rolle">Pangdich</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eea39b59-5a5e-49aa-a39b-595a5ea9aa28">
+            <name>Czimeg, Georg</name>
+            <id type="gnd">1129289931</id>
+            <roleActor>
+                <role type="Rolle">Polizist</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4eafa75b-3823-4f6b-afa7-5b3823ef6b97">
+            <name>Epskamp, Hans</name>
+            <id type="gnd">1062093755</id>
+            <roleActor>
+                <role type="Rolle">Knipperling</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0f9d803a-b853-4a3e-9d80-3ab8536a3ecd">
+            <name>Gantzert, Hella</name>
+            <id type="gnd">1061279391</id>
+            <roleActor>
+                <role type="Rolle">Frau von Fitzkes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dd2ef13c-1ef9-40e0-aef1-3c1ef990e0ee">
+            <name>Hahlo, Julius</name>
+            <id type="gnd">106131619X</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="45a541e8-3c8a-40f7-a541-e83c8a20f75f">
+            <name>Haneke, Fritz</name>
+            <id type="gnd">1062064674</id>
+            <roleActor>
+                <role type="Rolle">Fläsch</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2e2fd123-8dcb-4c68-afd1-238dcb2c68c1">
+            <name>Just, Harry</name>
+            <id type="gnd">1061272753</id>
+            <roleActor>
+                <role type="Rolle">Picard</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9ad2c1c2-ec1c-4679-92c1-c2ec1ce67907">
+            <name>Lewin, Moritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d9517277-b89a-416b-9172-77b89ae16b50">
+            <name>Lüders, Günther</name>
+            <id type="gnd">118747398</id>
+            <roleActor>
+                <role type="Rolle">Zimpel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c22721f5-a6f4-4eff-a721-f5a6f4ceff5a">
+            <name>Matho, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="d7c708c4-7eb2-44ce-8708-c47eb254ce02">
+            <name>Monnard, Else</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7779be29-67d2-4759-b9be-2967d217599d">
+            <name>Neues Theater (Frankfurt am Main)</name>
+            <id type="gnd">4223280-6</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="2716058a-0776-4df6-9605-8a07760df6e2">
+            <name>Riedy, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Wirt zum schwarzen Anker</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="900eeb34-8924-4e41-8eeb-3489248e41a6">
+            <name>Rühl, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Heubes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f39699a5-10a6-4c20-9699-a510a6cc204e">
+            <name>Sais, Tatjana</name>
+            <id type="gnd">106808885</id>
+            <roleActor>
+                <role type="Rolle">Hopp-Majänn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bce54dd7-c221-4d14-a54d-d7c2211d1463">
+            <name>Schlösser, Hans Müller</name>
+            <id type="gnd">118737740</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e6faee9f-32e2-42af-baee-9f32e2e2afc4">
+            <name>Stelzer, Hannes</name>
+            <id type="gnd">1062467388</id>
+            <roleActor>
+                <role type="Rolle">Schäng</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38193060-80f6-4a33-9930-6080f64a33c5">
+            <name>Wittmann, Max</name>
+            <id type="gnd">117427713</id>
+            <roleActor>
+                <role type="Rolle">Krönkel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="daaa39e1-de18-486e-aa39-e1de18786e91">
+            <name>Wahlen, Herbert</name>
+            <id type="gnd">128120908</id>
+            <roleActor>
+                <role type="Rolle">Anton Wibbel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_JA000008" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Schneider Wibbel" in Frankfurt am Main 1931</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

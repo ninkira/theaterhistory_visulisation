@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="022c2ca1-f053-457a-ac2c-a1f053957a29" type="Performance">
+    <groupingArgument actorID="0dbbc1a5-5f7e-4b69-bbc1-a55f7ecb696e">Salomé+04.06.1906+Strauss, Richard</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Salomé</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Salome</title>
+            <listObject>
+                <object id="TWS_OBJ0000502"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Opernhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000502"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>04.06.1906</premier>
+            <time from="1906" to="1906">
+                <listObject>
+                    <object id="TWS_OBJ0000502"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>beruht auf dem gleichnamigen Drama von Oscar Wilde (1891)</text>
+            <object id="TWS_OBJ0000502"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="0dbbc1a5-5f7e-4b69-bbc1-a55f7ecb696e">
+            <name>Strauss, Richard</name>
+            <id type="gnd">11861911X</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="463f20b3-d9b0-44e9-bf20-b3d9b054e928">
+            <name>Wilde, Oscar</name>
+            <id type="gnd">118632779</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8833ae56-176a-4a54-b3ae-56176aca5480">
+            <name>Guszalewicz, Alice</name>
+            <id type="gnd">119237970</id>
+            <roleActor>
+                <role type="Rolle">Salome</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4a649115-22b8-4914-a491-1522b8491461">
+            <name>Feinhals, Fritz</name>
+            <id type="gnd">116438401</id>
+            <roleActor>
+                <role type="Rolle">Jochanaan</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="61ef41f0-294e-48a8-af41-f0294e28a81e">
+            <name>Lohse, Otto</name>
+            <id type="gnd">117197351</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000502" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Rollenportrait von Alice Guszalewicz als Salome mit Ensemble 1906</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

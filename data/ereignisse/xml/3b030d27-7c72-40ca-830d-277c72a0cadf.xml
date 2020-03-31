@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="3b030d27-7c72-40ca-830d-277c72a0cadf" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">Märchen von der Fledermaus, Das+17.03.1932+Ambach, Josef</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Märchen von der Fledermaus, Das</title>
+            <listObject>
+                <object id="IFT_KON_JA000013"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Mährisch-Ostrau</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="IFT_KON_JA000013"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>17.03.1932</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_KON_JA000013"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Deutschen Theaters Mährisch-Ostrau, Premiere</text>
+            <object id="IFT_KON_JA000013"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="709eab92-886c-4c9d-9eab-92886cec9d33">
+            <name>Bauer, Albine</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="85264f1b-09c7-479e-a64f-1b09c7e79e98">
+            <name>Deutsches Theater (Mährisch-Ostrau)</name>
+            <id type="gnd">122890-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="f38b5110-7775-400a-8b51-107775900acc">
+            <name>Dättel, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d934fc6-d298-4267-934f-c6d29802673d">
+            <name>Eilers, Ina</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="33831b79-b816-486b-831b-79b816386b3c">
+            <name>Engels, Fritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e575e97f-b4c7-4139-b5e9-7fb4c7213998">
+            <name>Felden, Richard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f542694d-9471-476f-8269-4d9471d76f81">
+            <name>Garden, Magda</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="baa7f5cf-54b1-404f-a7f5-cf54b1304f5c">
+            <name>Gerzhofer, Camilla</name>
+            <id type="gnd">1061595625</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8114632f-552b-41bc-9463-2f552b71bcd1">
+            <name>Juhn, Hugo</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0db29e86-9731-4619-b29e-869731a61983">
+            <name>Kelemen, Viktor</name>
+            <id type="gnd">126281939</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="58d6365f-ec55-420f-9636-5fec55020f44">
+            <name>Lauterbach, Frauke</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2bf97d3a-f359-4c50-b97d-3af3594c5086">
+            <name>Scharwenka, Franz</name>
+            <id type="gnd">1014147247</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38d37af7-f780-4bfc-937a-f7f780fbfcd5">
+            <name>Sommer, Eva</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_KON_JA000013" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritikenkonvolut Deutsches Theater Mährisch-Ostrau</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

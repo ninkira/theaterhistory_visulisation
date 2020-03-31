@@ -1,0 +1,33 @@
+{
+  "name": "xml_data",
+  "version": "1.0.0",
+  "description": "Data visualisation test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninkira/theater_datavisualisation.git"
+  },
+  "keywords": [
+    "data",
+    "theater",
+    "data",
+    "tws"
+  ],
+  "author": "Nina Eckertz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninkira/theater_datavisualisation/issues"
+  },
+  "homepage": "https://github.com/ninkira/theater_datavisualisation#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "body-parser": "^1.19.0",
+    "d3": "^5.15.0",
+    "express": "^4.17.1",
+    "sqlite3": "^4.1.1",
+    "xml2js": "^0.4.23"
+  }
+}

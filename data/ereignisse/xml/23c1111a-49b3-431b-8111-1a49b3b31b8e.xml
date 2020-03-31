@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="23c1111a-49b3-431b-8111-1a49b3b31b8e" type="Performance">
+    <groupingArgument actorID="1c21d3fb-81c4-47aa-a1d3-fb81c437aae7">Gott, König und Vaterland: Schauspiel in 10 Bildern+04.10.1930+Hellmer, Arthur</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Gott, König und Vaterland: Schauspiel in 10 Bildern</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Gott, König und Vaterland</title>
+            <listObject>
+                <object id="IFT_OBJ_JA000049"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Frankfurt am Main</placeName>
+            <place type="Institution">
+                <placeName>Neues Theater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JA000049"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>04.10.1930</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JA000049"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Neuen Theaters Frankfurt am Main</text>
+            <object id="IFT_OBJ_JA000049"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="0e511708-5b33-4467-9117-085b33346779">
+            <name>Lania, Leo</name>
+            <id type="gnd">11672949X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="7779be29-67d2-4759-b9be-2967d217599d">
+            <name>Neues Theater (Frankfurt am Main)</name>
+            <id type="gnd">4223280-6</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="1c21d3fb-81c4-47aa-a1d3-fb81c437aae7">
+            <name>Hellmer, Arthur</name>
+            <id type="gnd">116687800</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="dd2ef13c-1ef9-40e0-aef1-3c1ef990e0ee">
+            <name>Hahlo, Julius</name>
+            <id type="gnd">106131619X</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4eafa75b-3823-4f6b-afa7-5b3823ef6b97">
+            <name>Epskamp, Hans</name>
+            <id type="gnd">1062093755</id>
+            <roleActor>
+                <role type="Rolle">Pasitsch</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="adfc6c34-08c1-4656-bc6c-3408c12656c0">
+            <name>Bergmann, Hellmuth</name>
+            <id type="gnd">1053234562</id>
+            <roleActor>
+                <role type="Rolle">Oberst Dragutin Dimitrejewitsch</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="21a0226a-95ce-4705-a022-6a95ce4705ed">
+            <name>Costa, Martin</name>
+            <id type="gnd">142473693</id>
+            <roleActor>
+                <role type="Rolle">Tankowitsch</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a12951fb-0995-408f-a951-fb0995d08fb4">
+            <name>Massarek, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Malobabitsch</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3e1d1db6-ee6d-4347-9d1d-b6ee6d334741">
+            <name>Hoppe, Marianne</name>
+            <id type="gnd">11698225X</id>
+            <roleActor>
+                <role type="Rolle">Jelena</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38193060-80f6-4a33-9930-6080f64a33c5">
+            <name>Wittmann, Max</name>
+            <id type="gnd">117427713</id>
+            <roleActor>
+                <role type="Rolle">König Peter I.</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="46ee2113-cd7c-439e-ae21-13cd7cd39e70">
+            <name>Günther, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Österreichischer Gesandter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="09f4191e-a099-4dde-b419-1ea0990dde42">
+            <name>Bischoff, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Princip</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_JA000049" type="Autograf: Personenverzeichnis" aat="">
+            <title>Personenverzeichnis, Notizen zu "Gott, König und Vaterland" 1930</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="693d2c19-4ba0-4383-bd2c-194ba0d383a1" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Julius Caesar+20.09.1950+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Julius Caesar</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Julius Cäsar</title>
+            <listObject>
+                <object id="TWS_OBJ0000074"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Essen</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus Essen-Steele</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000074"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>20.09.1950</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000074"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Cinna, ein Poet / Titinius - Freund des Brutus und Cassius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e81ae2f6-f643-4457-9ae2-f6f643b4578f">
+            <name>Arnswald, Günter</name>
+            <id type="gnd">1090807988</id>
+            <roleActor>
+                <role type="Rolle">Trebonius - Verschworener gegen Julius Cäsar / Lucilius - Freund des Brutus und Cassius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="553f877d-e4ab-4203-bf87-7de4ab920355">
+            <name>Bauer, Karl</name>
+            <id type="gnd">116085347</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="978cd288-c915-425d-8cd2-88c915825d87">
+            <name>Bollmann, Horst</name>
+            <id type="gnd">116236639</id>
+            <roleActor>
+                <role type="Rolle">Marullus - Tribun</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="73836073-dca7-401b-8360-73dca7701b67">
+            <name>Braun, Horst</name>
+            <id type="gnd">1095913859</id>
+            <roleActor>
+                <role type="Rolle">Casca - Verschworener gegen Julius Cäsar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a9c25889-6e40-483d-8258-896e40083d9c">
+            <name>Clairmont, Berni</name>
+            <id type="gnd">136682170</id>
+            <roleActor>
+                <role type="Rolle">Calpurnia, Gemahlin des Julius Cäsar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b0ec4754-6d2d-49db-ac47-546d2d99dbe4">
+            <name>Clausen, Claus</name>
+            <id type="gnd">116540028</id>
+            <roleActor>
+                <role type="Rolle">Marcus Antonius - Triumvirn nach dem Tode des Julius Cäsar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="108eb185-d724-4b89-8eb1-85d7246b89f5">
+            <name>Die Bühnen der Stadt Essen</name>
+            <id type="gnd">4204085-1</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="d4291700-a9e8-48ea-a917-00a9e848eadb">
+            <name>Dietz, Ernst</name>
+            <id type="gnd">116116390</id>
+            <roleActor>
+                <role type="Rolle">Octavius Cäsar - Triumvirn nach dem Tode des Julius Cäsar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3942fe9d-4a4d-492a-82fe-9d4a4d292a31">
+            <name>Erdmann, Hellmuth</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Popilius Lena - Senator</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4041a7f0-ae89-424d-81a7-f0ae89624d4c">
+            <name>Jäger, Elsbeth</name>
+            <id type="gnd">1050486358</id>
+            <roleActor>
+                <role type="Rolle">Portia, Gemahlin des Brutus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e4302f37-7787-4251-b02f-37778792512d">
+            <name>Kaiser, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Cicero - Senator</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dae698ac-b266-4486-a698-acb266248616">
+            <name>Kaufhold, Eberhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Metellus Cimber - Verschworener gegen Julius Cäsar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57c80a2b-cdbb-4657-880a-2bcdbbc65762">
+            <name>Lick, Karlheinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="a6e5be48-90b3-4d6e-a5be-4890b37d6e4c">
+            <name>Lübke, Lucian</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lucius, Diener des Brutus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="07ec01ed-3872-4638-ac01-ed3872f6389c">
+            <name>Meinertzhagen, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Decius Brutus - Verschworener gegen Julius Cäsar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="96077e99-2251-4b52-877e-992251cb521c">
+            <name>Naumann, Harry</name>
+            <id type="gnd">105974145</id>
+            <roleActor>
+                <role type="Rolle">Cassius - Verschworener gegen Julius Cäsar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5fd66472-e63d-4865-9664-72e63dc8652e">
+            <name>Ortmann, Friedhelm</name>
+            <id type="gnd">117149489</id>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="66f724ff-f6b6-4fd0-b724-fff6b67fd00f">
+            <name>Rehnert, Peter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Publius - Senator</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="46088f68-de7a-4403-888f-68de7a340360">
+            <name>Reiß, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="4207e862-5493-4d98-87e8-6254932d9800">
+            <name>Romberg, Günther</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Cinna - Verschworener gegen Julius Cäsar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="376e598a-4d99-4460-ae59-8a4d99d460db">
+            <name>Schirlitz, Wolfgang</name>
+            <id type="gnd">1061881652</id>
+            <roleActor>
+                <role type="Rolle">Julius Cäsar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="05603d41-b84c-4282-a03d-41b84cb282d2">
+            <name>Schlegel, August Wilhelm von</name>
+            <id type="gnd">118607960</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="2a82797e-a953-456d-8279-7ea953656d7d">
+            <name>Schrade, Arno</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Flavius - Tribun / Artemidorus, ein Sophist von Knidos / Messala - Freund des Brutus und Cassius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="c685092c-6188-40c5-8509-2c618850c5e3">
+            <name>Soltau, Jens</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">M. Aemilius Lepidus - Triumvirn nach dem Tode des Julius Cäsar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e4e67a60-7833-47dd-a67a-60783387dd3c">
+            <name>Stroth, Kurt</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Wahrsager</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0764677e-f650-4319-a467-7ef65023197a">
+            <name>Wilfert, Bernhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Pindarus, Diener des Cassius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="74f8b644-061f-45d5-b8b6-44061f05d550">
+            <name>Wolf, Andreas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Marcus Brutus - Verschworener gegen Julius Cäsar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000074" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Programmzettel zu Julius Cäsar in Essen 1950</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

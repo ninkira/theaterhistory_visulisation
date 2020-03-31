@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="cbe5ec6b-3859-46fd-a5ec-6b385956fdfc" type="Performance">
+    <groupingArgument actorID="4691cd3d-2810-484e-91cd-3d2810784e46">ideale Gattin, Die++Schlegel, Bruno</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>ideale Gattin, Die</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>ideale Gattin, Die</title>
+            <listObject>
+                <object id="IFT_KON_HL000003"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Milwaukee</placeName>
+            <place type="Institution">
+                <placeName>Pabst Theatre</placeName>
+                <listObject>
+                    <object id="IFT_KON_HL000003"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1915" to="1916">
+                <listObject>
+                    <object id="IFT_KON_HL000003"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Operetteninszenierung des Pabst Theatre Milwaukee</text>
+            <object id="IFT_KON_HL000003"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e978396b-0cab-42c3-b839-6b0caba2c328">
+            <name>Brammer, Julius</name>
+            <id type="gnd">121760251</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="7584e6a2-a376-44a7-84e6-a2a37624a77e">
+            <name>Eybisch, Ludwig</name>
+            <id type="gnd">143316346</id>
+            <roleActor>
+                <role type="Rolle">Visconde Pable de Cavaletti</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="83d78632-75ca-4804-9786-3275caa80422">
+            <name>Grünwald, Alfred</name>
+            <id type="gnd">118972340</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ea6bbe64-2672-478e-abbe-642672378ef8">
+            <name>Herold, Käthe</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="612e5027-d4f4-4f64-ae50-27d4f4df6432">
+            <name>Karl, Ernst</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="9ea2ea7e-4300-4f6f-a2ea-7e43003f6fe8">
+            <name>Lehár, Franz</name>
+            <id type="gnd">118571036</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ce550677-d32f-4244-9506-77d32fe24421">
+            <name>Lingen, Heinz</name>
+            <id type="gnd">106194171X</id>
+            <roleActor>
+                <role type="Rolle">Don Gil Tenorio de Sevilla</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="1305a7ca-e9aa-4bb4-85a7-cae9aa8bb48d">
+            <name>Marlow, Hans</name>
+            <id type="gnd">106183946X</id>
+            <roleActor>
+                <role type="Rolle">Sergius Sartrewski</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1e68646a-d5dd-44d5-a864-6ad5dd94d53c">
+            <name>Nachbaur, Ludwig</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Marquese Serrantis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="afd5ca5e-9f31-46ff-95ca-5e9f31d6ff1f">
+            <name>Pabst Theatre Milwaukee</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="4691cd3d-2810-484e-91cd-3d2810784e46">
+            <name>Schlegel, Bruno</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="cfaf2524-2d96-4448-af25-242d969448ae">
+            <name>Széscy, Magda</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Carmen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_KON_HL000003" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritikenkonvolut zu "Die ideale Gattin" in Milwaukee</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

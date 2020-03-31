@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="2297fb31-cd11-4a92-97fb-31cd118a92bd" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Trachiniae+12.12.1959+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Trachiniae</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Frauen von Trachis, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000141"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Landestheater Darmstadt</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000141"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>12.12.1959</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000141"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Westdeutsche Erstaufführung; Aufführungsrechte: Rowohlt</text>
+            <object id="TWS_OBJ0000141"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="8b9f433d-e2bd-411e-9f43-3de2bd711ed1">
+            <name>Behrens, Christa</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor, Mädchen von Trachis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="845c619d-e951-468b-9c61-9de951a68b32">
+            <name>Braak, Kai</name>
+            <id type="gnd">172871697</id>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="bd6c4c1b-7cd8-431d-ac4c-1b7cd8231d88">
+            <name>Böhm, Willy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="2a8d4ad0-486e-4326-8d4a-d0486e03266a">
+            <name>Ernst, Joachim</name>
+            <id type="gnd">1047353911</id>
+            <roleActor>
+                <role type="Rolle">Likhas, ein Herold</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="be0ab7ec-7387-44a8-8ab7-ec738734a842">
+            <name>Gmür, Walburga</name>
+            <id type="gnd">1061303799</id>
+            <roleActor>
+                <role type="Rolle">eine Amme</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d3a7f317-d99a-4e5b-a7f3-17d99ace5b44">
+            <name>Haas, Hilda</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor, Mädchen von Trachis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c15caee7-0159-4a06-9cae-e701595a066f">
+            <name>Helfmann, Alexander</name>
+            <id type="gnd">1141080273</id>
+            <roleActor>
+                <role type="Rolle">alter Mann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f9ed623b-a9fa-4ff1-ad62-3ba9fa2ff158">
+            <name>Hesse, Eva</name>
+            <id type="gnd">122585119</id>
+            <roleActor>
+                <role>Übersetzerin</role>
+            </roleActor>
+        </actor>
+        <actor id="57d285bc-f174-4b52-9285-bcf1749b52fd">
+            <name>Joeres, Charlotte</name>
+            <id type="gnd">134633792</id>
+            <roleActor>
+                <role type="Rolle">Deianeira "die Luft des Tages", Tochter von Oineus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="41fc0338-58dd-4775-bc03-3858dd1775d4">
+            <name>Koch, Isgard</name>
+            <id type="gnd">1061440753</id>
+            <roleActor>
+                <role type="Rolle">Chor, Mädchen von Trachis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e475acca-c640-47ee-b5ac-cac640b7eec4">
+            <name>Krämer, Anfried</name>
+            <id type="gnd">1062409523</id>
+            <roleActor>
+                <role type="Rolle">ein Bote</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="63ebafb8-63fa-4049-abaf-b863fae0499b">
+            <name>Laett, Irene</name>
+            <id type="gnd">1023362538</id>
+            <roleActor>
+                <role type="Rolle">Chor, Mädchen von Trachis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="4a1b1ac8-4555-4534-9b1a-c84555453414">
+            <name>Marhold, Irene</name>
+            <id type="gnd">106247063X</id>
+            <roleActor>
+                <role type="Rolle">Chor, Mädchen von Trachis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a881a686-2406-41ed-81a6-862406f1ede3">
+            <name>Meyer, Hannes</name>
+            <id type="gnd">11755894X</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="88ef2c8e-da69-49f2-af2c-8eda6979f25a">
+            <name>Pound, Ezra</name>
+            <id type="gnd">118596039</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="37310a32-742f-4e47-b10a-32742f6e47a4">
+            <name>Reger, Renate</name>
+            <id type="gnd">1061912698</id>
+            <roleActor>
+                <role type="Rolle">Chor, Mädchen von Trachis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="90d0f88d-0be8-466f-90f8-8d0be8666f52">
+            <name>Rowohlt-Verlag</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Verlag</role>
+            </roleActor>
+        </actor>
+        <actor id="cd26f5a0-3a26-4018-a6f5-a03a265018e5">
+            <name>Sajak, Hannspeter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="41c1242a-596d-4512-8124-2a596db5127c">
+            <name>Saussen, Edmund</name>
+            <id type="gnd">1061370453</id>
+            <roleActor>
+                <role type="Rolle">Herkales Zuson "die zeugende Kraft der Sonne"</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="70c0f4cc-9414-46f0-80f4-cc941436f022">
+            <name>Seeman, Edelgard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor, Mädchen von Trachis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="67cc73d7-96c9-42f4-8c73-d796c972f4fc">
+            <name>Sophocles</name>
+            <id type="gnd">118615688</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b3c5bc-cf0f-475c-b3c5-bccf0fb75c69">
+            <name>Steiger, Renate</name>
+            <id type="gnd">1106388003</id>
+            <roleActor>
+                <role type="Rolle">Chor, Mädchen von Trachis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="975ba718-58f8-4034-9ba7-1858f84034fd">
+            <name>Tischbein, Traudl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor, Mädchen von Trachis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dec37f96-7eee-49cf-837f-967eee19cf9e">
+            <name>Vogel, Heidy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Iole, Tochter von Eurytos</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="79338c3b-6cd3-4410-b38c-3b6cd3141073">
+            <name>Winter, Gerhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Hyllos, Sohn der Deianeira und des Herakles</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000141" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Die Frauen von Trachis" in Darmstadt 1959</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

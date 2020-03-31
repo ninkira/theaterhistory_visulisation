@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="3d217468-2cf8-47b9-a174-682cf8c7b9a9" type="Performance">
+    <groupingArgument actorID="">Nozze di Figaro, Le+1929+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Nozze di Figaro, Le</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Hochzeit des Figaro, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000254"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Oberhausen</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000254"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>1929</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000254"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="e82db7c6-e35b-430d-adb7-c6e35be30dae">
+            <name>Mozart, Wolfgang Amadeus</name>
+            <id type="gnd">118584596</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="41585c0d-c8cb-4d26-985c-0dc8cb3d260a">
+            <name>Da Ponte, Lorenzo</name>
+            <id type="gnd">118678841</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000254" type="Modell: Bühnenbildmodell" aat="300007122">
+            <title>Bühnenbildmodell zu "Die Hochzeit des Figaro" in Oberhausen 1929</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

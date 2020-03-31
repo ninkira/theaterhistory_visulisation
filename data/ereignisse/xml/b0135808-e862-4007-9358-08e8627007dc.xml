@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="b0135808-e862-4007-9358-08e8627007dc" type="Performance">
+    <groupingArgument actorID="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">The comedy of errors+26.04.1934+Müthel, Lothar</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>The comedy of errors</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Komödie der Irrungen</title>
+            <listObject>
+                <object id="IFT_OBJ_LM000466"/>
+                <object id="IFT_OBJ_LM000458"/>
+                <object id="IFT_OBJ_LM000457"/>
+                <object id="IFT_OBJ_LM000456"/>
+                <object id="IFT_OBJ_LM000455"/>
+                <object id="IFT_OBJ_LM000454"/>
+                <object id="IFT_OBJ_LM000453"/>
+                <object id="IFT_OBJ_LM000452"/>
+                <object id="IFT_OBJ_LM000451"/>
+                <object id="IFT_OBJ_LM000130"/>
+                <object id="IFT_OBJ_LM000129"/>
+                <object id="IFT_OBJ_LM000128"/>
+                <object id="IFT_OBJ_LM000127"/>
+                <object id="IFT_OBJ_LM000126"/>
+                <object id="IFT_OBJ_LM000001"/>
+                <object id="IFT_KON_LM000005"/>
+                <object id="IFT_KON_LM000004"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus am Gendarmenmarkt</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LM000466"/>
+                    <object id="IFT_OBJ_LM000458"/>
+                    <object id="IFT_OBJ_LM000457"/>
+                    <object id="IFT_OBJ_LM000456"/>
+                    <object id="IFT_OBJ_LM000455"/>
+                    <object id="IFT_OBJ_LM000454"/>
+                    <object id="IFT_OBJ_LM000453"/>
+                    <object id="IFT_OBJ_LM000452"/>
+                    <object id="IFT_OBJ_LM000451"/>
+                    <object id="IFT_OBJ_LM000130"/>
+                    <object id="IFT_OBJ_LM000129"/>
+                    <object id="IFT_OBJ_LM000128"/>
+                    <object id="IFT_OBJ_LM000127"/>
+                    <object id="IFT_OBJ_LM000126"/>
+                    <object id="IFT_OBJ_LM000001"/>
+                    <object id="IFT_KON_LM000005"/>
+                    <object id="IFT_KON_LM000004"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>26.04.1934</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_LM000466"/>
+                    <object id="IFT_OBJ_LM000458"/>
+                    <object id="IFT_OBJ_LM000457"/>
+                    <object id="IFT_OBJ_LM000456"/>
+                    <object id="IFT_OBJ_LM000455"/>
+                    <object id="IFT_OBJ_LM000454"/>
+                    <object id="IFT_OBJ_LM000453"/>
+                    <object id="IFT_OBJ_LM000452"/>
+                    <object id="IFT_OBJ_LM000451"/>
+                    <object id="IFT_OBJ_LM000130"/>
+                    <object id="IFT_OBJ_LM000129"/>
+                    <object id="IFT_OBJ_LM000128"/>
+                    <object id="IFT_OBJ_LM000127"/>
+                    <object id="IFT_OBJ_LM000126"/>
+                    <object id="IFT_OBJ_LM000001"/>
+                    <object id="IFT_KON_LM000005"/>
+                    <object id="IFT_KON_LM000004"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext>Nationalsozialismus</culturalContext>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Berliner Staatsschauspiels</text>
+            <object id="IFT_OBJ_LM000466"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung des Berliner Staatstheaters</text>
+            <object id="IFT_OBJ_LM000001"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung des Staatstheaters Berlin</text>
+            <object id="IFT_KON_LM000005"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="29232b8f-e3cb-4e55-a32b-8fe3cb8e5528">
+            <name>Musil, Erich</name>
+            <id type="gnd">1035073706</id>
+            <roleActor>
+                <role type="Rolle">Antipholus aus Syrakus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a288af77-a91c-46c6-88af-77a91c06c6f7">
+            <name>Müller, Traugott</name>
+            <id type="gnd">119307251</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">
+            <name>Müthel, Lothar</name>
+            <id type="gnd">119049309</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="80b0cd13-cfc7-4f16-b0cd-13cfc7bf16c6">
+            <name>Nicklisch, Franz</name>
+            <id type="gnd">116995068</id>
+            <roleActor>
+                <role type="Rolle">Antipholus aus Ephesus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="47f40168-9146-4096-b401-6891467096af">
+            <name>Rothe, Hans</name>
+            <id type="gnd">118603221</id>
+            <roleActor>
+                <role>Übersetzer_in des inszenierten Werks</role>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="fd0fb506-6a78-486c-8fb5-066a78586c68">
+            <name>Hasse, Clemens</name>
+            <id type="gnd">1061342409</id>
+            <roleActor>
+                <role type="Rolle">Dromio aus Syrakus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a0cbe7cb-15d4-4a54-8be7-cb15d4ea54e2">
+            <name>Bluhm, Walter</name>
+            <id type="gnd">13544070X</id>
+            <roleActor>
+                <role type="Rolle">Dromio aus Ephesus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fc7ffc0a-ffc2-4e31-bffc-0affc28e318d">
+            <name>Bildt, Paul</name>
+            <id type="gnd">11618051X</id>
+            <roleActor>
+                <role type="Rolle">Der Goldschmied Angelo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c041d9b6-d45d-46a4-81d9-b6d45d96a4e9">
+            <name>Wäscher, Aribert</name>
+            <id type="gnd">117091154</id>
+            <roleActor>
+                <role type="Rolle">Ein Kaufmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1e496676-1eac-498f-8966-761eace98fdc">
+            <name>Florath, Albert</name>
+            <id type="gnd">119526913</id>
+            <roleActor>
+                <role type="Rolle">Polizeibeamter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b2e976aa-d4bc-4bd4-a976-aad4bc9bd482">
+            <name>Trutz, Wolf</name>
+            <id type="gnd">1061339564</id>
+            <roleActor>
+                <role type="Rolle">Polizeibeamter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cdced7e1-3732-4e8a-8ed7-e137329e8ac0">
+            <name>Ledebur, Leopold von</name>
+            <id type="gnd">117749303</id>
+            <roleActor>
+                <role type="Rolle">Der Kapitän</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1bc1d1ae-a0d8-40c3-81d1-aea0d840c3a0">
+            <name>Weißner, Hilde</name>
+            <id type="gnd">117302872</id>
+            <roleActor>
+                <role type="Rolle">Adriana</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="21565e1c-995b-4004-965e-1c995b5004ea">
+            <name>Savio, Clara</name>
+            <id type="gnd">1073701263</id>
+            <roleActor>
+                <role type="Rolle">Luziana</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f0e48bc2-49fc-4556-a48b-c249fc95569c">
+            <name>Betke, Lotte</name>
+            <id type="gnd">10479948X</id>
+            <roleActor>
+                <role type="Rolle">Emmelina</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c576b0e4-0750-4630-b6b0-e40750763018">
+            <name>Usell, Anna</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Julia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2ff545d8-692d-42bd-b545-d8692df2bd77">
+            <name>Spies, Leo</name>
+            <id type="gnd">118752022</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="dc022d25-0156-4678-822d-250156967889">
+            <name>Schauspielhaus Berlin</name>
+            <id type="gnd">2118679-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="17">
+        <object id="IFT_OBJ_LM000466" type="Publikation: Regiebuch" aat="">
+            <title>Regiebuch zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_OBJ_LM000458" type="Grafik" aat="">
+            <title>Figurinenzeichnung zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_OBJ_LM000457" type="Grafik" aat="">
+            <title>Figurinenzeichnung zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_OBJ_LM000456" type="Grafik" aat="">
+            <title>Figurinenzeichnung zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_OBJ_LM000455" type="Grafik" aat="">
+            <title>Figurinenzeichnung zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_OBJ_LM000454" type="Grafik" aat="">
+            <title>Figurinenzeichnung zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_OBJ_LM000453" type="Grafik" aat="">
+            <title>Figurinenzeichnung zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_OBJ_LM000452" type="Grafik" aat="">
+            <title>Figurinenzeichnung zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_OBJ_LM000451" type="Grafik" aat="">
+            <title>Figurinenzeichnung zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_OBJ_LM000130" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_OBJ_LM000129" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_OBJ_LM000128" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_OBJ_LM000127" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_OBJ_LM000126" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_OBJ_LM000001" type="Publikation: Programmheft" aat="300027217">
+            <title>Programmheft zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_KON_LM000005" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Konvolut Szenenfotografien zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+        <object id="IFT_KON_LM000004" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritikenkonvolut zu "Komödie der Irrungen" in Berlin 1934</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

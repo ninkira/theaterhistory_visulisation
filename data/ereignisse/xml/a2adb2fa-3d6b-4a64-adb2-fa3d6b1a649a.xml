@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a2adb2fa-3d6b-4a64-adb2-fa3d6b1a649a" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">Hallo, wer fängt Flip und Flap? oder: Das große Abenteuer von Bastelhans und Quasselgrete+01.03.1930+Ambach, Josef</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Hallo, wer fängt Flip und Flap? oder: Das große Abenteuer von Bastelhans und Quasselgrete</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Hallo, wer fängt Flip und Flap?</title>
+            <listObject>
+                <object id="IFT_OBJ_JA000103"/>
+                <object id="IFT_OBJ_JA000102"/>
+                <object id="IFT_OBJ_JA000101"/>
+                <object id="IFT_OBJ_JA000100"/>
+                <object id="IFT_OBJ_JA000099"/>
+                <object id="IFT_OBJ_JA000098"/>
+                <object id="IFT_OBJ_JA000020"/>
+                <object id="IFT_KON_JA000003"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>Neues Wiener Schauspielhaus</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JA000103"/>
+                    <object id="IFT_OBJ_JA000102"/>
+                    <object id="IFT_OBJ_JA000101"/>
+                    <object id="IFT_OBJ_JA000100"/>
+                    <object id="IFT_OBJ_JA000099"/>
+                    <object id="IFT_OBJ_JA000098"/>
+                    <object id="IFT_OBJ_JA000020"/>
+                    <object id="IFT_KON_JA000003"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>01.03.1930</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JA000103"/>
+                    <object id="IFT_OBJ_JA000102"/>
+                    <object id="IFT_OBJ_JA000101"/>
+                    <object id="IFT_OBJ_JA000100"/>
+                    <object id="IFT_OBJ_JA000099"/>
+                    <object id="IFT_OBJ_JA000098"/>
+                    <object id="IFT_OBJ_JA000020"/>
+                    <object id="IFT_KON_JA000003"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Neuen Wiener Schauspielhauses</text>
+            <object id="IFT_OBJ_JA000103"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e3a0f63c-5444-437a-a0f6-3c5444e37a24">
+            <name>Neues Wiener Schauspielhaus</name>
+            <id type="gnd">16050090-4</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="cb78ecb5-0480-4bd9-b8ec-b50480abd95e">
+            <name>Josefovics, Karl</name>
+            <id type="gnd">109490659X</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1a0e1fe-2ba1-4ee5-a0e1-fe2ba1dee5c6">
+            <name>Seidner, Irene</name>
+            <id type="gnd">1061436233</id>
+            <roleActor>
+                <role type="Rolle">Köchin Kugelrund</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dc5cdcaa-7095-40c7-9cdc-aa7095a0c7fc">
+            <name>Gamberti, Fritz</name>
+            <id type="gnd">1062422341</id>
+            <roleActor>
+                <role type="Rolle">Stiefel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8c172388-986e-4da1-9723-88986edda15a">
+            <name>Kalwoda, Karl</name>
+            <id type="gnd">1061428397</id>
+            <roleActor>
+                <role type="Rolle">Herr Meyer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b358154e-6069-476d-9815-4e6069a76d6f">
+            <name>Grassow, Ebert</name>
+            <id type="gnd">1100393072</id>
+            <roleActor>
+                <role type="Rolle">Bumerang</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eb7b3eca-840c-4348-bb3e-ca840c1348a1">
+            <name>Weiß, Rudolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Flap</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ba59db2a-e7da-4c64-99db-2ae7da9c6443">
+            <name>Varndal, Walter</name>
+            <id type="gnd">1062124146</id>
+            <roleActor>
+                <role type="Rolle">Hans</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e868423b-5632-4478-a842-3b5632c47882">
+            <name>Epp, Leon</name>
+            <id type="gnd">116516453</id>
+            <roleActor>
+                <role type="Rolle">Doktor Bitterlich</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3867fe7a-7c52-4003-a7fe-7a7c52e00364">
+            <name>Fontana, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kakadu</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="32911850-7e72-41a7-9118-507e7231a7e3">
+            <name>Herold, Hadolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Flip</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ebe818e1-f0f0-48ee-a818-e1f0f0b8eeaf">
+            <name>Baum, Vicky</name>
+            <id type="gnd">118653830</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="6c303032-607a-4cdc-b030-32607adcdc63">
+            <name>Rothauser, Eduard</name>
+            <id type="gnd">116639636</id>
+            <roleActor>
+                <role type="Rolle">Herr Reich</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8ef31b32-5934-489d-b31b-325934389df3">
+            <name>Schneider, Grete</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Grete</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="65995892-fa6f-4c4a-9958-92fa6f8c4aa2">
+            <name>Horeschovsky, Melanie</name>
+            <id type="gnd">116982918</id>
+            <roleActor>
+                <role type="Rolle">Fräulin Etepetete</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3af732f8-df84-45c5-b732-f8df84a5c541">
+            <name>Landers, Gerta</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Blumenverkäuferin; Negerfau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ebea59d9-aec8-4bfb-aa59-d9aec80bfb70">
+            <name>Hinze, Gerhard</name>
+            <id type="gnd">1067209867</id>
+            <roleActor>
+                <role type="Rolle">Zweiter Flieger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="baa54bbb-1bcb-41b8-a54b-bb1bcbe1b8d3">
+            <name>Stollberg, Fredericke</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Dame</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="31fa8626-ffc5-4065-ba86-26ffc5406575">
+            <name>Kraus, Gertrud</name>
+            <id type="gnd">1037361644</id>
+            <roleActor>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="8">
+        <object id="IFT_OBJ_JA000103" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Zeitungsausschnitt zu "Hallo, wer fängt Flip und Flap?" in Wien 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000102" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hallo, wer fängt Flip und Flap?" in Wien 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000101" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hallo, wer fängt Flip und Flap?" in Wien 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000100" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hallo, wer fängt Flip und Flap?" in Wien 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000099" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hallo, wer fängt Flip und Flap?" in Wien 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000098" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hallo, wer fängt Flip und Flap?" in Wien 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000020" type="Plakat: Theater" aat="300027221">
+            <title>Theaterplakat zu "Hallo, wer fängt Flip und Flap?" in Wien 1930</title>
+        </object>
+        <object id="IFT_KON_JA000003" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Konvolut Szenenfotografien zu "Hallo, wer fängt Flip und Flap?" in Wien 1930</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

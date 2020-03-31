@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="158e2c11-6af0-4dcb-8e2c-116af08dcb7e" type="Performance">
+    <groupingArgument actorID="6058b37c-b7f2-4962-98b3-7cb7f2896238">Thron zwischen Erdteilen, Der+11.12.1941+Kenter, Heinz Dietrich</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Thron zwischen Erdteilen, Der</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Thron zwischen Erdteilen, Der</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000030"/>
+                <object id="IFT_OBJ_HW000014"/>
+                <object id="IFT_OBJ_HW000029"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000030"/>
+                    <object id="IFT_OBJ_HW000029"/>
+                    <object id="IFT_OBJ_HW000014"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>11.12.1941</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000030"/>
+                    <object id="IFT_OBJ_HW000029"/>
+                    <object id="IFT_OBJ_HW000014"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Münchner Kammerspiele</text>
+            <object id="IFT_OBJ_HW000030"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung der Münchner Kammerspiele, Premiere</text>
+            <object id="IFT_OBJ_HW000029"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Zarin Elisabeth</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e0961776-169b-40a6-9617-76169bd0a6e2">
+            <name>Münchner Kammerspiele</name>
+            <id type="gnd">2068173-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="b4b60c52-77bc-4a88-b60c-5277bcca8816">
+            <name>Gobsch, Hanns</name>
+            <id type="gnd">101221363</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f6cf1805-4daf-4bb6-8f18-054daf2bb64c">
+            <name>Mertens, Hanne</name>
+            <id type="gnd">1062100794</id>
+            <roleActor>
+                <role type="Rolle">Zarin Katharina II.</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6058b37c-b7f2-4962-98b3-7cb7f2896238">
+            <name>Kenter, Heinz Dietrich</name>
+            <id type="gnd">1061889998</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4575ce75-53b4-45d9-b5ce-7553b4f5d9e4">
+            <name>Sturm, Eduard</name>
+            <id type="gnd">117363782</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b30a4939-64af-4654-8a49-3964af1654b8">
+            <name>Brefin, Otto</name>
+            <id type="gnd">116469722</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0f0aee52-1af8-44ef-8aee-521af8f4ef3b">
+            <name>Osthoff, Otto</name>
+            <id type="gnd">1054824517</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="82b3a352-a1cf-4feb-b3a3-52a1cfbfeb14">
+            <name>Menhart, Alfred</name>
+            <id type="gnd">1062174801</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="3">
+        <object id="IFT_OBJ_HW000030" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfoto aus "Der Thron zwischen Erdteilen" in München 1941</title>
+        </object>
+        <object id="IFT_OBJ_HW000029" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Faltblatt mit diversen Rollenporträts</title>
+        </object>
+        <object id="IFT_OBJ_HW000014" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenporträt aus "Der Thron zwischen Erdteilen" in München 1941</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

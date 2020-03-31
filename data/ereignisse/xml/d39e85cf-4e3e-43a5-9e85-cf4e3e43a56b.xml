@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="d39e85cf-4e3e-43a5-9e85-cf4e3e43a56b" type="Performance">
+    <groupingArgument actorID="ecaf536a-280e-4cf4-af53-6a280eccf498">Graf von Gleichen, Der+03.02.1908+Lindemann, Gustav</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Graf von Gleichen, Der</title>
+            <listObject>
+                <object id="TWS_OBJ0000699"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000699"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>03.02.1908</premier>
+            <time from="03.02.1908" to="1909">
+                <listObject>
+                    <object id="TWS_OBJ0000699"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="8865a33e-1841-4589-a5a3-3e184145893a">
+            <name>Wunderwald, Gustav</name>
+            <id type="gnd">118635611</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="067ad14b-3355-4706-bad1-4b3355870641">
+            <name>Schmidtbonn, Wilhelm</name>
+            <id type="gnd">118609009</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ecaf536a-280e-4cf4-af53-6a280eccf498">
+            <name>Lindemann, Gustav</name>
+            <id type="gnd">118728377</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000699" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Gustav Wunderwald</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

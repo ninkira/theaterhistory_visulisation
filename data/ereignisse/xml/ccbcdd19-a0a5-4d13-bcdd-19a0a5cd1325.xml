@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ccbcdd19-a0a5-4d13-bcdd-19a0a5cd1325" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">Drunter und drüber, rechts und links. Eine heitere Zeitschnurre in 3 Akten+05.04.1931+Ambach, Josef</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Drunter und drüber, rechts und links. Eine heitere Zeitschnurre in 3 Akten</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Drunter und drüber, rechts und links. Eine heitere Zeitschnurre in 3 Akten</title>
+            <listObject>
+                <object id="IFT_OBJ_JA000007"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Frankfurt am Main</placeName>
+            <place type="Institution">
+                <placeName>Neues Theater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JA000007"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>05.04.1931</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JA000007"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Neuen Theaters Frankfurt am Main</text>
+            <object id="IFT_OBJ_JA000007"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="7779be29-67d2-4759-b9be-2967d217599d">
+            <name>Neues Theater (Frankfurt am Main)</name>
+            <id type="gnd">4223280-6</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4f43f25a-a1f1-48dd-83f2-5aa1f1b8ddde">
+            <name>Arco, Michael</name>
+            <id type="gnd">106239285X</id>
+            <roleActor>
+                <role type="Rolle">Freiherr von Wimpfen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d7c708c4-7eb2-44ce-8708-c47eb254ce02">
+            <name>Monnard, Else</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bertha</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38193060-80f6-4a33-9930-6080f64a33c5">
+            <name>Wittmann, Max</name>
+            <id type="gnd">117427713</id>
+            <roleActor>
+                <role type="Rolle">Konrad Zwickmüller</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="65c838c6-d00d-47e5-8838-c6d00d67e581">
+            <name>Impekoven, Toni</name>
+            <id type="gnd">117138525</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="dbd2c446-78c1-4563-92c4-4678c10563e9">
+            <name>Mathern, Carl</name>
+            <id type="gnd">116837705</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="21a0226a-95ce-4705-a022-6a95ce4705ed">
+            <name>Costa, Martin</name>
+            <id type="gnd">142473693</id>
+            <roleActor>
+                <role type="Rolle">Fritz Petermann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="00ead03c-33be-4f3b-aad0-3c33be9f3b97">
+            <name>Reiter, Annie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Minna Joppe</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3e1d1db6-ee6d-4347-9d1d-b6ee6d334741">
+            <name>Hoppe, Marianne</name>
+            <id type="gnd">11698225X</id>
+            <roleActor>
+                <role type="Rolle">Vera</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cbb7be8e-d98c-49ed-b7be-8ed98c29ed60">
+            <name>Tiedemann, Elsa</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fräulein Dr. Marion</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="adfc6c34-08c1-4656-bc6c-3408c12656c0">
+            <name>Bergmann, Hellmuth</name>
+            <id type="gnd">1053234562</id>
+            <roleActor>
+                <role type="Rolle">Dr. Alfred Schönberg</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="745fae7c-e0ce-4cf8-9fae-7ce0ce1cf886">
+            <name>Arzdorf, Franz</name>
+            <id type="gnd">1050401050</id>
+            <roleActor>
+                <role type="Rolle">Fritz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2e2fd123-8dcb-4c68-afd1-238dcb2c68c1">
+            <name>Just, Harry</name>
+            <id type="gnd">1061272753</id>
+            <roleActor>
+                <role type="Rolle">Hans von Schmitten</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4eafa75b-3823-4f6b-afa7-5b3823ef6b97">
+            <name>Epskamp, Hans</name>
+            <id type="gnd">1062093755</id>
+            <roleActor>
+                <role type="Rolle">Der Klamottenmax</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="eea39b59-5a5e-49aa-a39b-595a5ea9aa28">
+            <name>Czimeg, Georg</name>
+            <id type="gnd">1129289931</id>
+            <roleActor>
+                <role type="Rolle">Wuttke</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d9517277-b89a-416b-9172-77b89ae16b50">
+            <name>Lüders, Günther</name>
+            <id type="gnd">118747398</id>
+            <roleActor>
+                <role type="Rolle">Assessor Rödern</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_JA000007" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Drunter und drüber..." in Frankfurt am Main 1931</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

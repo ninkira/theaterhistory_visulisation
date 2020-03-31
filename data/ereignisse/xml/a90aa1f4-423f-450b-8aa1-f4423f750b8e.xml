@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a90aa1f4-423f-450b-8aa1-f4423f750b8e" type="Performance">
+    <groupingArgument actorID="65cf183e-db3e-46e9-8f18-3edb3e86e93e">Boris Godunov+07.09.1926+Hagemann, Carl</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Boris Godunov</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Boris Godunow</title>
+            <listObject>
+                <object id="TWS_OBJ0000647"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wiesbaden</placeName>
+            <place type="Institution">
+                <placeName>Hessisches Staatstheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000647"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>07.09.1926</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000647"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>"1. Vorstellung"
+"Musikalisches Volksdrama"</text>
+            <object id="TWS_OBJ0000647"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="efccbb7a-9f0d-405d-8cbb-7a9f0da05de7">
+            <name>Hessisches Staatstheater (Wiesbaden)</name>
+            <id type="gnd">4366400-3</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="9ad37168-1714-40ef-9371-68171410ef07">
+            <name>Musorgskij, Modest Petrovič</name>
+            <id type="gnd">118641255</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="c482ce57-17a2-4568-82ce-5717a295683d">
+            <name>Rimskij-Korsakov, Nikolaj</name>
+            <id type="gnd">118601067</id>
+            <roleActor>
+                <role>Bearbeitung</role>
+            </roleActor>
+        </actor>
+        <actor id="21e9963d-ebac-484e-a996-3debacf84e0a">
+            <name>Rother, Artur</name>
+            <id type="gnd">116640960</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="65cf183e-db3e-46e9-8f18-3edb3e86e93e">
+            <name>Hagemann, Carl</name>
+            <id type="gnd">119368277</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8a0a70a4-28ce-489d-8a70-a428ced89d1d">
+            <name>Krenn, Fritz</name>
+            <id type="gnd">124323669</id>
+            <roleActor>
+                <role type="Rolle">Boris Godunow</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fe0ff586-e00c-45dc-8ff5-86e00c35dccc">
+            <name>Müller-Reichel, Therese</name>
+            <id type="gnd">102132423X</id>
+            <roleActor>
+                <role type="Rolle">Theodor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9457f2fc-76e9-4fb7-97f2-fc76e9efb719">
+            <name>Möller, Herta</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Xenia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f7fcfe47-6381-4123-bcfe-476381712371">
+            <name>Haas, Lilly</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Amme von Xenias</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="174c9f86-21ea-44ee-8c9f-8621ea94ee63">
+            <name>Laholm, Eyvind</name>
+            <id type="gnd">13304338X</id>
+            <roleActor>
+                <role type="Rolle">Fürst Schujskij</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f2c0275a-0831-498b-8027-5a0831498b57">
+            <name>Geisse-Winkel, Nicola</name>
+            <id type="gnd">117732176</id>
+            <roleActor>
+                <role type="Rolle">Schtschelkalow</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d28da915-d724-4b88-8da9-15d724ab880d">
+            <name>Rosalewicz, Alexander</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Pimen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e3286762-32b9-48e2-a867-6232b928e28b">
+            <name>Köther, Karl</name>
+            <id type="gnd">133016765</id>
+            <roleActor>
+                <role type="Rolle">Rangoni</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000647" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zur "Boris Godunow"-Inszenierung in Wiesbaden 1926</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

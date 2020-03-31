@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="592fdec7-bf21-439f-afde-c7bf21039f3d" type="Performance">
+    <groupingArgument actorID="">Sturm+08.12.1925+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Sturm</title>
+            <listObject>
+                <object id="TWS_OBJ0000298"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Moskau</placeName>
+            <place type="Institution">
+                <placeName>Theater des Städtischen Gewerkschaftssowjets</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000298"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>08.12.1925</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000298"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="55d05b23-6407-4e57-905b-236407ce5769">
+            <name>Bill-Belocerkovskij, Vladimir N.</name>
+            <id type="gnd">128526025</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="7f2d26ff-cd94-45e9-ad26-ffcd9415e9d9">
+            <name>Theater des Städtischen Gewerkschaftssowjets</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000298" type="Modell: Bühnenbildmodell" aat="300007122">
+            <title>Bühnenbildmodell zu "Sturm" in Moskau 1925</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

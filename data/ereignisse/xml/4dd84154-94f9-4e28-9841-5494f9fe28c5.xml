@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="4dd84154-94f9-4e28-9841-5494f9fe28c5" type="Performance">
+    <groupingArgument actorID="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">Hamlet+13.06.1938+Müthel, Lothar</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Hamlet</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Hamlet</title>
+            <listObject>
+                <object id="IFT_OBJ_LM000093"/>
+                <object id="IFT_OBJ_LM000092"/>
+                <object id="IFT_OBJ_LM000091"/>
+                <object id="IFT_OBJ_LM000090"/>
+                <object id="IFT_OBJ_LM000089"/>
+                <object id="IFT_OBJ_LM000088"/>
+                <object id="IFT_OBJ_LM000087"/>
+                <object id="IFT_OBJ_LM000086"/>
+                <object id="IFT_OBJ_LM000085"/>
+                <object id="IFT_OBJ_LM000084"/>
+                <object id="IFT_OBJ_LM000083"/>
+                <object id="IFT_OBJ_LM000082"/>
+                <object id="IFT_OBJ_LM000081"/>
+                <object id="IFT_OBJ_LM000080"/>
+                <object id="IFT_OBJ_LM000079"/>
+                <object id="IFT_OBJ_LM000078"/>
+                <object id="IFT_OBJ_LM000077"/>
+                <object id="IFT_OBJ_LM000076"/>
+                <object id="IFT_OBJ_LM000075"/>
+                <object id="IFT_OBJ_LM000074"/>
+                <object id="IFT_OBJ_LM000073"/>
+                <object id="IFT_OBJ_LM000072"/>
+                <object id="IFT_OBJ_LM000071"/>
+                <object id="IFT_OBJ_LM000070"/>
+                <object id="IFT_OBJ_LM000069"/>
+                <object id="IFT_OBJ_LM000068"/>
+                <object id="IFT_OBJ_LM000067"/>
+                <object id="IFT_OBJ_LM000066"/>
+                <object id="IFT_OBJ_LM000065"/>
+                <object id="IFT_OBJ_LM000064"/>
+                <object id="IFT_OBJ_LM000063"/>
+                <object id="IFT_OBJ_LM000062"/>
+                <object id="IFT_OBJ_LM000061"/>
+                <object id="IFT_OBJ_LM000060"/>
+                <object id="IFT_OBJ_LM000059"/>
+                <object id="IFT_OBJ_LM000058"/>
+                <object id="IFT_OBJ_LM000057"/>
+                <object id="IFT_OBJ_LM000056"/>
+                <object id="IFT_OBJ_LM000055"/>
+                <object id="IFT_OBJ_LM000054"/>
+                <object id="IFT_OBJ_LM000053"/>
+                <object id="IFT_OBJ_LM000052"/>
+                <object id="IFT_OBJ_LM000051"/>
+                <object id="IFT_OBJ_LM000050"/>
+                <object id="IFT_OBJ_LM000049"/>
+                <object id="IFT_OBJ_LM000048"/>
+                <object id="IFT_OBJ_LM000047"/>
+                <object id="IFT_OBJ_LM000046"/>
+                <object id="IFT_OBJ_LM000045"/>
+                <object id="IFT_OBJ_LM000044"/>
+                <object id="IFT_OBJ_LM000043"/>
+                <object id="IFT_OBJ_LM000042"/>
+                <object id="IFT_OBJ_LM000041"/>
+                <object id="IFT_OBJ_LM000040"/>
+                <object id="IFT_OBJ_LM000027"/>
+                <object id="IFT_OBJ_LM000017"/>
+                <object id="IFT_OBJ_LM000003"/>
+                <object id="IFT_OBJ_LM000002"/>
+                <object id="IFT_KON_LM000017"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>Burgtheater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LM000093"/>
+                    <object id="IFT_OBJ_LM000092"/>
+                    <object id="IFT_OBJ_LM000091"/>
+                    <object id="IFT_OBJ_LM000090"/>
+                    <object id="IFT_OBJ_LM000089"/>
+                    <object id="IFT_OBJ_LM000088"/>
+                    <object id="IFT_OBJ_LM000087"/>
+                    <object id="IFT_OBJ_LM000086"/>
+                    <object id="IFT_OBJ_LM000085"/>
+                    <object id="IFT_OBJ_LM000084"/>
+                    <object id="IFT_OBJ_LM000083"/>
+                    <object id="IFT_OBJ_LM000082"/>
+                    <object id="IFT_OBJ_LM000081"/>
+                    <object id="IFT_OBJ_LM000080"/>
+                    <object id="IFT_OBJ_LM000079"/>
+                    <object id="IFT_OBJ_LM000078"/>
+                    <object id="IFT_OBJ_LM000077"/>
+                    <object id="IFT_OBJ_LM000076"/>
+                    <object id="IFT_OBJ_LM000075"/>
+                    <object id="IFT_OBJ_LM000074"/>
+                    <object id="IFT_OBJ_LM000073"/>
+                    <object id="IFT_OBJ_LM000072"/>
+                    <object id="IFT_OBJ_LM000071"/>
+                    <object id="IFT_OBJ_LM000070"/>
+                    <object id="IFT_OBJ_LM000069"/>
+                    <object id="IFT_OBJ_LM000068"/>
+                    <object id="IFT_OBJ_LM000067"/>
+                    <object id="IFT_OBJ_LM000066"/>
+                    <object id="IFT_OBJ_LM000065"/>
+                    <object id="IFT_OBJ_LM000064"/>
+                    <object id="IFT_OBJ_LM000063"/>
+                    <object id="IFT_OBJ_LM000062"/>
+                    <object id="IFT_OBJ_LM000061"/>
+                    <object id="IFT_OBJ_LM000060"/>
+                    <object id="IFT_OBJ_LM000059"/>
+                    <object id="IFT_OBJ_LM000058"/>
+                    <object id="IFT_OBJ_LM000057"/>
+                    <object id="IFT_OBJ_LM000056"/>
+                    <object id="IFT_OBJ_LM000055"/>
+                    <object id="IFT_OBJ_LM000054"/>
+                    <object id="IFT_OBJ_LM000053"/>
+                    <object id="IFT_OBJ_LM000052"/>
+                    <object id="IFT_OBJ_LM000051"/>
+                    <object id="IFT_OBJ_LM000050"/>
+                    <object id="IFT_OBJ_LM000049"/>
+                    <object id="IFT_OBJ_LM000048"/>
+                    <object id="IFT_OBJ_LM000047"/>
+                    <object id="IFT_OBJ_LM000046"/>
+                    <object id="IFT_OBJ_LM000045"/>
+                    <object id="IFT_OBJ_LM000044"/>
+                    <object id="IFT_OBJ_LM000043"/>
+                    <object id="IFT_OBJ_LM000042"/>
+                    <object id="IFT_OBJ_LM000041"/>
+                    <object id="IFT_OBJ_LM000040"/>
+                    <object id="IFT_OBJ_LM000027"/>
+                    <object id="IFT_OBJ_LM000017"/>
+                    <object id="IFT_OBJ_LM000003"/>
+                    <object id="IFT_OBJ_LM000002"/>
+                    <object id="IFT_KON_LM000017"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>13.06.1938</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_LM000093"/>
+                    <object id="IFT_OBJ_LM000092"/>
+                    <object id="IFT_OBJ_LM000091"/>
+                    <object id="IFT_OBJ_LM000090"/>
+                    <object id="IFT_OBJ_LM000089"/>
+                    <object id="IFT_OBJ_LM000088"/>
+                    <object id="IFT_OBJ_LM000087"/>
+                    <object id="IFT_OBJ_LM000086"/>
+                    <object id="IFT_OBJ_LM000085"/>
+                    <object id="IFT_OBJ_LM000084"/>
+                    <object id="IFT_OBJ_LM000083"/>
+                    <object id="IFT_OBJ_LM000082"/>
+                    <object id="IFT_OBJ_LM000081"/>
+                    <object id="IFT_OBJ_LM000080"/>
+                    <object id="IFT_OBJ_LM000079"/>
+                    <object id="IFT_OBJ_LM000078"/>
+                    <object id="IFT_OBJ_LM000077"/>
+                    <object id="IFT_OBJ_LM000076"/>
+                    <object id="IFT_OBJ_LM000075"/>
+                    <object id="IFT_OBJ_LM000074"/>
+                    <object id="IFT_OBJ_LM000073"/>
+                    <object id="IFT_OBJ_LM000072"/>
+                    <object id="IFT_OBJ_LM000071"/>
+                    <object id="IFT_OBJ_LM000070"/>
+                    <object id="IFT_OBJ_LM000069"/>
+                    <object id="IFT_OBJ_LM000068"/>
+                    <object id="IFT_OBJ_LM000067"/>
+                    <object id="IFT_OBJ_LM000066"/>
+                    <object id="IFT_OBJ_LM000065"/>
+                    <object id="IFT_OBJ_LM000064"/>
+                    <object id="IFT_OBJ_LM000063"/>
+                    <object id="IFT_OBJ_LM000062"/>
+                    <object id="IFT_OBJ_LM000061"/>
+                    <object id="IFT_OBJ_LM000060"/>
+                    <object id="IFT_OBJ_LM000059"/>
+                    <object id="IFT_OBJ_LM000058"/>
+                    <object id="IFT_OBJ_LM000057"/>
+                    <object id="IFT_OBJ_LM000056"/>
+                    <object id="IFT_OBJ_LM000055"/>
+                    <object id="IFT_OBJ_LM000054"/>
+                    <object id="IFT_OBJ_LM000053"/>
+                    <object id="IFT_OBJ_LM000052"/>
+                    <object id="IFT_OBJ_LM000051"/>
+                    <object id="IFT_OBJ_LM000050"/>
+                    <object id="IFT_OBJ_LM000049"/>
+                    <object id="IFT_OBJ_LM000048"/>
+                    <object id="IFT_OBJ_LM000047"/>
+                    <object id="IFT_OBJ_LM000046"/>
+                    <object id="IFT_OBJ_LM000045"/>
+                    <object id="IFT_OBJ_LM000044"/>
+                    <object id="IFT_OBJ_LM000043"/>
+                    <object id="IFT_OBJ_LM000042"/>
+                    <object id="IFT_OBJ_LM000041"/>
+                    <object id="IFT_OBJ_LM000040"/>
+                    <object id="IFT_OBJ_LM000027"/>
+                    <object id="IFT_OBJ_LM000017"/>
+                    <object id="IFT_OBJ_LM000003"/>
+                    <object id="IFT_OBJ_LM000002"/>
+                    <object id="IFT_KON_LM000017"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext>Nationalsozialismus</culturalContext>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Berliner Staatsschauspiels, Gastspiel am Burgtheater Wien während der V. Reichs-Theaterfestwoche</text>
+            <object id="IFT_OBJ_LM000093"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung, Gastspiel des Berliner Staatsschauspiels in Wien während der V. Reichs-Theaterfestwoche</text>
+            <object id="IFT_OBJ_LM000041"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung des Berliner Staatsschauspiels, Gastspiel während der V. Reichs-Theaterfestwoche</text>
+            <object id="IFT_OBJ_LM000027"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung, Gastspiel des Berliner Staatsschauspiels während der V. Reichs-Theaterfestwoche</text>
+            <object id="IFT_OBJ_LM000017"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung, Gastspiel des Berliner Staatsschauspiels am Burgtheater Wien 1938</text>
+            <object id="IFT_OBJ_LM000003"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung des Berliner Staatsschauspiels, Gastspiel am Wiener Burgtheater im während der V. Reichs-Theaterfestwoche</text>
+            <object id="IFT_OBJ_LM000002"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung, Gastspiel des Berliner Staatsschauspiels während der V. Reichs-Theaterfestwoche am Wiener Burgtheater</text>
+            <object id="IFT_KON_LM000017"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">
+            <name>Müthel, Lothar</name>
+            <id type="gnd">119049309</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="c69219d5-7b58-4ee9-9219-d57b583ee931">
+            <name>Körner, Hermine</name>
+            <id type="gnd">118713477</id>
+            <roleActor>
+                <role type="Rolle">Königin Gertrude</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="278535bb-680c-4a5a-8535-bb680cfa5abb">
+            <name>Franck, Walter</name>
+            <id type="gnd">118692518</id>
+            <roleActor>
+                <role type="Rolle">König Claudius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="77c275f3-2bcb-462d-8275-f32bcb262d04">
+            <name>Burgtheater Wien</name>
+            <id type="gnd">38633-9</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="f52330ce-023c-4fac-a330-ce023ccfac1d">
+            <name>Gliese, Rochus</name>
+            <id type="gnd">116663308</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="12db375e-14a9-4661-9b37-5e14a93661e5">
+            <name>Hadank, Günther</name>
+            <id type="gnd">116357924</id>
+            <roleActor>
+                <role type="Rolle">Der Geist von Hamlets Vater</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b23ef603-8fc5-4dc8-bef6-038fc5cdc811">
+            <name>Gründgens, Gustaf</name>
+            <id type="gnd">118542850</id>
+            <roleActor>
+                <role type="Rolle">Hamlet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8e6e6004-0c8d-48fc-ae60-040c8d98fca0">
+            <name>Zeska, Philipp von</name>
+            <id type="gnd">116983841</id>
+            <roleActor>
+                <role>Gesprächspartner</role>
+            </roleActor>
+        </actor>
+        <actor id="0a5f3c59-38d2-43ca-9f3c-5938d253ca6e">
+            <name>Leibelt, Hans</name>
+            <id type="gnd">116876972</id>
+            <roleActor>
+                <role type="Rolle">Polonius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a2d563d9-f621-414f-9563-d9f621314fdc">
+            <name>Laubenthal, Hannsgeorg</name>
+            <id type="gnd">135421985</id>
+            <roleActor>
+                <role type="Rolle">Laertes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eaf46f33-1291-4ee4-b46f-331291fee42b">
+            <name>Meisel, Kurt</name>
+            <id type="gnd">118991698</id>
+            <roleActor>
+                <role type="Rolle">Güldenstern</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3e1d1db6-ee6d-4347-9d1d-b6ee6d334741">
+            <name>Hoppe, Marianne</name>
+            <id type="gnd">11698225X</id>
+            <roleActor>
+                <role type="Rolle">Ophelia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="308787f7-5a2e-496b-8787-f75a2e896ba6">
+            <name>Haubenreißer, Karl</name>
+            <id type="gnd">1061688429</id>
+            <roleActor>
+                <role type="Rolle">Rosenkranz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="25868c6b-3861-491f-868c-6b3861791f3f">
+            <name>Knuth, Gustav</name>
+            <id type="gnd">118563858</id>
+            <roleActor>
+                <role type="Rolle">Horatio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fc7ffc0a-ffc2-4e31-bffc-0affc28e318d">
+            <name>Bildt, Paul</name>
+            <id type="gnd">11618051X</id>
+            <roleActor>
+                <role type="Rolle">Schauspieler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c89f1702-2d3f-4a0b-9f17-022d3f1a0b6a">
+            <name>Tarrach, Walter</name>
+            <id type="gnd">1061626083</id>
+            <roleActor>
+                <role type="Rolle">Totengräber</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8d6e49c0-f3c0-4da9-ae49-c0f3c06da92d">
+            <name>Werner, Walter Gotthard</name>
+            <id type="gnd">117303852</id>
+            <roleActor>
+                <role type="Rolle">Totengräber</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="33cb66f0-7606-4d37-8b66-f076064d3735">
+            <name>Laubenthal, Hansgeorg</name>
+            <id type="gnd">135421985</id>
+            <roleActor>
+                <role type="Rolle">Laertes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="55f4ad20-db42-4ac9-b4ad-20db427ac99e">
+            <name>Reuter, Helmut</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Osrick</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b14cc439-dacf-449f-8cc4-39dacf549f3f">
+            <name>Dunskus, Erich</name>
+            <id type="gnd">1017668612</id>
+            <roleActor>
+                <role type="Rolle">Bernardo; Ein Hauptmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bc2debdc-c2f0-4e0b-adeb-dcc2f08e0b08">
+            <name>Voissel, Paul</name>
+            <id type="gnd">1061799514</id>
+            <roleActor>
+                <role type="Rolle">Francisco</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bb45a7ab-a220-4dbe-85a7-aba220bdbe06">
+            <name>Schoenfelder, Friedrich</name>
+            <id type="gnd">11938275X</id>
+            <roleActor>
+                <role type="Rolle">Offizier; Bote</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2214f120-b0fb-43c1-94f1-20b0fb23c1a0">
+            <name>Stefan, Erich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Priester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0285ec14-bf5a-4a1a-85ec-14bf5a0a1aa0">
+            <name>Müthel, Lola</name>
+            <id type="gnd">117179515</id>
+            <roleActor>
+                <role type="Rolle">Königin (Pantomime)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="32377bd5-76b4-4264-b77b-d576b4e26407">
+            <name>Wedekind, Pamela</name>
+            <id type="gnd">107676176</id>
+            <roleActor>
+                <role type="Rolle">Königin (Schauspiel)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="05603d41-b84c-4282-a03d-41b84cb282d2">
+            <name>Schlegel, August Wilhelm von</name>
+            <id type="gnd">118607960</id>
+            <roleActor>
+                <role>Übersetzer_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="2ff545d8-692d-42bd-b545-d8692df2bd77">
+            <name>Spies, Leo</name>
+            <id type="gnd">118752022</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="59">
+        <object id="IFT_OBJ_LM000093" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000092" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000091" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000090" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000089" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000088" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000087" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000086" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000085" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Fotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000084" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000083" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000082" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000081" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000080" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000079" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000078" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000077" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000076" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000075" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000074" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000073" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000072" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000071" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000070" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000069" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000068" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000067" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000066" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000065" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000064" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000063" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000062" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000061" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000060" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000059" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000058" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000057" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000056" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000055" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000054" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000053" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000052" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000051" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000050" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000049" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000048" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu  "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000047" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000046" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000045" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000044" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000043" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000042" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000041" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000040" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000027" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000017" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_OBJ_LM000003" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait mit Widmung von Gustaf Gründgens als "Hamlet" für Lothar Müthel</title>
+        </object>
+        <object id="IFT_OBJ_LM000002" type="Fotografie: Probe" aat="">
+            <title>Probenfotografie zu "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+        <object id="IFT_KON_LM000017" type="Zeitungsausschnitt" aat="">
+            <title>Kritikenkovolut zum "Hamlet"-Gastspiel in Wien 1938</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

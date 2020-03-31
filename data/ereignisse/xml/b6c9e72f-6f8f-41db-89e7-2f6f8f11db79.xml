@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="b6c9e72f-6f8f-41db-89e7-2f6f8f11db79" type="Performance">
+    <groupingArgument actorID="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">Emilia Galotti++Lewinger, Ernst</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Emilia Galotti</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Emilia Galotti</title>
+            <listObject>
+                <object id="TWS_OBJ0000557"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Bonn</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000557"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="19.11.1890" to="19.11.1890">
+                <listObject>
+                    <object id="TWS_OBJ0000557"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="b40f32da-1cc1-45a6-8f32-da1cc1a5a651">
+            <name>Biehler, Alfred</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Pirro,  Diener der Galotti´s</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Marinelli</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3302e84b-7602-4ed3-82e8-4b76020ed38f">
+            <name>Doré, Adele</name>
+            <id type="gnd">117031453</id>
+            <roleActor>
+                <role type="Rolle">Gräfin Orsina</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57dc5d0b-e612-4202-9c5d-0be612120205">
+            <name>Hecken, Max</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Battista,  Diener des Marinelli</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="72b58fa7-2b8f-42c2-b58f-a72b8f32c2a3">
+            <name>Hedeberg, Max</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Conti der Maler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="06a99e8b-2da7-4d44-a99e-8b2da7bd44bb">
+            <name>Heine, Hermann</name>
+            <id type="gnd">143746669</id>
+            <roleActor>
+                <role type="Rolle">Graf Appiani</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="793acec2-580c-4417-bace-c2580cf4176d">
+            <name>Hofmann, Julius</name>
+            <id type="gnd">116951621</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="7f8ca004-a814-4248-8ca0-04a814724822">
+            <name>Landori, Ludmilla</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Emilia Galotti</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="015e1f68-89ad-4b8b-9e1f-6889addb8bfa">
+            <name>Lessing, Gotthold Ephraim</name>
+            <id type="gnd">118572121</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">
+            <name>Lewinger, Ernst</name>
+            <id type="gnd">116971835</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="9f85cfc6-f3d6-4f55-85cf-c6f3d6df5521">
+            <name>Leyrer, Rudolf</name>
+            <id type="gnd">130227463</id>
+            <roleActor>
+                <role type="Rolle">Hettore Gonzaga</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c1ab1481-f8e7-490d-ab14-81f8e7690dcb">
+            <name>Schwarzenberg, Judith</name>
+            <id type="gnd">1050520998</id>
+            <roleActor>
+                <role type="Rolle">Claudia Galotti, Mutter der Emilia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bf155429-8013-477c-9554-298013877c5e">
+            <name>Stadttheater (Bonn)</name>
+            <id type="gnd">217619-1</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="c09f6d81-6c0b-439a-9f6d-816c0b239a8f">
+            <name>Tenhaeff, Reinhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Räthen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fa70854e-da8b-4fd8-b085-4eda8b0fd823">
+            <name>Zimmermann, Ludwig</name>
+            <id type="gnd">116999772</id>
+            <roleActor>
+                <role type="Rolle">Odoardo, Vater der Emilia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ac5f2958-4fc2-4f3a-9f29-584fc28f3a6a">
+            <name>Herr, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kammerdiener des Prinzen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000557" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu Max Behrend in "Emilia Galotti" in Bonn 1890</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

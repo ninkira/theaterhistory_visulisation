@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="36b58b1e-0874-4aa0-b58b-1e08746aa02a" type="Performance">
+    <groupingArgument actorID="556a05ba-00a5-4b0d-aa05-ba00a5cb0de2">Kreis, Der+02.10.1920+Dumont, Louise</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Kreis, Der</title>
+            <listObject>
+                <object id="TWS_OBJ0000684"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000684"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>02.10.1920</premier>
+            <time from="02.10.1920" to="1920">
+                <listObject>
+                    <object id="TWS_OBJ0000684"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="6be07fe4-d0a3-43b6-a07f-e4d0a303b63a">
+            <name>Wecus, Walter von</name>
+            <id type="gnd">119128403</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3bfea907-8e79-426c-bea9-078e79a26cf7">
+            <name>Heynicke, Kurt</name>
+            <id type="gnd">118550748</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="556a05ba-00a5-4b0d-aa05-ba00a5cb0de2">
+            <name>Dumont, Louise</name>
+            <id type="gnd">118681192</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000684" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Walter von Wecus</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

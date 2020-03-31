@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="b0e54f28-605e-4d61-a54f-28605e2d61e8" type="Performance">
+    <groupingArgument actorID="8f811f45-19a6-4c74-811f-4519a69c7468">Emilia Galotti+22.01.1885+Fischer, Gustav Theodor von</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Emilia Galotti</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Emilia Galotti</title>
+            <listObject>
+                <object id="TWS_OBJ0000525"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Breslau</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater Breslau</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000525"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>22.01.1885</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000525"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Inszenierung anlässlich der Geburtstagsfeier von Gotthold Ephraim Lessing</text>
+            <object id="TWS_OBJ0000525"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="f9e27c6a-c71e-4d39-a27c-6ac71ebd39ab">
+            <name>Badewitz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Oduardo Galotti</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">116110627</id>
+            <roleActor>
+                <role type="Rolle">Angelo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ace31e5f-eb8c-4e49-a31e-5feb8c3e494c">
+            <name>Bormann</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Emilia Galotti</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8f811f45-19a6-4c74-811f-4519a69c7468">
+            <name>Fischer, Gustav Theodor von</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="418de94a-7bc7-40f6-8de9-4a7bc7f0f6f1">
+            <name>Golde</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Battista</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0d3eb891-47c8-448d-beb8-9147c8448d6f">
+            <name>Herrmann-Benedix</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Claudia Galotti</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f025ff51-abd8-415f-a5ff-51abd8215fb5">
+            <name>Kauer</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Conti</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="015e1f68-89ad-4b8b-9e1f-6889addb8bfa">
+            <name>Lessing, Gotthold Ephraim</name>
+            <id type="gnd">118572121</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="18bb6cbf-9a4b-426e-bb6c-bf9a4b126e89">
+            <name>Lucas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kammerdiener des Prinzen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5a6fecf-350b-4813-a6fe-cf350b981385">
+            <name>Meyer</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Hettore Gonzaga</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ffb7fc70-70b5-49f7-b7fc-7070b5c9f71b">
+            <name>Resemann</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Graf Appiani</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4b94bc0b-f243-4f88-94bc-0bf2433f8888">
+            <name>Reuter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Camillo Rota</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="674d8bee-7a74-4703-8d8b-ee7a7467034d">
+            <name>Schwarzenberg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Gräfin Orsina</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="95f839f2-80a7-441c-b839-f280a7941cf6">
+            <name>Stadttheater Breslau</name>
+            <id type="gnd">16343427-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="5e00cea9-a0a6-49ad-80ce-a9a0a659ad81">
+            <name>Thomas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Pirro</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="216609ba-a6e1-4960-a609-baa6e1396024">
+            <name>von Fischer</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Marinelli</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000525" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Emilia Galotti"-Inszenierung in Breslau, 1885</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

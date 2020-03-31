@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a68ac1c2-ed9c-474e-8ac1-c2ed9ca74e38" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Tartüff, Der+25.04.1906+Reinhardt, Max</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Tartüff, Der</title>
+            <listObject>
+                <object id="TWS_OBJ0000183"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000183"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>25.04.1906</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000183"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="80f661b3-2921-45f6-b661-b3292155f64b">
+            <name>Molière</name>
+            <id type="gnd">11858331X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b49ce841-8c69-4330-9ce8-418c69333061">
+            <name>Fulda, Ludwig</name>
+            <id type="gnd">118840452</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Madame Pernelle</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="af9dc891-937a-40c6-9dc8-91937a10c6c1">
+            <name>Engels, Georg</name>
+            <id type="gnd">116497483</id>
+            <roleActor>
+                <role type="Rolle">Orgon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Elmire</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b244a618-eef1-45b8-84a6-18eef1d5b834">
+            <name>Feldhammer, Jakob</name>
+            <id type="gnd">126714703</id>
+            <roleActor>
+                <role type="Rolle">Damis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="593fd38f-16b6-4930-bfd3-8f16b6893067">
+            <name>Höflich, Lucie</name>
+            <id type="gnd">118963805</id>
+            <roleActor>
+                <role type="Rolle">Marianne</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5a5cf1ae-57de-44e0-9cf1-ae57dea4e08f">
+            <name>Ekert, Alexander</name>
+            <id type="gnd">1068467401</id>
+            <roleActor>
+                <role type="Rolle">Valer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5d20605a-3933-4de0-a060-5a39335de04e">
+            <name>Winterstein, Eduard von</name>
+            <id type="gnd">118633864</id>
+            <roleActor>
+                <role type="Rolle">Cleant</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="31d647ca-bcaa-413f-9647-cabcaaf13f67">
+            <name>Wedekind, Frank</name>
+            <id type="gnd">118629867</id>
+            <roleActor>
+                <role type="Rolle">Tartüff</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="dd4b4293-5de3-4f1c-8b42-935de31f1cf0">
+            <name>Heims-Reinhardt, Else</name>
+            <id type="gnd">116421983</id>
+            <roleActor>
+                <role type="Rolle">Dorine</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5ced7cfe-2eea-468e-ad7c-fe2eea668ec2">
+            <name>Arnold, Victor</name>
+            <id type="gnd">1050400186</id>
+            <roleActor>
+                <role type="Rolle">Loyal</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="1b37abd1-0226-4d91-b7ab-d102263d912b">
+            <name>Hartau, Ludwig</name>
+            <id type="gnd">11649008X</id>
+            <roleActor>
+                <role type="Rolle">ein Polizeibeamter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="02c68416-cfa7-4aa5-8684-16cfa79aa5cd">
+            <name>Wellhoener, Margarete</name>
+            <id type="gnd">106239559X</id>
+            <roleActor>
+                <role type="Rolle">Flipote</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9935639c-891c-4618-b563-9c891ce618cf">
+            <name>Deutsches Theater</name>
+            <id type="gnd">4058252-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000183" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Der Tartüff" in Berlin 1906</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

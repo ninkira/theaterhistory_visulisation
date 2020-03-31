@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a188c915-c52f-48d0-88c9-15c52ff8d035" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">Tischlein deck dich, Esel streck dich, Knüppel aus dem Sack+17.12.1930+Ambach, Josef</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Tischlein deck dich, Esel streck dich, Knüppel aus dem Sack</title>
+            <listObject>
+                <object id="IFT_KON_JA000012"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Frankfurt am Main</placeName>
+            <place type="Institution">
+                <placeName>Neues Theater</placeName>
+                <listObject>
+                    <object id="IFT_KON_JA000012"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>17.12.1930</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_KON_JA000012"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Neuen Theaters Frankfurt, Premiere</text>
+            <object id="IFT_KON_JA000012"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4f43f25a-a1f1-48dd-83f2-5aa1f1b8ddde">
+            <name>Arco, Michael</name>
+            <id type="gnd">106239285X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="09f4191e-a099-4dde-b419-1ea0990dde42">
+            <name>Bischoff, Karl</name>
+            <id type="gnd">1051385555</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="efa67d0b-9464-485d-a67d-0b9464f85d0d">
+            <name>Dorner, Erich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="786b3592-57a2-47e0-ab35-9257a237e02c">
+            <name>Gareis, Joseph</name>
+            <id type="gnd">13243797X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="66c2d366-1969-46d4-82d3-66196966d459">
+            <name>Geiger-Kullmann, Rosy</name>
+            <id type="gnd">1141688816</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="dd2ef13c-1ef9-40e0-aef1-3c1ef990e0ee">
+            <name>Hahlo, Julius</name>
+            <id type="gnd">106131619X</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="45a541e8-3c8a-40f7-a541-e83c8a20f75f">
+            <name>Haneke, Fritz</name>
+            <id type="gnd">1062064674</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9ad2c1c2-ec1c-4679-92c1-c2ec1ce67907">
+            <name>Lewin, Moritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eee922a0-0b69-447e-a922-a00b69047ec7">
+            <name>Liessem, Wera</name>
+            <id type="gnd">1062304594</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d7c708c4-7eb2-44ce-8708-c47eb254ce02">
+            <name>Monnard, Else</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a4635eb5-e091-49dd-a35e-b5e091e9dd89">
+            <name>Morgenstern-Lorsch, Leni</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="7779be29-67d2-4759-b9be-2967d217599d">
+            <name>Neues Theater (Frankfurt am Main)</name>
+            <id type="gnd">4223280-6</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="2716058a-0776-4df6-9605-8a07760df6e2">
+            <name>Riedy, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="900eeb34-8924-4e41-8eeb-3489248e41a6">
+            <name>Rühl, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5695b87-35ff-4cbb-a95b-8735ff4cbb7c">
+            <name>Schneider, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="54ef159d-0933-40a0-af15-9d0933d0a027">
+            <name>Sprankel, Arthur</name>
+            <id type="gnd">113702755X</id>
+            <roleActor>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e6faee9f-32e2-42af-baee-9f32e2e2afc4">
+            <name>Stelzer, Hannes</name>
+            <id type="gnd">1062467388</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38193060-80f6-4a33-9930-6080f64a33c5">
+            <name>Wittmann, Max</name>
+            <id type="gnd">117427713</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_KON_JA000012" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritikenkonvolut Neues Theater Frankfurt am Main</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Aufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>Das Konto X</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Frankfurt am Main</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Neues Theater</placeName>
+                </place>
+                <listObject>
+                    <object id="IFT_KON_JA000012"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <time from="18.08.1930" to="30.09.1930">
+                        <listObject>
+                            <object id=""/>
+                        </listObject>
+                    </time>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description>
+                    <beschreibung>
+                        <text>Theaterinszenierung des Neuen Theaters Frankfurt; ob es sich bei der Aufführung um die Premiere handelt, wurde nicht ermittelt.</text>
+                        <object>IFT_KON_JA000012</object>
+                    </beschreibung>
+                </description>
+            </descriptionList>
+            <actorList>
+                <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+                    <name>Ambach, Josef</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Regisseur_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="adfc6c34-08c1-4656-bc6c-3408c12656c0">
+                    <name>Bergmann, Hellmuth</name>
+                    <id type="gnd">1053234562</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="95fba391-f632-4a23-bba3-91f632fa2330">
+                    <name>Bernauer, Rudolf</name>
+                    <id type="gnd">118656295</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="efa67d0b-9464-485d-a67d-0b9464f85d0d">
+                    <name>Dorner, Erich</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="4eafa75b-3823-4f6b-afa7-5b3823ef6b97">
+                    <name>Epskamp, Hans</name>
+                    <id type="gnd">1062093755</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="3e1d1db6-ee6d-4347-9d1d-b6ee6d334741">
+                    <name>Hoppe, Marianne</name>
+                    <id type="gnd">11698225X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="eee922a0-0b69-447e-a922-a00b69047ec7">
+                    <name>Liessem, Wera</name>
+                    <id type="gnd">1062304594</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="d9517277-b89a-416b-9172-77b89ae16b50">
+                    <name>Lüders, Günther</name>
+                    <id type="gnd">118747398</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="d7c708c4-7eb2-44ce-8708-c47eb254ce02">
+                    <name>Monnard, Else</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="7779be29-67d2-4759-b9be-2967d217599d">
+                    <name>Neues Theater (Frankfurt am Main)</name>
+                    <id type="gnd">4223280-6</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Produktion (Theater)</role>
+                    </roleActor>
+                </actor>
+                <actor id="f3c834c1-137a-4cfe-8834-c1137a6cfeac">
+                    <name>Oesterreicher, Rudolf</name>
+                    <id type="gnd">11710776X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="00ead03c-33be-4f3b-aad0-3c33be9f3b97">
+                    <name>Reiter, Annie</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="900eeb34-8924-4e41-8eeb-3489248e41a6">
+                    <name>Rühl, Karl</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="0400f7f8-09ad-4079-80f7-f809ada079ee">
+                    <name>Schwarz, Gerhard</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Bühnenbildner_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="e6faee9f-32e2-42af-baee-9f32e2e2afc4">
+                    <name>Stelzer, Hannes</name>
+                    <id type="gnd">1062467388</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="38193060-80f6-4a33-9930-6080f64a33c5">
+                    <name>Wittmann, Max</name>
+                    <id type="gnd">117427713</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+        <event type="Aufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>Freudiges Ereignis</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Frankfurt am Main</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Neues Theater</placeName>
+                </place>
+                <listObject>
+                    <object id="IFT_KON_JA000012"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <time from="18.09.1930" to="21.09.1930">
+                        <listObject>
+                            <object id=""/>
+                        </listObject>
+                    </time>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description>
+                    <beschreibung>
+                        <text>Theaterinszenierung des Neuen Theaters Frankfurt, Otto Wallburg als Gast; ob es sich bei der Aufführung um die Premiere handelt, wurde nicht ermittelt.</text>
+                        <object>IFT_KON_JA000012</object>
+                    </beschreibung>
+                </description>
+            </descriptionList>
+            <actorList>
+                <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+                    <name>Ambach, Josef</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Regisseur_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="45440f7c-93c6-4359-840f-7c93c6435972">
+                    <name>Antburg, Hedy von</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="745fae7c-e0ce-4cf8-9fae-7ce0ce1cf886">
+                    <name>Arzdorf, Franz</name>
+                    <id type="gnd">1050401050</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="4f28667e-c08f-442e-a866-7ec08fa42eeb">
+                    <name>Dell, Floyd</name>
+                    <id type="gnd">118671391</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="4eafa75b-3823-4f6b-afa7-5b3823ef6b97">
+                    <name>Epskamp, Hans</name>
+                    <id type="gnd">1062093755</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="0f9d803a-b853-4a3e-9d80-3ab8536a3ecd">
+                    <name>Gantzert, Hella</name>
+                    <id type="gnd">1061279391</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="3e1d1db6-ee6d-4347-9d1d-b6ee6d334741">
+                    <name>Hoppe, Marianne</name>
+                    <id type="gnd">11698225X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="eee922a0-0b69-447e-a922-a00b69047ec7">
+                    <name>Liessem, Wera</name>
+                    <id type="gnd">1062304594</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="6f5caf2c-6458-40d0-9caf-2c645870d072">
+                    <name>Mitchell, Thomas</name>
+                    <id type="gnd">13210184X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="d7c708c4-7eb2-44ce-8708-c47eb254ce02">
+                    <name>Monnard, Else</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="7779be29-67d2-4759-b9be-2967d217599d">
+                    <name>Neues Theater (Frankfurt am Main)</name>
+                    <id type="gnd">4223280-6</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Produktion (Theater)</role>
+                    </roleActor>
+                </actor>
+                <actor id="2126c74e-1c39-4fc0-a6c7-4e1c39bfc0ba">
+                    <name>Peach, Sibyl</name>
+                    <id type="gnd">11709174X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="00ead03c-33be-4f3b-aad0-3c33be9f3b97">
+                    <name>Reiter, Annie</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="900eeb34-8924-4e41-8eeb-3489248e41a6">
+                    <name>Rühl, Karl</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="f39699a5-10a6-4c20-9699-a510a6cc204e">
+                    <name>Sais, Tatjana</name>
+                    <id type="gnd">106808885</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="fe67998d-fe13-46c7-a799-8dfe1356c766">
+                    <name>Wallburg, Otto</name>
+                    <id type="gnd">119368080</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="38193060-80f6-4a33-9930-6080f64a33c5">
+                    <name>Wittmann, Max</name>
+                    <id type="gnd">117427713</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+        <event type="Aufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>Schneider Wibbel</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Frankfurt am Main</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Neues Theater</placeName>
+                </place>
+                <listObject>
+                    <object id="IFT_KON_JA000012"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <time from="02.05.1931" to="30.06.1931">
+                        <listObject>
+                            <object id=""/>
+                        </listObject>
+                    </time>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description>
+                    <beschreibung>
+                        <text>Theaterinszenierung des Neuen Theaters Frankfurt; ob es sich bei der Aufführung um die Premiere handelt, wurde nicht ermittelt.</text>
+                        <object>IFT_KON_JA000012</object>
+                    </beschreibung>
+                </description>
+            </descriptionList>
+            <actorList>
+                <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+                    <name>Ambach, Josef</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Regisseur_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="4f43f25a-a1f1-48dd-83f2-5aa1f1b8ddde">
+                    <name>Arco, Michael</name>
+                    <id type="gnd">106239285X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="745fae7c-e0ce-4cf8-9fae-7ce0ce1cf886">
+                    <name>Arzdorf, Franz</name>
+                    <id type="gnd">1050401050</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="09f4191e-a099-4dde-b419-1ea0990dde42">
+                    <name>Bischoff, Karl</name>
+                    <id type="gnd">1051385555</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="eea39b59-5a5e-49aa-a39b-595a5ea9aa28">
+                    <name>Czimeg, Georg</name>
+                    <id type="gnd">1129289931</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="4eafa75b-3823-4f6b-afa7-5b3823ef6b97">
+                    <name>Epskamp, Hans</name>
+                    <id type="gnd">1062093755</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="dd2ef13c-1ef9-40e0-aef1-3c1ef990e0ee">
+                    <name>Hahlo, Julius</name>
+                    <id type="gnd">106131619X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Bühnenbildner_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="45a541e8-3c8a-40f7-a541-e83c8a20f75f">
+                    <name>Haneke, Fritz</name>
+                    <id type="gnd">1062064674</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="2e2fd123-8dcb-4c68-afd1-238dcb2c68c1">
+                    <name>Just, Harry</name>
+                    <id type="gnd">1061272753</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="9ad2c1c2-ec1c-4679-92c1-c2ec1ce67907">
+                    <name>Lewin, Moritz</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Kostümbildner_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="d9517277-b89a-416b-9172-77b89ae16b50">
+                    <name>Lüders, Günther</name>
+                    <id type="gnd">118747398</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="c22721f5-a6f4-4eff-a721-f5a6f4ceff5a">
+                    <name>Matho, Franz</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Technische Leitung</role>
+                    </roleActor>
+                </actor>
+                <actor id="d7c708c4-7eb2-44ce-8708-c47eb254ce02">
+                    <name>Monnard, Else</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="7779be29-67d2-4759-b9be-2967d217599d">
+                    <name>Neues Theater (Frankfurt am Main)</name>
+                    <id type="gnd">4223280-6</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Produktion (Theater)</role>
+                    </roleActor>
+                </actor>
+                <actor id="900eeb34-8924-4e41-8eeb-3489248e41a6">
+                    <name>Rühl, Karl</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="f39699a5-10a6-4c20-9699-a510a6cc204e">
+                    <name>Sais, Tatjana</name>
+                    <id type="gnd">106808885</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="8eabe319-abae-495a-abe3-19abaed95a4c">
+                    <name>Müller-Schlösser, Hans</name>
+                    <id type="gnd">118737740</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="daaa39e1-de18-486e-aa39-e1de18786e91">
+                    <name>Wahlen, Herbert</name>
+                    <id type="gnd">1053344325</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="38193060-80f6-4a33-9930-6080f64a33c5">
+                    <name>Wittmann, Max</name>
+                    <id type="gnd">117427713</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

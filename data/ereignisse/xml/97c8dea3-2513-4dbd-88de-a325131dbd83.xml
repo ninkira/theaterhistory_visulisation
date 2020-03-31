@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="97c8dea3-2513-4dbd-88de-a325131dbd83" type="Performance">
+    <groupingArgument actorID="ab7b0462-ebb2-4bd6-bb04-62ebb26bd6a0">John Gabriel Borkman+23.02.1933+Sax, Sergius</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>John Gabriel Borkman</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>John Gabriel Borkman</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000034"/>
+                <object id="IFT_OBJ_HW000033"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Komödie am Kurfürstendamm</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000034"/>
+                    <object id="IFT_OBJ_HW000033"/>
+                </listObject>
+            </place>
+            <place type="weitere">
+                <placeName>Winterthur, Schaffhausen, Davos, Burgdorf, Genf, Lausanne, Bern, Luzern, Zürich, Konstanz, Ulm, Freiburg, Straßburg, Baden-Baden, Heilbronn, Darmstadt, Frankfurt am Main, Hanau, Wiesbaden, Heidelberg, Saarbrücken, Trier, Koblenz, Bonn, Aachen, Antwerpen, Barmen, Den Haag, Breslau, Utrecht, Mülheim an der Ruhr, Duisburg, Köln, Düsseldorf, Remscheid, Hagen, Hamborn, Bielefeld, Bremen, Hamburg, Kiel, Magdeburg, Leipzig, Halle an der Saale, Erfurt, Stuttgart, Würzburg, Nürnberg, Karlsbad, Görlitz, Wien</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000034"/>
+                    <object id="IFT_OBJ_HW000033"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>23.02.1933</premier>
+            <time from="23.02.1933" to="28.05.1933">
+                <listObject>
+                    <object id="IFT_OBJ_HW000034"/>
+                    <object id="IFT_OBJ_HW000033"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung an der Komödie am Kurfürstendamm, Aufführungen vom 23.02.1933 bis 01.03.1933, Tournee im deutschsprachigen Raum 02.03.1933 bis 28.05.1933</text>
+            <object id="IFT_OBJ_HW000034"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="8995e70a-7152-40d4-95e7-0a7152a0d418">
+            <name>Ibsen, Henrik</name>
+            <id type="gnd">118555286</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ab7b0462-ebb2-4bd6-bb04-62ebb26bd6a0">
+            <name>Sax, Sergius</name>
+            <id type="gnd">12770860X</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Gunhild Borkman</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cbc6029d-f567-4deb-8602-9df5679deb2b">
+            <name>Wegener, Paul</name>
+            <id type="gnd">118765981</id>
+            <roleActor>
+                <role type="Rolle">John Gabriel Borkman</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="13209851-7339-4c62-a098-5173395c6274">
+            <name>Lamond-Triesch, Irene</name>
+            <id type="gnd">117418366</id>
+            <roleActor>
+                <role type="Rolle">Ella Rentheim</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c69219d5-7b58-4ee9-9219-d57b583ee931">
+            <name>Körner, Hermine</name>
+            <id type="gnd">118713477</id>
+            <roleActor>
+                <role type="Rolle">Ella Rentheim</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ffccc720-7069-4100-8cc7-207069b1005c">
+            <name>Komödie am Kurfürstendamm</name>
+            <id type="gnd">4723464-7</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="a5cedc90-f87b-4779-8edc-90f87b1779e1">
+            <name>Bärwald, Ilse</name>
+            <id type="gnd">1061322645</id>
+            <roleActor>
+                <role type="Rolle">Fanny Wilton</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="79a2efea-4c3e-4cce-a2ef-ea4c3e3cce72">
+            <name>Hildebrand, Lya</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Frida Foldal</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b9263acf-7de2-4f6d-a63a-cf7de2df6d18">
+            <name>Nunberg, Sigmund</name>
+            <id type="gnd">1061897001</id>
+            <roleActor>
+                <role type="Rolle">Vilhelm Foldal</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d4eef39a-e800-4b71-aef3-9ae8001b718c">
+            <name>Prasch, Sydonie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Frau Borgmans Magd</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b022c4a1-08b3-48ac-a2c4-a108b368acf2">
+            <name>Helmke, Wolfgang</name>
+            <id type="gnd">116691689</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="IFT_OBJ_HW000034" type="Notizbuch" aat="">
+            <title>Notizbuch "Reise mit Wegener &amp; Irene Triesch", 2. Teil, 1933</title>
+        </object>
+        <object id="IFT_OBJ_HW000033" type="Notizheft" aat="">
+            <title>Notizheft "Reise mit Paul Wegener &amp; Triesch", 1. Teil, 1933</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

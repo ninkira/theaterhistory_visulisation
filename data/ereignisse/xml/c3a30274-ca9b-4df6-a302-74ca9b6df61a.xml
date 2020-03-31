@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="c3a30274-ca9b-4df6-a302-74ca9b6df61a" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Amphitryon+04.11.1950+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Amphitryon</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Amphitryon</title>
+            <listObject>
+                <object id="TWS_OBJ0000021"/>
+                <object id="TWS_OBJ0000020"/>
+                <object id="TWS_OBJ0000019"/>
+                <object id="TWS_OBJ0000018"/>
+                <object id="TWS_OBJ0000017"/>
+                <object id="TWS_OBJ0000016"/>
+                <object id="TWS_OBJ0000015"/>
+                <object id="TWS_OBJ0000014"/>
+                <object id="TWS_OBJ0000013"/>
+                <object id="TWS_OBJ0000012"/>
+                <object id="TWS_OBJ0000011"/>
+                <object id="TWS_OBJ0000010"/>
+                <object id="TWS_OBJ0000009"/>
+                <object id="TWS_OBJ0000008"/>
+                <object id="TWS_OBJ0000007"/>
+                <object id="TWS_OBJ0000006"/>
+                <object id="TWS_OBJ0000005"/>
+                <object id="TWS_OBJ0000004"/>
+                <object id="TWS_OBJ0000003"/>
+                <object id="TWS_OBJ0000002"/>
+                <object id="TWS_OBJ0000001"/>
+                <object id="TWS_KON0000002"/>
+                <object id="TWS_KON0000001"/>
+                <object id="TWS_OBJ0000672"/>
+                <object id="TWS_OBJ0000673"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Essen</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus Essen-Steele</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000021"/>
+                    <object id="TWS_OBJ0000020"/>
+                    <object id="TWS_OBJ0000019"/>
+                    <object id="TWS_OBJ0000018"/>
+                    <object id="TWS_OBJ0000017"/>
+                    <object id="TWS_OBJ0000016"/>
+                    <object id="TWS_OBJ0000015"/>
+                    <object id="TWS_OBJ0000014"/>
+                    <object id="TWS_OBJ0000013"/>
+                    <object id="TWS_OBJ0000012"/>
+                    <object id="TWS_OBJ0000011"/>
+                    <object id="TWS_OBJ0000010"/>
+                    <object id="TWS_OBJ0000009"/>
+                    <object id="TWS_OBJ0000008"/>
+                    <object id="TWS_OBJ0000007"/>
+                    <object id="TWS_OBJ0000006"/>
+                    <object id="TWS_OBJ0000005"/>
+                    <object id="TWS_OBJ0000004"/>
+                    <object id="TWS_OBJ0000003"/>
+                    <object id="TWS_OBJ0000002"/>
+                    <object id="TWS_OBJ0000001"/>
+                    <object id="TWS_KON0000002"/>
+                    <object id="TWS_KON0000001"/>
+                    <object id="TWS_OBJ0000672"/>
+                    <object id="TWS_OBJ0000673"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>04.11.1950</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000021"/>
+                    <object id="TWS_OBJ0000020"/>
+                    <object id="TWS_OBJ0000019"/>
+                    <object id="TWS_OBJ0000018"/>
+                    <object id="TWS_OBJ0000017"/>
+                    <object id="TWS_OBJ0000016"/>
+                    <object id="TWS_OBJ0000015"/>
+                    <object id="TWS_OBJ0000014"/>
+                    <object id="TWS_OBJ0000013"/>
+                    <object id="TWS_OBJ0000012"/>
+                    <object id="TWS_OBJ0000011"/>
+                    <object id="TWS_OBJ0000010"/>
+                    <object id="TWS_OBJ0000009"/>
+                    <object id="TWS_OBJ0000008"/>
+                    <object id="TWS_OBJ0000007"/>
+                    <object id="TWS_OBJ0000006"/>
+                    <object id="TWS_OBJ0000005"/>
+                    <object id="TWS_OBJ0000004"/>
+                    <object id="TWS_OBJ0000003"/>
+                    <object id="TWS_OBJ0000002"/>
+                    <object id="TWS_OBJ0000001"/>
+                    <object id="TWS_KON0000002"/>
+                    <object id="TWS_KON0000001"/>
+                    <object id="TWS_OBJ0000672"/>
+                    <object id="TWS_OBJ0000673"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">2. Feldherr</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="553f877d-e4ab-4203-bf87-7de4ab920355">
+            <name>Bauer, Karl</name>
+            <id type="gnd">116085347</id>
+            <roleActor>
+                <role>Intendanz</role>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="c320c20b-8bbc-4ab4-a0c2-0b8bbc4ab402">
+            <name>Bieler, Margot</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Alkmene</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="73836073-dca7-401b-8360-73dca7701b67">
+            <name>Braun, Horst</name>
+            <id type="gnd">1095913859</id>
+            <roleActor>
+                <role type="Rolle">Sosias</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cf7aafea-ad90-4733-baaf-eaad90073399">
+            <name>Bühnen der Stadt Essen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion</role>
+                <role>Produktion (Theater)</role>
+                <role>Produzent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="d4291700-a9e8-48ea-a917-00a9e848eadb">
+            <name>Dietz, Ernst</name>
+            <id type="gnd">116116390</id>
+            <roleActor>
+                <role type="Rolle">Amphitryon</role>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c870c43c-0872-4950-b0c4-3c087289501e">
+            <name>Forbach, Moje</name>
+            <id type="gnd">116648538</id>
+            <roleActor>
+                <role type="Rolle">Charis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e4302f37-7787-4251-b02f-37778792512d">
+            <name>Kaiser, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Photidas, 1. Feldherr</role>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="adee930c-86da-4a6e-ae93-0c86da2a6e63">
+            <name>Kleist, Heinrich von</name>
+            <id type="gnd">118563076</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="57c80a2b-cdbb-4657-880a-2bcdbbc65762">
+            <name>Lick, Karlheinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient</role>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="a6e5be48-90b3-4d6e-a5be-4890b37d6e4c">
+            <name>Lübke, Lucian</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Agratiphonidas, 1. Oberst</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="80f661b3-2921-45f6-b661-b3292155f64b">
+            <name>Molière</name>
+            <id type="gnd">11858331X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="5fd66472-e63d-4865-9664-72e63dc8652e">
+            <name>Ortmann, Friedhelm</name>
+            <id type="gnd">117149489</id>
+            <roleActor>
+                <role>Regieassistenz</role>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="46088f68-de7a-4403-888f-68de7a340360">
+            <name>Reiß, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="4207e862-5493-4d98-87e8-6254932d9800">
+            <name>Romberg, Günther</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">2. Oberst</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0764677e-f650-4319-a467-7ef65023197a">
+            <name>Wilfert, Bernhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Merkur</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="74f8b644-061f-45d5-b8b6-44061f05d550">
+            <name>Wolf, Andreas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Jupiter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d778b681-12b5-4f95-b8b6-8112b5af956d">
+            <name>Essener Schauspielhaus</name>
+            <id type="gnd">103024877X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="25">
+        <object id="TWS_OBJ0000021" type="Publikation: Regiebuch" aat="">
+            <title>Regiebuch zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000020" type="Publikation: Rezension" aat="">
+            <title>Kritik zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000019" type="Publikation: Rezension" aat="">
+            <title>Kritik zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000018" type="Publikation: Rezension" aat="">
+            <title>Kritik zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000017" type="Publikation: Rezension" aat="">
+            <title>Kritik zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000016" type="Publikation: Rezension" aat="">
+            <title>Kritik zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000015" type="Publikation: Rezension" aat="">
+            <title>Kritik zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000014" type="Publikation: Rezension" aat="">
+            <title>Kritik zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000013" type="Publikation: Rezension" aat="">
+            <title>Kritik zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000012" type="Publikation: Rezension" aat="">
+            <title>Kritik zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000011" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000010" type="Fotografie: Bühnenmodell" aat="">
+            <title>Inszenierungsfoto zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000009" type="Fotografie: Bühnenmodell" aat="">
+            <title>Inszenierungsfoto zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000008" type="Fotografie: Bühnenmodell" aat="">
+            <title>Inszenierungsfoto zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000007" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000006" type="Fotografie: Bühnenmodell" aat="">
+            <title>Inszenierungsfoto zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000005" type="Fotografie: Bühnenmodell" aat="">
+            <title>Inszenierungsfoto zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000004" type="Fotografie: Bühnenmodell" aat="">
+            <title>Inszenierungsfoto zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000003" type="Fotografie: Bühnenmodell" aat="">
+            <title>Inszenierungsfoto zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000002" type="Fotografie: Bühnenmodell" aat="">
+            <title>Inszenierungsfoto zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000001" type="Fotografie: Bühnenmodell" aat="">
+            <title>Foto des Bühnenmodells von Franz Mertz zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_KON0000002" type="Publikation: Rezension" aat="300026480">
+            <title>Rezensionen zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_KON0000001" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfotos zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000672" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf zu "Amphitryon" in Essen 1950</title>
+        </object>
+        <object id="TWS_OBJ0000673" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf zu "Amphitryon" in Essen 1950</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

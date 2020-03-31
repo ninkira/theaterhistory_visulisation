@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="01c67a9a-8f7e-46af-867a-9a8f7e76af3e" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">rote Tuch, Das : Schwank in 3 Akten+14.02.1930+Ambach, Josef</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>rote Tuch, Das : Schwank in 3 Akten</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>rote Tuch, Das</title>
+            <listObject>
+                <object id="IFT_OBJ_JA000097"/>
+                <object id="IFT_OBJ_JA000096"/>
+                <object id="IFT_OBJ_JA000095"/>
+                <object id="IFT_OBJ_JA000094"/>
+                <object id="IFT_OBJ_JA000093"/>
+                <object id="IFT_OBJ_JA000019"/>
+                <object id="IFT_OBJ_JA000018"/>
+                <object id="IFT_OBJ_JA000004"/>
+                <object id="IFT_KON_JA000002"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>Neues Wiener Schauspielhaus</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JA000097"/>
+                    <object id="IFT_OBJ_JA000096"/>
+                    <object id="IFT_OBJ_JA000095"/>
+                    <object id="IFT_OBJ_JA000094"/>
+                    <object id="IFT_OBJ_JA000093"/>
+                    <object id="IFT_OBJ_JA000019"/>
+                    <object id="IFT_OBJ_JA000018"/>
+                    <object id="IFT_OBJ_JA000004"/>
+                    <object id="IFT_KON_JA000002"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>14.02.1930</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JA000097"/>
+                    <object id="IFT_OBJ_JA000096"/>
+                    <object id="IFT_OBJ_JA000095"/>
+                    <object id="IFT_OBJ_JA000094"/>
+                    <object id="IFT_OBJ_JA000093"/>
+                    <object id="IFT_OBJ_JA000019"/>
+                    <object id="IFT_OBJ_JA000018"/>
+                    <object id="IFT_OBJ_JA000004"/>
+                    <object id="IFT_KON_JA000002"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Neuen Wiener Schauspielhauses</text>
+            <object id="IFT_OBJ_JA000097"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e3a0f63c-5444-437a-a0f6-3c5444e37a24">
+            <name>Neues Wiener Schauspielhaus</name>
+            <id type="gnd">16050090-4</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="9038a488-8b46-4f01-b8a4-888b469f0152">
+            <name>Niedermoser, Otto</name>
+            <id type="gnd">128571551</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="aefebf89-ba50-4e43-bebf-89ba501e4337">
+            <name>Lipschütz, Alfred</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kern, Gerichtsdiener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1a0e1fe-2ba1-4ee5-a0e1-fe2ba1dee5c6">
+            <name>Seidner, Irene</name>
+            <id type="gnd">1061436233</id>
+            <roleActor>
+                <role type="Rolle">Frau Winkler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dc5cdcaa-7095-40c7-9cdc-aa7095a0c7fc">
+            <name>Gamberti, Fritz</name>
+            <id type="gnd">1062422341</id>
+            <roleActor>
+                <role type="Rolle">Eipeltauer, Gerichtsdiener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8c172388-986e-4da1-9723-88986edda15a">
+            <name>Kalwoda, Karl</name>
+            <id type="gnd">1061428397</id>
+            <roleActor>
+                <role type="Rolle">Schweighofer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b358154e-6069-476d-9815-4e6069a76d6f">
+            <name>Grassow, Ebert</name>
+            <id type="gnd">1100393072</id>
+            <roleActor>
+                <role type="Rolle">Lehmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eb7b3eca-840c-4348-bb3e-ca840c1348a1">
+            <name>Weiß, Rudolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Klimpfinger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ba59db2a-e7da-4c64-99db-2ae7da9c6443">
+            <name>Varndal, Walter</name>
+            <id type="gnd">1062124146</id>
+            <roleActor>
+                <role type="Rolle">Professor Podersam</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e868423b-5632-4478-a842-3b5632c47882">
+            <name>Epp, Leon</name>
+            <id type="gnd">116516453</id>
+            <roleActor>
+                <role type="Rolle">Dr. Egon von Hofstätten</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3867fe7a-7c52-4003-a7fe-7a7c52e00364">
+            <name>Fontana, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lotbichler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="32911850-7e72-41a7-9118-507e7231a7e3">
+            <name>Herold, Hadolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Florian</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5e373569-0ee2-4a4c-b735-690ee2ba4c31">
+            <name>Horst, Julius</name>
+            <id type="gnd">130186511</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f75d0e38-034d-48b3-9d0e-38034d28b3d7">
+            <name>Pollaczek, Wolfgang</name>
+            <id type="gnd">126427283</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="fb96954b-b6c1-4e83-9695-4bb6c1ae8327">
+            <name>Moser, Hans</name>
+            <id type="gnd">118584391</id>
+            <roleActor>
+                <role type="Rolle">Leopold Bachmayer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="089cd334-d046-4328-9cd3-34d046032812">
+            <name>Bachmann, Karl</name>
+            <id type="gnd">1020864974</id>
+            <roleActor>
+                <role type="Rolle">Fritz von Seewald</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ae67c0ce-1927-4970-a7c0-ce1927397085">
+            <name>Rambausek, Else</name>
+            <id type="gnd">134638581</id>
+            <roleActor>
+                <role type="Rolle">Ottilie</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6c303032-607a-4cdc-b030-32607adcdc63">
+            <name>Rothauser, Eduard</name>
+            <id type="gnd">116639636</id>
+            <roleActor>
+                <role type="Rolle">Waltersheim</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8f928f3b-6a98-4376-928f-3b6a98037698">
+            <name>Kretschmer, Grete</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ada Waltersheim</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2e2a836f-11eb-491e-aa83-6f11eb991e94">
+            <name>Kneidinger, Karl</name>
+            <id type="gnd">1061385256</id>
+            <roleActor>
+                <role type="Rolle">Hofrat Müller</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cb8d213b-eaf2-43a6-8d21-3beaf2c3a60a">
+            <name>Zechell, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ebeseder</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7aa73874-2de2-407a-a738-742de2007a5f">
+            <name>Wulf, Marianne</name>
+            <id type="gnd">117388599</id>
+            <roleActor>
+                <role type="Rolle">Frau Eichen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="06785004-5ffd-4862-b850-045ffd58625e">
+            <name>Raming, Grete</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Anna Zagler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="9">
+        <object id="IFT_OBJ_JA000097" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Das rote Tuch" in Wien 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000096" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Das rote Tuch" in Wien 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000095" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Das rote Tuch" in Wien 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000094" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Das rote Tuch" in Wien 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000093" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Das rote Tuch" in Wien 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000019" type="Plakat: Theater" aat="300027221">
+            <title>Theaterplakat zu "Das rote Tuch" in Wien 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000018" type="Plakat: Theater" aat="300027221">
+            <title>Theaterplakat zu "Das rote Tuch" in Wien 1930</title>
+        </object>
+        <object id="IFT_OBJ_JA000004" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Das rote Tuch" in Wien 1930</title>
+        </object>
+        <object id="IFT_KON_JA000002" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Konvolut Szenenfotografien zu "Das rote Tuch" in Wien 1930</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

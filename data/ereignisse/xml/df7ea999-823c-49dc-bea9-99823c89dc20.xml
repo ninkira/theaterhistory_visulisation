@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="df7ea999-823c-49dc-bea9-99823c89dc20" type="Performance">
+    <groupingArgument actorID="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">Penthesilea++Lewinger, Ernst</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Penthesilea</title>
+            <listObject>
+                <object id="TWS_OBJ0000497"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater (Köln)</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000497"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="29.04.1893" to="29.04.1893">
+                <listObject>
+                    <object id="TWS_OBJ0000497"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="f03361f6-648d-4abb-b361-f6648dcabbb4">
+            <name>Stadttheater (Köln)</name>
+            <id type="gnd">216478-4</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="793acec2-580c-4417-bace-c2580cf4176d">
+            <name>Hofmann, Julius</name>
+            <id type="gnd">116951621</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="adee930c-86da-4a6e-ae93-0c86da2a6e63">
+            <name>Kleist, Heinrich von</name>
+            <id type="gnd">118563076</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">
+            <name>Lewinger, Ernst</name>
+            <id type="gnd">116971835</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="c1ab1481-f8e7-490d-ab14-81f8e7690dcb">
+            <name>Schwarzenberg, Judith</name>
+            <id type="gnd">1050520998</id>
+            <roleActor>
+                <role type="Rolle">Die Oberpriesterin der Diana</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Adrast, Hauptmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fa70854e-da8b-4fd8-b085-4eda8b0fd823">
+            <name>Zimmermann, Ludwig</name>
+            <id type="gnd">116999772</id>
+            <roleActor>
+                <role type="Rolle">Diomedes König des Griechenvolk</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57dc5d0b-e612-4202-9c5d-0be612120205">
+            <name>Hecken, Max</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Aetolier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c09f6d81-6c0b-439a-9f6d-816c0b239a8f">
+            <name>Tenhaeff, Reinhard</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Ein Myrmidonier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9f85cfc6-f3d6-4f55-85cf-c6f3d6df5521">
+            <name>Leyrer, Rudolf</name>
+            <id type="gnd">130227463</id>
+            <roleActor>
+                <role type="Rolle">Antilochus, König des Griechenvolk</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="096a1e5c-9bca-4f43-aa1e-5c9bca1f4357">
+            <name>Benthien, Willy</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Ein Dolopier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b40f32da-1cc1-45a6-8f32-da1cc1a5a651">
+            <name>Biehler, Alfred</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Ein Grieche</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3302e84b-7602-4ed3-82e8-4b76020ed38f">
+            <name>Doré, Adele</name>
+            <id type="gnd">117031453</id>
+            <roleActor>
+                <role type="Rolle">Meroe, Fürstin der Amazonen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="097e6ddd-abeb-49ac-be6d-ddabebd9acff">
+            <name>Ziegler, Lina</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Erstes Mädchen im Dienste der Göttin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="013aee77-f959-4df4-baee-77f959bdf4c5">
+            <name>Roberts, Jaroslava</name>
+            <id type="gnd">116576472</id>
+            <roleActor>
+                <role type="Rolle">Prothoe, Fürstin der Amazonen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9968f083-4bc1-48f0-a8f0-834bc178f0b0">
+            <name>Elbrig, Martha</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Asteria, Fürstin der Amazonen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="de1e0bd3-e98f-40d9-9e0b-d3e98f20d9e9">
+            <name>Stopal, Franzy</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Erste Führerin der Amazonen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="48c18179-3055-4dcc-8181-7930554dccb8">
+            <name>Berton, Lilly</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Zweite Führerin der Amazonen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ef4411eb-dbeb-4496-8411-ebdbebf496ef">
+            <name>Wolff, Marie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Eine Amazone</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c8706ae9-1ce2-4651-b06a-e91ce2a65119">
+            <name>Wendt, Franziska</name>
+            <id type="gnd">143691694</id>
+            <roleActor>
+                <role type="Rolle">Zweites Mädchen im Dienste der Göttin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="058d94c7-7766-4713-8d94-c777667713a8">
+            <name>Waldegg, Tilly</name>
+            <id type="gnd">117118427</id>
+            <roleActor>
+                <role type="Rolle">Drittes Mädchen im Dienste der Göttin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe20bc0-3653-4e9a-a20b-c036531e9a4c">
+            <name>Heding, Edmund</name>
+            <id type="gnd">1061283194</id>
+            <roleActor>
+                <role type="Rolle">Achilles, König des Griechenvolkes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6917069-7051-4936-9170-697051293661">
+            <name>Beck, Otto</name>
+            <id type="gnd">116101997</id>
+            <roleActor>
+                <role type="Rolle">Odysseus, König des Griechenvolkes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="72a7577b-e0a7-44f7-a757-7be0a7f4f762">
+            <name>Rogall, Hugo</name>
+            <id type="gnd">116596538</id>
+            <roleActor>
+                <role type="Rolle">Ein Herold</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d16c7dcd-f80e-42c9-ac7d-cdf80e42c924">
+            <name>Ziegler, Clara</name>
+            <id type="gnd">118834584</id>
+            <roleActor>
+                <role type="Rolle">Penthesilea</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000497" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu Max Behrend in 'Pentensilea', Köln 1893</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Benefiz-Vorstellung für den Oberregisseur Ernst Lewinger">
+            <listTitle>
+                <titleStmt>
+                    <title>Penthesilea</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Köln</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Stadttheater (Köln)</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000497"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>20.04.1893</eventDate>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList>
+                <actor id="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">
+                    <name>Lewinger, Ernst</name>
+                    <id type="gnd">116971835</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Regisseur_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+        <event type="Abeschieds-Vorstellung von Clara Ziegler (Ehrenmitglied des königl. Hoftheaters in München)">
+            <listTitle>
+                <titleStmt>
+                    <title>Penthesilea</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Köln</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Stadttheater (Köln)</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000497"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>29.04.1893</eventDate>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList>
+                <actor id="d16c7dcd-f80e-42c9-ac7d-cdf80e42c924">
+                    <name>Ziegler, Clara</name>
+                    <id type="gnd">118834584</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

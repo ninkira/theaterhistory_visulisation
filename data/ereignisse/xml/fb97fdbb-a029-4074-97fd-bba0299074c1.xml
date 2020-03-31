@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="fb97fdbb-a029-4074-97fd-bba0299074c1" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Was ihr wollt++Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Was ihr wollt</title>
+            <listObject>
+                <object id="TWS_OBJ0000157"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Coburg</placeName>
+            <place type="Institution">
+                <placeName>Landestheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000157"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="08.1930" to="18.09.1930">
+                <listObject>
+                    <object id="TWS_OBJ0000157"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="05603d41-b84c-4282-a03d-41b84cb282d2">
+            <name>Schlegel, August Wilhelm von</name>
+            <id type="gnd">118607960</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="bd2ced58-fca4-45f7-aced-58fca435f73c">
+            <name>Humperdinck, Engelbert</name>
+            <id type="gnd">11855476X</id>
+            <roleActor>
+                <role>Musik</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Bearbeitung</role>
+            </roleActor>
+        </actor>
+        <actor id="9b6016e9-f345-4611-a016-e9f34536117a">
+            <name>Danneil, Bernhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Orsino, Herzog von Illyrien</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cc5f1b4b-38ea-4e9e-9f1b-4b38ea9e9efa">
+            <name>Friedrich, Edwin</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Sebastian, ein junger Edelmann, Violas Bruder</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b4976d26-a172-4d1b-976d-26a172ad1b6d">
+            <name>Ortmann, Rudolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Antonio, ein Schiffshauptmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="41ad4815-b05f-49c7-ad48-15b05fb9c7ac">
+            <name>Sieger, Philipp</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Schiffshauptmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5634ce10-2264-4f01-b4ce-1022640f0198">
+            <name>Wessnig, Anneliese</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Valentin - Kavalier des Herzogs</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e7b8f585-7701-41a7-b8f5-85770151a78d">
+            <name>Rathje, Susanne</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Curio, Kavalier des Herzogs</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="74e4e452-4585-4a80-a4e4-5245853a802b">
+            <name>Grosser-Braun, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Junker Tobias von Rülp, Olivias Oheim</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4eb62096-95b9-4111-b620-9695b9e11127">
+            <name>Fohrmann, Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Junker Andreas Bleichenwang</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="390b75bb-7cd7-4e1b-8b75-bb7cd74e1b3c">
+            <name>Kolander, Friedrich</name>
+            <id type="gnd">11631057X</id>
+            <roleActor>
+                <role type="Rolle">Malvolio, Olivias Haushofmeister</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e74bc638-3a5c-4348-8bc6-383a5c9348f5">
+            <name>Bügler, Jacques</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Narr - in Olivias Diensten</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c63d1d9a-9425-4397-bd1d-9a9425339790">
+            <name>Schaeffer, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Favio - in Olivias Diensten</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4b303ead-cf0f-46b0-b03e-adcf0f06b0ad">
+            <name>Stirl, Rose</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Olivia, eine reiche Gräfin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8deba7e7-7706-45e6-aba7-e7770615e653">
+            <name>Heinen, Hedda</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Viola, Sebastians Schwester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b553dda3-1758-423d-93dd-a31758023d8b">
+            <name>Quaiser, Eva</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Maria, Olivias Kammermädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f4e7c137-7e3a-4549-a7c1-377e3a654923">
+            <name>Döhler, Erich</name>
+            <id type="gnd">105323721</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000157" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Was ihr wollt" in Coburg 1930</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

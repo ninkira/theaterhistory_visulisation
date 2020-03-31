@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="579e5aea-7043-4448-9e5a-ea704384482e" type="Performance">
+    <groupingArgument actorID="6bdfdbbe-fe56-4213-9fdb-befe5692137a">König Nikolo oder So ist das Leben: Schauspiel in 3 Aufzügen und 9 Bildern mit einem Prolog+05.11.1929+Preminger, Otto</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>König Nikolo oder So ist das Leben: Schauspiel in 3 Aufzügen und 9 Bildern mit einem Prolog</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>König Nikolo</title>
+            <listObject>
+                <object id="IFT_OBJ_JA000087"/>
+                <object id="IFT_OBJ_JA000086"/>
+                <object id="IFT_OBJ_JA000085"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>Neues Wiener Schauspielhaus</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JA000087"/>
+                    <object id="IFT_OBJ_JA000086"/>
+                    <object id="IFT_OBJ_JA000085"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>05.11.1929</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JA000087"/>
+                    <object id="IFT_OBJ_JA000086"/>
+                    <object id="IFT_OBJ_JA000085"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Neuen Wiener Schauspielhauses; Eröffnungsvorstellung</text>
+            <object id="IFT_OBJ_JA000087"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung des Neuen Wiener Schauspielhauses</text>
+            <object id="IFT_OBJ_JA000086"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e3a0f63c-5444-437a-a0f6-3c5444e37a24">
+            <name>Neues Wiener Schauspielhaus</name>
+            <id type="gnd">16050090-4</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="31d647ca-bcaa-413f-9647-cabcaaf13f67">
+            <name>Wedekind, Frank</name>
+            <id type="gnd">118629867</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="6bdfdbbe-fe56-4213-9fdb-befe5692137a">
+            <name>Preminger, Otto</name>
+            <id type="gnd">119067412</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="9038a488-8b46-4f01-b8a4-888b469f0152">
+            <name>Niedermoser, Otto</name>
+            <id type="gnd">128571551</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="acf997c1-c8cd-424d-b997-c1c8cdf24dd6">
+            <name>Feldhammer, Jacob</name>
+            <id type="gnd">126714703</id>
+            <roleActor>
+                <role type="Rolle">Nikolo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7140db55-90e4-4436-80db-5590e4f436d8">
+            <name>Rose, Ria</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Prinzessin Alma</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6c303032-607a-4cdc-b030-32607adcdc63">
+            <name>Rothauser, Eduard</name>
+            <id type="gnd">116639636</id>
+            <roleActor>
+                <role type="Rolle">Pietro Folchi</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ed0ce5c5-8b4f-4908-8ce5-c58b4f3908d0">
+            <name>Lieck, Kurt</name>
+            <id type="gnd">104643439</id>
+            <roleActor>
+                <role type="Rolle">Filipo Folchi</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3621edcc-e551-497e-a1ed-cce551a97ed9">
+            <name>Hofstadt, Karl-Helge</name>
+            <id type="gnd">1061465284</id>
+            <roleActor>
+                <role type="Rolle">Andrea Valori</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eb7b3eca-840c-4348-bb3e-ca840c1348a1">
+            <name>Weiß, Rudolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Benedetto Nardi; Das räudige Hundvieh</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8c172388-986e-4da1-9723-88986edda15a">
+            <name>Kalwoda, Karl</name>
+            <id type="gnd">1061428397</id>
+            <roleActor>
+                <role type="Rolle">Pandolfo; erster Bedienter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ebea59d9-aec8-4bfb-aa59-d9aec80bfb70">
+            <name>Hinze, Gerhard</name>
+            <id type="gnd">1067209867</id>
+            <roleActor>
+                <role type="Rolle">Söldner; Der Dichter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b358154e-6069-476d-9815-4e6069a76d6f">
+            <name>Grassow, Ebert</name>
+            <id type="gnd">1100393072</id>
+            <roleActor>
+                <role type="Rolle">Gutsbesitzer; Oberrichter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cb8d213b-eaf2-43a6-8d21-3beaf2c3a60a">
+            <name>Zechell, Josef</name>
+            <id type="gnd">1061401804</id>
+            <roleActor>
+                <role type="Rolle">Landschtreicher; Kerkermeister</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ba59db2a-e7da-4c64-99db-2ae7da9c6443">
+            <name>Varndal, Walter</name>
+            <id type="gnd">1062124146</id>
+            <roleActor>
+                <role type="Rolle">Michele; zweiter Theaterbesitzer; der Taube Mann; dritter Bedienter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="32911850-7e72-41a7-9118-507e7231a7e3">
+            <name>Herold, Hadolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Battista</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e868423b-5632-4478-a842-3b5632c47882">
+            <name>Epp, Leon</name>
+            <id type="gnd">116516453</id>
+            <roleActor>
+                <role type="Rolle">Noé</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bfe5105c-9139-462a-a510-5c9139262ae3">
+            <name>Koch, Georg August</name>
+            <id type="gnd">14128966X</id>
+            <roleActor>
+                <role type="Rolle">Prokurator; erster Theaterbesitzer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="aefebf89-ba50-4e43-bebf-89ba501e4337">
+            <name>Lipschütz, Alfred</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Verteidiger; Schauspieler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2e2a836f-11eb-491e-aa83-6f11eb991e94">
+            <name>Kneidinger, Karl</name>
+            <id type="gnd">1061385256</id>
+            <roleActor>
+                <role type="Rolle">Gerichtsaktuar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="555a2b78-bf67-4bb3-9a2b-78bf670bb316">
+            <name>Ebersperg, Rolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kunstreiter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1a0e1fe-2ba1-4ee5-a0e1-fe2ba1dee5c6">
+            <name>Seidner, Irene</name>
+            <id type="gnd">1061436233</id>
+            <roleActor>
+                <role type="Rolle">Kupplerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8edeafe5-d3e8-419e-9eaf-e5d3e8d19e49">
+            <name>Rinaldini, Lisl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Akrobatin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9c8145f1-4abd-4921-8145-f14abd39217d">
+            <name>Polz, Edi</name>
+            <id type="gnd">107020149</id>
+            <roleActor>
+                <role type="Rolle">Akrobat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a5f8f7ea-5d3d-4c62-b8f7-ea5d3d1c6246">
+            <name>Eschbaum, Elisabeth</name>
+            <id type="gnd">12236208X</id>
+            <roleActor>
+                <role type="Rolle">Das blinde Kind</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ae67c0ce-1927-4970-a7c0-ce1927397085">
+            <name>Rambausek, Else</name>
+            <id type="gnd">134638581</id>
+            <roleActor>
+                <role type="Rolle">Die keusche Jungfrau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="65995892-fa6f-4c4a-9958-92fa6f8c4aa2">
+            <name>Horeschovsky, Melanie</name>
+            <id type="gnd">116982918</id>
+            <roleActor>
+                <role type="Rolle">Das lahme Weib</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8f928f3b-6a98-4376-928f-3b6a98037698">
+            <name>Kretschmer, Grete</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Edelknabe</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dc5cdcaa-7095-40c7-9cdc-aa7095a0c7fc">
+            <name>Gamberti, Fritz</name>
+            <id type="gnd">1062422341</id>
+            <roleActor>
+                <role type="Rolle">zweiter Bedienter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="86918b17-00b6-41f7-918b-1700b601f7b6">
+            <name>Geert, Gisa</name>
+            <id type="gnd">117138274X</id>
+            <roleActor>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="46d7d4e6-c142-4251-97d4-e6c142e2517f">
+            <name>Gingold, Norbert</name>
+            <id type="gnd">116633107</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="3">
+        <object id="IFT_OBJ_JA000087" type="Publikation: Regiebuch " aat="300026488">
+            <title>Regiebuch zu "König Nikolo" in Wien 1929</title>
+        </object>
+        <object id="IFT_OBJ_JA000086" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "König Nikolo" in Wien 1929</title>
+        </object>
+        <object id="IFT_OBJ_JA000085" type="Publikation: Programmheft" aat="300027217">
+            <title>Programmheft zu "König Nikolo" in Wien 1929</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

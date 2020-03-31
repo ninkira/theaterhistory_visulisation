@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="f60fd0dc-8e4c-401f-8fd0-dc8e4c501fb8" type="Performance">
+    <groupingArgument actorID="d6d880d1-dd5f-4d2d-9880-d1dd5f3d2d0b">Urfaust+30.10.1941+Falckenberg, Otto</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Urfaust</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Urfaust</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000036"/>
+                <object id="IFT_OBJ_HW000027"/>
+                <object id="IFT_OBJ_HW000026"/>
+                <object id="IFT_OBJ_HW000025"/>
+                <object id="IFT_OBJ_HW000024"/>
+                <object id="IFT_OBJ_HW000023"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000036"/>
+                    <object id="IFT_OBJ_HW000027"/>
+                    <object id="IFT_OBJ_HW000026"/>
+                    <object id="IFT_OBJ_HW000025"/>
+                    <object id="IFT_OBJ_HW000024"/>
+                    <object id="IFT_OBJ_HW000023"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>30.10.1941</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000036"/>
+                    <object id="IFT_OBJ_HW000027"/>
+                    <object id="IFT_OBJ_HW000026"/>
+                    <object id="IFT_OBJ_HW000025"/>
+                    <object id="IFT_OBJ_HW000024"/>
+                    <object id="IFT_OBJ_HW000023"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theateraufführung der Münchner Kammerspiele, Premiere</text>
+            <object id="IFT_OBJ_HW000036"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung der Münchner Kammerspiele</text>
+            <object id="IFT_OBJ_HW000027"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e0961776-169b-40a6-9617-76169bd0a6e2">
+            <name>Münchner Kammerspiele</name>
+            <id type="gnd">2068173-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="1c03f344-eff3-42b7-83f3-44eff372b7ae">
+            <name>Goethe, Johann Wolfgang von</name>
+            <id type="gnd">118540238</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d6d880d1-dd5f-4d2d-9880-d1dd5f3d2d0b">
+            <name>Falckenberg, Otto</name>
+            <id type="gnd">118531832</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="4575ce75-53b4-45d9-b5ce-7553b4f5d9e4">
+            <name>Sturm, Eduard</name>
+            <id type="gnd">117363782</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9a6636c8-38f6-4c92-a636-c838f60c92c9">
+            <name>Domin, Friedrich</name>
+            <id type="gnd">116176601</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6739c68f-0478-49aa-b9c6-8f0478a9aa31">
+            <name>Weisgerber, Antje</name>
+            <id type="gnd">116467754</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f96da701-09b4-4d0e-ada7-0109b4ad0ee5">
+            <name>Keppler, Hannes</name>
+            <id type="gnd">1061921468</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="6">
+        <object id="IFT_OBJ_HW000036" type="Fotografie: Album" aat="300026695">
+            <title>Fotoalbum Hedwig Wangel</title>
+        </object>
+        <object id="IFT_OBJ_HW000027" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenporträt aus "Urfaust" in München 1941</title>
+        </object>
+        <object id="IFT_OBJ_HW000026" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Zwei Rollenporträts aus "Urfaust" in München 1941</title>
+        </object>
+        <object id="IFT_OBJ_HW000025" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Zwei Rollenporträts aus "Urfaust" in München 1941</title>
+        </object>
+        <object id="IFT_OBJ_HW000024" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfoto aus "Urfaust" in München 1941</title>
+        </object>
+        <object id="IFT_OBJ_HW000023" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfoto aus "Urfaust" in München 1941</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

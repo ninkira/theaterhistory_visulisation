@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="cb8866fd-8801-4671-8866-fd880126718f" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Höhlenbewohner, Die+07.12.1956+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Höhlenbewohner, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000224"/>
+                <object id="TWS_OBJ0000223"/>
+                <object id="TWS_OBJ0000222"/>
+                <object id="TWS_OBJ0000086"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Landestheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000224"/>
+                    <object id="TWS_OBJ0000223"/>
+                    <object id="TWS_OBJ0000222"/>
+                </listObject>
+            </place>
+            <place type="Institution">
+                <placeName>Hessisches Landestheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000086"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>07.12.1956</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000224"/>
+                    <object id="TWS_OBJ0000223"/>
+                    <object id="TWS_OBJ0000222"/>
+                </listObject>
+            </time>
+            <time from="1956" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000086"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="66a3d9ee-91f1-492f-a3d9-ee91f1592f5e">
+            <name>Saroyan, William</name>
+            <id type="gnd">118605569</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e949e404-4e9e-4f7e-89e4-044e9e9f7e79">
+            <name>Landestheater Darmstadt</name>
+            <id type="gnd">2002342-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="3fe397d4-c5a5-4677-a397-d4c5a5e67776">
+            <name>Boder, Ludwig</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5d7f670-1a25-40ee-97f6-701a2510ee85">
+            <name>Hofer, Claus</name>
+            <id type="gnd">1061490157</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cd3983cf-ee12-493d-b983-cfee12693de6">
+            <name>Leyrer, Willy</name>
+            <id type="gnd">1061403572</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f993cef-8979-46b7-993c-ef897996b74b">
+            <name>Pruppacher, Rosmarie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da7a4342-9dc0-4374-ba43-429dc0937409">
+            <name>Schieckel, Christian</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="4">
+        <object id="TWS_OBJ0000224" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto zu "Die Höhlenbewohner" in Darmstadt 1956</title>
+        </object>
+        <object id="TWS_OBJ0000223" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto zu "Die Höhlenbewohner" in Darmstadt 1956</title>
+        </object>
+        <object id="TWS_OBJ0000222" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto zu "Die Höhlenbewohner" in Darmstadt 1956</title>
+        </object>
+        <object id="TWS_OBJ0000086" type="Publikation: Programmheft" aat="300027217">
+            <title>Artikel im "Das neue Forum" zu "Die Höhlenbewohner" in Darmstadt 1956</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

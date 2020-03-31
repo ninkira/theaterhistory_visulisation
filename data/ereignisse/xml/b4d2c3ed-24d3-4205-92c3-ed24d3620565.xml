@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="b4d2c3ed-24d3-4205-92c3-ed24d3620565" type="Performance">
+    <groupingArgument actorID="">Twelfth night+1920+</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Twelfth night</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Was ihr wollt</title>
+            <listObject>
+                <object id="TWS_OBJ0000690"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000690"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>1920</premier>
+            <time from="1920" to="1920">
+                <listObject>
+                    <object id="TWS_OBJ0000690"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="6be07fe4-d0a3-43b6-a07f-e4d0a303b63a">
+            <name>Wecus, Walter von</name>
+            <id type="gnd">119128403</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000690" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Walter von Wecus</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

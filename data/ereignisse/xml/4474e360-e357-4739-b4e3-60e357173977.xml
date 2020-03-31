@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="4474e360-e357-4739-b4e3-60e357173977" type="Performance">
+    <groupingArgument actorID="65cf183e-db3e-46e9-8f18-3edb3e86e93e">Nacht in Venedig, Eine++Hagemann, Carl</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Nacht in Venedig, Eine</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Nacht in Venedig, Eine</title>
+            <listObject>
+                <object id="TWS_OBJ0000644"/>
+                <object id="TWS_OBJ0000645"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wiesbaden</placeName>
+            <place type="Institution">
+                <placeName>Hessisches Staatstheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000644"/>
+                    <object id="TWS_OBJ0000645"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="13.06.1923" to="1923">
+                <listObject>
+                    <object id="TWS_OBJ0000644"/>
+                    <object id="TWS_OBJ0000645"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="efccbb7a-9f0d-405d-8cbb-7a9f0da05de7">
+            <name>Hessisches Staatstheater (Wiesbaden)</name>
+            <id type="gnd">4366400-3</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="65cf183e-db3e-46e9-8f18-3edb3e86e93e">
+            <name>Hagemann, Carl</name>
+            <id type="gnd">119368277</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="1f980e7f-9550-44a0-980e-7f955044a02e">
+            <name>Zell, F.</name>
+            <id type="gnd">119545780</id>
+            <roleActor>
+                <role>Librettist_in</role>
+            </roleActor>
+        </actor>
+        <actor id="884733fd-459a-471c-8733-fd459ac71cff">
+            <name>Genée, Richard</name>
+            <id type="gnd">119312212</id>
+            <roleActor>
+                <role>Librettist_in</role>
+            </roleActor>
+        </actor>
+        <actor id="25328d9a-a93e-44c3-b28d-9aa93e04c34e">
+            <name>Strauss, Johann</name>
+            <id type="gnd">117312096</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="21e9963d-ebac-484e-a996-3debacf84e0a">
+            <name>Rother, Artur</name>
+            <id type="gnd">116640960</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="8e93fdb8-a9b5-47c1-93fd-b8a9b507c113">
+            <name>Schenck von Trapp, Lothar</name>
+            <id type="gnd">1077458630</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5e591649-4f35-4f26-9916-494f354f269f">
+            <name>Schleim, Friedrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technisch-Dekorative Einrichtung</role>
+                <role>Technische Leitung</role>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ff391b66-fa6e-4c11-b91b-66fa6e3c1173">
+            <name>Bach, Philipp</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="87826c3c-93f0-43ca-826c-3c93f0e3ca3a">
+            <name>Lichten, Leopold</name>
+            <id type="gnd">1141411210</id>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="04a321ca-d070-4e87-a321-cad0702e87fe">
+            <name>Lange, Erich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Herzog von Urbino</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ace349c7-c5ea-4e54-a349-c7c5ea7e54e9">
+            <name>Andriano, Max</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Delacqua</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3e24cb8c-1428-42c1-a4cb-8c142852c143">
+            <name>Prüter, Friedrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Barbaruccio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9a0d492e-35a3-441f-8d49-2e35a3141f37">
+            <name>Jassé, Carl Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Testaccio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ff24ceb0-c34b-4852-a4ce-b0c34b68526e">
+            <name>Maerker, Edit</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Annina</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ea388b9f-747e-4e07-b88b-9f747ede07e8">
+            <name>Voß, Doris</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Barbara</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6190b9af-c2fe-46a3-90b9-afc2fec6a338">
+            <name>Schorn, Heinrich</name>
+            <id type="gnd">13365933X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="36374202-0f0e-48c0-b742-020f0e58c057">
+            <name>Schering, Emil</name>
+            <id type="gnd">117219916</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="8ec66101-f84c-429e-8661-01f84c829e59">
+            <name>Keune, Walter</name>
+            <id type="gnd">101953933X</id>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="dd693ebc-71fc-444c-a93e-bc71fc744c26">
+            <name>Gerhards, Paul</name>
+            <id type="gnd">1033920991</id>
+            <roleActor>
+                <role type="Rolle">Edgar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="26664aac-0431-476f-a64a-ac0431a76fb2">
+            <name>Hummel, Thila</name>
+            <id type="gnd">117062391</id>
+            <roleActor>
+                <role type="Rolle">Alice</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="30844c1c-5f81-4982-844c-1c5f819982cb">
+            <name>Schwab, Gustav</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kurt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9997a1cf-5654-4b60-97a1-cf5654cb604d">
+            <name>Breitkopf, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Allan</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="93e19802-ebfa-44d3-a198-02ebfa94d3d6">
+            <name>Genzmer, Hertha</name>
+            <id type="gnd">1116800950</id>
+            <roleActor>
+                <role type="Rolle">Judith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="afb31ccd-437a-4aea-b31c-cd437a7aead5">
+            <name>Albert, Gustav</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Leutnant</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000644" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Eine Nacht in Venedig" in Wiesbaden 1923</title>
+        </object>
+        <object id="TWS_OBJ0000645" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Totentanz" in Wiesbaden 1923</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

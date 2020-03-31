@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="b2ad1a4f-4647-49cc-ad1a-4f4647e9cc4b" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Ein Sommernachtstraum+14.11.1913+Reinhardt, Max</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Ein Sommernachtstraum</title>
+            <listObject>
+                <object id="TWS_OBJ0000284"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000284"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>14.11.1913</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000284"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Bei der Inszenierung handelt es sich um eine Neuinszenierung von jener von 1905.</text>
+            <object id="TWS_OBJ0000284"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="dd4b4293-5de3-4f1c-8b42-935de31f1cf0">
+            <name>Heims-Reinhardt, Else</name>
+            <id type="gnd">116421983</id>
+            <roleActor>
+                <role type="Rolle">Helena</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="14f71cde-32ac-4a85-b71c-de32ac0a85c2">
+            <name>Terwin, Johanna</name>
+            <id type="gnd">117118893</id>
+            <roleActor>
+                <role type="Rolle">Hermia</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bd135b2e-b813-4135-935b-2eb81391354c">
+            <name>Moissi, Alexander</name>
+            <id type="gnd">118583271</id>
+            <roleActor>
+                <role type="Rolle">Oberon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6e9d4ba5-f884-44e6-9d4b-a5f884e4e61a">
+            <name>Konstantin, Leopoldine</name>
+            <id type="gnd">116331577</id>
+            <roleActor>
+                <role type="Rolle">Titania</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4abe71dc-1a5a-4239-be71-dc1a5a7239ca">
+            <name>Maßmann, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zettel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f8a2473f-376b-4503-a247-3f376b3503a4">
+            <name>Eysoldt, Gertrud</name>
+            <id type="gnd">119115522</id>
+            <roleActor>
+                <role type="Rolle">Puck</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="26ac5bd1-1f3b-48a4-ac5b-d11f3b38a48d">
+            <name>Dumke, Ernst</name>
+            <id type="gnd">1062002377</id>
+            <roleActor>
+                <role type="Rolle">Demetrius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8a2522d9-2185-450e-a522-d92185950e43">
+            <name>Lotz, Werner</name>
+            <id type="gnd">117229504</id>
+            <roleActor>
+                <role type="Rolle">Lysander</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6eb82821-8960-4ea8-b828-2189603ea8e8">
+            <name>Dietrich, Mary</name>
+            <id type="gnd">116113138</id>
+            <roleActor>
+                <role type="Rolle">Königin Hippolita</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="221b13ba-acfd-45e8-9b13-baacfd65e8f5">
+            <name>Danegger, Josef</name>
+            <id type="gnd">116021063</id>
+            <roleActor>
+                <role type="Rolle">Herzog Theseus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9935639c-891c-4618-b563-9c891ce618cf">
+            <name>Deutsches Theater</name>
+            <id type="gnd">4058252-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000284" type="Modell: Bühnenbildmodell" aat="300007122">
+            <title>Bühnenbildmodell zu "Ein Sommernachtstraum" in Berlin 1913/14</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

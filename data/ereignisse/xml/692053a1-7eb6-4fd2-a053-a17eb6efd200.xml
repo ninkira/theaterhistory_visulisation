@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="692053a1-7eb6-4fd2-a053-a17eb6efd200" type="Performance">
+    <groupingArgument actorID="72b995fc-e2d6-437a-b995-fce2d6737a52">Meeres und der Liebe Wellen, Des+1910+Bruck, Reinhard</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Meeres und der Liebe Wellen, Des</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Meeres und der Liebe Wellen, Des</title>
+            <listObject>
+                <object id="TWS_OBJ0000698"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000698"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>1910</premier>
+            <time from="1910" to="1910">
+                <listObject>
+                    <object id="TWS_OBJ0000698"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="8865a33e-1841-4589-a5a3-3e184145893a">
+            <name>Wunderwald, Gustav</name>
+            <id type="gnd">118635611</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d349c4cb-024a-429b-89c4-cb024a629bad">
+            <name>Grillparzer, Franz</name>
+            <id type="gnd">118542192</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="72b995fc-e2d6-437a-b995-fce2d6737a52">
+            <name>Bruck, Reinhard</name>
+            <id type="gnd">116725788</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000698" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Gustav Wunderwald</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

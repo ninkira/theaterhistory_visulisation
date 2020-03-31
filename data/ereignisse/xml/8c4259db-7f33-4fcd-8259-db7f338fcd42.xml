@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="8c4259db-7f33-4fcd-8259-db7f338fcd42" type="Performance">
+    <groupingArgument actorID="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">Merchant of Venice, The+15.05.1943+Müthel, Lothar</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Merchant of Venice, The</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Kaufmann von Venedig, Der</title>
+            <listObject>
+                <object id="TWS_OBJ0000693"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>Burgtheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000693"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>15.05.1943</premier>
+            <time from="1943" to="1943">
+                <listObject>
+                    <object id="TWS_OBJ0000693"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="deb9e834-1f9d-4622-b9e8-341f9df622b7">
+            <name>Böhm, Herta</name>
+            <id type="gnd">119048086</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">
+            <name>Müthel, Lothar</name>
+            <id type="gnd">119049309</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="025f261e-5c62-4641-9f26-1e5c62b6410e">
+            <name>Krauss, Werner</name>
+            <id type="gnd">118715828</id>
+            <roleActor>
+                <role type="Rolle">Shylock</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="77c275f3-2bcb-462d-8275-f32bcb262d04">
+            <name>Burgtheater Wien</name>
+            <id type="gnd">38633-9</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000693" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Herta Böhm</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

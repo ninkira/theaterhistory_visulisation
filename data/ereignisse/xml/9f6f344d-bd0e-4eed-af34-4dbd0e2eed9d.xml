@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="9f6f344d-bd0e-4eed-af34-4dbd0e2eed9d" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Mann ist Mann+23.04.1959+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Mann ist Mann</title>
+            <listObject>
+                <object id="TWS_OBJ0000132"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Landestheater Darmstadt</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000132"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>23.04.1959</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000132"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="df53798c-2f49-4e8f-9379-8c2f491e8faa">
+            <name>Amberger, Günter</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Rittmeister Neumann und Macdonald</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="73b9a95a-3203-45c8-b9a9-5a320375c8e6">
+            <name>Becker, Rolf</name>
+            <id type="gnd">109511266X</id>
+            <roleActor>
+                <role type="Rolle">Poly Baker</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4c14409e-20fa-44b6-9440-9e20fae4b6ba">
+            <name>Brecht, Bertolt</name>
+            <id type="gnd">118514768</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="610ee79b-b45f-4260-8ee7-9bb45fc260ed">
+            <name>Bruns, Heiner</name>
+            <id type="gnd">137243693</id>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="39169fad-3803-410b-969f-ad3803310b68">
+            <name>Böhm, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="ccb0ffbe-76f3-472d-b0ff-be76f3872dee">
+            <name>Büttner, Elly</name>
+            <id type="gnd">1023863960</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="276d8b90-9c33-4186-ad8b-909c33318670">
+            <name>Dessau, Paul</name>
+            <id type="gnd">118524917</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="">
+            <name>Eberl, Heinrich  </name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Soldat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2a8d4ad0-486e-4326-8d4a-d0486e03266a">
+            <name>Ernst, Joachim</name>
+            <id type="gnd">1047353911</id>
+            <roleActor>
+                <role type="Rolle">Herr Wang</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="435321a5-a6a1-464e-9321-a5a6a1f64e73">
+            <name>Fleischer, Arwed</name>
+            <id type="gnd">1075026016</id>
+            <roleActor>
+                <role type="Rolle">Charles Fairchild</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="85ff8ce8-93d6-4a31-bf8c-e893d66a31af">
+            <name>Fögen, Milia a.G.</name>
+            <id type="gnd">1061694720</id>
+            <roleActor>
+                <role type="Rolle">Leokadja Begbick</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c15caee7-0159-4a06-9cae-e701595a066f">
+            <name>Helfmann, Alexander</name>
+            <id type="gnd">1141080273</id>
+            <roleActor>
+                <role type="Rolle">Soldat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="de93f1e0-9d60-4ac8-93f1-e09d605ac8ab">
+            <name>Hindermann, Mario</name>
+            <id type="gnd">1122650914</id>
+            <roleActor>
+                <role type="Rolle">Mah Sing</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f9052409-d0e3-423b-8524-09d0e3623bb5">
+            <name>Krug, Ellen</name>
+            <id type="gnd">1061646645</id>
+            <roleActor>
+                <role type="Rolle">Galy Gays Frau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e475acca-c640-47ee-b5ac-cac640b7eec4">
+            <name>Krämer, Anfried</name>
+            <id type="gnd">1062409523</id>
+            <roleActor>
+                <role type="Rolle">Uria Shelly</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a9d9c3ab-0820-4078-99c3-ab0820007861">
+            <name>Merz, Karl-Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Soldat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da9f16cd-ce19-446e-9f16-cdce19846efb">
+            <name>Mittelhaus, Gerhard</name>
+            <id type="gnd">1062011414</id>
+            <roleActor>
+                <role type="Rolle">Soldat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bff7f519-6022-44b9-b7f5-19602264b9a4">
+            <name>Spoerri, Daniel</name>
+            <id type="gnd">118752197</id>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="4ef5e57a-7f1e-4393-b5e5-7a7f1ed3936e">
+            <name>Suhrkamp-Verlag</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Aufführungsrechte</role>
+                <role>Verlag</role>
+            </roleActor>
+        </actor>
+        <actor id="cbff13f2-7c2a-4ca3-bf13-f27c2a7ca311">
+            <name>Tanner, Fred</name>
+            <id type="gnd">104579905X</id>
+            <roleActor>
+                <role type="Rolle">Galy Gay</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4cfae690-c3bf-4e67-bae6-90c3bf4e67c3">
+            <name>Wien, Herbert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Jeraiah Jip</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="79338c3b-6cd3-4410-b38c-3b6cd3141073">
+            <name>Winter, Gerhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Jesse Mahoney</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000132" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Mann ist Mann" in Darmstadt 1959</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

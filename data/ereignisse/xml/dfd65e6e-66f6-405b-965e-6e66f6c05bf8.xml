@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="dfd65e6e-66f6-405b-965e-6e66f6c05bf8" type="Performance">
+    <groupingArgument actorID="65cf183e-db3e-46e9-8f18-3edb3e86e93e">Entführung aus dem Serail, Die+1936+Hagemann, Carl</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Entführung aus dem Serail, Die</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Entführung aus dem Serail, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000593"/>
+                <object id="TWS_OBJ0000592"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Volksoper</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000593"/>
+                </listObject>
+            </place>
+            <place type="Institution">
+                <placeName>Volksoper im Theater des Westens</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000592"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>1936</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000593"/>
+                    <object id="TWS_OBJ0000592"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="ac816399-b79a-4159-8163-99b79a0159e9">
+            <name>Arent, Benno von</name>
+            <id type="gnd">116339950</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="65cf183e-db3e-46e9-8f18-3edb3e86e93e">
+            <name>Hagemann, Carl</name>
+            <id type="gnd">119368277</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e82db7c6-e35b-430d-adb7-c6e35be30dae">
+            <name>Mozart, Wolfgang Amadeus</name>
+            <id type="gnd">118584596</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="cebb19bd-aa37-41af-bb19-bdaa37b1afdc">
+            <name>Orthmann, Erich</name>
+            <id type="gnd">134477642</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="c3eaff43-4ab5-461d-aaff-434ab5a61d60">
+            <name>Renzhammer, Ernst</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Pedrillo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a6dd57e9-f883-48f5-9d57-e9f883f8f53a">
+            <name>Schaffrian, Rosl</name>
+            <id type="gnd">134686543</id>
+            <roleActor>
+                <role type="Rolle">Blonde</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="87b27b3a-2bbb-4d23-b27b-3a2bbb3d230c">
+            <name>Volksoper</name>
+            <id type="gnd">1103592505</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="776942ac-7bc6-45b3-a942-ac7bc675b3d7">
+            <name>Volksoper, Theater des Westens</name>
+            <id type="gnd">1103592505</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000593" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Fotografie zweier Darsteller_innen aus einer Inszenierung von Mozarts "Die Entführung aus dem Serail"1936 in Berlin</title>
+        </object>
+        <object id="TWS_OBJ0000592" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Fotografie eines Bühnenbildentwurfs zu "Die Entführung aus dem Serail" 1936 in Berlin</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

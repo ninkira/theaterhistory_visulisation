@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="4232eb54-3642-4376-b2eb-54364213764c" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Antigone+30.12.1950+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Antigone</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Antigone</title>
+            <listObject>
+                <object id="TWS_OBJ0000073"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Essen</placeName>
+            <place type="Institution">
+                <placeName>Bühnen der Stadt Essen</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000073"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>30.12.1950</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000073"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Franz Mertz im Programmzettel als "Franz Merz" aufgeführt</text>
+            <object id="TWS_OBJ0000073"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="67cc73d7-96c9-42f4-8c73-d796c972f4fc">
+            <name>Sophocles</name>
+            <id type="gnd">118615688</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="04226d6b-4d75-4900-a26d-6b4d7529006c">
+            <name>Hölderlin, Friedrich</name>
+            <id type="gnd">118551981</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="108eb185-d724-4b89-8eb1-85d7246b89f5">
+            <name>Die Bühnen der Stadt Essen</name>
+            <id type="gnd">4204085-1</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="553f877d-e4ab-4203-bf87-7de4ab920355">
+            <name>Bauer, Karl</name>
+            <id type="gnd">116085347</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4041a7f0-ae89-424d-81a7-f0ae89624d4c">
+            <name>Jäger, Elsbeth</name>
+            <id type="gnd">1050486358</id>
+            <roleActor>
+                <role type="Rolle">Antigone</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c320c20b-8bbc-4ab4-a0c2-0b8bbc4ab402">
+            <name>Bieler, Margot</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ismene</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b0ec4754-6d2d-49db-ac47-546d2d99dbe4">
+            <name>Clausen, Claus</name>
+            <id type="gnd">116540028</id>
+            <roleActor>
+                <role type="Rolle">Kreon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="73836073-dca7-401b-8360-73dca7701b67">
+            <name>Braun, Horst</name>
+            <id type="gnd">1095913859</id>
+            <roleActor>
+                <role type="Rolle">Ein Wächter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="74f8b644-061f-45d5-b8b6-44061f05d550">
+            <name>Wolf, Andreas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Hämon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="96077e99-2251-4b52-877e-992251cb521c">
+            <name>Naumann, Harry</name>
+            <id type="gnd">105974145</id>
+            <roleActor>
+                <role type="Rolle">Tiresias</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d4291700-a9e8-48ea-a917-00a9e848eadb">
+            <name>Dietz, Ernst</name>
+            <id type="gnd">116116390</id>
+            <roleActor>
+                <role type="Rolle">Ein Bote</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a9c25889-6e40-483d-8258-896e40083d9c">
+            <name>Clairmont, Berni</name>
+            <id type="gnd">136682170</id>
+            <roleActor>
+                <role type="Rolle">Eurydike</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="376e598a-4d99-4460-ae59-8a4d99d460db">
+            <name>Schirlitz, Wolfgang</name>
+            <id type="gnd">1061881652</id>
+            <roleActor>
+                <role type="Rolle">Chorführer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Mitglied Chor des Thebanischen Alten</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="978cd288-c915-425d-8cd2-88c915825d87">
+            <name>Bollmann, Horst</name>
+            <id type="gnd">116236639</id>
+            <roleActor>
+                <role type="Rolle">Mitglied Chor des Thebanischen Alten</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="84156c01-d7cd-437d-956c-01d7cdd37d85">
+            <name>Loges, Hannes</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mitglied Chor des Thebanischen Alten</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a6e5be48-90b3-4d6e-a5be-4890b37d6e4c">
+            <name>Lübke, Lucian</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mitglied Chor des Thebanischen Alten</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4bf16e2e-e9cf-425b-b16e-2ee9cfd25b14">
+            <name>Martell, Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mitglied Chor des Thebanischen Alten</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="07ec01ed-3872-4638-ac01-ed3872f6389c">
+            <name>Meinertzhagen, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mitglied Chor des Thebanischen Alten</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="66f724ff-f6b6-4fd0-b724-fff6b67fd00f">
+            <name>Rehnert, Peter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mitglied Chor des Thebanischen Alten</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0764677e-f650-4319-a467-7ef65023197a">
+            <name>Wilfert, Bernhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mitglied Chor des Thebanischen Alten</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="caf83961-1929-4a21-b839-611929aa21a8">
+            <name>Rodmann, Harri</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="8527252c-d182-4a9c-a725-2cd1820a9cb5">
+            <name>Knauer, Hans-Jürgen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="5fd66472-e63d-4865-9664-72e63dc8652e">
+            <name>Ortmann, Friedhelm</name>
+            <id type="gnd">117149489</id>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="46088f68-de7a-4403-888f-68de7a340360">
+            <name>Reiß, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="57c80a2b-cdbb-4657-880a-2bcdbbc65762">
+            <name>Lick, Karlheinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="d158fd6d-656f-4017-98fd-6d656fb01790">
+            <name>Bertling, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c0d86d74-73cb-4929-986d-7473cbe92938">
+            <name>Hensler, Hanna</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cf7aafea-ad90-4733-baaf-eaad90073399">
+            <name>Bühnen der Stadt Essen</name>
+            <id type="gnd">117380-7</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000073" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Programmzettel zu Antigone in Essen 1950</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

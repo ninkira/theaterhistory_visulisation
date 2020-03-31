@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="537703ef-a261-49aa-b703-efa26149aa8d" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Katharina Knie++Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Katharina Knie</title>
+            <listObject>
+                <object id="TWS_OBJ0000158"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Coburg</placeName>
+            <place type="Institution">
+                <placeName>Landestheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000158"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1939" to="21.01.1931">
+                <listObject>
+                    <object id="TWS_OBJ0000158"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="e74bc638-3a5c-4348-8bc6-383a5c9348f5">
+            <name>Bügler, Jacques</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Narr - in Olivias Diensten</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f4e7c137-7e3a-4549-a7c1-377e3a654923">
+            <name>Döhler, Erich</name>
+            <id type="gnd">105323721</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4eb62096-95b9-4111-b620-9695b9e11127">
+            <name>Fohrmann, Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lorenz Knie</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cc5f1b4b-38ea-4e9e-9f1b-4b38ea9e9efa">
+            <name>Friedrich, Edwin</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mario</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="74e4e452-4585-4a80-a4e4-5245853a802b">
+            <name>Grosser-Braun, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Karl Knie senior, gen. Vater Knie</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="390b75bb-7cd7-4e1b-8b75-bb7cd74e1b3c">
+            <name>Kolander, Friedrich</name>
+            <id type="gnd">11631057X</id>
+            <roleActor>
+                <role type="Rolle">Ignaz Scheel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b4976d26-a172-4d1b-976d-26a172ad1b6d">
+            <name>Ortmann, Rudolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bloomaul, Tätowierer</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="b553dda3-1758-423d-93dd-a31758023d8b">
+            <name>Quaiser, Eva</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Katharina Knie</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c63d1d9a-9425-4397-bd1d-9a9425339790">
+            <name>Schaeffer, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Membel, Gerichtsvollzieher</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="41ad4815-b05f-49c7-ad48-15b05fb9c7ac">
+            <name>Sieger, Philipp</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Vater Eichel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="74e0d9cb-fcad-492e-a0d9-cbfcad692e13">
+            <name>Zuckmayer, Carl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="36dec0cb-fb0d-4402-9ec0-cbfb0dc4024d">
+            <name>Teichert, Erich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fritz Knie</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d7e99765-e23b-44e1-a997-65e23b24e14e">
+            <name>Odebrecht, Bruno</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Julius Schmittolini</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Artistische Leitung</role>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="41c640fd-5386-45de-8640-fd538635deb6">
+            <name>Pasel, Edith</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bobbi, gen Bibbo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bc1549f7-90a7-4016-9549-f790a7f016f6">
+            <name>Hager, Robert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Martin Rothacker, Landwirt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4fe11f72-ba14-47cf-a11f-72ba1437cf2e">
+            <name>Gügo, Maria</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Rothackerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c2ae0e87-4922-431c-ae0e-874922e31cd1">
+            <name>Mathes, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Dillinger, Polizeikommissär</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ac11240d-4208-47d0-9124-0d420857d096">
+            <name>Weßnig, Kl.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Berberitzche, Zettelausträger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6992f24-85a4-4e89-992f-2485a44e8955">
+            <name>Herrmann, Lisl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mutter Eichel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c5e2e21b-7f1a-411f-a2e2-1b7f1a311f56">
+            <name>Feiler, Max</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000158" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Katharina Knie" in Coburg 1931</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

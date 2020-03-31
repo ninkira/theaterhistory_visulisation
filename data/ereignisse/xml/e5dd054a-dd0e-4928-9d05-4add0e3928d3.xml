@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="e5dd054a-dd0e-4928-9d05-4add0e3928d3" type="Performance">
+    <groupingArgument actorID="">Kean+21.02.1885+</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Kean</title>
+            <listObject>
+                <object id="TWS_OBJ0000526"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Breslau</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater Breslau</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000526"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>21.02.1885</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000526"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Zweites Gastspiel des italienischen Tragöden Ernesto Rossi</text>
+            <object id="TWS_OBJ0000526"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="f9e27c6a-c71e-4d39-a27c-6ac71ebd39ab">
+            <name>Badewitz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Graf von Coefeld</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">116110627</id>
+            <roleActor>
+                <role type="Rolle">Lord Mellvill</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b8160b11-6ea7-49c1-960b-116ea769c1c5">
+            <name>Bischoff</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Peter Patt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ace31e5f-eb8c-4e49-a31e-5feb8c3e494c">
+            <name>Bormann</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Anna Dauby</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="403f2ac7-17e9-470b-bf2a-c717e9370b1d">
+            <name>Dumas, Alexandre</name>
+            <id type="gnd">118528068</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="83865e98-7e53-442d-865e-987e53642da6">
+            <name>Fenke</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Pistol</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="418de94a-7bc7-40f6-8de9-4a7bc7f0f6f1">
+            <name>Golde</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Kellner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a533280a-0706-421e-b328-0a0706a21ea3">
+            <name>Greiner</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Constabler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0d3eb891-47c8-448d-beb8-9147c8448d6f">
+            <name>Herrmann-Benedix</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Die Gräfin Amy con Gooswill</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f025ff51-abd8-415f-a5ff-51abd8215fb5">
+            <name>Kauer</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Prinz von Wales</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="18bb6cbf-9a4b-426e-bb6c-bf9a4b126e89">
+            <name>Lucas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Bedienter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e13dbe2c-7ee1-4970-bdbe-2c7ee1e97074">
+            <name>Rossi, Ernesto</name>
+            <id type="gnd">118836412</id>
+            <roleActor>
+                <role type="Rolle">Kean</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="50b64ed6-40de-475f-b64e-d640de375f34">
+            <name>Schmid</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ophelia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="674d8bee-7a74-4703-8d8b-ee7a7467034d">
+            <name>Schwarzenberg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Die Gräfin Helene von Coefeld</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="95f839f2-80a7-441c-b839-f280a7941cf6">
+            <name>Stadttheater Breslau</name>
+            <id type="gnd">16343427-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="5e00cea9-a0a6-49ad-80ce-a9a0a659ad81">
+            <name>Thomas</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Darius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="216609ba-a6e1-4960-a609-baa6e1396024">
+            <name>von Fischer</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Salomon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000526" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zur "Kean"-Inszenierung in Breslau 1885</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

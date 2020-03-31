@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="7baaa28e-ad23-478a-aaa2-8ead23478af9" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Oedipus tyrannus+1952+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Oedipus tyrannus</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>König Ödipus</title>
+            <listObject>
+                <object id="TWS_OBJ0000264"/>
+                <object id="TWS_OBJ0000263"/>
+                <object id="TWS_OBJ0000262"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Orangerie</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000264"/>
+                    <object id="TWS_OBJ0000263"/>
+                    <object id="TWS_OBJ0000262"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>1952</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000264"/>
+                    <object id="TWS_OBJ0000263"/>
+                    <object id="TWS_OBJ0000262"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="3c3e40f8-a047-4e4a-be40-f8a047ce4a28">
+            <name>Sophokles</name>
+            <id type="gnd">118615688</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e949e404-4e9e-4f7e-89e4-044e9e9f7e79">
+            <name>Landestheater Darmstadt</name>
+            <id type="gnd">2002342-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="3">
+        <object id="TWS_OBJ0000264" type="Maske: Theatermaske" aat="300412124">
+            <title>Maske zu "König Ödipus" in Darmstadt 1952</title>
+        </object>
+        <object id="TWS_OBJ0000263" type="Maske: Theatermaske" aat="300412124">
+            <title>Maske zu "König Ödipus" in Darmstadt 1952</title>
+        </object>
+        <object id="TWS_OBJ0000262" type="Maske: Theatermaske" aat="300412124">
+            <title>Maske zu "König Ödipus" in Darmstadt 1952</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

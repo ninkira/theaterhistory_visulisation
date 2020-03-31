@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ae2ad3a2-ca12-436f-aad3-a2ca12936fb2" type="Performance">
+    <groupingArgument actorID="2353d801-260c-41b1-93d8-01260ca1b120">Luxusfrau, Die+13.07.1923+Jubelsky, Ludwig</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Luxusfrau, Die</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Luxusfrau, Die</title>
+            <listObject>
+                <object id="IFT_OBJ_HL000037"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HL000037"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>13.07.1923</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HL000037"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Operetteninszenierung der Sommer-Direktion am Deutschen Theater Berlin</text>
+            <object id="IFT_OBJ_HL000037"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="4c69692e-2365-4367-a969-2e2365a367ff">
+            <name>Pflanzer, Hans</name>
+            <id type="gnd">1062220595</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="2353d801-260c-41b1-93d8-01260ca1b120">
+            <name>Jubelsky, Ludwig</name>
+            <id type="gnd">1031525246</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="88626368-1e64-4dba-a263-681e641dbac4">
+            <name>Kammerspiele Berlin</name>
+            <id type="gnd">4564955-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="3252f09b-ce3f-4b3d-92f0-9bce3f7b3de3">
+            <name>Knauer, Karl</name>
+            <id type="gnd">140789359</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ce550677-d32f-4244-9506-77d32fe24421">
+            <name>Lingen, Heinz</name>
+            <id type="gnd">106194171X</id>
+            <roleActor>
+                <role type="Rolle">Thymian Knoche</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3ae2f602-00e3-42b8-a2f6-0200e3e2b858">
+            <name>Fürth, Jaro</name>
+            <id type="gnd">1019732121</id>
+            <roleActor>
+                <role type="Rolle">Baron von Scheibling</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a1c4fbc8-6b59-4955-84fb-c86b59b955fc">
+            <name>Albach, Rosl</name>
+            <id type="gnd">118501356</id>
+            <roleActor>
+                <role type="Rolle">Cleo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5971f246-f86d-4876-b1f2-46f86db87623">
+            <name>Adler, Rosel</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lily</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1c156a8e-800d-47f2-956a-8e800d17f240">
+            <name>Müller, Kurt</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fred Hainau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="46655338-619d-4465-a553-38619db465d5">
+            <name>Muth, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Glücksvogel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0c32c130-362d-4677-b2c1-30362d96779e">
+            <name>Feld, Fritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fritz, der Boy</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0ace233b-53df-45fc-8e23-3b53df25fca5">
+            <name>Lilien, Grete</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Juanitta</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3d89bb1-61d9-4bcc-989b-b161d99bccaf">
+            <name>Hilbert, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Manager</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="41e26af5-0461-4617-a26a-f50461361763">
+            <name>Knispel, Julius</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HL000037" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Die Luxusfrau" und "Die Frühlingsfee" in Berlin 1923</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Aufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>Die Frühlingsfee</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Berlin</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Großes Schauspielhaus</placeName>
+                </place>
+                <listObject>
+                    <object id="IFT_OBJ_HL000037"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>13.07.1923</eventDate>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description>
+                    <beschreibung>
+                        <text>Operetteninszenierung der Sommer-Direktion am Deutschen Theater Berlin</text>
+                        <object>IFT_OBJ_HL000037</object>
+                    </beschreibung>
+                </description>
+            </descriptionList>
+            <actorList>
+                <actor id="cc465aad-7f38-40ac-865a-ad7f3810ac72">
+                    <name>Großes Schauspielhaus (Berlin)</name>
+                    <id type="gnd">46021-7</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Produktion (Theater)</role>
+                    </roleActor>
+                </actor>
+                <actor id="994c9144-f354-4a1d-8c91-44f354ea1d17">
+                    <name>Spannuth-Bodenstedt, Ludwig</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="4c69692e-2365-4367-a969-2e2365a367ff">
+                    <name>Pflanzer, Hans</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="2353d801-260c-41b1-93d8-01260ca1b120">
+                    <name>Jubelsky, Ludwig</name>
+                    <id type="gnd">1031525246</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Regisseur_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="0cf17a72-529b-4ec2-b17a-72529b0ec27a">
+                    <name>Corzilius, Victor</name>
+                    <id type="gnd">103879617</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Komponist_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="40c057a8-a798-4972-8057-a8a798197258">
+                    <name>Tokayer, Alfred</name>
+                    <id type="gnd">107046869X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Musikalische Leitung</role>
+                    </roleActor>
+                </actor>
+                <actor id="c1acff5b-2633-4ce3-acff-5b2633ace3cd">
+                    <name>Grube, Elisabeth</name>
+                    <id type="gnd">116886714</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Choreograph_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="c44cc066-8e7c-4f8c-8cc0-668e7c2f8cd3">
+                    <name>Impekoven, Leo</name>
+                    <id type="gnd">117138436</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Bühnenbildner_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="9aac3e83-eece-4ddb-ac3e-83eece1ddb97">
+                    <name>Stenger, Hermann</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Bühnenbildner_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="b612d341-3b92-4840-92d3-413b92f840d3">
+                    <name>Dworsky, Franz</name>
+                    <id type="gnd">1061484580</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Technische Leitung</role>
+                    </roleActor>
+                </actor>
+                <actor id="14efac59-d862-4168-afac-59d862a168b7">
+                    <name>Daghofer, Fritz</name>
+                    <id type="gnd">1061702111</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="789e7291-a310-47b2-9e72-91a310b7b2a9">
+                    <name>Schütz, Mizzi</name>
+                    <id type="gnd">11714116X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="198c6383-ab4a-4200-8c63-83ab4a220049">
+                    <name>Baerwald, Ilse</name>
+                    <id type="gnd">1061322645</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="82663605-b339-4285-a636-05b339928507">
+                    <name>Drosel, Ilse</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="31beecf1-f58f-4731-beec-f1f58f973177">
+                    <name>Escher, Marie</name>
+                    <id type="gnd">105983670X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="8013052b-ee30-434a-9305-2bee30734ac5">
+                    <name>Klein, Bruno</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="6a74af92-1b04-443d-b4af-921b04b43d36">
+                    <name>Kopf, Lotte</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="8a41b55d-fc8a-4a29-81b5-5dfc8a9a29ed">
+                    <name>Lindt, Friedel</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="18c2f4ff-974d-44f1-82f4-ff974d84f104">
+                    <name>Spennert, Mary</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="0d9346dc-b482-48e6-9346-dcb48268e6ba">
+                    <name>Walten, Lotte</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="58bc6a94-9326-43f4-bc6a-949326b3f4fb">
+                    <name>Pledath, Werner</name>
+                    <id type="gnd">1062185013</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="3e960963-0f04-433a-9609-630f04133a58">
+                    <name>Müller-Marten, Emmerich</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="46655338-619d-4465-a553-38619db465d5">
+                    <name>Muth, Karl</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="7b9519f6-6889-4970-9519-f66889697053">
+                    <name>Cramer, Paul</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="ac5ee348-0c6b-4ca4-9ee3-480c6b5ca416">
+                    <name>Tobien, Max</name>
+                    <id type="gnd">126095744</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="3ae2f602-00e3-42b8-a2f6-0200e3e2b858">
+                    <name>Fürth, Jaro</name>
+                    <id type="gnd">1019732121</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="1b2b5a6f-af7e-495d-ab5a-6faf7ee95d3a">
+                    <name>Hiller, Wilhelm</name>
+                    <id type="gnd">1026457580</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="51628376-5e46-4455-a283-765e46a4557c">
+                    <name>Lorenz, Else</name>
+                    <id type="gnd">1061850528</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="121c5314-6448-478e-9c53-146448078e94">
+                    <name>Duval, Leonie</name>
+                    <id type="gnd">1062382315</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="f4321f82-e009-4746-b21f-82e0096746ba">
+                    <name>Voelcker, Wilhelm</name>
+                    <id type="gnd">1061477428</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

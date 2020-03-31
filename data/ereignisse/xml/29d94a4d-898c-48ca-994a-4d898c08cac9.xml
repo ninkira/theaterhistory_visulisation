@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="29d94a4d-898c-48ca-994a-4d898c08cac9" type="Performance">
+    <groupingArgument actorID="679b3391-0c33-4c92-9b33-910c333c92ba">Anneliese von Dessau, Die+21.10.1903+Nitsche, Oskar</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Anneliese von Dessau, Die</title>
+            <listObject>
+                <object id="IFT_OBJ_JR000002"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Bleicherode</placeName>
+            <place type="Institution">
+                <placeName>Wandertruppe Direktor Oskar Nitsche</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JR000002"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>21.10.1903</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JR000002"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>erste Inszenierung unter der Mitwirkung Julius Richters als Bühnenmeister; Einheitssachtitel: Die Anna-Lise: Histor. Lustsp. in 5 Akten; Premiere</text>
+            <object id="IFT_OBJ_JR000002"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="9fd9b4d5-75be-45a8-99b4-d575be25a871">
+            <name>Hersch, Hermann</name>
+            <id type="gnd">116752327</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="679b3391-0c33-4c92-9b33-910c333c92ba">
+            <name>Nitsche, Oskar</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="02fbcbc8-f73f-4aff-bbcb-c8f73f4aff4e">
+            <name>Richter, Julius</name>
+            <id type="gnd">116512415</id>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_JR000002" type="Autograf: Manuskript" aat="300028569">
+            <title>"Abschnitt 1" der Autobiografie von Julius Richter</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

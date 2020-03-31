@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="14ee0a09-c023-4701-ae0a-09c023d70138" type="Performance">
+    <groupingArgument actorID="">Fidelio++</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Fidelio</title>
+            <listObject>
+                <object id="TWS_OBJ0000505"/>
+                <object id="TWS_OBJ0000504"/>
+                <object id="TWS_OBJ0000503"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Opernhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000505"/>
+                    <object id="TWS_OBJ0000504"/>
+                    <object id="TWS_OBJ0000503"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1912" to="1912">
+                <listObject>
+                    <object id="TWS_OBJ0000505"/>
+                    <object id="TWS_OBJ0000504"/>
+                    <object id="TWS_OBJ0000503"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="e82db7c6-e35b-430d-adb7-c6e35be30dae">
+            <name>Mozart, Wolfgang Amadeus</name>
+            <id type="gnd">118584596</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="3">
+        <object id="TWS_OBJ0000505" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Rollenportrait von Alice Guszalewicz als Leonore in 'Fidelio' mit Stock 1912'Fidelio' mit Winzerkorb 1912</title>
+        </object>
+        <object id="TWS_OBJ0000504" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Rollenportrait von Alice Guszalewicz als Leonore in 'Fidelio' mit Winzerkorb 1912</title>
+        </object>
+        <object id="TWS_OBJ0000503" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Rollenportrait voRollenportrait von Alice Guszalewicz als Leonore in 'Fidelio' mit Pistole 1912</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

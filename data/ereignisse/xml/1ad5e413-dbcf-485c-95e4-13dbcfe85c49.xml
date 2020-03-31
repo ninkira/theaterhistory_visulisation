@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="1ad5e413-dbcf-485c-95e4-13dbcfe85c49" type="Performance">
+    <groupingArgument actorID="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">Kabale und Liebe++Lewinger, Ernst</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Kabale und Liebe</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Kabale und Liebe</title>
+            <listObject>
+                <object id="TWS_OBJ0000556"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Bonn</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000556"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="02.11.1890" to="02.11.1890">
+                <listObject>
+                    <object id="TWS_OBJ0000556"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="793acec2-580c-4417-bace-c2580cf4176d">
+            <name>Hofmann, Julius</name>
+            <id type="gnd">116951621</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Kammerdiener der Fürstin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b40f32da-1cc1-45a6-8f32-da1cc1a5a651">
+            <name>Biehler, Alfred</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Hofmarschall von Kalb</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">
+            <name>Lewinger, Ernst</name>
+            <id type="gnd">116971835</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="a3da67ad-018a-4f92-9a67-ad018aaf92bb">
+            <name>Robert, Waldemar</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ferdinand von Walter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bf155429-8013-477c-9554-298013877c5e">
+            <name>Stadttheater (Bonn)</name>
+            <id type="gnd">217619-1</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="fa70854e-da8b-4fd8-b085-4eda8b0fd823">
+            <name>Zimmermann, Ludwig</name>
+            <id type="gnd">116999772</id>
+            <roleActor>
+                <role type="Rolle">Präsident von Walter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f282d6f0-712e-4c65-82d6-f0712e7c6554">
+            <name>Kaufhold, Hedwig</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lady Milford</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6917069-7051-4936-9170-697051293661">
+            <name>Beck, Otto</name>
+            <id type="gnd">116101997</id>
+            <roleActor>
+                <role type="Rolle">Wurm, Haussekretär des Präsidenten</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c09f6d81-6c0b-439a-9f6d-816c0b239a8f">
+            <name>Tenhaeff, Reinhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Miller, Stadtmusikant</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2ecf3231-7634-4c95-8f32-317634bc95ec">
+            <name>Lanius, Caroline</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Frau des Stadtmusikanten Miller</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7f8ca004-a814-4248-8ca0-04a814724822">
+            <name>Landori, Ludmilla</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Louise, Tochter des Miller</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7c7f8524-b67d-4897-bf85-24b67db89741">
+            <name>Cronau, Emmy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Sophie, Kammerjunger der Lady</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ac5f2958-4fc2-4f3a-9f29-584fc28f3a6a">
+            <name>Herr, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kammerdiener des Präsidenten</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d910570-00a0-4a47-9105-7000a0fa4708">
+            <name>Kammerer, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kammerdiener der Lady</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000556" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu Max Behrend in "Kabale und Liebe" in Bonn 1890</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="f11fbff7-6e76-46e4-9fbf-f76e7696e4f7" type="Performance">
+    <groupingArgument actorID="46b6b614-6f38-452c-b6b6-146f38352c46">Un homme exquis+14.01.1932+Straus, Erwin</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Un homme exquis</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Ein entzückender Mensch</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000002"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Komische Oper, Friedrichstraße</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000002"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>14.01.1932</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000002"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Operetteninszenierung der Komischen Oper in der Friedrichstraße, Berlin</text>
+            <object id="IFT_OBJ_HW000002"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e5b2fdca-b6cd-463b-b2fd-cab6cd363b5c">
+            <name>Létraz, Jean de</name>
+            <id type="gnd">126614148</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="dbced925-6c5f-4f94-8ed9-256c5fcf943e">
+            <name>Ebelsbacher, Berth</name>
+            <id type="gnd">126590974</id>
+            <roleActor>
+                <role>Übersetzer_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="46b6b614-6f38-452c-b6b6-146f38352c46">
+            <name>Straus, Erwin</name>
+            <id type="gnd">132608162</id>
+            <roleActor>
+                <role>Autor_in des Gesangstextes des inszenierten Werks</role>
+                <role>Komponist_in des inszenierten Werks</role>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="293a7380-29ef-4941-ba73-8029ef79412d">
+            <name>Straus, Leo</name>
+            <id type="gnd">126608121</id>
+            <roleActor>
+                <role>Autor_in des Gesangstextes des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="7f380a4d-f93f-4da0-b80a-4df93fada0ce">
+            <name>Krehan, Hermann</name>
+            <id type="gnd">126527059</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7c36f60f-1f1b-42b5-b6f6-0f1f1b22b516">
+            <name>Rott, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8121b8c8-c30d-4672-a1b8-c8c30d067239">
+            <name>Karlweis, Oskar</name>
+            <id type="gnd">116055766</id>
+            <roleActor>
+                <role type="Rolle">Hubert de Villiers</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4e3626e1-6e4c-4c3e-b626-e16e4c0c3e25">
+            <name>Trenk-Trebitsch, Willy</name>
+            <id type="gnd">117413585</id>
+            <roleActor>
+                <role type="Rolle">Gustave Hermelin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="21cc8a18-84d0-48bb-8c8a-1884d018bb00">
+            <name>Mardayn-Thimig, Christl</name>
+            <id type="gnd">116768002</id>
+            <roleActor>
+                <role type="Rolle">Nadine Villeroy</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ba34ae35-0580-413d-b4ae-350580713dee">
+            <name>Grabley, Ursula</name>
+            <id type="gnd">1061520633</id>
+            <roleActor>
+                <role type="Rolle">Simone Lorelle</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0a43964d-9e4e-41eb-8396-4d9e4ee1eb77">
+            <name>Hellberg, Ruth</name>
+            <id type="gnd">116684607</id>
+            <roleActor>
+                <role type="Rolle">Christiane Charpentier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b797e2eb-8214-4aeb-97e2-eb8214eaeb49">
+            <name>Carlsen, Traute</name>
+            <id type="gnd">139864601</id>
+            <roleActor>
+                <role type="Rolle">Gisèle</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Tante Jeanne</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e3435d3b-66f1-4c59-835d-3b66f15c5931">
+            <name>Impekoven, Anneliese</name>
+            <id type="gnd">1062042867</id>
+            <roleActor>
+                <role type="Rolle">Anni</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="78c37ab1-eaae-4768-837a-b1eaae876869">
+            <name>Komische Oper, Friedrichstraße</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000002" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Ein entzückender Mensch" in Berlin 1932</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

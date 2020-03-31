@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="e3b2e8c6-99d8-479f-b2e8-c699d8d79f0e" type="Performance">
+    <groupingArgument actorID="">Salome++</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Salome</title>
+            <listObject>
+                <object id="TWS_OBJ0000507"/>
+                <object id="TWS_OBJ0000506"/>
+                <object id="TWS_OBJ0000489"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Opernhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000507"/>
+                    <object id="TWS_OBJ0000506"/>
+                    <object id="TWS_OBJ0000489"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1906" to="1906">
+                <listObject>
+                    <object id="TWS_OBJ0000507"/>
+                    <object id="TWS_OBJ0000506"/>
+                    <object id="TWS_OBJ0000489"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>beruht auf dem gleichnamigen Drama von Oscar Wilde (1891)</text>
+            <object id="TWS_OBJ0000507"/>
+        </description>
+        <description>
+            <text>Festspiele 4. Juli 1906;
+ML: Otto Lohse
+
+beruht auf dem gleichnamigen Drama von Oscar Wilde (1891)</text>
+            <object id="TWS_OBJ0000489"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="0dbbc1a5-5f7e-4b69-bbc1-a55f7ecb696e">
+            <name>Strauss, Richard</name>
+            <id type="gnd">11861911X</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="463f20b3-d9b0-44e9-bf20-b3d9b054e928">
+            <name>Wilde, Oscar</name>
+            <id type="gnd">118632779</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="3">
+        <object id="TWS_OBJ0000507" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Rollenportrait von Alice Rollenportrait von Alice Guszalewicz als "Salome" 1906</title>
+        </object>
+        <object id="TWS_OBJ0000506" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Rollenportrait von Alice Rollenportrait von Alice Guszalewicz als "Salome" mit Kopf 1906</title>
+        </object>
+        <object id="TWS_OBJ0000489" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Rollenportrait von Alice Guszalewicz als Salome</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

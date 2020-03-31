@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="5c682823-f0c3-4c04-a828-23f0c37c04c2" type="Performance">
+    <groupingArgument actorID="c4be8f46-e554-457b-be8f-46e554a57b1a">Nachtasyl+23.01.1903+Vallentin, Richard</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Deutsche Erstaufführung(DEA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Nachtasyl</title>
+            <listObject>
+                <object id="TWS_OBJ0000200"/>
+                <object id="TWS_KON0000020"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kleines Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000200"/>
+                    <object id="TWS_KON0000020"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>23.01.1903</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000200"/>
+                    <object id="TWS_KON0000020"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>folgende Personen- und Rollenangaben beziehen sich auf den Besetzungszettel vom 21.09.1903</text>
+            <object id="TWS_KON0000020"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="76f30d87-65fc-47c1-b30d-8765fc27c1bc">
+            <name>Gorʹkij, Maksim</name>
+            <id type="gnd">118639293</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="c4be8f46-e554-457b-be8f-46e554a57b1a">
+            <name>Vallentin, Richard</name>
+            <id type="gnd">117341622</id>
+            <roleActor>
+                <role type="Rolle">Satin</role>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1459b8b4-dd41-4025-99b8-b4dd41402525">
+            <name>Scholz, August</name>
+            <id type="gnd">115373853</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="5ced7cfe-2eea-468e-ad7c-fe2eea668ec2">
+            <name>Arnold, Victor</name>
+            <id type="gnd">1050400186</id>
+            <roleActor>
+                <role type="Rolle">Michail Iwanowitsch Kostylew</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bb792b16-3044-4088-b92b-163044f088a1">
+            <name>Bermann, Friedrich</name>
+            <id type="gnd">116136383</id>
+            <roleActor>
+                <role>Musik</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Wassilissa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3a616971-21b9-48c8-a169-7121b938c885">
+            <name>Parsenow, Kete</name>
+            <id type="gnd">138072655</id>
+            <roleActor>
+                <role type="Rolle">Natascha</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a7d3b61d-9474-40f3-93b6-1d947410f37a">
+            <name>Dill, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Medwjedew</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5d20605a-3933-4de0-a060-5a39335de04e">
+            <name>Winterstein, Eduard von</name>
+            <id type="gnd">118633864</id>
+            <roleActor>
+                <role type="Rolle">Pepel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="32d70cbd-70cd-4e00-970c-bd70cd6e0065">
+            <name>Bernauer, Rudolph</name>
+            <id type="gnd">118656295</id>
+            <roleActor>
+                <role type="Rolle">Klesc</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="62e49fa6-2923-4edb-a49f-a62923dedbce">
+            <name>Urfus, Erna</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Anna</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a9874552-36a3-4c76-8745-5236a38c7600">
+            <name>Klein, Olly</name>
+            <id type="gnd">1061252736</id>
+            <roleActor>
+                <role type="Rolle">Nastja</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ab1199db-9e1c-41e8-9199-db9e1cb1e819">
+            <name>Pix, Margarethe</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kvasnja</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b896fb2b-a5d6-484c-96fb-2ba5d6d84c9e">
+            <name>Peschel, Bruno</name>
+            <id type="gnd">1062041690</id>
+            <roleActor>
+                <role type="Rolle">Bubnow</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d37ee122-d523-4e77-bee1-22d5231e77fc">
+            <name>Wassmann, Hans</name>
+            <id type="gnd">117149853</id>
+            <roleActor>
+                <role type="Rolle">ein Baron</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dabf032c-0d81-473c-bf03-2c0d81873c51">
+            <name>Herzfeld, Guido</name>
+            <id type="gnd">1118913981</id>
+            <roleActor>
+                <role type="Rolle">ein Schauspieler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dcc89725-ccd3-4622-8897-25ccd36622a6">
+            <name>Thurner, Leopold</name>
+            <id type="gnd">117373494</id>
+            <roleActor>
+                <role type="Rolle">Luka</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0da3aa15-2ae0-44df-a3aa-152ae014df7f">
+            <name>Grossmann, Richard</name>
+            <id type="gnd">116873299</id>
+            <roleActor>
+                <role type="Rolle">Aljoschka</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="12fe17b5-5b4d-4a61-be17-b55b4d0a61e0">
+            <name>Joachim, Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Schiefkopf</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dac9e284-e9b7-40db-89e2-84e9b780db90">
+            <name>Höflich, Georg</name>
+            <id type="gnd">137592116</id>
+            <roleActor>
+                <role type="Rolle">ein Tatar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2d8f7c4e-ba53-459f-8f7c-4eba53459fcf">
+            <name>Kleines Theater Unter den Linden</name>
+            <id type="gnd">1080158030</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="95fba391-f632-4a23-bba3-91f632fa2330">
+            <name>Bernauer, Rudolf</name>
+            <id type="gnd">118656295</id>
+            <roleActor>
+                <role type="Rolle">Klesc</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000200" type="Publikation: Rezension" aat="">
+            <title>Besetzungszettel zu "Nachtasyl" in Berlin 1903</title>
+        </object>
+        <object id="TWS_KON0000020" type="Publikation: Rezension" aat="">
+            <title>Kritiken zu "Nachtasyl" in Berlin 1903/1904</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

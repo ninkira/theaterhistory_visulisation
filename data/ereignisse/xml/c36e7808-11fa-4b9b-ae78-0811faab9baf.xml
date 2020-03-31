@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="c36e7808-11fa-4b9b-ae78-0811faab9baf" type="Performance">
+    <groupingArgument actorID="65cf183e-db3e-46e9-8f18-3edb3e86e93e">Entführung aus dem Serail++Hagemann, Carl</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Entführung aus dem Serail</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Entführung aus dem Serail, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000595"/>
+                <object id="TWS_OBJ0000594"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Volksoper</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000595"/>
+                    <object id="TWS_OBJ0000594"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1936" to="1936">
+                <listObject>
+                    <object id="TWS_OBJ0000595"/>
+                    <object id="TWS_OBJ0000594"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="65cf183e-db3e-46e9-8f18-3edb3e86e93e">
+            <name>Hagemann, Carl</name>
+            <id type="gnd">119368277</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e82db7c6-e35b-430d-adb7-c6e35be30dae">
+            <name>Mozart, Wolfgang Amadeus</name>
+            <id type="gnd">118584596</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="737e4feb-610d-4033-be4f-eb610d40337d">
+            <name>Eclas-Schurr, Margarete</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Konstanze</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f2503445-8adf-406d-9034-458adf306d0d">
+            <name>Dreßlmair, Rudolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Belmonte</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="108600e0-1a0e-4e72-8600-e01a0ebe723d">
+            <name>Heide, Rolf</name>
+            <id type="gnd">128887826</id>
+            <roleActor>
+                <role type="Rolle">Osmin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a2b7de9f-2c79-44dd-b7de-9f2c7974ddcf">
+            <name>Renzlmann, Ernst</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Pedrillo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000595" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenefotografie der Inszenierung "Entführung aus dem Serail" in Berlin 1936</title>
+        </object>
+        <object id="TWS_OBJ0000594" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenefotografie der Inszenierung "Entführung aus dem Serail" in Berlin 1936</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

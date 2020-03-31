@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="7d04c6ba-90b4-4caf-84c6-ba90b4fcaf13" type="Performance">
+    <groupingArgument actorID="f51d4364-574f-4700-9d43-64574f670078">Herr und Diener+29.10.1910+Hollaender, Felix</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Herr und Diener</title>
+            <listObject>
+                <object id="TWS_OBJ0000221"/>
+                <object id="TWS_OBJ0000220"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000221"/>
+                    <object id="TWS_OBJ0000220"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>29.10.1910</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000221"/>
+                    <object id="TWS_OBJ0000220"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="b49ce841-8c69-4330-9ce8-418c69333061">
+            <name>Fulda, Ludwig</name>
+            <id type="gnd">118840452</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Odatis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="94b14064-7388-4c18-b140-647388cc1887">
+            <name>Deutsches Theater Berlin</name>
+            <id type="gnd">4058252-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="f51d4364-574f-4700-9d43-64574f670078">
+            <name>Hollaender, Felix</name>
+            <id type="gnd">116961805</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="5f0fb9e6-ea32-4193-8fb9-e6ea3291939a">
+            <name>Stern, Ernst</name>
+            <id type="gnd">118753614</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8dfa7c96-3596-4f89-ba7c-963596ff89c1">
+            <name>Walden, Harry</name>
+            <id type="gnd">117118524</id>
+            <roleActor>
+                <role type="Rolle">Kosru</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="19615481-143a-4bc4-a154-81143a4bc49f">
+            <name>Bassermann, Albert</name>
+            <id type="gnd">118653407</id>
+            <roleActor>
+                <role type="Rolle">Artaban</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="593fd38f-16b6-4930-bfd3-8f16b6893067">
+            <name>Höflich, Lucie</name>
+            <id type="gnd">118963805</id>
+            <roleActor>
+                <role type="Rolle">Gülsade</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0f45f395-1790-4d83-85f3-951790bd8331">
+            <name>Ebert, Carl</name>
+            <id type="gnd">118687565</id>
+            <roleActor>
+                <role type="Rolle">Sapor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d57e9499-3da1-45fc-be94-993da175fcc7">
+            <name>Kühne, Friedrich</name>
+            <id type="gnd">1060906619</id>
+            <roleActor>
+                <role type="Rolle">Bahram</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c248edf7-3d7f-40ce-88ed-f73d7f00ce17">
+            <name>Paulsen, Paul</name>
+            <id type="gnd">116066075</id>
+            <roleActor>
+                <role type="Rolle">Juba</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1bc38132-c580-4f5b-8381-32c580cf5b8f">
+            <name>Bielschowsky, Hans</name>
+            <id type="gnd">1066597014</id>
+            <roleActor>
+                <role type="Rolle">Mansor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="85353954-7144-4148-b539-547144914858">
+            <name>Fuchs, Erna</name>
+            <id type="gnd">116843624</id>
+            <roleActor>
+                <role type="Rolle">Nadira</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9bc601c1-73e1-4cb8-8601-c173e14cb87a">
+            <name>Wolff, Henriette</name>
+            <id type="gnd">117441066</id>
+            <roleActor>
+                <role type="Rolle">Thamar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="69859fe0-fa45-423f-859f-e0fa45623f93">
+            <name>Dostal, Carl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Milas</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="538d75b1-817e-47d8-8d75-b1817e37d8d6">
+            <name>Ghiberti, Ilse</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Manjana</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000221" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Herr und Diener" in Berlin 1910</title>
+        </object>
+        <object id="TWS_OBJ0000220" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Herr und Diener" in Berlin 1910</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

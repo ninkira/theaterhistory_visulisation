@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="7e683006-a2e1-4f0b-a830-06a2e14f0bb0" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Salome++Reinhardt, Max</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Salome</title>
+            <listObject>
+                <object id="TWS_KON0000022"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kleines Theater</placeName>
+                <listObject>
+                    <object id="TWS_KON0000022"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_KON0000022"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="463f20b3-d9b0-44e9-bf20-b3d9b054e928">
+            <name>Wilde, Oscar</name>
+            <id type="gnd">118632779</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Salome</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="02acf46d-6a1d-4ebb-acf4-6d6a1d3ebb5f">
+            <name>Neues Theater Berlin</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="a44de5e9-ca8f-4e82-8de5-e9ca8f2e82bd">
+            <name>Lachmann, Hedwig</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_KON0000022" type="Publikation: Rezension" aat="">
+            <title>Kritiken zu "Salome" in Berlin 1902</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

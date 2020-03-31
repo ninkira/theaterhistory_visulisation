@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="abe772f4-a3bb-4bd0-a772-f4a3bb3bd0b9" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Kabale und Liebe+24.09.1908+Reinhardt, Max</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Kabale und Liebe</title>
+            <listObject>
+                <object id="TWS_OBJ0000233"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000233"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>24.09.1908</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000233"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="0c71d2d8-10cb-4f7b-b1d2-d810cb6f7b37">
+            <name>Schiller, Friedrich</name>
+            <id type="gnd">118607626</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Lady Milford</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4c062db5-70dd-4b60-862d-b570dd2b605b">
+            <name>Held, Berthold</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5014c91b-489f-464e-94c9-1b489f564e00">
+            <name>Knina, Gustav</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cbc6029d-f567-4deb-8602-9df5679deb2b">
+            <name>Wegener, Paul</name>
+            <id type="gnd">118765981</id>
+            <roleActor>
+                <role type="Rolle">v. Walter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8dfa7c96-3596-4f89-ba7c-963596ff89c1">
+            <name>Walden, Harry</name>
+            <id type="gnd">117118524</id>
+            <roleActor>
+                <role type="Rolle">Ferdinand</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d37ee122-d523-4e77-bee1-22d5231e77fc">
+            <name>Wassmann, Hans</name>
+            <id type="gnd">117149853</id>
+            <roleActor>
+                <role type="Rolle">v. Kalb</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="60e13068-6c65-438e-a130-686c65d38e10">
+            <name>Abel, Alfred</name>
+            <id type="gnd">116001313</id>
+            <roleActor>
+                <role type="Rolle">Wurm</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="50601e69-2d76-4f47-a01e-692d768f47d1">
+            <name>Diegelmann, Wilhelm</name>
+            <id type="gnd">11610046X</id>
+            <roleActor>
+                <role type="Rolle">Miller</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Millerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="593fd38f-16b6-4930-bfd3-8f16b6893067">
+            <name>Höflich, Lucie</name>
+            <id type="gnd">118963805</id>
+            <roleActor>
+                <role type="Rolle">Luise</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1b1ea67-d2f3-4d48-b1ea-67d2f38d4897">
+            <name>Lorm, Sidonie</name>
+            <id type="gnd">1062292707</id>
+            <roleActor>
+                <role type="Rolle">Sophie</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ecc49639-d53a-4c7c-8496-39d53abc7c7e">
+            <name>Pagay, Hans</name>
+            <id type="gnd">116015454</id>
+            <roleActor>
+                <role type="Rolle">Kammerdiener des Fürsten</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="69fa9138-e540-4d58-ba91-38e5407d5885">
+            <name>Brüche, Ed. de</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e34aae52-93e6-49d3-8aae-5293e619d335">
+            <name>Focke, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7a0d573f-f68d-4109-8d57-3ff68df109c8">
+            <name>Pezzey, Arthur</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ef643371-996a-42d9-a433-71996a42d9cb">
+            <name>Scholz, Max</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3d7729fa-395b-484e-b729-fa395b484e87">
+            <name>Techel, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e5a96b97-da4b-4a58-a96b-97da4baa5829">
+            <name>Baumann, Adolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="83b3d50f-34c6-47f6-b3d5-0f34c697f677">
+            <name>Reichardt, Heinrich von</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000233" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Kabale und Liebe" in Berlin 1908</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

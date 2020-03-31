@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="810698c5-0057-4083-8698-c50057d083f2" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Orestia+24.04.1963+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Orestia</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Orestie des Aischylos, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000091"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsche Oper Berlin</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000091"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>24.04.1963</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000091"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="71e054ec-ea17-40cb-a054-ecea1710cbc9">
+            <name>Hagen-Groll, Walter</name>
+            <id type="gnd">13229057X</id>
+            <roleActor>
+                <role>Chorleiter</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b088a70c-8f89-4e15-88a7-0c8f897e152c">
+            <name>Claudel, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>Nachdichter</role>
+            </roleActor>
+        </actor>
+        <actor id="f514f3bf-0d45-456c-94f3-bf0d45c56cd9">
+            <name>Dooley, William</name>
+            <id type="gnd">134361113</id>
+            <roleActor>
+                <role type="Rolle">Apollo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d0a36831-d6c1-4f40-a368-31d6c13f4015">
+            <name>Funk, Peter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>Deutsche Bühnenfassung</role>
+            </roleActor>
+        </actor>
+        <actor id="7703639d-ca7a-4773-8363-9dca7aa77309">
+            <name>Gayer, Catherine</name>
+            <id type="gnd">132438259</id>
+            <roleActor>
+                <role type="Rolle">Athene</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="09122a5f-2491-4f6d-922a-5f2491ef6d37">
+            <name>Hesse, Ruth</name>
+            <id type="gnd">134405056</id>
+            <roleActor>
+                <role type="Rolle">Chorführerinnen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fecd03e3-11a4-48e1-8d03-e311a4a8e1ba">
+            <name>Hollreiser, Heinrich</name>
+            <id type="gnd">116964839</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="ca4a9495-6cfb-4ecf-8a94-956cfbbecf9e">
+            <name>Johnson, Patricia</name>
+            <id type="gnd">132848988</id>
+            <roleActor>
+                <role type="Rolle">Elektra</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b77ff355-35fc-490e-bff3-5535fc590e97">
+            <name>Kuchta, Gladys</name>
+            <id type="gnd">131364421</id>
+            <roleActor>
+                <role type="Rolle">Klytämnestra</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d23f54b3-d30e-43cb-bf54-b3d30ee3cb4d">
+            <name>Little, Vera</name>
+            <id type="gnd">130483591</id>
+            <roleActor>
+                <role type="Rolle">Pythia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cfaf0efe-8304-4cd3-af0e-fe83041cd3d7">
+            <name>Mikes, Gitta</name>
+            <id type="gnd">1018307303</id>
+            <roleActor>
+                <role type="Rolle">Athene</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0e9bdcf4-06a4-400a-9bdc-f406a4000a71">
+            <name>Milhaud, Darius</name>
+            <id type="gnd">118582453</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b2060557-5357-4c15-8605-575357dc1516">
+            <name>Nagano, Yonako</name>
+            <id type="gnd">134659759</id>
+            <roleActor>
+                <role type="Rolle">Athene</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0b5c7110-c434-4707-9c71-10c434a707fe">
+            <name>Raffaelli, Michel</name>
+            <id type="gnd">131941208</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f407b8e1-c7f1-40cc-87b8-e1c7f140cc64">
+            <name>Reinmann, Ingrid</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Gestalt der Athene und Sprecherin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cc0e29cf-3803-4448-8e29-cf3803d44816">
+            <name>Stewart, Thomas</name>
+            <id type="gnd">128432497</id>
+            <roleActor>
+                <role type="Rolle">Orest</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f0be03bd-c217-41bb-be03-bdc217f1bb24">
+            <name>Türke, Marina</name>
+            <id type="gnd">134817273</id>
+            <roleActor>
+                <role type="Rolle">Chorführerinnen</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000091" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Die Orestie des Aischylos"</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Festival">
+            <listTitle>
+                <titleStmt>
+                    <title>Berliner Begegnungen 1963</title>
+                </titleStmt>
+            </listTitle>
+            <listDate/>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList/>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

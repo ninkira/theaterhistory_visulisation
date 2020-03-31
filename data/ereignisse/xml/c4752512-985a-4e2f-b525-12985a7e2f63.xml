@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="c4752512-985a-4e2f-b525-12985a7e2f63" type="Performance">
+    <groupingArgument actorID="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">Quitzows, Die++Lewinger, Ernst</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Quitzows, Die</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Quitzow´s, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000558"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Bonn</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000558"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="28.12.1890" to="28.12.1890">
+                <listObject>
+                    <object id="TWS_OBJ0000558"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Thomas Wins, Bürgermeister von Straußberg</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eeb2916c-7b6e-43c0-b291-6c7b6ef3c0f6">
+            <name>Lewinger, Ernst</name>
+            <id type="gnd">116971835</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="9f85cfc6-f3d6-4f55-85cf-c6f3d6df5521">
+            <name>Leyrer, Rudolf</name>
+            <id type="gnd">130227463</id>
+            <roleActor>
+                <role type="Rolle">Friedrich I. von Hohenzollern, Burggraf von Nürnberg, Markgraf von Brandenburg</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c1ab1481-f8e7-490d-ab14-81f8e7690dcb">
+            <name>Schwarzenberg, Judith</name>
+            <id type="gnd">1050520998</id>
+            <roleActor>
+                <role type="Rolle">Gertrud, Frau des Thomas Wins</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bf155429-8013-477c-9554-298013877c5e">
+            <name>Stadttheater (Bonn)</name>
+            <id type="gnd">217619-1</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="a4f440f2-9937-4ece-b440-f29937cece6a">
+            <name>Wildenbruch, Ernst von</name>
+            <id type="gnd">118771760</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="793acec2-580c-4417-bace-c2580cf4176d">
+            <name>Hofmann, Julius</name>
+            <id type="gnd">116951621</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="09786ae3-da91-44d4-b86a-e3da9104d4fc">
+            <name>Garbrecht, Arno</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kasimir, Herzog von Pommern-Stettin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6917069-7051-4936-9170-697051293661">
+            <name>Beck, Otto</name>
+            <id type="gnd">116101997</id>
+            <roleActor>
+                <role type="Rolle">Otto, Herzog von Pommern-Stettin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f282d6f0-712e-4c65-82d6-f0712e7c6554">
+            <name>Kaufhold, Hedwig</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Barbara vom Bug, Tochter König Jagellos von Polen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="06a99e8b-2da7-4d44-a99e-8b2da7bd44bb">
+            <name>Heine, Hermann</name>
+            <id type="gnd">143746669</id>
+            <roleActor>
+                <role type="Rolle">Dietrich von Quitzow</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a3da67ad-018a-4f92-9a67-ad018aaf92bb">
+            <name>Robert, Waldemar</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Konrad von Quitzow, Bruder des Dietrich</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3ccc4506-abe6-4050-8c45-06abe640503d">
+            <name>Lengsdorf, Gottfried</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lippold von Bredow</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="84fcebb8-5611-43f2-bceb-b8561143f24f">
+            <name>Rouché, Ernst</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Hans zu Putlitz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d910570-00a0-4a47-9105-7000a0fa4708">
+            <name>Kammerer, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Richard von Rochow</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="25f0d679-6c82-47f9-b0d6-796c82b7f969">
+            <name>Rennert, Julius</name>
+            <id type="gnd">116443979</id>
+            <roleActor>
+                <role type="Rolle">Peter Grechewitz, Notar der märkischen Städte</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="009d6b65-7062-49d2-9d6b-65706279d2e3">
+            <name>Schätzle, Ernst</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Johann von Briesen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dffa16a5-958a-4c97-ba16-a5958a6c970e">
+            <name>Sommer, Kurt</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Detlew von Schwerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="002d665e-9183-4752-ad66-5e9183c7527a">
+            <name>Richter, Emil</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Probst Ortwin von Berlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6ca6ad5-0afb-4974-8a6a-d50afb29743b">
+            <name>Eyben, Julius</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Henning Perwenitz, erster Bürgermeister von Berlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f7946fe-1bd4-463f-b946-fe1bd4163f28">
+            <name>Sieger, Mary</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Grethe, Tochter des Henning Perwenitz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b40f32da-1cc1-45a6-8f32-da1cc1a5a651">
+            <name>Biehler, Alfred</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Hans Dennewitz, zweiter Bürgermeister von Berlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7c7f8524-b67d-4897-bf85-24b67db89741">
+            <name>Cronau, Emmy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Käthe, Tochter des Hans Dennewitz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fa70854e-da8b-4fd8-b085-4eda8b0fd823">
+            <name>Zimmermann, Ludwig</name>
+            <id type="gnd">116999772</id>
+            <roleActor>
+                <role type="Rolle">Henning Stroband, Schmiedemeister und Rathsmann von Berlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fb48918d-e634-42ac-8891-8de634a2ac55">
+            <name>Braga, Anna</name>
+            <id type="gnd">1069312347</id>
+            <roleActor>
+                <role type="Rolle">Rieke, Tochter des Henning Stroband</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5f727f6b-0d42-43d8-b27f-6b0d4203d8e4">
+            <name>Laube, Robert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Veit Sechelweg, Rathsmann von Berlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f6492dba-4e62-4676-892d-ba4e622676d7">
+            <name>Pelzer, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Albert Rathenow, Rathsmann von Berlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="43475446-2ac2-40c2-8754-462ac200c259">
+            <name>Roscher, Karl</name>
+            <id type="gnd">183503171</id>
+            <roleActor>
+                <role type="Rolle">Klaus Schultze, Rathsmann von Berlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bcdf7c97-4301-4bf8-9f7c-974301cbf879">
+            <name>Utecht, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Paul Blankenfeld, Rathsmann von Berlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3302e84b-7602-4ed3-82e8-4b76020ed38f">
+            <name>Doré, Adele</name>
+            <id type="gnd">117031453</id>
+            <roleActor>
+                <role type="Rolle">Agnes, Tochter des Thomas Wins</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f7ca69bb-8afc-4190-8a69-bb8afc8190eb">
+            <name>Jensen, Adolf</name>
+            <id type="gnd">160174082</id>
+            <roleActor>
+                <role type="Rolle">Kaspar Rienecke, Rathsmann von Oderberg</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0a90f8de-6faa-4f31-90f8-de6faa3f31f4">
+            <name>Ulbrich, August</name>
+            <id type="gnd">1013009339</id>
+            <roleActor>
+                <role type="Rolle">Martin von Linum, Rathskellermeister zu Berlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2331c12-835d-4299-b31c-12835d229931">
+            <name>Portz, Hans</name>
+            <id type="gnd">116269448</id>
+            <roleActor>
+                <role type="Rolle">Köhne Finke, Schmiedegesell</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c09f6d81-6c0b-439a-9f6d-816c0b239a8f">
+            <name>Tenhaeff, Reinhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Knappe der Quitzows</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57dc5d0b-e612-4202-9c5d-0be612120205">
+            <name>Hecken, Max</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Hans Sturz, Wachtmeister von Berlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="90c3b67e-b695-4acc-83b6-7eb6953accdb">
+            <name>Hedeberg, Egon</name>
+            <id type="gnd">143596748</id>
+            <roleActor>
+                <role type="Rolle">Fritz Beltow, Stadtsoldat von Berlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1c4f9b82-ce65-4aae-8f9b-82ce65aaae8f">
+            <name>Schmalfeld, Rudolf</name>
+            <id type="gnd">133553337</id>
+            <roleActor>
+                <role type="Rolle">Peter Stummel, Stadtsoldat von Berlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="06225245-4d42-4538-a252-454d42d538b3">
+            <name>Stellmach, Robert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Krodenow</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ac5f2958-4fc2-4f3a-9f29-584fc28f3a6a">
+            <name>Herr, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">ein kaiserlicher Herold</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="08d1a16a-a231-4676-91a1-6aa231f6768a">
+            <name>Schmitt, Fritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">ein Knecht der Quitzows</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9df0d0cc-c7fb-4c87-b0d0-ccc7fbac8788">
+            <name>Schlez, Fritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Rathsmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2038c4ec-1dfa-43fa-b8c4-ec1dfa43fa85">
+            <name>Bassin, Jean</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Rathsmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d67b1433-77c8-4b52-bb14-3377c8ab521a">
+            <name>Grube, Gustav</name>
+            <id type="gnd">126728186</id>
+            <roleActor>
+                <role type="Rolle">Rathsmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4b28b83b-93ec-4ea8-a8b8-3b93ecfea8af">
+            <name>Rapli, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Rathsmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="14e797ae-6721-4d40-a797-ae67218d4097">
+            <name>Wings, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Rathsmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b87d06ed-e4b5-441a-bd06-ede4b5041a82">
+            <name>Büchner, Edwin</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Rathsmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9c1b04e0-feaa-443d-9b04-e0feaa043dc2">
+            <name>Sahm, Anton</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Rathsmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000558" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu Max Behrend in "Die Quitzow's" in Bonn 1890</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

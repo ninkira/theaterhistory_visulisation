@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="9e739838-9f35-4a50-b398-389f355a50f8" type="Performance">
+    <groupingArgument actorID="ecaf536a-280e-4cf4-af53-6a280eccf498">Frühlings Erwachen+08.07.1920+Lindemann, Gustav</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Frühlings Erwachen</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Frühlings Erwachen</title>
+            <listObject>
+                <object id="TWS_OBJ0000687"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000687"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>08.07.1920</premier>
+            <time from="08.07.1920" to="1920">
+                <listObject>
+                    <object id="TWS_OBJ0000687"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="6be07fe4-d0a3-43b6-a07f-e4d0a303b63a">
+            <name>Wecus, Walter von</name>
+            <id type="gnd">119128403</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="31d647ca-bcaa-413f-9647-cabcaaf13f67">
+            <name>Wedekind, Frank</name>
+            <id type="gnd">118629867</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ecaf536a-280e-4cf4-af53-6a280eccf498">
+            <name>Lindemann, Gustav</name>
+            <id type="gnd">118728377</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000687" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Walter von Wecus</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="6fbddf8a-3aa9-4316-bddf-8a3aa9931673" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Macbeth+29.09.1963+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Macbeth</title>
+            <listObject>
+                <object id="TWS_OBJ0000093"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsche Oper Berlin</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000093"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>29.09.1963</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000093"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="71e054ec-ea17-40cb-a054-ecea1710cbc9">
+            <name>Hagen-Groll, Walter</name>
+            <id type="gnd">13229057X</id>
+            <roleActor>
+                <role>Chorleiter</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="cda0485b-d0f2-4b95-a048-5bd0f2eb95b4">
+            <name>Benade, Erika</name>
+            <id type="gnd">132414171</id>
+            <roleActor>
+                <role type="Rolle">eine Erscheinung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="14d5dfc8-7837-4955-95df-c878373955e6">
+            <name>Clam, Leopold</name>
+            <id type="gnd">134347714</id>
+            <roleActor>
+                <role type="Rolle">ein Mörder</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f514f3bf-0d45-456c-94f3-bf0d45c56cd9">
+            <name>Dooley, William</name>
+            <id type="gnd">134361113</id>
+            <roleActor>
+                <role type="Rolle">Macbeth</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3e6d95a9-9f55-48b4-ad95-a99f55d8b44f">
+            <name>Driscoll, Loren</name>
+            <id type="gnd">134362349</id>
+            <roleActor>
+                <role type="Rolle">Malcolm</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="34ba6d6c-c30e-4c93-ba6d-6cc30ebc933b">
+            <name>Göhler, Georg</name>
+            <id type="gnd">116701471</id>
+            <roleActor>
+                <role>Übersetzter</role>
+                <role>Librettist</role>
+            </roleActor>
+        </actor>
+        <actor id="d0272fe6-8df4-4619-a72f-e68df486198d">
+            <name>Hoppe, Fritz</name>
+            <id type="gnd">134410580</id>
+            <roleActor>
+                <role type="Rolle">ein Azrt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c2d9eb34-1470-4594-99eb-341470f59465">
+            <name>King, James</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Macduff</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b77ff355-35fc-490e-bff3-5535fc590e97">
+            <name>Kuchta, Gladys</name>
+            <id type="gnd">131364421</id>
+            <roleActor>
+                <role type="Rolle">Lady Machbeth</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9b12ae1d-ee5a-4afc-92ae-1dee5abafc88">
+            <name>Lagger, Peter</name>
+            <id type="gnd">133043347</id>
+            <roleActor>
+                <role type="Rolle">Banquo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d5a8c839-fd2d-4e51-a8c8-39fd2dee5166">
+            <name>Piave, Francesco Maria</name>
+            <id type="gnd">119110369</id>
+            <roleActor>
+                <role>Librettist</role>
+            </roleActor>
+        </actor>
+        <actor id="675b510a-daa1-4e4f-9b51-0adaa14e4f3c">
+            <name>Pohlmann, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0b5c7110-c434-4707-9c71-10c434a707fe">
+            <name>Raffaelli, Michel</name>
+            <id type="gnd">131941208</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a7bd6e64-70f1-4e58-bd6e-6470f14e58e6">
+            <name>Reppenhagen, Helmut</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">eine Erscheinung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d7f04170-c680-4d28-b041-70c6805d285b">
+            <name>Rossi, Mario</name>
+            <id type="gnd">123791618</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="f0be03bd-c217-41bb-be03-bdc217f1bb24">
+            <name>Türke, Marina</name>
+            <id type="gnd">134817273</id>
+            <roleActor>
+                <role type="Rolle">Kammerfrau der Lady Macbeth</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f8ef5b7b-d257-4f6d-af5b-7bd2571f6df8">
+            <name>Verdi, Giuseppe</name>
+            <id type="gnd">118626523</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="455bb7d5-b20c-48cd-9bb7-d5b20c98cd76">
+            <name>Willenberg, Christa</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">eine Erscheinung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000093" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Macbeth"</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Festival">
+            <listTitle>
+                <titleStmt>
+                    <title>13. Berliner Festwochen</title>
+                </titleStmt>
+            </listTitle>
+            <listDate/>
+            <culturalContext/>
+            <descriptionList>
+                <description>
+                    <beschreibung>
+                        <text>Neuinszenierung anläßlich des 150. Geburtstages von Giuseppe Verdi</text>
+                        <object>TWS_OBJ0000093</object>
+                    </beschreibung>
+                </description>
+            </descriptionList>
+            <actorList/>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

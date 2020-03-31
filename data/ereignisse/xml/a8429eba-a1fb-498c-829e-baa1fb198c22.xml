@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a8429eba-a1fb-498c-829e-baa1fb198c22" type="Performance">
+    <groupingArgument actorID="7e1f2012-f8de-49cc-9f20-12f8de19cc82">Rasputin+10.11.1927+Piscator, Erwin</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Rasputin</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Rasputin, die Romanows, der Krieg und das Volk, das gegen sie aufstand</title>
+            <listObject>
+                <object id="TWS_OBJ0000636"/>
+                <object id="TWS_OBJ0000637"/>
+            </listObject>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Rasputin</title>
+            <listObject>
+                <object id="TWS_OBJ0000686"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Piscatorbühne</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000636"/>
+                    <object id="TWS_OBJ0000637"/>
+                    <object id="TWS_OBJ0000686"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>10.11.1927</premier>
+            <time from="1927" to="1927">
+                <listObject>
+                    <object id="TWS_OBJ0000636"/>
+                    <object id="TWS_OBJ0000637"/>
+                    <object id="TWS_OBJ0000686"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="7e1f2012-f8de-49cc-9f20-12f8de19cc82">
+            <name>Piscator, Erwin</name>
+            <id type="gnd">118594648</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="81238253-712e-47c9-a382-53712ec7c9a5">
+            <name>Mueller, Traugott</name>
+            <id type="gnd">119307251</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="36bb4efc-d2fc-4ce3-bb4e-fcd2fc4ce3fd">
+            <name>Tolstoj, Aleksej N.</name>
+            <id type="gnd">118642901</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e7489daf-e9d1-4887-889d-afe9d1c8874d">
+            <name>Ščëgolev, Pavel Eliseevič</name>
+            <id type="gnd">119396688</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="a288af77-a91c-46c6-88af-77a91c06c6f7">
+            <name>Müller, Traugott</name>
+            <id type="gnd">119307251</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="3">
+        <object id="TWS_OBJ0000636" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbild Grundriss zu Piscators "Rasputin"-Inszenierung Berlin 1927</title>
+        </object>
+        <object id="TWS_OBJ0000637" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbild Grundriss zu Piscators "Rasputin"-Inszenierung Berlin 1927</title>
+        </object>
+        <object id="TWS_OBJ0000686" type="Modell: Bühnenbildmodell" aat="300007122">
+            <title>Bühnenbildmodell von Traugott Müller</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

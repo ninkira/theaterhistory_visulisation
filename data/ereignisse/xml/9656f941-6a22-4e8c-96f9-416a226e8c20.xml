@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="9656f941-6a22-4e8c-96f9-416a226e8c20" type="Performance">
+    <groupingArgument actorID="e7867ffc-3d67-45e5-867f-fc3d6765e55a">Emilia Galotti++Heinemann, Albert</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Emilia Galotti</title>
+            <listObject>
+                <object id="TWS_Kon0000027"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Mainz</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater</placeName>
+                <listObject>
+                    <object id="TWS_Kon0000027"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1922" to="1927">
+                <listObject>
+                    <object id="TWS_Kon0000027"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Marinelli</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e7867ffc-3d67-45e5-867f-fc3d6765e55a">
+            <name>Heinemann, Albert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ecd17024-46c9-446b-9170-2446c9446b70">
+            <name>Regensburger, Liselotte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Emilia Galotti</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b2ec831c-ba2b-4ed9-ac83-1cba2b5ed9e7">
+            <name>Zimmermann, Will</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Hettore Gonzaga, Prinz von Guastalla</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2f182031-2cd2-4776-9820-312cd2f7768a">
+            <name>Mainzer Stadttheater</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Institution</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_Kon0000027" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritiken zu Max Behrend in Lessings 'Emilia Galotti'</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

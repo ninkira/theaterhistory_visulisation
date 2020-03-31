@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="9de17e8b-4920-4d0e-a17e-8b49205d0ea5" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Robert Guiskard, Herzog der Nordmänner+30.10.1955+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Robert Guiskard, Herzog der Nordmänner</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Robert Guiskard, Herzog der Normänner</title>
+            <listObject>
+                <object id="TWS_OBJ0000077"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Orangeriehaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000077"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>30.10.1955</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000077"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="e949e404-4e9e-4f7e-89e4-044e9e9f7e79">
+            <name>Landestheater Darmstadt</name>
+            <id type="gnd">2002342-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="adee930c-86da-4a6e-ae93-0c86da2a6e63">
+            <name>Kleist, Heinrich von</name>
+            <id type="gnd">118563076</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cd3983cf-ee12-493d-b983-cfee12693de6">
+            <name>Leyrer, Willy</name>
+            <id type="gnd">1061403572</id>
+            <roleActor>
+                <role type="Rolle">Robert Guiskard, Herzog der Normänner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5d7f670-1a25-40ee-97f6-701a2510ee85">
+            <name>Hofer, Claus</name>
+            <id type="gnd">1061490157</id>
+            <roleActor>
+                <role type="Rolle">Sohn des Robert Guiskard / Normännerprinz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="69cd1467-f6bd-4e72-8d14-67f6bdee727e">
+            <name>Bösiger, Paul</name>
+            <id type="gnd">1062464664</id>
+            <roleActor>
+                <role type="Rolle">Abälard, Neffe des Robert Guiskard / Normännerprinz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f9052409-d0e3-423b-8524-09d0e3623bb5">
+            <name>Krug, Ellen</name>
+            <id type="gnd">1061646645</id>
+            <roleActor>
+                <role type="Rolle">Cäcilia, Herzogin der Normänner, Guiskards Gemahlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57d285bc-f174-4b52-9285-bcf1749b52fd">
+            <name>Joeres, Charlotte</name>
+            <id type="gnd">134633792</id>
+            <roleActor>
+                <role type="Rolle">Helena, verwitwete Kaiserin von Griechenland, Guiskards Tochter und Verlobte Abälards</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1c178e5-9f55-4cc0-8178-e59f551cc060">
+            <name>Noack, Max</name>
+            <id type="gnd">1031177310</id>
+            <roleActor>
+                <role type="Rolle">Ein Greis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="41c1242a-596d-4512-8124-2a596db5127c">
+            <name>Saussen, Edmund</name>
+            <id type="gnd">1061370453</id>
+            <roleActor>
+                <role type="Rolle">Krieger</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Krieger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="791a3822-9bd9-4ba1-9a38-229bd92ba1d1">
+            <name>Müller-Elmau, Raidar</name>
+            <id type="gnd">1061745511</id>
+            <roleActor>
+                <role type="Rolle">Krieger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da9f16cd-ce19-446e-9f16-cdce19846efb">
+            <name>Mittelhaus, Gerhard</name>
+            <id type="gnd">1062011414</id>
+            <roleActor>
+                <role type="Rolle">Im Ausschuß der Normänner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b987bc5d-b0e2-49ad-87bc-5db0e239adc9">
+            <name>Lübbert, Martin</name>
+            <id type="gnd">1061327752</id>
+            <roleActor>
+                <role type="Rolle">Im Ausschuß der Normänner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3eb0d4d8-7a37-4d06-b0d4-d87a37dd06e9">
+            <name>Steiger, Klaus</name>
+            <id type="gnd">110419287X</id>
+            <roleActor>
+                <role type="Rolle">Im Ausschuß der Normänner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57f536e8-98df-4506-b536-e898df850677">
+            <name>Rueffer, Alwin Michael</name>
+            <id type="gnd">118821458</id>
+            <roleActor>
+                <role type="Rolle">Ein Normann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a7a54dd4-b171-438c-a54d-d4b171d38cf7">
+            <name>Madin, Hans</name>
+            <id type="gnd">1062269985</id>
+            <roleActor>
+                <role type="Rolle">Die Stimme des Volkes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4cfae690-c3bf-4e67-bae6-90c3bf4e67c3">
+            <name>Wien, Herbert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Die Stimme des Volkes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5caecbeb-9438-4976-aecb-eb9438f976c1">
+            <name>Weicker, Hans</name>
+            <id type="gnd">1055072586</id>
+            <roleActor>
+                <role type="Rolle">Die Stimme des Volkes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dd5d9b5d-519c-461a-9d9b-5d519c361a78">
+            <name>Vogt, Eugen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Die Stimme des Volkes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f407b8e1-c7f1-40cc-87b8-e1c7f140cc64">
+            <name>Reinmann, Ingrid</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Die Stimme des Volkes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000077" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Besetzungszettel zu Robert Guiskard in Darmstadt 1955</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

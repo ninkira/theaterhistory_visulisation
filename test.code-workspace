@@ -1,0 +1,254 @@
+{
+ "name": "Events",
+ "children": [
+  {
+   "name": "1952",
+   "children": [
+    {
+     "name": "Prinz Friedrich von Homburg",
+     "children": [
+      {
+       "name": "Amberger, Günther"
+      },
+      {
+       "name": "Bernauer, Karin"
+      },
+      {
+       "name": "Gensichen, Kunibert"
+      },
+      {
+       "name": "Helfmann, Alexander"
+      },
+      {
+       "name": "Krug, Ellen"
+      },
+      {
+       "name": "Langhans, Jürgen"
+      },
+      {
+       "name": "Leyrer, Willy"
+      },
+      {
+       "name": "Lübbert, Martin"
+      },
+      {
+       "name": "Matthes, Karin"
+      },
+      {
+       "name": "Müller, Rolf"
+      },
+      {
+       "name": "Reinmann, Ingrid"
+      },
+      {
+       "name": "Saussen, Edmund"
+      },
+      {
+       "name": "Schiemer, Marie-Louise"
+      },
+      {
+       "name": "Schleiermacher, Annette"
+      },
+      {
+       "name": "Schneider, Franz"
+      },
+      {
+       "name": "Schüler, Hermann"
+      },
+      {
+       "name": "Strack, Günter"
+      },
+      {
+       "name": "Streck, Karl"
+      },
+      {
+       "name": "Traser, Kurt"
+      },
+      {
+       "name": "Vogt, Eugen"
+      },
+      {
+       "name": "Weber, Willi"
+      },
+      {
+       "name": "Weicker, Hans"
+      },
+      {
+       "name": "Westermann, Curt"
+      },
+      {
+       "name": "Wien, Herbert"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "1954",
+   "children": [
+    {
+     "name": "Widerspenstigen Zähmung, Der",
+     "children": [
+      {
+       "name": "Amberger, Günther"
+      },
+      {
+       "name": "Costa, Julia"
+      },
+      {
+       "name": "Helfmann, Alexander"
+      },
+      {
+       "name": "Hofer, Claus"
+      },
+      {
+       "name": "Leyrer, Willy"
+      },
+      {
+       "name": "Lübbert, Martin"
+      },
+      {
+       "name": "Mittelhaus, Gerhard"
+      },
+      {
+       "name": "Reinmann, Ingrid"
+      },
+      {
+       "name": "Saussen, Edmund"
+      },
+      {
+       "name": "Schiemer, Marie-Louise"
+      },
+      {
+       "name": "Steiger, Klaus"
+      },
+      {
+       "name": "Stromberger, Robert"
+      },
+      {
+       "name": "Vogt, Eugen"
+      },
+      {
+       "name": "Wachsmuth, Rolf Dieter"
+      },
+      {
+       "name": "Weicker, Hans"
+      },
+      {
+       "name": "Witt, Claus Peter"
+      },
+      {
+       "name": "Zimmermann, Hans a.G."
+      }
+     ]
+    },
+    {
+     "name": "taming of the shrew, The",
+     "children": [
+      {
+       "name": "Amberger, Günther"
+      },
+      {
+       "name": "Bernauer, Karin"
+      },
+      {
+       "name": "Costa, Julia"
+      },
+      {
+       "name": "Helfmann, Alexander"
+      },
+      {
+       "name": "Hofer, Claus"
+      },
+      {
+       "name": "Hübner, Rolf"
+      },
+      {
+       "name": "Lübbert, Martin"
+      },
+      {
+       "name": "Reinmann, Ingrid"
+      },
+      {
+       "name": "Saussen, Edmund"
+      },
+      {
+       "name": "Steiger, Klaus"
+      },
+      {
+       "name": "Stromberger, Robert"
+      },
+      {
+       "name": "Vogt, Eugen"
+      },
+      {
+       "name": "Wachsmuth, Rolf Dieter"
+      },
+      {
+       "name": "Weicker, Hans"
+      },
+      {
+       "name": "Witt, Claus Peter"
+      }
+     ]
+    },
+    {
+     "name": "Woyzeck",
+     "children": [
+      {
+       "name": "Amberger, Günter"
+      },
+      {
+       "name": "Helfmann, Alexander"
+      },
+      {
+       "name": "Hofer, Claus"
+      },
+      {
+       "name": "Joeres, Charlotte"
+      },
+      {
+       "name": "Krug, Ellen"
+      },
+      {
+       "name": "Leyrer, Willy"
+      },
+      {
+       "name": "Lübbert, Martin"
+      },
+      {
+       "name": "Mittelhaus, Gerhard"
+      },
+      {
+       "name": "Müller-Elmau, Raidar"
+      },
+      {
+       "name": "Noack, Max"
+      },
+      {
+       "name": "Reinmann, Ingrid"
+      },
+      {
+       "name": "Saussen, Edmund"
+      },
+      {
+       "name": "Schiemer, Marie-Louise"
+      },
+      {
+       "name": "Vogt, Eugen"
+      },
+      {
+       "name": "Weicker, Hans"
+      },
+      {
+       "name": "Wien, Herbert"
+      },
+      {
+       "name": "Witt, Claus Peter"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

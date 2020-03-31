@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="9b516b00-693f-44c6-916b-00693f34c6ea" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Friedensfest, Das+07.01.1907+Reinhardt, Max</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Friedensfest, Das</title>
+            <listObject>
+                <object id="TWS_OBJ0000185"/>
+                <object id="TWS_OBJ0000165"/>
+                <object id="TWS_OBJ0000164"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000185"/>
+                </listObject>
+            </place>
+            <place type="Institution">
+                <placeName>Deutsches Theater. Kammerspiele Berlin</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000165"/>
+                    <object id="TWS_OBJ0000164"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>07.01.1907</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000185"/>
+                    <object id="TWS_OBJ0000165"/>
+                    <object id="TWS_OBJ0000164"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Kammerspiele</text>
+            <object id="TWS_OBJ0000165"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="5ced7cfe-2eea-468e-ad7c-fe2eea668ec2">
+            <name>Arnold, Victor</name>
+            <id type="gnd">1050400186</id>
+            <roleActor>
+                <role type="Rolle">Friebe</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8c7e9bfe-2100-4eff-be9b-fe2100beff7d">
+            <name>Biensfeldt, Paul</name>
+            <id type="gnd">116165685</id>
+            <roleActor>
+                <role type="Rolle">Robert</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9935639c-891c-4618-b563-9c891ce618cf">
+            <name>Deutsches Theater</name>
+            <id type="gnd">4058252-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Auguste</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1169279b-3614-4a10-a927-9b36141a1046">
+            <name>Hauptmann, Gerhart</name>
+            <id type="gnd">118546937</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="dd4b4293-5de3-4f1c-8b42-935de31f1cf0">
+            <name>Heims-Reinhardt, Else</name>
+            <id type="gnd">116421983</id>
+            <roleActor>
+                <role type="Rolle">Ida</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6486cf64-e70d-4c98-86cf-64e70d0c98f2">
+            <name>Kayssler, Friedrich</name>
+            <id type="gnd">118721402</id>
+            <roleActor>
+                <role type="Rolle">Wilhelm</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role type="Rolle">Dr. med. Fritz Scholz</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="2934920f-0a4a-47ae-b492-0f0a4af7ae56">
+            <name>Sauer, Elise</name>
+            <id type="gnd">116977094</id>
+            <roleActor>
+                <role type="Rolle">Frau Marie Buchner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Minna Scholz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="405e64de-0cf6-41d5-9e64-de0cf681d517">
+            <name>Arnold, Franz</name>
+            <id type="gnd">116350040</id>
+            <roleActor>
+                <role type="Rolle">Friebe</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="94b14064-7388-4c18-b140-647388cc1887">
+            <name>Deutsches Theater Berlin</name>
+            <id type="gnd">4058252-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="3">
+        <object id="TWS_OBJ0000185" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Das Friedensfest" in Berlin 1907</title>
+        </object>
+        <object id="TWS_OBJ0000165" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Das Friedensfest" in Berlin 1907</title>
+        </object>
+        <object id="TWS_OBJ0000164" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto zu "Das Friedensfest" in Berlin 1907</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

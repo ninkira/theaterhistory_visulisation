@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ec0b9ed0-8bf6-4720-8b9e-d08bf6472049" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Was ihr wollt+03.10.1950+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Was ihr wollt</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Was ihr wollt</title>
+            <listObject>
+                <object id="TWS_OBJ0000022"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Göttingen</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000022"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>03.10.1950</premier>
+            <time from="03.10.1950" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000022"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>laut Programmzettel wurde am 3. Oktober 1940 gespielt, ob dies die Premiere war, ist nicht gesichert</text>
+            <object id="TWS_OBJ0000022"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="2cf0cf2e-95e2-4213-b0cf-2e95e2721357">
+            <name>Göttingen Stadttheater</name>
+            <id type="gnd">116190-8</id>
+            <roleActor>
+                <role>Produktion</role>
+            </roleActor>
+        </actor>
+        <actor id="e74f4bff-3467-4ee2-8f4b-ff34671ee2c3">
+            <name>Ploch, Hans</name>
+            <id type="gnd">116245816</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000022" type="Wochenspielplan" aat="">
+            <title>Wochenspielplan zu "Was ihr wollt" in Göttingen 1940</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

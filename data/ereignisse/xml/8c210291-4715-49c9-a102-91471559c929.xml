@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="8c210291-4715-49c9-a102-91471559c929" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Monte Cassino+30.11.1949+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Monte Cassino</title>
+            <listObject>
+                <object id="TWS_OBJ0000081"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Essen</placeName>
+            <place type="Institution">
+                <placeName>Die Bühnen der Stadt Essen</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000081"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>30.11.1949</premier>
+            <time from="30.11.1949" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000081"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="58e0088b-d838-4f9a-a008-8bd838bf9a90">
+            <name>Vietta, Egon</name>
+            <id type="gnd">117416312</id>
+            <roleActor>
+                <role>Dramaturg_in</role>
+            </roleActor>
+        </actor>
+        <actor id="1152ce06-fe42-4ae7-92ce-06fe422ae7e5">
+            <name>Baumeister, Willi</name>
+            <id type="gnd">118507559</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="66626794-7cc6-4187-a267-947cc64187bd">
+            <name>Schneider, Horst</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8969d4ae-6a87-4413-a9d4-ae6a874413c0">
+            <name>Baudisch, Manfred</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="40ca3338-0347-416a-8a33-380347a16aa5">
+            <name>Trapp, Heinrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="376e598a-4d99-4460-ae59-8a4d99d460db">
+            <name>Schirlitz, Wolfgang</name>
+            <id type="gnd">1061881652</id>
+            <roleActor>
+                <role type="Rolle">Casper Stückengold</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="73836073-dca7-401b-8360-73dca7701b67">
+            <name>Braun, Horst</name>
+            <id type="gnd">1095913859</id>
+            <roleActor>
+                <role type="Rolle">Casper Stückengold</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="96077e99-2251-4b52-877e-992251cb521c">
+            <name>Naumann, Harry</name>
+            <id type="gnd">105974145</id>
+            <roleActor>
+                <role type="Rolle">Johann Silvester Stückengold, genannt Owen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4207e862-5493-4d98-87e8-6254932d9800">
+            <name>Romberg, Günther</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kurt Heinemann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="07ec01ed-3872-4638-ac01-ed3872f6389c">
+            <name>Meinertzhagen, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Augustin Lamm</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="84156c01-d7cd-437d-956c-01d7cdd37d85">
+            <name>Loges, Hannes</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Arjuna</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7d869652-89e4-4159-8696-5289e44159f2">
+            <name>Mitulsik, Ernst-Walter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Gregorio Diamare</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e4302f37-7787-4251-b02f-37778792512d">
+            <name>Kaiser, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Petrus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e81ae2f6-f643-4457-9ae2-f6f643b4578f">
+            <name>Arnswald, Günter</name>
+            <id type="gnd">1090807988</id>
+            <roleActor>
+                <role type="Rolle">Kardinalstaatssekretär</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2aa027fc-159c-4758-a027-fc159ce758a1">
+            <name>Streck, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Vorbeter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e4a91693-5f92-463a-a916-935f92763a94">
+            <name>Lorscheidt, Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Erscheinung des hl. Benediktus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2a82797e-a953-456d-8279-7ea953656d7d">
+            <name>Schrade, Arno</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor der toten Beniktinermönche</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Chorsänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Chor der toten Beniktinermönche</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Chorsänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="fc14fce6-73ed-445c-94fc-e673eda45c23">
+            <name>Straubel, Friedhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor der toten Beniktinermönche</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Chorsänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="a6e5be48-90b3-4d6e-a5be-4890b37d6e4c">
+            <name>Lübke, Lucian</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor der toten Beniktinermönche</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Chorsänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="885f6e41-2120-45de-9f6e-41212085de1f">
+            <name>Rampelmann, Peter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor der toten Beniktinermönche</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Chorsänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="978cd288-c915-425d-8cd2-88c915825d87">
+            <name>Bollmann, Horst</name>
+            <id type="gnd">116236639</id>
+            <roleActor>
+                <role type="Rolle">Chor der toten Beniktinermönche</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Chorsänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="167a4b13-e9a2-4682-ba4b-13e9a2b6825e">
+            <name>Velten, Werner</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor der toten Beniktinermönche</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Chorsänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="efd06f1d-e2a7-4f1c-906f-1de2a78f1c85">
+            <name>Nicodem, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor der toten Beniktinermönche</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Chorsänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="c5ab60ed-3d28-4eae-ab60-ed3d286eaeef">
+            <name>Fischer, Günther</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor der toten Beniktinermönche</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Chorsänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="2cac4d72-e3e2-448a-ac4d-72e3e2948af2">
+            <name>Ryba, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="bee7847b-8f2c-40a5-a784-7b8f2c00a59c">
+            <name>Buch, Karl Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="46088f68-de7a-4403-888f-68de7a340360">
+            <name>Reiß, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="57c80a2b-cdbb-4657-880a-2bcdbbc65762">
+            <name>Lick, Karlheinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="d158fd6d-656f-4017-98fd-6d656fb01790">
+            <name>Bertling, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000081" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu Monte Cassino</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

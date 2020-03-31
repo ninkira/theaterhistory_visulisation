@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="5a0afe67-8d15-459b-8afe-678d15259bda" type="Performance">
+    <groupingArgument actorID="65cf183e-db3e-46e9-8f18-3edb3e86e93e">Rencontre imprévue, La++Hagemann, Carl</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Rencontre imprévue, La</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Pilger von Mekka, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000547"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wiesbaden</placeName>
+            <place type="Institution">
+                <placeName>Hessisches Staatstheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000547"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1922" to="1923">
+                <listObject>
+                    <object id="TWS_OBJ0000547"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Als Vorlage diente Florent Carton Dancourt´s "Ein unerwartetes Zusammentreffen".</text>
+            <object id="TWS_OBJ0000547"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="65cf183e-db3e-46e9-8f18-3edb3e86e93e">
+            <name>Hagemann, Carl</name>
+            <id type="gnd">119368277</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="efccbb7a-9f0d-405d-8cbb-7a9f0da05de7">
+            <name>Hessisches Staatstheater (Wiesbaden)</name>
+            <id type="gnd">4366400-3</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="925248bc-f0e1-44b4-9248-bcf0e1f4b42b">
+            <name>Gluck, Christoph Willibald</name>
+            <id type="gnd">118539841</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000547" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritik zur " Die Pilger von Mekka"-Inszenierung in Wiesbaden 1922/23</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

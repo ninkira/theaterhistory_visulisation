@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="513307e4-a71a-4850-b307-e4a71a3850bc" type="Performance">
+    <groupingArgument actorID="e129ed2c-e86a-4e53-a9ed-2ce86a7e53ca">Ballschuhe, Die+08.11.1899+Arnau, Carl</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Ballschuhe, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000146"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>concession, Theater-Vorbereitungsschule</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000146"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>08.11.1899</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000146"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>3. Vorstellung des Zweiten Eleven-Abends</text>
+            <object id="TWS_OBJ0000146"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Susanne von Marcilly</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0384a1f7-6f13-48f8-84a1-f76f13b8f8d1">
+            <name>Wesel</name>
+            <id type="gnd">undefined</id>
+            <roleActor>
+                <role type="Rolle">Marguerite</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="558f1d58-cbdf-47cd-8f1d-58cbdf77cd4f">
+            <name>Gastineau, Octave</name>
+            <id type="gnd">104926147X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e129ed2c-e86a-4e53-a9ed-2ce86a7e53ca">
+            <name>Arnau, Carl</name>
+            <id type="gnd">116341831</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000146" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Zweite Eleven-Vorstellung" in Wien 1899</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

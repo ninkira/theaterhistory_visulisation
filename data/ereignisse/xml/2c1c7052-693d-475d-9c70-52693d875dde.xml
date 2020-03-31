@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="2c1c7052-693d-475d-9c70-52693d875dde" type="Performance">
+    <groupingArgument actorID="afed4617-3104-4732-ad46-173104773235">Gaukler, Tod und Juwelier+30.03.1920+Holl, Fritz</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Gaukler, Tod und Juwelier</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Gaukler, Tod und Juwelier</title>
+            <listObject>
+                <object id="TWS_OBJ0000688"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000688"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>30.03.1920</premier>
+            <time from="30.03.1920" to="1920">
+                <listObject>
+                    <object id="TWS_OBJ0000688"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="6be07fe4-d0a3-43b6-a07f-e4d0a303b63a">
+            <name>Wecus, Walter von</name>
+            <id type="gnd">119128403</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="28168169-e474-425d-9681-69e474b25d3c">
+            <name>Hauptmann, Carl</name>
+            <id type="gnd">118546910</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="afed4617-3104-4732-ad46-173104773235">
+            <name>Holl, Fritz</name>
+            <id type="gnd">116961309</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000688" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Walter von Wecus</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

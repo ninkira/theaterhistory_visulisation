@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="06b3ce97-eeed-4771-b3ce-97eeedd7713f" type="Performance">
+    <groupingArgument actorID="">King Richard the Third++</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>King Richard the Third</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title/>
+            <listObject>
+                <object id="TWS_OBJ0000676"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName/>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000676"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1875" to="1894">
+                <listObject>
+                    <object id="TWS_OBJ0000676"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Richard III</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000676" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Fotografie von Max Behrend als Richard III 1893</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

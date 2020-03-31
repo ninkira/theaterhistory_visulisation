@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="359963bb-0e67-44ca-9963-bb0e6784ca39" type="Performance">
+    <groupingArgument actorID="f51d4364-574f-4700-9d43-64574f670078">Neuvermählten, Die+02.11.1905+Hollaender, Felix</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Neuvermählten, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000198"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000198"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>02.11.1905</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000198"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="9935639c-891c-4618-b563-9c891ce618cf">
+            <name>Deutsches Theater</name>
+            <id type="gnd">4058252-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Mathilde</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="af9dc891-937a-40c6-9dc8-91937a10c6c1">
+            <name>Engels, Georg</name>
+            <id type="gnd">116497483</id>
+            <roleActor>
+                <role type="Rolle">Der Amtmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f51d4364-574f-4700-9d43-64574f670078">
+            <name>Hollaender, Felix</name>
+            <id type="gnd">116961805</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="988634fc-b9a2-42e1-8634-fcb9a282e1d9">
+            <name>Bjørnson, Bjørnstjerne</name>
+            <id type="gnd">118511459</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Amtmannsfrau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="06f455a0-a2c4-4605-b455-a0a2c4860525">
+            <name>Lange, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="f8a2473f-376b-4503-a247-3f376b3503a4">
+            <name>Eysoldt, Gertrud</name>
+            <id type="gnd">119115522</id>
+            <roleActor>
+                <role type="Rolle">Laura</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6cf94e8-5338-40e5-8f94-e8533820e5e0">
+            <name>Schroth, Heinrich</name>
+            <id type="gnd">117099228</id>
+            <roleActor>
+                <role type="Rolle">Axel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3e91537c-571e-4fa9-9153-7c571effa97d">
+            <name>Reimann, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="02c68416-cfa7-4aa5-8684-16cfa79aa5cd">
+            <name>Wellhoener, Margarete</name>
+            <id type="gnd">106239559X</id>
+            <roleActor>
+                <role type="Rolle">Ein Mädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000198" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Die Neuvermählten" in Berlin 1905</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

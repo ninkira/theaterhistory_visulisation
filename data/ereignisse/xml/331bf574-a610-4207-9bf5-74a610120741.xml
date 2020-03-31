@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="331bf574-a610-4207-9bf5-74a610120741" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Don Carlos+10.11.1909+Reinhardt, Max</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Don Carlos</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Don Carlos</title>
+            <listObject>
+                <object id="TWS_OBJ0000218"/>
+                <object id="TWS_OBJ0000217"/>
+                <object id="TWS_OBJ0000216"/>
+                <object id="TWS_OBJ0000215"/>
+                <object id="TWS_OBJ0000214"/>
+                <object id="TWS_OBJ0000213"/>
+                <object id="TWS_OBJ0000194"/>
+                <object id="TWS_OBJ0000193"/>
+                <object id="TWS_OBJ0000192"/>
+                <object id="TWS_KON0000017"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Schillertheater (Wallnertheater) Berlin</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000218"/>
+                    <object id="TWS_OBJ0000217"/>
+                    <object id="TWS_OBJ0000216"/>
+                    <object id="TWS_OBJ0000215"/>
+                    <object id="TWS_OBJ0000214"/>
+                    <object id="TWS_OBJ0000213"/>
+                    <object id="TWS_OBJ0000194"/>
+                    <object id="TWS_OBJ0000193"/>
+                    <object id="TWS_OBJ0000192"/>
+                    <object id="TWS_KON0000017"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>10.11.1909</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000218"/>
+                    <object id="TWS_OBJ0000217"/>
+                    <object id="TWS_OBJ0000216"/>
+                    <object id="TWS_OBJ0000215"/>
+                    <object id="TWS_OBJ0000214"/>
+                    <object id="TWS_OBJ0000213"/>
+                    <object id="TWS_OBJ0000194"/>
+                    <object id="TWS_OBJ0000193"/>
+                    <object id="TWS_OBJ0000192"/>
+                    <object id="TWS_KON0000017"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="0c71d2d8-10cb-4f7b-b1d2-d810cb6f7b37">
+            <name>Schiller, Friedrich</name>
+            <id type="gnd">118607626</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Prinzessin v. Eboli</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="5f0fb9e6-ea32-4193-8fb9-e6ea3291939a">
+            <name>Stern, Ernst</name>
+            <id type="gnd">118753614</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="19615481-143a-4bc4-a154-81143a4bc49f">
+            <name>Bassermann, Albert</name>
+            <id type="gnd">118653407</id>
+            <roleActor>
+                <role type="Rolle">Philipp II.</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dd4b4293-5de3-4f1c-8b42-935de31f1cf0">
+            <name>Heims-Reinhardt, Else</name>
+            <id type="gnd">116421983</id>
+            <roleActor>
+                <role type="Rolle">Elisabeth v. Valois</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e6f01b9b-73e2-472f-b01b-9b73e2772fa9">
+            <name>Ingenohl, Oscar</name>
+            <id type="gnd">117139122</id>
+            <roleActor>
+                <role type="Rolle">Alexander Farnese</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d856930-5067-4d98-8569-3050675d98d5">
+            <name>Müller, Charlotte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Infantin Eugenia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8dfa7c96-3596-4f89-ba7c-963596ff89c1">
+            <name>Walden, Harry</name>
+            <id type="gnd">117118524</id>
+            <roleActor>
+                <role type="Rolle">Don Carlos</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4ef42cc9-1532-4ed2-b42c-c91532aed29a">
+            <name>Damm, Margarete</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Herzogin v. Olivarez</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="49c58c8e-5f39-4516-858c-8e5f39a51662">
+            <name>Weirauch, Anna Elisabet</name>
+            <id type="gnd">118766333</id>
+            <roleActor>
+                <role type="Rolle">Marquisin v. Mondecar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="35afacbb-49ec-42b6-afac-bb49ec22b630">
+            <name>Handerson, Heddy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Gräfin v. Fuentes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bd135b2e-b813-4135-935b-2eb81391354c">
+            <name>Moissi, Alexander</name>
+            <id type="gnd">118583271</id>
+            <roleActor>
+                <role type="Rolle">Marquis v. Posa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cbc6029d-f567-4deb-8602-9df5679deb2b">
+            <name>Wegener, Paul</name>
+            <id type="gnd">118765981</id>
+            <roleActor>
+                <role type="Rolle">Herzog v. Alba</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="50601e69-2d76-4f47-a01e-692d768f47d1">
+            <name>Diegelmann, Wilhelm</name>
+            <id type="gnd">11610046X</id>
+            <roleActor>
+                <role type="Rolle">Graf v. Lerma</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5b1de11d-a34b-42b5-9de1-1da34b12b5f7">
+            <name>Conradi, Paul</name>
+            <id type="gnd">1097218341</id>
+            <roleActor>
+                <role type="Rolle">Herzog v. Feria</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1b37abd1-0226-4d91-b7ab-d102263d912b">
+            <name>Hartau, Ludwig</name>
+            <id type="gnd">11649008X</id>
+            <roleActor>
+                <role type="Rolle">Herzog v. Medina</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0f45f395-1790-4d83-85f3-951790bd8331">
+            <name>Ebert, Carl</name>
+            <id type="gnd">118687565</id>
+            <roleActor>
+                <role type="Rolle">Don Raimond</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d57e9499-3da1-45fc-be94-993da175fcc7">
+            <name>Kühne, Friedrich</name>
+            <id type="gnd">1060906619</id>
+            <roleActor>
+                <role type="Rolle">Domingo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ecc49639-d53a-4c7c-8496-39d53abc7c7e">
+            <name>Pagay, Hans</name>
+            <id type="gnd">116015454</id>
+            <roleActor>
+                <role type="Rolle">Großinquisitor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="42b3bbda-7ff8-48e9-b3bb-da7ff858e918">
+            <name>Bendow, Wilhelm</name>
+            <id type="gnd">109066944</id>
+            <roleActor>
+                <role type="Rolle">Page der Königin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a9145ea6-19d2-4d20-945e-a619d23d20ad">
+            <name>Wilhelmi, Josef</name>
+            <id type="gnd">1050527658</id>
+            <roleActor>
+                <role type="Rolle">Don Mercado</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="acf997c1-c8cd-424d-b997-c1c8cdf24dd6">
+            <name>Feldhammer, Jacob</name>
+            <id type="gnd">126714703</id>
+            <roleActor>
+                <role type="Rolle">Offizier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="833bb6bb-6e81-47af-bbb6-bb6e81e7af92">
+            <name>Schillertheater (Wallnertheater) Berlin</name>
+            <id type="gnd">4403888-4</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="e28c555f-d312-4b49-8c55-5fd3128b4975">
+            <name>Dworsky, Rudolf</name>
+            <id type="gnd">1061856143</id>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="10">
+        <object id="TWS_OBJ0000218" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Don Carlos" in Berlin 1909</title>
+        </object>
+        <object id="TWS_OBJ0000217" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Don Carlos" in Berlin 1909</title>
+        </object>
+        <object id="TWS_OBJ0000216" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Don Carlos" in Berlin 1909</title>
+        </object>
+        <object id="TWS_OBJ0000215" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Don Carlos" in Berlin 1909</title>
+        </object>
+        <object id="TWS_OBJ0000214" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Don Carlos" in Berlin 1909</title>
+        </object>
+        <object id="TWS_OBJ0000213" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Fotografie zu "Don Carlos" in Berlin 1909</title>
+        </object>
+        <object id="TWS_OBJ0000194" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Don Carlos" in Berlin 1909</title>
+        </object>
+        <object id="TWS_OBJ0000193" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Don Carlos" in Berlin 1909</title>
+        </object>
+        <object id="TWS_OBJ0000192" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Don Carlos" in Berlin 1909</title>
+        </object>
+        <object id="TWS_KON0000017" type="Publikation: Rezension" aat="">
+            <title>Kritiken zu "Don Carlos" in Berlin 1909</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

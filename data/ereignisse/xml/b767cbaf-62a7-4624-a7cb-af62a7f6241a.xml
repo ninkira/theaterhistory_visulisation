@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="b767cbaf-62a7-4624-a7cb-af62a7f6241a" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Theaterzettel zu "Jakob oder der Gehorsam" und "Biedermann und die Brandstifter"+16.01.1959+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Theaterzettel zu "Jakob oder der Gehorsam" und "Biedermann und die Brandstifter"</title>
+            <listObject>
+                <object id="TWS_OBJ0000134"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Landestheater Darmstadt</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000134"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>16.01.1959</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000134"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Zwei Inszenierungen an einem Abend, "Jakob oder der Gehorsam" ist die westdeutsche Erstaufführung</text>
+            <object id="TWS_OBJ0000134"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="1fec8897-a9b0-41b8-ac88-97a9b041b811">
+            <name>Bary, Erika de</name>
+            <id type="gnd">104691506</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>Übersetzerin</role>
+            </roleActor>
+        </actor>
+        <actor id="fa5c6de7-1664-4da2-9c6d-e716644da240">
+            <name>Bremer, Claus</name>
+            <id type="gnd">121020150</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>Übersetzer</role>
+            </roleActor>
+        </actor>
+        <actor id="610ee79b-b45f-4260-8ee7-9bb45fc260ed">
+            <name>Bruns, Heiner</name>
+            <id type="gnd">137243693</id>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="39169fad-3803-410b-969f-ad3803310b68">
+            <name>Böhm, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="ccb0ffbe-76f3-472d-b0ff-be76f3872dee">
+            <name>Büttner, Elly</name>
+            <id type="gnd">1023863960</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="435321a5-a6a1-464e-9321-a5a6a1f64e73">
+            <name>Fleischer, Arwed</name>
+            <id type="gnd">1075026016</id>
+            <roleActor>
+                <role type="Rolle">Vater Jakob</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f4372140-2418-4511-b721-402418451100">
+            <name>Ionesco, Eugène</name>
+            <id type="gnd">118555707</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="57d285bc-f174-4b52-9285-bcf1749b52fd">
+            <name>Joeres, Charlotte</name>
+            <id type="gnd">134633792</id>
+            <roleActor>
+                <role type="Rolle">Mutter Jakob</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f9052409-d0e3-423b-8524-09d0e3623bb5">
+            <name>Krug, Ellen</name>
+            <id type="gnd">1061646645</id>
+            <roleActor>
+                <role type="Rolle">Mutter Robert</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="67c225b5-156c-42bf-8225-b5156cc2bf4a">
+            <name>Meißner, Käthe</name>
+            <id type="gnd">126389055</id>
+            <roleActor>
+                <role type="Rolle">Großmutter, Jacob</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da9f16cd-ce19-446e-9f16-cdce19846efb">
+            <name>Mittelhaus, Gerhard</name>
+            <id type="gnd">1062011414</id>
+            <roleActor>
+                <role type="Rolle">Großvater</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f993cef-8979-46b7-993c-ef897996b74b">
+            <name>Pruppacher, Rosmarie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Jakobine, seine Schwester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bff7f519-6022-44b9-b7f5-19602264b9a4">
+            <name>Spoerri, Daniel</name>
+            <id type="gnd">118752197</id>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b3c5bc-cf0f-475c-b3c5-bccf0fb75c69">
+            <name>Steiger, Renate</name>
+            <id type="gnd">1106388003</id>
+            <roleActor>
+                <role type="Rolle">Roberta I und Roberta II</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4cfae690-c3bf-4e67-bae6-90c3bf4e67c3">
+            <name>Wien, Herbert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Vater Robert</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="79338c3b-6cd3-4410-b38c-3b6cd3141073">
+            <name>Winter, Gerhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Jakob</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000134" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Jakob oder der Gehorsam" und "Biedermann und die Brandstifter" in Darmstadt 1959</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Aufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>"Biedermann und die Brandstifter"</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Darmstadt</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Landestheater Darmstadt</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000134"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>16.01.1959</eventDate>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description>
+                    <beschreibung>
+                        <text>Zwei Inszenierungen an einem Abend, "Biedermann und die Brandstifter" ist eine Erstaufführung
+
+Gmür, Walburga als Witwe Knechtling
+Haufler, Max  als Herr Biedermann
+Helfmann, Alexander als ein Polizist
+Hindermann, Mario als ein Dr. phil.
+Joeres, Charlotte als Babette
+Pruppacher, Rosmarie als Anna, ein Dienstmädchen 
+Saussen, Edmund als Schmitz, ein Ringer
+Vioff, Udo als Eisenring, ein Kellner
+
+im Chor: Becker, Rolf; Ernst, Joachim; Mittelhaus, Gerhard; Wien, Herbert</text>
+                        <object>TWS_OBJ0000134</object>
+                    </beschreibung>
+                </description>
+            </descriptionList>
+            <actorList>
+                <actor id="73b9a95a-3203-45c8-b9a9-5a320375c8e6">
+                    <name>Becker, Rolf</name>
+                    <id type="gnd">109511266X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                        <role>im Chor</role>
+                    </roleActor>
+                </actor>
+                <actor id="2a8d4ad0-486e-4326-8d4a-d0486e03266a">
+                    <name>Ernst, Joachim</name>
+                    <id type="gnd">1047353911</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="435321a5-a6a1-464e-9321-a5a6a1f64e73">
+                    <name>Fleischer, Arwed</name>
+                    <id type="gnd">1075026016</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="a01dc9f6-6899-4473-9dc9-f668998473ab">
+                    <name>Frisch, Max</name>
+                    <id type="gnd">118536109</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="be0ab7ec-7387-44a8-8ab7-ec738734a842">
+                    <name>Gmür, Walburga</name>
+                    <id type="gnd">1061303799</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="e5138ae5-005c-4216-938a-e5005ce21650">
+                    <name>Haufler, Max</name>
+                    <id type="gnd">12813626X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="c15caee7-0159-4a06-9cae-e701595a066f">
+                    <name>Helfmann, Alexander</name>
+                    <id type="gnd">1141080273</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="de93f1e0-9d60-4ac8-93f1-e09d605ac8ab">
+                    <name>Hindermann, Mario</name>
+                    <id type="gnd">1122650914</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="57d285bc-f174-4b52-9285-bcf1749b52fd">
+                    <name>Joeres, Charlotte</name>
+                    <id type="gnd">134633792</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="da9f16cd-ce19-446e-9f16-cdce19846efb">
+                    <name>Mittelhaus, Gerhard</name>
+                    <id type="gnd">1062011414</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="1f993cef-8979-46b7-993c-ef897996b74b">
+                    <name>Pruppacher, Rosmarie</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="41c1242a-596d-4512-8124-2a596db5127c">
+                    <name>Saussen, Edmund</name>
+                    <id type="gnd">1061370453</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="a28d374e-d304-4435-8d37-4ed304443586">
+                    <name>Vioff, Udo</name>
+                    <id type="gnd">140633561</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+                <actor id="4cfae690-c3bf-4e67-bae6-90c3bf4e67c3">
+                    <name>Wien, Herbert</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

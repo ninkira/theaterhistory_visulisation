@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="974950b3-cc9f-470a-8950-b3cc9f970a5c" type="Performance">
+    <groupingArgument actorID="">Tartüff++</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Tartüff</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Tartüff</title>
+            <listObject>
+                <object id="TWS_OBJ0000482"/>
+            </listObject>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Tartüffe</title>
+            <listObject>
+                <object id="TWS_OBJ0000481"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Frankfurt</placeName>
+            <place type="Institution">
+                <placeName>Frankfurter Schauspielhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000482"/>
+                </listObject>
+            </place>
+        </place>
+        <place type="Stadt">
+            <placeName>Marburg</placeName>
+            <place type="Institution">
+                <placeName>Hessisches Landestheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000481"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1880" to="1927">
+                <listObject>
+                    <object id="TWS_OBJ0000482"/>
+                </listObject>
+            </time>
+            <time from="26.02.XXXX" to="1927">
+                <listObject>
+                    <object id="TWS_OBJ0000481"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Richard III.</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="490760b5-48ec-4841-8760-b548eca841e9">
+            <name>Frankfurter Schauspielhaus</name>
+            <id type="gnd">509073-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="b0168b13-85e7-411c-968b-1385e7d11cc2">
+            <name>Hessisches Landestheater</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Institution</role>
+            </roleActor>
+        </actor>
+        <actor id="fd7a2c39-ff09-45f9-ba2c-39ff0995f9ed">
+            <name>Neues Theater Frankfurt</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Institution</role>
+            </roleActor>
+        </actor>
+        <actor id="80f661b3-2921-45f6-b661-b3292155f64b">
+            <name>Molière</name>
+            <id type="gnd">11858331X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000482" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Pressespiegel zu Max Behrend als Richard III. und Tartüff</title>
+        </object>
+        <object id="TWS_OBJ0000481" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritik zu Max behrend in Moliéres 'Tartüffe' und 'Der Geizige'</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Aufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>Der Geizige</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Marburg</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Hessisches Landestheater</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000481"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>26.02.XXXX</eventDate>
+                    <time from="1880" to="1927">
+                        <listObject>
+                            <object id=""/>
+                        </listObject>
+                    </time>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList>
+                <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+                    <name>Behrend, Max</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Darsteller_in der Inszenierung</role>
+                    </roleActor>
+                </actor>
+                <actor id="b0168b13-85e7-411c-968b-1385e7d11cc2">
+                    <name>Hessisches Landestheater</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Institution</role>
+                    </roleActor>
+                </actor>
+                <actor id="fd7a2c39-ff09-45f9-ba2c-39ff0995f9ed">
+                    <name>Neues Theater Frankfurt</name>
+                    <id type="gnd"/>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Institution</role>
+                    </roleActor>
+                </actor>
+                <actor id="80f661b3-2921-45f6-b661-b3292155f64b">
+                    <name>Molière</name>
+                    <id type="gnd">11858331X</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Autor_in des inszenierten Werks</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

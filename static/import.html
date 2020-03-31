@@ -1,0 +1,851 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>XML=>SQL</title>
+    <link href="css/style.min.css" rel="stylesheet">
+    <script src="lib/jquery.min.js"></script>
+    <script src="lib/jstree.min.js"></script>
+    <script src="lib/async.js"></script>
+    <style>
+        html,
+        body {
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        var actxml = {};
+        $(document).ready(function () {
+            $("body")
+                .append($("<div/>", {
+                    id: "importb1",
+                    css: {
+                        float: "left",
+                        width: "30%"
+                    }
+                })
+                    .append($("<button/>", {
+                        html: "Auslesen der Datenbank",
+                        css: {
+                            margin: "10px",
+                            float: "left"
+                        },
+                        click: function (evt) {
+                            var selStmt = "SELECT * FROM EVENTINFO";
+                            selStmt += " LEFT JOIN PERSONINFO";
+                            selStmt += " ON EVENTINFO.eventid = PERSONINFO.eventid";
+                            selStmt += " ORDER BY EVENTINFO.premierdate";
+                            var jqxhr = $.ajax({
+                                method: "GET",
+                                crossDomain: true,
+                                url: "readAll",
+                                data: {
+                                    selStmt: selStmt
+                                }
+                            }).done(function (r1, textStatus, jqXHR) {
+                                try {
+                                    console.log("Antwort: " + r1);
+
+                                    var j1 = JSON.parse(r1);
+                                    if (j1.error === true) {
+                                        alert("Fehler beim lesen: " + j1.message);
+                                    } else {
+                                        if (typeof j1.records === 'undefined') {
+                                            alert("Keine Daten gefunden :(");
+                                        } else {
+                                            alert("Daten gefunden");
+
+                                            for (var index = 0; index < j1.records.length; index++) {
+                                                var record = j1.records[index];
+                                            }
+
+                                            console.log("Test der Ausgabe:");
+                                            console.log("Titel: " + record.listtitle0title);
+                                            console.log("Premiere: " + record.premierdate);
+                                            console.log("Veranstaltungsort: " + record.theatername);
+
+                                        }
+                                    }
+                                } catch (err) {
+                                    alert("Fehler: " + err);
+                                    console.log(err.stack);
+                                }
+                            }).fail(function (err) {
+                                console.log(err.statusText)
+                                return;
+                            }).always(function () {
+                                // nope
+                            });
+                        }
+                    }))
+
+
+
+
+
+
+                    .append($("<button/>", {
+                        html: "Verzeichnis mit XML-Dateien lesen und als Treeview anzeigen",
+                        css: {
+                            margin: "10px",
+                            float: "left"
+                        },
+                        click: function (evt) {
+                            // folgende Statements verhindern das Default-Verhalten des Buttons
+                            evt.preventDefault();
+                            evt.stopImmediatePropagation();
+                            evt.stopPropagation();
+                            /**
+                             * AJAX-Aufruf des Servers
+                             */
+                            var jqxhr = $.ajax({
+                                method: "GET",
+                                crossDomain: false,
+                                url: "readxmldir",
+                                data: {
+
+                                }
+                            }).done(function (r1, textStatus, jqXHR) {
+                                try {
+
+                                    console.log("Antwort: " + r1);
+                                    $("#infotree").empty();
+                                    var j1 = JSON.parse(r1);
+                                    if (j1.error === false) {
+                                        if (typeof j1.filetree !== 'undefined') {
+                                            console.log("j1: " + j1.filetree);
+                                            // $("#infotree").html(JSON.stringify(j1.filetree));
+                                            // den echten Tree ausgeben
+                                            // $('#infotree').jstree(j1.filetree);
+                                            var tree0 = [];
+                                            tree0.push(j1.filetree);
+                                            if ($("#infotree").hasClass("jstree")) $("#infotree").jstree(true).destroy();
+                                            $("#infotree").jstree({
+                                                "plugins": ["state", "search"],
+                                                core: {
+                                                    'check_callback': false,
+                                                    data: tree0
+                                                }
+                                            });
+                                            // Click-Event auf eine Datei
+                                            $('#infotree').on("select_node.jstree", function (e, data) {
+                                                var node = $('#infotree').jstree(true).get_node(data.node.id);
+                                                var fullpath = node.a_attr.fullpath;
+                                                if (typeof fullpath !== "undefined") {
+                                                    // alert(fullpath);
+                                                    getxmljson(fullpath);
+                                                }
+                                                //alert("node_id: " + data.node.id + " " + node.text);
+                                            });
+                                        } else {
+                                            console.log("keine daten gefunden :(");
+                                            $("#infotree").html("keine Daten gefunden");
+                                        }
+                                    } else {
+                                        console.log("Error :(" + j1.message);
+                                        $("#infotree").html("Error :(" + j1.message);
+                                    }
+                                } catch (err) {
+                                    console.log(err);
+                                    // debugger;
+                                }
+                            }).fail(function (err) {
+                                console.log(err.statusText);
+                                // debugger;
+                                return;
+                            }).always(function () {
+                                // nope
+                            });
+                        }
+                    }))
+                    .append($("<div/>", {
+                        id: "infotree",
+                        css: {
+                            float: "left",
+                            width: "100%"
+                        }
+                    }))
+                )
+                .append($("<div/>", {
+                    id: "importb2",
+                    css: {
+                        float: "left",
+                        width: "35%"
+                    }
+                })
+                    .append($("<span/>", {
+                        html: "Kontrollanzeige XML-Struktur einer Datei",
+                        css: {
+                            margin: "10px",
+                            float: "left"
+                        }
+                    }))
+
+                    .append($("<div/>", {
+                        id: "infobox",
+                        css: {
+                            float: "left",
+                            width: "100%"
+                        }
+
+                    }))
+                )
+                .append($("<div/>", {
+                    id: "importb3",
+                    css: {
+                        float: "right",
+                        width: "29%"
+                    }
+                })
+                    .append($("<button/>", {
+                        html: "XML-Datei nach SQL-Record",
+                        css: {
+                            margin: "10px",
+                            float: "left"
+                        },
+                        click: function (evt) {
+                            // folgende Statements verhindern das Default-Verhalten des Buttons
+                            evt.preventDefault();
+                            evt.stopImmediatePropagation();
+                            evt.stopPropagation();
+                            // Fleissprogrammierung
+                            // von
+                            // nach recordbox
+                            $("#recordbox").remove();
+                            $("#importb3")
+                                .append($("<div/>", {
+                                    id: "recordbox",
+                                    css: {
+                                        float: "left",
+                                        width: "100%"
+                                    }
+                                }));
+
+
+                            var v = $('#infobox').jstree(true).get_json();
+                            var sqlrecord = {};
+                            // debugger;
+                            /*
+                            event:
+                                id: "00e56b45-0810-44af-a56b-45081074afc6"
+                                type: "Performance"
+                                groupingArgument:
+                                C: "Prinz Friedrich von Homburg+08.06.1952+Sellner, Gustav Rudolf"
+                                actorID: "81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae"
+                                __proto__: Object
+                                secondaryTypes: ""
+                            */
+                            sqlrecord.eventid = "";
+                            sqlrecord.eventid = proveValue('eventid', actxml.event.id);
+debugger;
+                            var eventtype = actxml.event.type;
+
+                            $("#recordbox")
+                                .append($("<span/>", {
+                                    html: "eventtype: " + eventtype,
+                                    css: {
+                                        width: "80%",
+                                        float: "left"
+                                    }
+                                }));
+                            sqlrecord.eventtype = eventtype;
+
+                            var quicksearchone = actxml.event.groupingArgument.C;
+
+                            $("#recordbox")
+                                .append($("<span/>", {
+                                    html: "quicksearch1: " + quicksearchone,
+                                    css: {
+                                        width: "80%",
+                                        float: "left"
+                                    }
+                                }));
+                            sqlrecord.quicksearch = quicksearchone;
+
+                            var quicksearchtwo = actxml.event.groupingArgument.actorID;
+
+                            $("#recordbox")
+                                .append($("<span/>", {
+                                    html: "quicksearch2: " + quicksearchtwo,
+                                    css: {
+                                        width: "80%",
+                                        float: "left"
+                                    }
+                                }));
+                            sqlrecord.quicksearch = quicksearchtwo;
+
+                            var secondaryTypes = actxml.event.secondaryTypes.secondaryType;
+
+                            $("#recordbox")
+                                .append($("<span/>", {
+                                    html: "secondaryType: " + secondaryTypes,
+                                    css: {
+                                        width: "80%",
+                                        float: "left"
+                                    }
+                                }));
+                            sqlrecord.secondaryTypes = secondaryTypes;
+                                debugger;
+
+                            sqlrecord.listtitle0type = "";
+                            try {
+                                sqlrecord.listtitle0type = proveValue('listtitle0type', actxml.event.listTitle.titleStmt[0].type);
+                            } catch (err) {
+                                console.log(err);
+                            }
+                            if (sqlrecord.listtitle0type === "") {
+                                try {
+                                    sqlrecord.listtitle0type = proveValue('listtitle0type', actxml.event.listTitle.titleStmt.type);
+                                } catch (err) {
+                                    console.log(err);
+                                }
+                            }
+
+                            sqlrecord.listtitle0title = "";
+                            try {
+                                sqlrecord.listtitle0title = proveValue('listtitle0title', actxml.event.listTitle.titleStmt[0].title);
+                            } catch (err) {
+                                console.log(err);
+                            }
+                            if (sqlrecord.listtitle0title === "") {
+                                try {
+                                    sqlrecord.listtitle0title = proveValue('listtitle0title', actxml.event.listTitle.titleStmt.title);
+                                } catch (err) {
+                                    console.log(err);
+                                }
+                            }
+
+
+                            sqlrecord.listtitle1type = "";
+                            try {
+                                sqlrecord.listtitle1type = proveValue('listtitle1type', actxml.event.listTitle.titleStmt[1].type);
+                            } catch (err) {
+                                console.log(err);
+                            }
+                            if (sqlrecord.listtitle1type === "") {
+                                try {
+                                    sqlrecord.listtitle1type = proveValue('listtitle1type', actxml.event.listTitle.titleStmt.type);
+                                } catch (err) {
+                                    console.log(err);
+                                }
+                            }
+                            debugger;
+                            sqlrecord.listtitle1title = "";
+                            try {
+                                sqlrecord.listtitle1title = proveValue('listtitle1title', actxml.event.listTitle.titleStmt[1].title);
+                            } catch (err) {
+                                console.log(err);
+                            }
+
+                            if (sqlrecord.listtitle1title === "") {
+                                try {
+                                    sqlrecord.listtitle1title = proveValue('listtitle1title', actxml.event.listTitle.titleStmt.title);
+                                } catch (err) {
+                                    console.log(err);
+                                }
+                            }
+
+
+
+                            var placetype = actxml.event.listPlace.place.type;
+
+                            $("#recordbox")
+                                .append($("<span/>", {
+                                    html: "placetype: " + placetype,
+                                    css: {
+                                        width: "80%",
+                                        float: "left"
+                                    }
+                                }));
+                            sqlrecord.placetype = placetype;
+
+                            var placename = actxml.event.listPlace.place.placeName;
+
+                            $("#recordbox")
+                                .append($("<span/>", {
+                                    html: "placename: " + placename,
+                                    css: {
+                                        width: "80%",
+                                        float: "left"
+                                    }
+                                }));
+                            sqlrecord.placename = placename;
+
+                            var theatertype = actxml.event.listPlace.place.place.type;
+
+                            $("#recordbox")
+                                .append($("<span/>", {
+                                    html: "theatertype: " + theatertype,
+                                    css: {
+                                        width: "80%",
+                                        float: "left"
+                                    }
+                                }));
+                            sqlrecord.theatertype = theatertype;
+
+                            var theatername = actxml.event.listPlace.place.place.placeName;;
+
+
+                            $("#recordbox")
+                                .append($("<span/>", {
+                                    html: "theatername: " + theatername,
+                                    css: {
+                                        width: "80%",
+                                        float: "left"
+                                    }
+                                }));
+                            sqlrecord.theatername = theatername;
+
+                            var theaterobject = actxml.event.listPlace.place.place.listObject.object.id;
+
+                            $("#recordbox")
+                                .append($("<span/>", {
+                                    html: "theaterobject: " + theaterobject,
+                                    css: {
+                                        width: "80%",
+                                        float: "left"
+                                    }
+                                }));
+                            sqlrecord.theaterobject = theaterobject;
+
+                            var premierdate = actxml.event.listDate.date.premier;
+                            var premierDatePartISO = premierdate.split(".");
+                            var premierDateFinal = premierDatePartISO[2] + "-" + premierDatePartISO[1] + "-" + premierDatePartISO[0];
+                            console.log("premierdate format: " + premierdate);
+                            console.log("premierdate Parts of ISO: " + premierDatePartISO);
+                            console.log("premierdate FInal: " + premierDateFinal);
+
+
+                            $("#recordbox")
+                                .append($("<span/>", {
+                                    html: "premierdate: " + premierDateFinal,
+                                    css: {
+                                        width: "80%",
+                                        float: "left"
+                                    }
+                                }));
+                            sqlrecord.premierdate = premierDateFinal;
+
+                            var insVariables = "";
+                            var insValues = "";
+                            var varList = Object.keys(sqlrecord);
+                            insVariables = varList.join(",");
+                            debugger;
+                            // join haut alle element des Arrays hintereinander in einen komma separierten String
+                            for (var iVal = 0; iVal < varList.length; iVal++) {
+                                var variable = varList[iVal];
+                                var value = sqlrecord[variable];
+                                if (typeof value === "string") {
+
+                                    if (insValues.length > 0) {
+                                        insValues += ",";
+                                    }
+                                    insValues += "'" + value + "'";
+                                } else if (typeof value === "number") {
+                                    if (insValues.length > 0) {
+                                        insValues += ",";
+                                    }
+                                    insValues += "" + value;
+                                } else if (typeof value === "object") {
+                                    if (insValues.length > 0) {
+                                        insValues += ",";
+                                    }
+                                    insValues += JSON.stringify(value);
+                                } else if (value === null) {
+                                    if (insValues.length > 0) {
+                                        insValues += ",";
+                                    }
+                                    insValues += value;
+                                } else if (typeof value === "undefined") {
+                                    if (insValues.length > 0) {
+                                        insValues += ",";
+                                    }
+                                    insValues += "''";
+                                }
+
+                            }
+                            async.waterfall([
+
+                                function (callback) {
+                                    var selStmt = "SELECT eventid FROM EVENTINFO";
+                                    selStmt += " WHERE eventid = '" + sqlrecord.eventid + "'";
+                                    var jqxhr = $.ajax({
+                                        method: "GET",
+                                        crossDomain: true,
+                                        url: "readAll",
+                                        data: {
+                                            selStmt: selStmt
+                                        }
+                                    }).done(function (r1, textStatus, jqXHR) {
+                                        try {
+                                            console.log("Antwort: " + r1);
+
+                                            var j1 = JSON.parse(r1);
+                                            if (j1.error === true) {
+                                                alert("Fehler beim lesen: " + j1.message);
+                                                callback("Error", false);
+                                                return;
+                                            } else {
+                                                if (typeof j1.records === 'undefined' || j1.records.length === 0) {
+                                                    alert("Keine Daten gefunden :(");
+                                                    callback(null, true);
+                                                    return;
+                                                } else {
+                                                    alert("Daten gefunden");
+                                                    callback(null, false);
+                                                    return;
+
+                                                }
+                                            }
+                                        } catch (err) {
+                                            alert("Fehler: " + err);
+                                            console.log(err.stack);
+                                            callback("Error");
+                                            return;
+                                        }
+                                    }).fail(function (err) {
+                                        console.log(err.statusText);
+                                        callback("Error");
+                                        return;
+                                    }).always(function () {
+                                        // nope
+                                    });
+
+
+                                },
+
+                                function (doInsert, callback) {
+                                    if (doInsert === false) {
+                                        callback('finish');
+                                        return;
+                                    }
+
+                                    var insStmt = "INSERT INTO EVENTINFO";
+                                    insStmt += "(";
+                                    insStmt += insVariables;
+                                    insStmt += ") ";
+                                    insStmt += "VALUES (";
+                                    insStmt += insValues;
+                                    insStmt += ")";
+                                    debugger;
+                                    var jqxhr = $.ajax({
+                                        method: "POST",
+                                        crossDomain: false,
+                                        url: "writeDB",
+                                        data: {
+                                            insStmt: insStmt
+                                        }
+                                    }).done(function (r1, textStatus, jqXHR) {
+                                        try {
+
+                                            console.log("Antwort: " + r1);
+
+                                            var j1 = JSON.parse(r1);
+                                            if (j1.error === false) {
+                                                console.log("Satz geschrieben.");
+
+                                                var actorobj = actxml.event.listActor.actor;
+                                                putPersons(sqlrecord, actorobj, function () {
+                                                    console.log("fertig");
+
+                                                    callback('finish');
+                                                    return;
+                                                });
+
+                                            } else {
+                                                console.log("Error :(" + j1.message);
+                                                callback('finish');
+                                                return;
+                                            }
+                                        } catch (err) {
+                                            console.log(err);
+                                            // debugger;
+                                            callback('finish');
+                                            return;
+                                        }
+                                    }).fail(function (err) {
+                                        console.log(err.statusText);
+                                        // debugger;
+                                        callback('finish');
+                                        return;
+                                    }).always(function () {
+                                        // nope
+                                    });
+
+                                }
+                            ]);
+
+
+
+
+                        }
+                    }))
+
+                );
+
+        });
+
+        function proveValue(variableName, xmlPath) {
+            var variableValue = "";
+            try {
+                variableValue = xmlPath;
+            }
+            catch (err) {
+                console.log(err);
+
+            }
+            $("#recordbox")
+                .append($("<span/>", {
+                    html: variableName + ": " + variableValue,
+                    css: {
+                        width: "80%",
+                        float: "left"
+                    }
+                }));
+            return variableValue;
+        }
+
+        function putPersons(sqlrecord, actorobj, callback) {
+            var eventid = "";
+            var actorname = "";
+            var actorrole = "";
+            var actorcharacter = "";
+            var actorid = "";
+            var persrecord = {};
+            async.eachSeries(actorobj, function (actor, nextActor) {
+                eventid = sqlrecord.eventid;
+                actorname = actor.name;
+                actorid = actor.id[0];
+                actorcharacter = actor.roleActor.role[0].C;
+                actorrole = "";
+              debugger;
+
+                if (typeof actor.roleActor.role === "string") {
+                    actorrole = actor.roleActor.role;
+                    actorcharacter = "";
+                    debugger;
+                } else if (typeof actor.roleActor.role === "object") {
+                    actorrole = actor.roleActor.role[1];
+                } 
+                console.log("Actor eventid: " + eventid);
+                console.log("Actorname: " + actorname);
+                console.log("Actorid: " + actorid);
+                console.log("Actorrole: " + actorrole);
+                console.log("Actorcharacter: " + actorcharacter);
+                persrecord.eventid = eventid;
+                persrecord.actorname = actorname;
+                persrecord.actorid = actorid;
+                persrecord.actorrole = actorrole;
+                persrecord.actorcharacter = actorcharacter;
+                
+
+                var insVariables = "";
+                var insValues = "";
+                var varList = Object.keys(persrecord);
+                insVariables = varList.join(",");
+                // join haut alle element des Arrays hintereinander in einen komma separierten String
+                for (var iVal = 0; iVal < varList.length; iVal++) {
+                    var variable = varList[iVal];
+                    var value = persrecord[variable];
+
+                    if (typeof value === "string") {
+
+                        if (insValues.length > 0) {
+                            insValues += ",";
+                        }
+                        insValues += "'" + value + "'";
+                    } else if (typeof value === "number") {
+                        if (insValues.length > 0) {
+                            insValues += ",";
+                        }
+                        insValues += "" + value + "";
+                    } else if (typeof value === "object") {
+                        if (insValues.length > 0) {
+                            insValues += ",";
+                        }
+                        insValues += JSON.stringify(value);
+                    }
+
+                }
+
+                var insStmt = "INSERT INTO PERSONINFO";
+                insStmt += "(";
+                insStmt += insVariables;
+                insStmt += ") ";
+                insStmt += "VALUES (";
+                insStmt += insValues;
+                insStmt += ")";
+                var jqxhr = $.ajax({
+                    method: "POST",
+                    crossDomain: false,
+                    url: "writeDB",
+                    data: {
+                        insStmt: insStmt
+                    }
+                }).done(function (r1, textStatus, jqXHR) {
+                    try {
+
+                        console.log("Antwort: " + r1);
+
+                        var j1 = JSON.parse(r1);
+                        if (j1.error === false) {
+                            console.log("Person geschrieben.");
+
+                        } else {
+                            console.log("Error :(" + j1.message);
+                        }
+                        nextActor();
+                    } catch (err) {
+                        console.log(err);
+                        // debugger;
+                    }
+                }).fail(function (err) {
+                    console.log(err.statusText);
+                    // debugger;
+                    return;
+                }).always(function () {
+                    // nope
+                });
+
+
+            },
+                function (error) {
+                    console.log(error);
+                });
+
+
+
+        }
+
+        function getxmljson(path) {
+            /**
+             * AJAX-Aufruf des Servers
+             */
+            var jqxhr = $.ajax({
+                method: "GET",
+                crossDomain: false,
+                url: "readxmle",
+                data: {
+                    fullpath: path
+                }
+            }).done(function (r1, textStatus, jqXHR) {
+                try {
+
+                    console.log("Antwort: " + r1);
+                    // debugger;
+                    $("#infobox").empty();
+                    var j1 = JSON.parse(r1);
+                    if (j1.error === false) {
+                        if (typeof j1.xml !== 'undefined') {
+                            console.log("j1: " + j1.xml);
+                            // $("#infobox").html(JSON.stringify(j1.xml, null, " "));
+                            /*
+                            var html = "";
+                            html += JSON.stringify(j1.erg, null, "<br>");
+                            html += "<br><br>";
+                            html += JSON.stringify(j1.xml, null, "<br>");
+                            $("#infobox").html(html);
+                            */
+                            var actobj = j1.xml;
+                            actxml = j1.xml;
+                            // debugger;
+                            var datatree = {
+                                text: "ROOT",
+                                children: [],
+                                a_attr: {
+                                    typ: "root"
+                                }
+                            };
+                            datatree = json2tree(actobj, datatree, datatree);
+                            var tree1 = [];
+                            tree1.push(datatree);
+
+                            if ($("#infobox").hasClass("jstree")) $("#infobox").jstree(true).destroy();
+                            $("#infobox").jstree({
+                                "plugins": ["checkbox", "state", "search"],
+                                core: {
+                                    'check_callback': false,
+                                    data: tree1
+                                }
+                            })
+                                .bind("loaded.jstree", function (event, data) {
+                                    $(this).jstree("open_all");
+                                });
+                            // Click-Event auf eine Datei
+                            $('#infobox').on("select_node.jstree", function (e, data) {
+                                var node = $('#infobox').jstree(true).get_node(data.node.id);
+                                var feldname = node.a_attr.feldName;
+                                if (typeof feldname !== "undefined") {
+                                    alert(feldname);
+                                }
+                            });
+
+                        } else {
+                            console.log("keine daten gefunden :(");
+                            $("#infobox").html("keine Daten gefunden");
+                        }
+                    } else {
+                        console.log("Error :(" + j1.message);
+                        $("#infobox").html("Error :(" + j1.message);
+                    }
+                } catch (err) {
+                    console.log(err);
+                    // debugger;
+                }
+            }).fail(function (err) {
+                console.log(err.statusText);
+                // debugger;
+                return;
+            }).always(function () {
+                // nope
+            });
+
+        }
+
+        function json2tree(actobj, parobj, datatree) {
+            for (var feldName in actobj) {
+                if (actobj.hasOwnProperty(feldName)) {
+                    var wert = actobj[feldName];
+                    if (typeof wert === "object") {
+                        console.log(feldName + "-object");
+                        var newobj = {
+                            text: feldName,
+                            state: {
+                                selected: false
+                            },
+                            a_attr: {
+                                feldname: feldName
+                            },
+                            children: []
+                        };
+                        parobj.children.push(newobj);
+                        datatree = json2tree(wert, newobj, datatree);
+                    } else {
+                        console.log(feldName + "-Elementar");
+                        var newfield = {
+                            text: feldName + "=" + wert,
+                            icon: "jstree-file",
+                            state: {
+                                selected: false
+                            },
+                            a_attr: {
+                                feldname: feldName
+                            }
+                        };
+                        parobj.children.push(newfield);
+                    }
+                }
+            }
+            return datatree;
+        }
+    </script>
+</body>
+
+</html>

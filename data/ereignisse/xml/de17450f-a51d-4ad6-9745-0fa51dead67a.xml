@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="de17450f-a51d-4ad6-9745-0fa51dead67a" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Dantons Tod+09.02.1963+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Dantons Tod</title>
+            <listObject>
+                <object id="TWS_OBJ0000090"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsche Oper Berlin</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000090"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>09.02.1963</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000090"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="694a8fef-f6a7-4ce1-8a8f-eff6a7fce185">
+            <name>Blacher, Boris</name>
+            <id type="gnd">118663631</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="10cbe8f9-6eea-414b-8be8-f96eea814b5c">
+            <name>Grobe, Donald</name>
+            <id type="gnd">13439142X</id>
+            <roleActor>
+                <role type="Rolle">Desmoulins</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="71e054ec-ea17-40cb-a054-ecea1710cbc9">
+            <name>Hagen-Groll, Walter</name>
+            <id type="gnd">13229057X</id>
+            <roleActor>
+                <role>Chorleiter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="50a57412-1c65-4789-a574-121c6507895b">
+            <name>Röhrl, Manfred</name>
+            <id type="gnd">132411989</id>
+            <roleActor>
+                <role type="Rolle">St. Just</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="2cdd31ec-00fb-4cfb-9d31-ec00fb2cfbbd">
+            <name>Bernhard, Annabelle</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lucile, Gattin des Camille Desmoulins</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0cb7faa7-5170-4f93-b7fa-a751702f93a2">
+            <name>Björling, Rolf</name>
+            <id type="gnd">132361965</id>
+            <roleActor>
+                <role type="Rolle">de Séchelles</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="df178f26-b07b-4e8c-978f-26b07bce8c1a">
+            <name>Büchner, Georg</name>
+            <id type="gnd">118516906</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d1477cce-cd4d-4e6a-877c-cecd4d1e6ae7">
+            <name>Covadi, Carlo</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">erster Henker</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ba47e8c5-3be8-487c-87e8-c53be8987ca2">
+            <name>Einem, Gottfried von</name>
+            <id type="gnd">118529552</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ba50dae5-c8ad-46ec-90da-e5c8adb6ec0d">
+            <name>Fischer-Dieskau, Dietrich</name>
+            <id type="gnd">118691457</id>
+            <roleActor>
+                <role type="Rolle">Danton</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fecd03e3-11a4-48e1-8d03-e311a4a8e1ba">
+            <name>Hollreiser, Heinrich</name>
+            <id type="gnd">116964839</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="498138dd-f3db-47c6-8138-ddf3db87c6c2">
+            <name>Kurkowski, Ernst</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Simon Souffleur</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="51add0d6-a435-46b8-add0-d6a435d6b802">
+            <name>Melchert, Helmut</name>
+            <id type="gnd">130237655</id>
+            <roleActor>
+                <role type="Rolle">Robespierre</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="005fa298-314d-46d2-9fa2-98314d46d25d">
+            <name>Mercker, Karl-Ernst</name>
+            <id type="gnd">13311421X</id>
+            <roleActor>
+                <role type="Rolle">Ein junger Mensch</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cfaf0efe-8304-4cd3-af0e-fe83041cd3d7">
+            <name>Mikes, Gitta</name>
+            <id type="gnd">1018307303</id>
+            <roleActor>
+                <role type="Rolle">eine Dame</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f3597a59-7dae-46ee-997a-597daed6eee7">
+            <name>Mühl, Renate</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Julie, Gattin Dantons</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a94ba134-50cc-461b-8ba1-3450cc161bd7">
+            <name>Oelke, Alice</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">ein Weib, die Frau Simons</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="675b510a-daa1-4e4f-9b51-0adaa14e4f3c">
+            <name>Pohlmann, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zweiter Henker</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1fb1ce29-621a-4bd5-b1ce-29621aabd5b8">
+            <name>Reinking, Wilhelm</name>
+            <id type="gnd">118599496</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="07a6022c-2d97-4af0-a602-2c2d975af0c6">
+            <name>Räder, Christel</name>
+            <id type="gnd">113998084X</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f866e88f-45df-42d7-a6e8-8f45df62d70d">
+            <name>Talvela, Martti</name>
+            <id type="gnd">124057810</id>
+            <roleActor>
+                <role type="Rolle">Herrmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000090" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Dantons Tod"</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Festival">
+            <listTitle>
+                <titleStmt>
+                    <title>Berliner Begegnungen 1963</title>
+                </titleStmt>
+            </listTitle>
+            <listDate/>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList/>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="6cd409a6-04f8-4d19-9409-a604f80d19a2" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Nachtasyl++Reinhardt, Max</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Nachtasyl</title>
+            <listObject>
+                <object id="TWS_KON0000019"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_KON0000019"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_KON0000019"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="76f30d87-65fc-47c1-b30d-8765fc27c1bc">
+            <name>Gorʹkij, Maksim</name>
+            <id type="gnd">118639293</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="1459b8b4-dd41-4025-99b8-b4dd41402525">
+            <name>Scholz, August</name>
+            <id type="gnd">115373853</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_KON0000019" type="Publikation: Rezension" aat="300026480">
+            <title>Kritiken zu "Nachtasyl" in Berlin 1906</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

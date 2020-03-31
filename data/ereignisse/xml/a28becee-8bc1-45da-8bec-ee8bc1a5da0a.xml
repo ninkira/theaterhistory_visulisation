@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a28becee-8bc1-45da-8bec-ee8bc1a5da0a" type="Performance">
+    <groupingArgument actorID="">Ich speise bei meiner Mutter+08.11.1899+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Ich speise bei meiner Mutter</title>
+            <listObject>
+                <object id="TWS_OBJ0000146"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>concession, Theater-Vorbereitungsschule</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000146"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>08.11.1899</premier>
+            <time from="undefined" to="undefined">
+                <listObject>
+                    <object id="TWS_OBJ0000146"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext>undefined</culturalContext>
+    <listDescription>
+        <description>
+            <text>4. Vorstellung des Zweiten Eleven-Abends
+Bayz als Marion, Kammermädchen
+Böhm als Didier, MalerSpaten als Dritter Diener
+Klötzel als Chevalier von Beaufort
+Lasson als Zweiter Diener
+Morovič als Herzog von Hennin
+Steinthal als Sophie Arnould, Sängerin an der Großen Oper
+Sternau als Erster Diener</text>
+            <object id="TWS_OBJ0000146"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e129ed2c-e86a-4e53-a9ed-2ce86a7e53ca">
+            <name>Arnau, Carl</name>
+            <id type="gnd">116341831</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e1a8461a-4963-418c-a846-1a4963518c3e">
+            <name>Bayz</name>
+            <id type="gnd">undefined</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="73495d4f-76d9-48ed-895d-4f76d928edfd">
+            <name>Böhm</name>
+            <id type="gnd">undefined</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c09eb5d2-41b5-43fd-9eb5-d241b5e3fd14">
+            <name>Decourcelle, Adrien</name>
+            <id type="gnd">122678761</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="a1d8772d-24df-4801-9877-2d24dfe80144">
+            <name>Klötzel</name>
+            <id type="gnd">undefined</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="62651a7e-485b-41b1-a51a-7e485b41b1e1">
+            <name>Lasson</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e7f30a39-7394-495f-b30a-397394295f92">
+            <name>Morovič</name>
+            <id type="gnd">undefined</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cc4ac06e-c9d9-42b5-8ac0-6ec9d9a2b5cf">
+            <name>Spaten</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="69705df1-2010-423e-b05d-f12010523e7d">
+            <name>Steinthal</name>
+            <id type="gnd">undefined</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ee112b77-e462-4b8f-912b-77e4622b8f16">
+            <name>Sternau</name>
+            <id type="gnd">undefined</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000146" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Zweite Eleven-Vorstellung" in Wien 1899</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

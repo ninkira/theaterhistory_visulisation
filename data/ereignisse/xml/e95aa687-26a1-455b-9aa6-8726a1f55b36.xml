@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="e95aa687-26a1-455b-9aa6-8726a1f55b36" type="Performance">
+    <groupingArgument actorID="65cf183e-db3e-46e9-8f18-3edb3e86e93e">Don Giovanni+1928+Hagemann, Carl</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Don Giovanni</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Don Giovanni</title>
+            <listObject>
+                <object id="TWS_OBJ0000678"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000678"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>1928</premier>
+            <time from="1928" to="1928">
+                <listObject>
+                    <object id="TWS_OBJ0000678"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="e82db7c6-e35b-430d-adb7-c6e35be30dae">
+            <name>Mozart, Wolfgang Amadeus</name>
+            <id type="gnd">118584596</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="26bcac0c-879e-4440-bcac-0c879e3440e7">
+            <name>Dülberg, Ewald</name>
+            <id type="gnd">116235411</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f45388fd-1ff8-4e9d-9388-fd1ff80e9d19">
+            <name>Ponte, Lorenzo Da</name>
+            <id type="gnd">118678841</id>
+            <roleActor>
+                <role>Librettist_in</role>
+            </roleActor>
+        </actor>
+        <actor id="65cf183e-db3e-46e9-8f18-3edb3e86e93e">
+            <name>Hagemann, Carl</name>
+            <id type="gnd">119368277</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000678" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Ewald Dülberg</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

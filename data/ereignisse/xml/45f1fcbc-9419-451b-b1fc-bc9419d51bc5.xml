@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="45f1fcbc-9419-451b-b1fc-bc9419d51bc5" type="Performance">
+    <groupingArgument actorID="65cf183e-db3e-46e9-8f18-3edb3e86e93e">La princesse de Trébizonde+10.1923+Hagemann, Carl</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>La princesse de Trébizonde</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Prinzessin von Trapezunt, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000646"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wiesbaden</placeName>
+            <place type="Institution">
+                <placeName>Hessisches Staatstheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000646"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>10.1923</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000646"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>"Zum ersten Male - in neuer Bearbeitung"</text>
+            <object id="TWS_OBJ0000646"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="efccbb7a-9f0d-405d-8cbb-7a9f0da05de7">
+            <name>Hessisches Staatstheater (Wiesbaden)</name>
+            <id type="gnd">4366400-3</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="298eec5c-7a20-4186-8eec-5c7a20f186d0">
+            <name>Offenbach, Jacques</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="65cf183e-db3e-46e9-8f18-3edb3e86e93e">
+            <name>Hagemann, Carl</name>
+            <id type="gnd">119368277</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="51bea1ba-a429-4d70-bea1-baa429fd7015">
+            <name>Tréfeu, Etienne</name>
+            <id type="gnd">103985174</id>
+            <roleActor>
+                <role>Librettist_in</role>
+            </roleActor>
+        </actor>
+        <actor id="57823dfb-b885-4b2d-823d-fbb885eb2d85">
+            <name>Nuitter, Charles</name>
+            <id type="gnd">117071099</id>
+            <roleActor>
+                <role>Librettist_in</role>
+            </roleActor>
+        </actor>
+        <actor id="074a8fbe-f268-46b6-8a8f-bef268f6b636">
+            <name>Biehler, Franz</name>
+            <id type="gnd">132361663</id>
+            <roleActor>
+                <role type="Rolle">Cabriolo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f11df99-48e6-4711-91df-9948e6071116">
+            <name>Goldberg-Thiele, Milda</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zanetta</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2cd53e4c-8b7e-4e74-953e-4c8b7e5e7463">
+            <name>Heß, Elfriede</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Regina</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="65c0b1d7-947a-49f9-80b1-d7947ab9f9ee">
+            <name>Leng, Liesel</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Gerusa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fc6e423a-8c27-412b-ae42-3a8c27b12b04">
+            <name>Strehl, Pauline</name>
+            <id type="gnd">106228979X</id>
+            <roleActor>
+                <role type="Rolle">Paola</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8e93fdb8-a9b5-47c1-93fd-b8a9b507c113">
+            <name>Schenck von Trapp, Lothar</name>
+            <id type="gnd">1077458630</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6190b9af-c2fe-46a3-90b9-afc2fec6a338">
+            <name>Schorn, Heinrich</name>
+            <id type="gnd">13365933X</id>
+            <roleActor>
+                <role type="Rolle">Tremolini</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dd693ebc-71fc-444c-a93e-bc71fc744c26">
+            <name>Gerhards, Paul</name>
+            <id type="gnd">1033920991</id>
+            <roleActor>
+                <role type="Rolle">Fürst Casimir</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dcbb8add-7657-467e-bb8a-dd7657e67e9f">
+            <name>Johanson, Sigrid</name>
+            <id type="gnd">1061283348</id>
+            <roleActor>
+                <role type="Rolle">Rafael</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3becae89-1730-4a8e-acae-8917305a8e77">
+            <name>Herrmann, Bernhard</name>
+            <id type="gnd">116746602</id>
+            <roleActor>
+                <role type="Rolle">Sparadrap</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="441d8ea3-cd42-4ca0-9d8e-a3cd424ca0f4">
+            <name>Röder, Edith</name>
+            <id type="gnd">106192338X</id>
+            <roleActor>
+                <role type="Rolle">Erster Page</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d6599b5-8f5e-42ab-a599-b58f5e72aba7">
+            <name>Ney, Paula</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zweiter Page</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="399274d5-5762-44ce-9274-d55762f4ceb1">
+            <name>Papsdorf, Eva</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Dritter Page</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8503331e-f483-4fcd-8333-1ef4830fcd80">
+            <name>Thümmel, Eva Luise</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Vierter Page</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ca877311-1d99-4a52-8773-111d994a528e">
+            <name>Hau, Ida</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fünfter Page</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f476b0fc-f8c5-404b-b6b0-fcf8c5d04b30">
+            <name>Zentes, Theodor</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lotterie-Direktor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="23ef1f56-5656-4cdb-af1f-5656568cdbdc">
+            <name>Remstedt, Robert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Erster Agent</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="de0da816-ac60-404f-8da8-16ac60e04f11">
+            <name>Lahr, Peter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zweiter Agent</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000646" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Die Prinzessin von Trapezunt" in Wiesbaden</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

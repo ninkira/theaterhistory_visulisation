@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="b572dfd5-b43e-4159-b2df-d5b43ed1595c" type="Performance">
+    <groupingArgument actorID="99055ad1-900b-40b1-855a-d1900b30b135">Ganze Tage in den Bäumen++Walther, Edgar</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Ganze Tage in den Bäumen</title>
+            <listObject>
+                <object id="TWS_OBJ0000147"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName/>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000147"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000147"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Anmerkung: Udo Stäbler wurde durchgestrichen</text>
+            <object id="TWS_OBJ0000147"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="2c5ad6e6-428d-4131-9ad6-e6428d41317f">
+            <name>Duras, Marguerite</name>
+            <id type="gnd">118528254</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="78cd9190-59d0-45d0-8d91-9059d0a5d059">
+            <name>Spies, Werner</name>
+            <id type="gnd">120359308</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="99055ad1-900b-40b1-855a-d1900b30b135">
+            <name>Walther, Edgar</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="2a6d5f26-9a9c-41f4-ad5f-269a9ca1f47f">
+            <name>Goll, Eugen</name>
+            <id type="gnd">1089374399</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Die Mutter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6b91964-c92c-4029-b919-64c92c202919">
+            <name>Schulte, Elmar</name>
+            <id type="gnd">1140813536</id>
+            <roleActor>
+                <role type="Rolle">Der Sohn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f39efbf2-6f4d-4dcc-9efb-f26f4dbdcc75">
+            <name>Brunner, Sibylle</name>
+            <id type="gnd">1060931672</id>
+            <roleActor>
+                <role type="Rolle">Marcelle</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c3a93095-ec08-4a3a-a930-95ec086a3a76">
+            <name>Clement, Christoph</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Barmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5a8b3552-d943-4cc4-8b35-52d9430cc4da">
+            <name>Stäbler, Udo</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Barmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dbf92967-7b97-451f-b929-677b97951f97">
+            <name>Karter, Egon</name>
+            <id type="gnd">119009560</id>
+            <roleActor>
+                <role>Produzent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="f07141c6-e1b0-4b88-b141-c6e1b08b8833">
+            <name>Schweizer Theater-Gastspiele Gebr. Grabowsky Basel</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000147" type="Publikation: Programmheft" aat="300027217">
+            <title>Tournee-Programmheft zu "Ganze Tage in den Bäumen"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

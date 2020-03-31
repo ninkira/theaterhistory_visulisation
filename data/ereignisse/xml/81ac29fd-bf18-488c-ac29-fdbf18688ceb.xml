@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="81ac29fd-bf18-488c-ac29-fdbf18688ceb" type="Performance">
+    <groupingArgument actorID="eb405a0d-49a8-4437-805a-0d49a8743734">Africaine, L'+26.01.1912+Rémond</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Africaine, L'</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Afrikanerin, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000517"/>
+                <object id="TWS_OBJ0000516"/>
+                <object id="TWS_OBJ0000515"/>
+                <object id="TWS_OBJ0000514"/>
+                <object id="TWS_OBJ0000513"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Opernhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000517"/>
+                    <object id="TWS_OBJ0000516"/>
+                    <object id="TWS_OBJ0000515"/>
+                    <object id="TWS_OBJ0000514"/>
+                    <object id="TWS_OBJ0000513"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>26.01.1912</premier>
+            <time from="03.04.1912" to="03.04.1912">
+                <listObject>
+                    <object id="TWS_OBJ0000517"/>
+                </listObject>
+            </time>
+            <time from="31.01.1912" to="31.01.1912">
+                <listObject>
+                    <object id="TWS_OBJ0000516"/>
+                </listObject>
+            </time>
+            <time from="26.01.1912" to="26.01.1912">
+                <listObject>
+                    <object id="TWS_OBJ0000515"/>
+                </listObject>
+            </time>
+            <time from="09.04.1912" to="09.04.1912">
+                <listObject>
+                    <object id="TWS_OBJ0000514"/>
+                </listObject>
+            </time>
+            <time from="29.03.1912" to="29.03.1912">
+                <listObject>
+                    <object id="TWS_OBJ0000513"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="7a088459-21ed-4048-8884-5921edc04801">
+            <name>Bühnen der Stadt Köln. Oper Köln</name>
+            <id type="gnd">2057209-8</id>
+            <roleActor>
+                <role>Aufführungsort</role>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="3947b0fc-c1d2-4807-87b0-fcc1d2d8076e">
+            <name>Clemens, Hans</name>
+            <id type="gnd">1049335775</id>
+            <roleActor>
+                <role type="Rolle">Don Alvar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5c515479-5f2b-414c-9154-795f2b614cc0">
+            <name>Foerster, Oskar</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Grossinquisitor von Lissabon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5bb969b1-8b82-430d-b969-b18b82930d69">
+            <name>Giesen, Karl</name>
+            <id type="gnd">132441187</id>
+            <roleActor>
+                <role type="Rolle">Don Pedro</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8d16ec91-be2e-4fcf-96ec-91be2e3fcf8a">
+            <name>Grotowsky, Carola</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Anna</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="257c5b12-3119-48dc-bc5b-123119b8dc34">
+            <name>Gumbert, Ferdinand</name>
+            <id type="gnd">116924950</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="8833ae56-176a-4a54-b3ae-56176aca5480">
+            <name>Guszalewicz, Alice</name>
+            <id type="gnd">119237970</id>
+            <roleActor>
+                <role type="Rolle">Selica</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d8fb868d-dfbf-4894-bb86-8ddfbfa894f3">
+            <name>Hartwich, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b0855478-7f6d-41c3-8554-787f6df1c393">
+            <name>Hraby, Rudolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cce6d6b2-98f0-4d1d-a6d6-b298f0dd1d7b">
+            <name>Kiesau, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2d000cef-1ef4-49fd-800c-ef1ef499fd6a">
+            <name>Lütkemeyer, Friedrich</name>
+            <id type="gnd">1013148649</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="222dbb2b-107b-4d2e-adbb-2b107b2d2e89">
+            <name>Meyerbeer, Giacomo</name>
+            <id type="gnd">118581945</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f125f27c-e7aa-418c-a5f2-7ce7aaa18cb1">
+            <name>Pfeiler, Friedrich</name>
+            <id type="gnd">116164654</id>
+            <roleActor>
+                <role type="Rolle">Don Diego</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e996b6ca-911d-423c-96b6-ca911d023c95">
+            <name>Oster, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Oberpriester des Brahma</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="66e0c32c-cc16-43d9-a0c3-2ccc1623d9a1">
+            <name>Robertine, Fernande</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Choreograph_in des inszenierten Werks</role>
+                <role>Ballettmeisterin</role>
+            </roleActor>
+        </actor>
+        <actor id="6438e154-62ab-42ad-b8e1-5462aba2ada9">
+            <name>Rosenberg, Albert</name>
+            <id type="gnd">116621877</id>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="eb405a0d-49a8-4437-805a-0d49a8743734">
+            <name>Rémond</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3320ca29-7520-4579-a0ca-297520257923">
+            <name>Vom Scheidt, Julius</name>
+            <id type="gnd">133650561</id>
+            <roleActor>
+                <role type="Rolle">Nelusco</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5b5b7951-a83e-412c-9b79-51a83e012cce">
+            <name>Scribe, Eugène</name>
+            <id type="gnd">118612425</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="75bf2d1b-d7c2-45db-bf2d-1bd7c235db90">
+            <name>Menzinsky, Modest</name>
+            <id type="gnd">11688651X</id>
+            <roleActor>
+                <role type="Rolle">Vasco de Gama</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a892f576-aba5-4a06-92f5-76aba58a0673">
+            <name>Vidron, Angèle</name>
+            <id type="gnd">101721347X</id>
+            <roleActor>
+                <role type="Rolle">Ines</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="43e630f1-c9c9-48de-a630-f1c9c948deb7">
+            <name>Weissleder, Franz</name>
+            <id type="gnd">117302457</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="2d93695a-c012-4a5f-9369-5ac0127a5f06">
+            <name>Renner, Karl</name>
+            <id type="gnd">134869036</id>
+            <roleActor>
+                <role type="Rolle">Der Oberpriester des Brahma</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8a38af9d-ebcb-4fe1-b8af-9debcbdfe1aa">
+            <name>Strätz, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Vasco de Gama</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="21e4fb21-c963-4568-a4fb-21c9635568b5">
+            <name>Brecher, Gustav</name>
+            <id type="gnd">119001314</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="ed8603ac-ded6-4563-8603-acded6d563b9">
+            <name>Liszewsky, Tillmann</name>
+            <id type="gnd">134868706</id>
+            <roleActor>
+                <role type="Rolle">Nelusco</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2c7a45e2-64d8-40e3-ba45-e264d880e36a">
+            <name/>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="1e6237b3-0426-47b8-a237-b30426a7b8f0">
+            <name>Valnor, Cècile</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ines</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="5">
+        <object id="TWS_OBJ0000517" type="Publikation: Programmheft" aat="300027217">
+            <title>Besetzungszettel von Die Afrikanerin, Köln 1912</title>
+        </object>
+        <object id="TWS_OBJ0000516" type="Publikation: Programmheft" aat="300027217">
+            <title>Besetzungszettel von Die Afrikanerin, Köln 1912</title>
+        </object>
+        <object id="TWS_OBJ0000515" type="Publikation: Programmheft" aat="300027217">
+            <title>Besetzungszettel von Die Afrikanerin, Köln 1912</title>
+        </object>
+        <object id="TWS_OBJ0000514" type="Publikation: Programmheft" aat="300027217">
+            <title>Besetzungszettel von Die Afrikanerin, Köln 1912</title>
+        </object>
+        <object id="TWS_OBJ0000513" type="Publikation: Programmheft" aat="300027217">
+            <title>Besetzungszettel von Die Afrikanerin, Köln 1912</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

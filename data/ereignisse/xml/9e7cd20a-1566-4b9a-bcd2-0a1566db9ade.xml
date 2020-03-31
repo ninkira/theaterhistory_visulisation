@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="9e7cd20a-1566-4b9a-bcd2-0a1566db9ade" type="Performance">
+    <groupingArgument actorID="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">Le misanthrope+27.02.1949+Müthel, Lothar</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Le misanthrope</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Menschenfeind, Der</title>
+            <listObject>
+                <object id="IFT_OBJ_LM000465"/>
+                <object id="IFT_OBJ_LM000026"/>
+                <object id="IFT_OBJ_LM000025"/>
+                <object id="IFT_OBJ_LM000024"/>
+                <object id="IFT_OBJ_LM000023"/>
+                <object id="IFT_OBJ_LM000022"/>
+                <object id="IFT_OBJ_LM000021"/>
+                <object id="IFT_OBJ_LM000020"/>
+                <object id="IFT_OBJ_LM000019"/>
+                <object id="IFT_OBJ_LM000018"/>
+                <object id="IFT_KON_LM000002"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Weimar</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Nationaltheater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LM000465"/>
+                    <object id="IFT_OBJ_LM000026"/>
+                    <object id="IFT_OBJ_LM000025"/>
+                    <object id="IFT_OBJ_LM000024"/>
+                    <object id="IFT_OBJ_LM000023"/>
+                    <object id="IFT_OBJ_LM000022"/>
+                    <object id="IFT_OBJ_LM000021"/>
+                    <object id="IFT_OBJ_LM000020"/>
+                    <object id="IFT_OBJ_LM000019"/>
+                    <object id="IFT_OBJ_LM000018"/>
+                    <object id="IFT_KON_LM000002"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>27.02.1949</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_LM000465"/>
+                    <object id="IFT_OBJ_LM000026"/>
+                    <object id="IFT_OBJ_LM000025"/>
+                    <object id="IFT_OBJ_LM000024"/>
+                    <object id="IFT_OBJ_LM000023"/>
+                    <object id="IFT_OBJ_LM000022"/>
+                    <object id="IFT_OBJ_LM000021"/>
+                    <object id="IFT_OBJ_LM000020"/>
+                    <object id="IFT_OBJ_LM000019"/>
+                    <object id="IFT_OBJ_LM000018"/>
+                    <object id="IFT_KON_LM000002"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des DNT Weimar</text>
+            <object id="IFT_OBJ_LM000465"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung des DNt Weimar</text>
+            <object id="IFT_OBJ_LM000025"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">
+            <name>Müthel, Lothar</name>
+            <id type="gnd">119049309</id>
+            <roleActor>
+                <role type="Rolle">Alceste</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="82451bb0-1c3e-45a3-851b-b01c3e85a34b">
+            <name>Christiansen, Rolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fd3b4c50-59c6-4c0f-bb4c-5059c6bc0fd9">
+            <name>Lenders, Beate</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Celimène</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6edada1-a0b6-4a24-adad-a1a0b67a2458">
+            <name>Becker, Gerhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Philinte</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="30c027d0-9168-4d36-8027-d091686d369c">
+            <name>Wagner, Eva</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Eliante</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9c12b24e-b824-4ec9-92b2-4eb8240ec90e">
+            <name>Koren, Else</name>
+            <id type="gnd">1062411390</id>
+            <roleActor>
+                <role type="Rolle">Arsinoé</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="27e3676e-d0d1-422c-a367-6ed0d1222cad">
+            <name>Reichmann, Willy</name>
+            <id type="gnd">1062056558</id>
+            <roleActor>
+                <role type="Rolle">Oronte</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="66cdd552-04a9-45ee-8dd5-5204a905ee23">
+            <name>Deutsches Nationaltheater Weimar</name>
+            <id type="gnd">117758-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+                <role>Produktion</role>
+            </roleActor>
+        </actor>
+        <actor id="80f661b3-2921-45f6-b661-b3292155f64b">
+            <name>Molière</name>
+            <id type="gnd">11858331X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="11">
+        <object id="IFT_OBJ_LM000465" type="Publikation: Regiebuch" aat="">
+            <title>Regiebuch zu "Der Menschenfeind" in Weimar 1949</title>
+        </object>
+        <object id="IFT_OBJ_LM000026" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Menschenfeind" in Weimar 1949</title>
+        </object>
+        <object id="IFT_OBJ_LM000025" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Menschenfeind" in Weimar 1949</title>
+        </object>
+        <object id="IFT_OBJ_LM000024" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Menschenfeind" in Weimar 1949</title>
+        </object>
+        <object id="IFT_OBJ_LM000023" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Menschenfeind" in Weimar 1949</title>
+        </object>
+        <object id="IFT_OBJ_LM000022" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Menschenfeind" in Weimar 1949</title>
+        </object>
+        <object id="IFT_OBJ_LM000021" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Menschenfeind" in Weimar 1949</title>
+        </object>
+        <object id="IFT_OBJ_LM000020" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Menschenfeind" in Weimar 1949</title>
+        </object>
+        <object id="IFT_OBJ_LM000019" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Menschenfeind" in Weimar 1949</title>
+        </object>
+        <object id="IFT_OBJ_LM000018" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Menschenfeind" in Weimar 1949</title>
+        </object>
+        <object id="IFT_KON_LM000002" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritikenkonvolut zu "Der Menschenfeind" in Weimar 1949</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

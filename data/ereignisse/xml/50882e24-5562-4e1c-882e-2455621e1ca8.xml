@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="50882e24-5562-4e1c-882e-2455621e1ca8" type="Performance">
+    <groupingArgument actorID="5ced7cfe-2eea-468e-ad7c-fe2eea668ec2">Kammersänger, Der+02.11.1905+Arnold, Victor</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Kammersänger, Der</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Kammersänger, Der</title>
+            <listObject>
+                <object id="TWS_OBJ0000199"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000199"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>02.11.1905</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000199"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>vor "Die Neuvermählten" am selben Tag in einer Doppel-Aufführung gespielt</text>
+            <object id="TWS_OBJ0000199"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="31d647ca-bcaa-413f-9647-cabcaaf13f67">
+            <name>Wedekind, Frank</name>
+            <id type="gnd">118629867</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="9935639c-891c-4618-b563-9c891ce618cf">
+            <name>Deutsches Theater</name>
+            <id type="gnd">4058252-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Frau Helene Marowa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5ced7cfe-2eea-468e-ad7c-fe2eea668ec2">
+            <name>Arnold, Victor</name>
+            <id type="gnd">1050400186</id>
+            <roleActor>
+                <role type="Rolle">Professor Dühring</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8c7e9bfe-2100-4eff-be9b-fe2100beff7d">
+            <name>Biensfeldt, Paul</name>
+            <id type="gnd">116165685</id>
+            <roleActor>
+                <role type="Rolle">Gerardo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e309110c-5679-41be-8911-0c567941be88">
+            <name>Kupfer, Else</name>
+            <id type="gnd">1060806584</id>
+            <roleActor>
+                <role type="Rolle">Isabel Coeurne</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bef6eb64-e840-49c4-b6eb-64e840d9c44b">
+            <name>Huch, Elisabeth</name>
+            <id type="gnd">117034983</id>
+            <roleActor>
+                <role type="Rolle">eine Klavierlehrerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5b1de11d-a34b-42b5-9de1-1da34b12b5f7">
+            <name>Conradi, Paul</name>
+            <id type="gnd">1097218341</id>
+            <roleActor>
+                <role type="Rolle">Müller, Hotelwirth</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3d7729fa-395b-484e-b729-fa395b484e87">
+            <name>Techel, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Bedienter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2f92ca09-3a47-4862-92ca-093a47c8628d">
+            <name>Hötzel, George</name>
+            <id type="gnd">1062275268</id>
+            <roleActor>
+                <role type="Rolle">Ein Hoteldiener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8846e14c-5d2c-4d61-86e1-4c5d2cdd61dd">
+            <name>Rosen, Amalie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">ein Liftjunge</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000199" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Der Kammersänger" in Berlin 1905</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

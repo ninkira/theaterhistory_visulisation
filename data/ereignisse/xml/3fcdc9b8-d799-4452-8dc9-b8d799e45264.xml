@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="3fcdc9b8-d799-4452-8dc9-b8d799e45264" type="Performance">
+    <groupingArgument actorID="95fba391-f632-4a23-bba3-91f632fa2330">Man and superman+06.12.1906+Bernauer, Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Man and superman</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Mensch und Übermensch</title>
+            <listObject>
+                <object id="TWS_OBJ0000184"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele des Deutschen Theaters</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000184"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>06.12.1906</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000184"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="5ced7cfe-2eea-468e-ad7c-fe2eea668ec2">
+            <name>Arnold, Victor</name>
+            <id type="gnd">1050400186</id>
+            <roleActor>
+                <role type="Rolle">Malone</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="95fba391-f632-4a23-bba3-91f632fa2330">
+            <name>Bernauer, Rudolf</name>
+            <id type="gnd">118656295</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Violet Robinson</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5a5cf1ae-57de-44e0-9cf1-ae57dea4e08f">
+            <name>Ekert, Alexander</name>
+            <id type="gnd">1068467401</id>
+            <roleActor>
+                <role type="Rolle">Octavius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="593fd38f-16b6-4930-bfd3-8f16b6893067">
+            <name>Höflich, Lucie</name>
+            <id type="gnd">118963805</id>
+            <roleActor>
+                <role type="Rolle">Ann Whitefield</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fe5b4f6d-1d4c-4de6-9b4f-6d1d4c8de671">
+            <name>Shaw, Bernard</name>
+            <id type="gnd">118642375</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="88b6a3b8-ee94-49e7-b6a3-b8ee94a9e707">
+            <name>Trebitsch, Siegfried</name>
+            <id type="gnd">118840150</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Frau Whitefield</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cbc6029d-f567-4deb-8602-9df5679deb2b">
+            <name>Wegener, Paul</name>
+            <id type="gnd">118765981</id>
+            <roleActor>
+                <role type="Rolle">John Tanner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2133df74-49a5-4204-b3df-7449a5c20412">
+            <name>Tiedtke, Jakob Karl</name>
+            <id type="gnd">117377066</id>
+            <roleActor>
+                <role type="Rolle">Roebuck Ramsden</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="563f9ea0-77ad-465e-bf9e-a077ad265e9c">
+            <name>Kurz, Emilie</name>
+            <id type="gnd">116625449</id>
+            <roleActor>
+                <role type="Rolle">Susanne Ramsden</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="067f50db-53c0-450d-bf50-db53c0450d1c">
+            <name>Jacobi, Bernhard von</name>
+            <id type="gnd">117032719</id>
+            <roleActor>
+                <role type="Rolle">Hector Malone</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8c7e9bfe-2100-4eff-be9b-fe2100beff7d">
+            <name>Biensfeldt, Paul</name>
+            <id type="gnd">116165685</id>
+            <roleActor>
+                <role type="Rolle">Henry Straker</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ec596cdb-3803-4424-996c-db3803642493">
+            <name>Reye, Emmy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">ein Stubenmädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9935639c-891c-4618-b563-9c891ce618cf">
+            <name>Deutsches Theater</name>
+            <id type="gnd">4058252-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000184" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Mensch und Übermensch" in Berlin 1906</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

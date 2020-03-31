@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="d5f2cc58-0a88-44e0-b2cc-580a88a4e0d8" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Bernarda Albas Haus+01.03.1950+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Deutsche Erstaufführung(DEA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Bernarda Albas Haus</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Bernarda Albas Haus</title>
+            <listObject>
+                <object id="TWS_OBJ0000083"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Essen</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus Essen-Steele</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000083"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>01.03.1950</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000083"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="5812a14c-7cef-457d-92a1-4c7cefe57d50">
+            <name>García Lorca, Federico</name>
+            <id type="gnd">118537598</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="2bd23a22-3080-4cd4-923a-2230808cd43a">
+            <name>Asendorf, Charlotte</name>
+            <id type="gnd">1061552543</id>
+            <roleActor>
+                <role type="Rolle">Angustias</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="553f877d-e4ab-4203-bf87-7de4ab920355">
+            <name>Bauer, Karl</name>
+            <id type="gnd">116085347</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="ca0445ab-d8da-4958-8445-abd8da595807">
+            <name>Beck, Enrique</name>
+            <id type="gnd">119130831</id>
+            <roleActor>
+                <role>Übersetzer des Stücks</role>
+            </roleActor>
+        </actor>
+        <actor id="891df657-a859-4b51-9df6-57a8596b5134">
+            <name>Betten, Anne</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Trauergäste</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c320c20b-8bbc-4ab4-a0c2-0b8bbc4ab402">
+            <name>Bieler, Margot</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Adela</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8208f0cb-37f7-48c7-88f0-cb37f798c7d2">
+            <name>Clairmont, Berny</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bernada Alba</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c870c43c-0872-4950-b0c4-3c087289501e">
+            <name>Forbach, Moje</name>
+            <id type="gnd">116648538</id>
+            <roleActor>
+                <role type="Rolle">La Ponica</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6b740f04-45c9-4c15-b40f-0445c99c15b0">
+            <name>Haferung, Paul</name>
+            <id type="gnd">116370009</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c59917aa-aa8c-4a86-9917-aaaa8c4a86ff">
+            <name>Heydorn, Elfriede</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bettlerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ed59c5e0-d00d-4748-99c5-e0d00d07484f">
+            <name>Hoffmanns, Margaret</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Amelia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a2b154d3-e811-4bc8-b154-d3e8118bc8fc">
+            <name>Jockenhöfer, Hedwig</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">ein Mädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4041a7f0-ae89-424d-81a7-f0ae89624d4c">
+            <name>Jäger, Elsbeth</name>
+            <id type="gnd">1050486358</id>
+            <roleActor>
+                <role type="Rolle">Prudencia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="334e14ee-6115-4d52-8e14-ee6115ad5299">
+            <name>Kloft, Wilhelmine</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Trauergäste</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0d0fd6f0-c357-499a-8fd6-f0c357599af5">
+            <name>Kohl, Marianne</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Trauergäste</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57c80a2b-cdbb-4657-880a-2bcdbbc65762">
+            <name>Lick, Karlheinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="6706e34c-269e-4b58-86e3-4c269ecb58dd">
+            <name>Peter, Renate</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Magdalena</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8ad33094-9356-48db-9330-94935688dbfe">
+            <name>Quilling, Liselotte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Martirio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="46088f68-de7a-4403-888f-68de7a340360">
+            <name>Reiß, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="2cac4d72-e3e2-448a-ac4d-72e3e2948af2">
+            <name>Ryba, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="90804c7d-39b2-461b-804c-7d39b2661bcb">
+            <name>Schrader, Sigrid</name>
+            <id type="gnd">1095913859</id>
+            <roleActor>
+                <role type="Rolle">Magd</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6288524e-5adf-4794-8852-4e5adf379459">
+            <name>Schäfer, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="fb2e4035-e38c-46d6-ae40-35e38cc6d67b">
+            <name>Trapp, H.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Maria Josefa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a62cd769-14f2-42ff-acd7-6914f222ff6c">
+            <name>Tömmler, Irmgard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Trauergäste</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1ff5be74-f944-4f24-b5be-74f9445f2419">
+            <name>Weyergraf, Elfriede</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Trauergäste</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cf7aafea-ad90-4733-baaf-eaad90073399">
+            <name>Bühnen der Stadt Essen</name>
+            <id type="gnd">117380-7</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000083" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Bernarda Albas Haus" in Essen 1950</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

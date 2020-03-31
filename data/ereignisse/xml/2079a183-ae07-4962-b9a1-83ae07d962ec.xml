@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="2079a183-ae07-4962-b9a1-83ae07d962ec" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Twelfth night+03.05.1953+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Twelfth night</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Was ihr wollt</title>
+            <listObject>
+                <object id="TWS_OBJ0000108"/>
+                <object id="TWS_OBJ0000028"/>
+                <object id="TWS_OBJ0000027"/>
+                <object id="TWS_OBJ0000026"/>
+                <object id="TWS_KON0000006"/>
+                <object id="TWS_KON0000005"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000108"/>
+                </listObject>
+            </place>
+            <place type="Institution">
+                <placeName>Hessisches Landestheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000028"/>
+                    <object id="TWS_OBJ0000027"/>
+                    <object id="TWS_OBJ0000026"/>
+                </listObject>
+            </place>
+            <place type="Institution">
+                <placeName>Orangerie</placeName>
+                <listObject>
+                    <object id="TWS_KON0000006"/>
+                    <object id="TWS_KON0000005"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>03.05.1953</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000108"/>
+                    <object id="TWS_OBJ0000028"/>
+                    <object id="TWS_OBJ0000027"/>
+                    <object id="TWS_OBJ0000026"/>
+                    <object id="TWS_KON0000006"/>
+                    <object id="TWS_KON0000005"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Sprechtheater</text>
+            <object id="TWS_OBJ0000028"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung</text>
+            <object id="TWS_OBJ0000026"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung (Sprechtheater)</text>
+            <object id="TWS_KON0000006"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Narr - in Olivias Dienst</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bd6c4c1b-7cd8-431d-ac4c-1b7cd8231d88">
+            <name>Böhm, Willy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="ccb0ffbe-76f3-472d-b0ff-be76f3872dee">
+            <name>Büttner, Elly</name>
+            <id type="gnd">1023863960</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1c7eaa3d-dafd-4791-beaa-3ddafd3791a2">
+            <name>Costa, Julia</name>
+            <id type="gnd">1013914554</id>
+            <roleActor>
+                <role type="Rolle">Viola, Sebastians Schwester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5d7f670-1a25-40ee-97f6-701a2510ee85">
+            <name>Hofer, Claus</name>
+            <id type="gnd">1061490157</id>
+            <roleActor>
+                <role type="Rolle">Malvolio, Olivias Haushofmeister</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="49c2b6bd-a677-48f9-82b6-bda677b8f90a">
+            <name>Hübner, Rolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Antonio, ein Schiffshauptmann, Freund des Sebastian</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e949e404-4e9e-4f7e-89e4-044e9e9f7e79">
+            <name>Landestheater Darmstadt</name>
+            <id type="gnd">2002342-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="cd3983cf-ee12-493d-b983-cfee12693de6">
+            <name>Leyrer, Willy</name>
+            <id type="gnd">1061403572</id>
+            <roleActor>
+                <role type="Rolle">Junker Tobias von Rülp, Olivias Oheim</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a9d9c3ab-0820-4078-99c3-ab0820007861">
+            <name>Merz, Karl-Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">1. Gerichtsdiener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="791a3822-9bd9-4ba1-9a38-229bd92ba1d1">
+            <name>Müller-Elmau, Raidar</name>
+            <id type="gnd">1061745511</id>
+            <roleActor>
+                <role type="Rolle">Sebastian, ein junger Edelmann, Violas Bruder</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="3ee12e62-12bb-488a-a12e-6212bbc88af5">
+            <name>Razlag, Filip</name>
+            <id type="gnd">1136032096</id>
+            <roleActor>
+                <role>Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="f407b8e1-c7f1-40cc-87b8-e1c7f140cc64">
+            <name>Reinmann, Ingrid</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Maria, Olivias Kammermädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="41c1242a-596d-4512-8124-2a596db5127c">
+            <name>Saussen, Edmund</name>
+            <id type="gnd">1061370453</id>
+            <roleActor>
+                <role type="Rolle">Junker Andreas von Bleichenwang</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="05603d41-b84c-4282-a03d-41b84cb282d2">
+            <name>Schlegel, August Wilhelm von</name>
+            <id type="gnd">118607960</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="e06dab95-2ac4-4c38-adab-952ac4cc388f">
+            <name>Schleiermacher, Annette</name>
+            <id type="gnd">1061260917</id>
+            <roleActor>
+                <role type="Rolle">Olivia, eine reiche Gräfin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="2aa027fc-159c-4758-a027-fc159ce758a1">
+            <name>Streck, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Orsino, Herzog von Illyrien</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="11f8ca36-2e4a-4712-b8ca-362e4a4712ae">
+            <name>Traser, Kurt</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">2. Gerichtsdiener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0f856989-0165-43a9-8569-890165e3a9bb">
+            <name>Wachsmuth, Rolf Dieter</name>
+            <id type="gnd">117077224</id>
+            <roleActor>
+                <role type="Rolle">Valentin - Kavalier des Herzogs</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5caecbeb-9438-4976-aecb-eb9438f976c1">
+            <name>Weicker, Hans</name>
+            <id type="gnd">1055072586</id>
+            <roleActor>
+                <role type="Rolle">Fabio - in Olivias Dienst</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cb5ae2bb-62e2-41aa-9ae2-bb62e2b1aaf7">
+            <name>Westermann, Curt</name>
+            <id type="gnd">117319805</id>
+            <roleActor>
+                <role type="Rolle">Ein Schiffshauptmann / Priester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d586c30f-3636-445e-86c3-0f3636b45e22">
+            <name>Witt, Claus Peter</name>
+            <id type="gnd">124811035</id>
+            <roleActor>
+                <role type="Rolle">Curio - Kavalier des Herzogs</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cda43a28-e56b-42f1-a43a-28e56b52f187">
+            <name>Büttner, Elli</name>
+            <id type="gnd">1023863960</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="96d8d90f-af4b-45b2-98d9-0faf4b65b27b">
+            <name>Strack, Günter</name>
+            <id type="gnd">119293544</id>
+            <roleActor>
+                <role type="Rolle">Sebastian</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38907bc7-a54c-484c-907b-c7a54c484c8c">
+            <name>Wachsmuth, R. D.</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Valentin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="85e96bb3-b2f2-41c4-a96b-b3b2f251c41c">
+            <name>Hofer, Claus / eigentlich Hungershöfer, Peter Joseph</name>
+            <id type="gnd">1061490157</id>
+            <roleActor>
+                <role type="Rolle">Malvolio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4d3ae899-d37f-4c79-bae8-99d37f9c79ab">
+            <name>Weicker, Hans (oder Weicker, Herbert)</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fabio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5b168f52-f53d-43de-968f-52f53dc3dea3">
+            <name>Gensichen, Kunibert</name>
+            <id type="gnd">1062373189</id>
+            <roleActor>
+                <role type="Rolle">Narr</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7a47b328-8806-4060-87b3-288806b060f6">
+            <name>Weber, Willi</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Priester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5ea75159-9803-4bc1-a751-5998035bc19f">
+            <name>Merz, K. H.</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">1. Gerichtsdiener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f431b326-c28e-45f0-b1b3-26c28e15f003">
+            <name>Bernauer, Karin</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">1. Hofdame</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="22c48813-4a47-44ee-8488-134a4754ee60">
+            <name>Rasp, Susanne</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">2. Hofdame</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="22181892-32e7-45bd-9818-9232e7b5bdc7">
+            <name>Hessisches Landestheater Darmstadt</name>
+            <id type="gnd">2002342-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="6">
+        <object id="TWS_OBJ0000108" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Was ihr wollt" in Darmstadt 1953</title>
+        </object>
+        <object id="TWS_OBJ0000028" type="Publikation: Regiebuch" aat="">
+            <title>Regiebuch zu "Was ihr wollt" in Darmstadt 1953</title>
+        </object>
+        <object id="TWS_OBJ0000027" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto zu "Was ihr wollt" in Darmstadt 1953</title>
+        </object>
+        <object id="TWS_OBJ0000026" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto zu "Was ihr wollt" in Darmstadt 1953</title>
+        </object>
+        <object id="TWS_KON0000006" type="Publikation: Rezension" aat="">
+            <title>Kritiken zu "Was ihr wollt" in Darmstadt 1953</title>
+        </object>
+        <object id="TWS_KON0000005" type="Publikation: Rezension" aat="">
+            <title>Kritiken zu "Was ihr wollt" in Darmstadt 1953</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

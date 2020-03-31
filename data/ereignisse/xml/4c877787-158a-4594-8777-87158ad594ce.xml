@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="4c877787-158a-4594-8777-87158ad594ce" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Sommernachtstraum+31.01.1905+Reinhardt, Max</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Sommernachtstraum</title>
+            <listObject>
+                <object id="TWS_OBJ0000236"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Neues Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000236"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>31.01.1905</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000236"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Oberon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5014c91b-489f-464e-94c9-1b489f564e00">
+            <name>Knina, Gustav</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bb792b16-3044-4088-b92b-163044f088a1">
+            <name>Bermann, Friedrich</name>
+            <id type="gnd">116136383</id>
+            <roleActor>
+                <role>Musik</role>
+            </roleActor>
+        </actor>
+        <actor id="5a5cf1ae-57de-44e0-9cf1-ae57dea4e08f">
+            <name>Ekert, Alexander</name>
+            <id type="gnd">1068467401</id>
+            <roleActor>
+                <role type="Rolle">Lysander</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5ced7cfe-2eea-468e-ad7c-fe2eea668ec2">
+            <name>Arnold, Victor</name>
+            <id type="gnd">1050400186</id>
+            <roleActor>
+                <role type="Rolle">Flaut</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0f9193ae-16d0-459c-9193-ae16d0f59c1a">
+            <name>Sauermann, Carl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Schnock</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5b1de11d-a34b-42b5-9de1-1da34b12b5f7">
+            <name>Conradi, Paul</name>
+            <id type="gnd">1097218341</id>
+            <roleActor>
+                <role type="Rolle">Squenz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0da3aa15-2ae0-44df-a3aa-152ae014df7f">
+            <name>Grossmann, Richard</name>
+            <id type="gnd">116873299</id>
+            <roleActor>
+                <role type="Rolle">Schnauz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d7f90c88-e9a4-4d7a-b90c-88e9a42d7ae0">
+            <name>Walser, Karl</name>
+            <id type="gnd">118764152</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b440a239-4266-412d-80a2-394266412d7e">
+            <name>Mendelssohn Bartholdy, Felix</name>
+            <id type="gnd">118580779</id>
+            <roleActor>
+                <role>Musik</role>
+            </roleActor>
+        </actor>
+        <actor id="f9f0a226-7000-4e65-b0a2-2670001e653e">
+            <name>Hollaender, Gustav</name>
+            <id type="gnd">116961902</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="6486cf64-e70d-4c98-86cf-64e70d0c98f2">
+            <name>Kayssler, Friedrich</name>
+            <id type="gnd">118721402</id>
+            <roleActor>
+                <role type="Rolle">Theseus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5f2292c-0a7a-4004-b229-2c0a7a60047e">
+            <name>Licho, Adolf Edgar</name>
+            <id type="gnd">116980621</id>
+            <roleActor>
+                <role type="Rolle">Egeus</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="5d20605a-3933-4de0-a060-5a39335de04e">
+            <name>Winterstein, Eduard von</name>
+            <id type="gnd">118633864</id>
+            <roleActor>
+                <role type="Rolle">Demetrius</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="cc06b8fb-8734-4174-86b8-fb8734d17476">
+            <name>Nollet, Julius</name>
+            <id type="gnd">1078317828</id>
+            <roleActor>
+                <role type="Rolle">Philostrat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="af9dc891-937a-40c6-9dc8-91937a10c6c1">
+            <name>Engels, Georg</name>
+            <id type="gnd">116497483</id>
+            <roleActor>
+                <role type="Rolle">Zettel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000236" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Sommernachtstraum" in Berlin 1905</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

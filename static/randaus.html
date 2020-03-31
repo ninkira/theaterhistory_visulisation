@@ -1,0 +1,161 @@
+[15:41, 30.3.2020] Papa: <!--
+    Copyright (c) 2006-2013, JGraph Ltd
+  
+    Swimlanes example for mxGraph. This example demonstrates using
+    swimlanes for pools and lanes and adding cells and edges between
+    them. This also demonstrates using the stack layout as an
+    automatic layout.
+  -->
+  <html>
+  
+  <head>
+      <title>Randauszählung</title>
+  
+      <!-- Sets the basepath for the library if not in same directory -->
+      <script type="text/javascript">
+          mxBasePath = '../src';
+      </script>
+  
+      <!-- Loads and initializes the library -->
+      <script type="text/javascript" src="lib/mxClient.min.js"></script>
+      <script type="text/javascript" src="lib/jquery.min.js"></script>
+  
+  </head>
+  
+  <body>
+      <h2>Randauszählung</h2>
+      <div id=report width="400px" height="600px" style="background-color:…
+  [16:01, 30.3.2020] Papa: <!--
+    Copyright (c) 2006-2013, JGraph Ltd
+  
+    Swimlanes example for mxGraph. This example demonstrates using
+    swimlanes for pools and lanes and adding cells and edges between
+    them. This also demonstrates using the stack layout as an
+    automatic layout.
+  -->
+  <html>
+  
+  <head>
+      <title>Randauszählung</title>
+  
+      <!-- Sets the basepath for the library if not in same directory -->
+      <script type="text/javascript">
+          mxBasePath = '../src';
+      </script>
+  
+      <!-- Loads and initializes the library -->
+      <script type="text/javascript" src="lib/mxClient.min.js"></script>
+      <script type="text/javascript" src="lib/jquery.min.js"></script>
+  
+  </head>
+  
+  <body>
+      <h2>Randauszählung</h2>
+      <div id=report width="400px" height="600px" style="background-color:lime;"></div>
+      <!-- Example code -->
+      <script type="text/javascript">
+          $(document).ready(function () {
+  
+              var selStmt = "SELECT placename, premierdate, theatername, listtitle0title, ";
+              selStmt += " P1.actorname as regisseur, P1.actorrole as rolle1,";
+              selStmt += " P2.actorname as darsteller, P2.actorrole as rolle";
+              selStmt += " FROM EVENTINFO";
+              selStmt += " LEFT JOIN PERSONINFO AS P1";
+              selStmt += " ON EVENTINFO.eventid = P1.eventid";
+              selStmt += " AND rolle1 LIKE '%Regisseur%'";
+              selStmt += " LEFT JOIN PERSONINFO AS P2";
+              selStmt += " ON P1.eventid = P2.eventid";
+              selStmt += " AND rolle NOT LIKE '%Regisseur%'";
+  
+  
+            //  selStmt += " WHERE lower(regisseur) LIKE '%" + "ambach" + "%'";
+              // debugger;
+              var jqxhr = $.ajax({
+                  method: "GET",
+                  crossDomain: true,
+                  url: "readAll",
+                  data: {
+                      selStmt: selStmt
+                  }
+              }).done(function (r1, textStatus, jqXHR) {
+                  try {
+                      console.log("Antwort: " + r1);
+                      debugger;
+                      var statistik = {
+                          actorrole: {},
+                          regisseure: {},
+                          places: {},
+                          theaternames: {},
+                          years: {},
+                          titles: {}
+                      };
+                      var j1 = JSON.parse(r1);
+                      if (j1.error === true) {
+                          console.log("Fehler beim lesen: " + j1.message);
+                      } else {
+                          if (typeof j1.records === 'undefined') {
+                              console.log("Keine Daten gefunden :(");
+                          } else {
+                              j1record = j1.records;
+                              var index = j1.records.length;
+                              for (var irec = 0; irec < j1.records.length; irec++) {
+                                  var record = j1.records[irec];
+                                  if (irec === 0) console.log(JSON.stringify(record));
+                                  if (typeof statistik.places[record.placename] === "undefined") {
+                                      statistik.places[record.placename] = 1;
+                                  } else {
+                                      statistik.places[record.placename] += 1;
+                                  }
+                                  if (typeof statistik.theaternames[record.theatername] === "undefined") {
+                                      statistik.theaternames[record.theatername] = 1;
+                                  } else {
+                                      statistik.theaternames[record.theatername] += 1;
+                                  }
+                                  if (typeof statistik.years[record.premierdate.substr(0, 4)] === "undefined") {
+                                      statistik.years[record.premierdate.substr(0, 4)] = 1;
+                                  } else {
+                                      statistik.years[record.premierdate.substr(0, 4)] += 1;
+                                  }
+                                  if (typeof statistik.titles[record.listtitle0title] === "undefined") {
+                                      statistik.titles[record.listtitle0title] = 1;
+                                  } else {
+                                      statistik.titles[record.listtitle0title] += 1;
+                                  }
+                                  if (typeof statistik.actorrole[record.actorrole] === "undefined") {
+                                      statistik.actorrole[record.actorrole] = 1;
+                                  } else {
+                                      statistik.actorrole[record.actorrole] += 1;
+                                  }
+                                  if (typeof statistik.regisseure[record.regisseur] === "undefined") {
+                                      statistik.regisseure[record.regisseur] = 1;
+                                  } else {
+                                      statistik.regisseure[record.regisseur] += 1;
+                                  }
+  
+                              }
+  
+                              console.log(JSON.stringify(statistik, null, " "));
+                              $("#report")
+                                  .append($("<span/>", {
+                                      html: JSON.stringify(statistik, null, "<br>"),
+                                      css: {
+                                          width: "100%"
+                                      }
+                                  }));
+                          }
+                      }
+                  } catch (err) {
+                      alert("Fehler: " + err);
+                      console.log(err.stack);
+                  }
+              }).fail(function (err) {
+                  console.log(err.statusText)
+                  return;
+              }).always(function () {
+                  // nope
+              });
+          });
+      </script>
+  </body>
+  
+  </html>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="fadf8f7e-284b-448e-9f8f-7e284b448e58" type="Performance">
+    <groupingArgument actorID="da74ecdf-f05e-4165-b4ec-dff05e716588">Wie einst im Mai...+26.09.1916+Marlow, Heinrich</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Wie einst im Mai...</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Wie einst im Mai...</title>
+            <listObject>
+                <object id="IFT_KON_HL000005"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>New York</placeName>
+            <place type="Institution">
+                <placeName>Irving Place Theatre</placeName>
+                <listObject>
+                    <object id="IFT_KON_HL000005"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>26.09.1916</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_KON_HL000005"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Operetteninszenierung des Irving Place Theatre New York</text>
+            <object id="IFT_KON_HL000005"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="8b8172cd-9942-4ccc-8172-cd99429ccc16">
+            <name>Arndt, Flora</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kitty</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="95fba391-f632-4a23-bba3-91f632fa2330">
+            <name>Bernauer, Rudolf</name>
+            <id type="gnd">118656295</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0fcb639f-6efa-46ee-8b63-9f6efab6ee4f">
+            <name>Blome, Adolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="87ce2a74-9659-4a39-8e2a-7496594a39f2">
+            <name>Bredschneider, Willy</name>
+            <id type="gnd">116469471</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="04c07bb0-4d55-448a-807b-b04d55548a5e">
+            <name>Dalossy, Ellen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ottilie von Henkeshoven, Tilla</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c7a74e0f-cb54-4b0d-a74e-0fcb548b0de2">
+            <name>Feistel, John</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Heinrich Jüterbog</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2c137483-9585-48a5-9374-83958588a504">
+            <name>Frankl, Paul T.</name>
+            <id type="gnd">119492113</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="01c129a7-1523-4d59-8129-a715231d5944">
+            <name>Freisinger, Mme E. S.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dc65291d-9b87-4cb9-a529-1d9b87ccb93e">
+            <name>Jung, Betty</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mechthildis von Kiefernspeck</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eb4775d6-ed52-40a5-8775-d6ed5270a5e7">
+            <name>Kepler, Eduard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ernst Cicero von Henkeshoven</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9572bece-ee3e-494a-b2be-ceee3e494a62">
+            <name>Kollo, Walter</name>
+            <id type="gnd">123942837</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ce550677-d32f-4244-9506-77d32fe24421">
+            <name>Lingen, Heinz</name>
+            <id type="gnd">106194171X</id>
+            <roleActor>
+                <role type="Rolle">Fritz Jüterbog</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da74ecdf-f05e-4165-b4ec-dff05e716588">
+            <name>Marlow, Heinrich</name>
+            <id type="gnd">116784725</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d96ee669-f092-4fbd-aee6-69f0924fbde3">
+            <name>Meyer, Otto</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Oberst von Henkeshoven</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="55f5799b-f6e0-445c-b579-9bf6e0845ce8">
+            <name>Rautenberg, Eugen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="e16047ad-47ac-4b94-a047-ad47accb94d0">
+            <name>Robert, Ernst</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Justizrat Pergamenter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2f748784-ec89-488d-b487-84ec89488d74">
+            <name>Rub, Christian</name>
+            <id type="gnd">1062483898</id>
+            <roleActor>
+                <role type="Rolle">Stanislaus von Methusalem</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6ce643e8-2910-420a-a643-e82910f20aba">
+            <name>Rub-Foerster, Anni</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mizzi von Methusalem</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8caea815-7235-4875-aea8-157235e87528">
+            <name>Schanzer, Rudolf</name>
+            <id type="gnd">117104957</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d3ff001d-a94e-42da-bf00-1da94e72dad5">
+            <name>Schönfeld, Hertha</name>
+            <id type="gnd">116868007</id>
+            <roleActor>
+                <role type="Rolle">Vera</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1dd58396-4c45-4aab-9583-964c45faabdc">
+            <name>Szécsy, Magda</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Angostura</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="466383d6-17c7-4e74-a383-d617c7ae7440">
+            <name>Irving Place Theatre</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_KON_HL000005" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritikenkonvolut zu "Wie einst im Mai..." in New York 1916</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

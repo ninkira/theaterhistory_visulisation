@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="9efae254-79d8-4c8a-bae2-5479d84c8a9b" type="Performance">
+    <groupingArgument actorID="f54967ab-e40d-46cc-8967-abe40db6cce8">Herrschaftlicher Diener gesucht+05.06.1915+Zickel, Martin</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Uraufführung(UA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Herrschaftlicher Diener gesucht</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Herrschaftlicher Diener gesucht</title>
+            <listObject>
+                <object id="IFT_KON_EB000003"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Lustspielhaus</placeName>
+                <listObject>
+                    <object id="IFT_KON_EB000003"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>05.06.1915</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_KON_EB000003"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Berliner Lustspielhauses</text>
+            <object id="IFT_KON_EB000003"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="f54967ab-e40d-46cc-8967-abe40db6cce8">
+            <name>Zickel, Martin</name>
+            <id type="gnd">116986123</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f65d3291-65d4-456a-9d32-9165d4056a21">
+            <name>Georg, Richard</name>
+            <id type="gnd">116560045</id>
+            <roleActor>
+                <role type="Rolle">Adalbert von Wismar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="78b6b95c-a432-4822-b6b9-5ca43248220a">
+            <name>Burg, Eugen</name>
+            <id type="gnd">117164062</id>
+            <roleActor>
+                <role type="Rolle">Fritz Staufen</role>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0236df54-e68b-40ed-b6df-54e68b40ed98">
+            <name>Peukert, Leo</name>
+            <id type="gnd">1050379527</id>
+            <roleActor>
+                <role type="Rolle">Friedrich</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9f042563-1643-42ac-8425-631643b2ac0f">
+            <name>Euler, Lucie</name>
+            <id type="gnd">1061490718</id>
+            <roleActor>
+                <role type="Rolle">Minna</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="00aab18d-17be-4bf6-aab1-8d17be1bf676">
+            <name>Paulmüller, Herbert</name>
+            <id type="gnd">116065451</id>
+            <roleActor>
+                <role type="Rolle">Lehmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="373fc67d-b590-4fd5-bfc6-7db5903fd5ca">
+            <name>Gläßner, Erika</name>
+            <id type="gnd">116059281</id>
+            <roleActor>
+                <role type="Rolle">Ilse</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a9cb6fe5-2818-416f-8b6f-e52818e16f60">
+            <name>Taufstein, Louis</name>
+            <id type="gnd">1049359674</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="07cb3845-1c01-4040-8b38-451c01104034">
+            <name>Berliner Lustspielhaus</name>
+            <id type="gnd">106627312X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="d236ae4c-6383-43d2-b6ae-4c638393d273">
+            <name>Horsky-Bergère, Leona</name>
+            <id type="gnd">1061349195</id>
+            <roleActor>
+                <role type="Rolle">Konstantine von Runeck</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f18b3b00-b549-4ea6-8b3b-00b549cea648">
+            <name>Lyck, Helene von</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Alice</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f388eed1-a729-4970-88ee-d1a729b9700e">
+            <name>Paul, Albert</name>
+            <id type="gnd">116060816</id>
+            <roleActor>
+                <role type="Rolle">Joachim von Falkenthal</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_KON_EB000003" type="Publikation: Rezension" aat="">
+            <title>Konvolut Kritiken zu "Herrschaftlicher Diener gesucht" in Berlin 1915</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

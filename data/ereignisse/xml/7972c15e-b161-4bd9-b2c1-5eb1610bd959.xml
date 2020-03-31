@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="7972c15e-b161-4bd9-b2c1-5eb1610bd959" type="Performance">
+    <groupingArgument actorID="f51d4364-574f-4700-9d43-64574f670078">Eine Florentinische Tragödie+12.01.1906+Hollaender, Felix</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Eine Florentinische Tragödie</title>
+            <listObject>
+                <object id="TWS_OBJ0000196"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater Berlin</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000196"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>12.01.1906</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000196"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="f51d4364-574f-4700-9d43-64574f670078">
+            <name>Hollaender, Felix</name>
+            <id type="gnd">116961805</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Bianca</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="94b14064-7388-4c18-b140-647388cc1887">
+            <name>Deutsches Theater Berlin</name>
+            <id type="gnd">4058252-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="df769abd-39c8-4f17-b69a-bd39c84f1760">
+            <name>Schildkraut, Rudolf</name>
+            <id type="gnd">117265861</id>
+            <roleActor>
+                <role type="Rolle">Simone</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bd135b2e-b813-4135-935b-2eb81391354c">
+            <name>Moissi, Alexander</name>
+            <id type="gnd">118583271</id>
+            <roleActor>
+                <role type="Rolle">Guido</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="463f20b3-d9b0-44e9-bf20-b3d9b054e928">
+            <name>Wilde, Oscar</name>
+            <id type="gnd">118632779</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000196" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Eine Florentinische Tragödie" und "Der Herr Commissär" in Berlin 1906</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

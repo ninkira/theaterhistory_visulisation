@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="5d8269be-e409-4467-8269-bee409546715" type="Performance">
+    <groupingArgument actorID="ce550677-d32f-4244-9506-77d32fe24421">Clivia++Lingen, Heinz</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Clivia</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Clivia</title>
+            <listObject>
+                <object id="IFT_KON_HL000001"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Kassel</placeName>
+            <place type="Institution">
+                <placeName>Staatstheater</placeName>
+                <listObject>
+                    <object id="IFT_KON_HL000001"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="25.08.1950" to="">
+                <listObject>
+                    <object id="IFT_KON_HL000001"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Operetteninszenierung des Kasseler Staatstheaters, Heinz Lingen als Gastregisseur</text>
+            <object id="IFT_KON_HL000001"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="f17708a3-4357-4578-b708-a34357b5782c">
+            <name>Dostal, Nico</name>
+            <id type="gnd">118527037</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f4e7c137-7e3a-4549-a7c1-377e3a654923">
+            <name>Döhler, Erich</name>
+            <id type="gnd">105323721</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cd582f13-c337-4bdf-982f-13c3379bdf5a">
+            <name>Ebhardt, Karl</name>
+            <id type="gnd">116332808</id>
+            <roleActor>
+                <role type="Rolle">Caudillo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c1712c24-3f83-4d5e-b12c-243f83dd5e8f">
+            <name>Gollong, Christian</name>
+            <id type="gnd">116762233</id>
+            <roleActor>
+                <role type="Rolle">Mr. Potterton</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ce550677-d32f-4244-9506-77d32fe24421">
+            <name>Lingen, Heinz</name>
+            <id type="gnd">106194171X</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="01498e2c-5f62-41b2-898e-2c5f6261b248">
+            <name>Möltgen, Hermann</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="42aae1ed-dd60-4674-aae1-eddd608674f6">
+            <name>Mörbitz, Kurt</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kriminalinspektor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2eca104a-a4b1-4824-8a10-4aa4b1a82472">
+            <name>Reichert, Fritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Hauptmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0eddf50b-7c0f-47c7-9df5-0b7c0fe7c79e">
+            <name>Schneider, Bert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Gaucho, General</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3f265054-4c39-4188-a650-544c39518854">
+            <name>Schubart, Marianne</name>
+            <id type="gnd">134593596</id>
+            <roleActor>
+                <role type="Rolle">Jola</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7c416321-3578-41ee-8163-213578a1eef9">
+            <name>Staatstheater Kassel</name>
+            <id type="gnd">2022470-9</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="f8d20949-7592-4c7b-9209-497592ac7beb">
+            <name>Söhning, Kurt</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Reporter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0e76505c-b790-4e2e-b650-5cb790ce2ea2">
+            <name>Tappert, Horst</name>
+            <id type="gnd">117201669</id>
+            <roleActor>
+                <role type="Rolle">Kasulke</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cc606cb9-f0ce-4e70-a06c-b9f0ce4e70a7">
+            <name>Tiemann, Ilse</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Clivia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6b937785-d653-44c6-9377-85d653c4c625">
+            <name>Wunderlich, Hans Joachim</name>
+            <id type="gnd">134561759</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_KON_HL000001" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritikenkonvolut zu "Clivia" in Kassel 1950</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

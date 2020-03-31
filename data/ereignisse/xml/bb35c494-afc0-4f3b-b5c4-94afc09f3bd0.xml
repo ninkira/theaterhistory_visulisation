@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="bb35c494-afc0-4f3b-b5c4-94afc09f3bd0" type="Performance">
+    <groupingArgument actorID="c4be8f46-e554-457b-be8f-46e554a57b1a">So ist das Leben+30.10.1903+Vallentin, Richard</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>So ist das Leben</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>(So ist das Leben) König Nicolo</title>
+            <listObject>
+                <object id="TWS_KON0000025"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Theater am Schiffbauerdamm</placeName>
+                <listObject>
+                    <object id="TWS_KON0000025"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>30.10.1903</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_KON0000025"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="31d647ca-bcaa-413f-9647-cabcaaf13f67">
+            <name>Wedekind, Frank</name>
+            <id type="gnd">118629867</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="c4be8f46-e554-457b-be8f-46e554a57b1a">
+            <name>Vallentin, Richard</name>
+            <id type="gnd">117341622</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Alma</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8582ab27-5519-4192-82ab-275519319254">
+            <name>Theater am Schiffbauerdamm</name>
+            <id type="gnd">5211197-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_KON0000025" type="Publikation: Rezension" aat="">
+            <title>Kritiken zu "König Nicolo" in Berlin 1903</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

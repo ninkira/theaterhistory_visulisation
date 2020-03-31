@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="7bc6b4b1-5d69-4099-86b4-b15d69009987" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Oedipus tyrannus+07.11.1910+Reinhardt, Max</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Oedipus tyrannus</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>König Oedipus</title>
+            <listObject>
+                <object id="TWS_OBJ0000228"/>
+                <object id="TWS_OBJ0000227"/>
+                <object id="TWS_OBJ0000226"/>
+            </listObject>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>König Ödipus</title>
+            <listObject>
+                <object id="TWS_KON0000023"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Zirkus Schumann</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000228"/>
+                    <object id="TWS_OBJ0000227"/>
+                    <object id="TWS_OBJ0000226"/>
+                    <object id="TWS_KON0000023"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>07.11.1910</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000228"/>
+                    <object id="TWS_OBJ0000227"/>
+                    <object id="TWS_OBJ0000226"/>
+                    <object id="TWS_KON0000023"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Königin Iokaste</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="67cc73d7-96c9-42f4-8c73-d796c972f4fc">
+            <name>Sophocles</name>
+            <id type="gnd">118615688</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d5031d04-ce78-456a-831d-04ce78c56a42">
+            <name>Zirkus Schumann (Berlin)</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="1c084510-cc71-46a8-8845-10cc71d6a81a">
+            <name>Hofmannsthal, Hugo von</name>
+            <id type="gnd">118552759</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="70f1e614-6216-4b41-b1e6-146216ab4142">
+            <name>Geiger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5f0fb9e6-ea32-4193-8fb9-e6ea3291939a">
+            <name>Stern, Ernst</name>
+            <id type="gnd">118753614</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cbc6029d-f567-4deb-8602-9df5679deb2b">
+            <name>Wegener, Paul</name>
+            <id type="gnd">118765981</id>
+            <roleActor>
+                <role type="Rolle">Ödipus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4deceb2e-37da-4b11-aceb-2e37daeb1159">
+            <name>Eduard v. Winterstein</name>
+            <id type="gnd">118633864</id>
+            <roleActor>
+                <role type="Rolle">Kreon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="399df680-e139-4a70-9df6-80e1394a700f">
+            <name>Wörz, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Teiresias</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d57e9499-3da1-45fc-be94-993da175fcc7">
+            <name>Kühne, Friedrich</name>
+            <id type="gnd">1060906619</id>
+            <roleActor>
+                <role type="Rolle">Priester/Bote aus Korinth</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="50601e69-2d76-4f47-a01e-692d768f47d1">
+            <name>Diegelmann, Wilhelm</name>
+            <id type="gnd">11610046X</id>
+            <roleActor>
+                <role type="Rolle">Hirte</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="5d20605a-3933-4de0-a060-5a39335de04e">
+            <name>Winterstein, Eduard von</name>
+            <id type="gnd">118633864</id>
+            <roleActor>
+                <role type="Rolle">Kreon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8f0200fc-1923-4e4a-8200-fc19238e4ae6">
+            <name>Circus Schumann</name>
+            <id type="gnd">6060224-7</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="4">
+        <object id="TWS_OBJ0000228" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "König Oedipus" in Berlin 1910</title>
+        </object>
+        <object id="TWS_OBJ0000227" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "König Oedipus" in Berlin 1910</title>
+        </object>
+        <object id="TWS_OBJ0000226" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "König Oedipus" in Berlin 1910</title>
+        </object>
+        <object id="TWS_KON0000023" type="Publikation: Rezension" aat="300026480">
+            <title>Kritiken zu "König Ödipus" in Berlin 1902</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

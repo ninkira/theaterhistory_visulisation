@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="04ab45bc-dadf-470b-ab45-bcdadf070bd7" type="Performance">
+    <groupingArgument actorID="">Spielereien einer Kaiserin++</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Spielereien einer Kaiserin</title>
+            <listObject>
+                <object id="TWS_OBJ0000238"/>
+                <object id="TWS_OBJ0000237"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Königliches Hoftheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000238"/>
+                    <object id="TWS_OBJ0000237"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1911" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000238"/>
+                    <object id="TWS_OBJ0000237"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Rollengastspiel</text>
+            <object id="TWS_OBJ0000238"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="40260027-243a-46ef-a600-27243aa6ef32">
+            <name>Dauthendey, Max</name>
+            <id type="gnd">118678973</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Kaiserin Katharina</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000238" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Spielereien einer Kaiserin" in München 1911</title>
+        </object>
+        <object id="TWS_OBJ0000237" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Spielereien einer Kaiserin" in München 1911</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

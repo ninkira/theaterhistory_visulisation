@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="77a9e19c-b3b2-4343-a9e1-9cb3b2e3436c" type="Performance">
+    <groupingArgument actorID="ce550677-d32f-4244-9506-77d32fe24421">Liebe? – Mumpitz! Aus der Mottenkiste des Kabaretts++Lingen, Heinz</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Liebe? – Mumpitz! Aus der Mottenkiste des Kabaretts</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Liebe? – Mumpitz! Aus der Mottenkiste des Kabaretts</title>
+            <listObject>
+                <object id="IFT_OBJ_HL000038"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Premiere</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HL000038"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1946" to="1956">
+                <listObject>
+                    <object id="IFT_OBJ_HL000038"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Kabarett-Revue am Film- und Kleinkunst-Theater "Premiere"</text>
+            <object id="IFT_OBJ_HL000038"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="ce550677-d32f-4244-9506-77d32fe24421">
+            <name>Lingen, Heinz</name>
+            <id type="gnd">106194171X</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Bearbeiter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="286cad67-bf68-4a75-acad-67bf687a758e">
+            <name>Premiere</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="deba4b15-80af-4aaa-ba4b-1580af1aaacc">
+            <name>Hannel, Irene</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="76e2821f-85c6-410d-a282-1f85c6610d6b">
+            <name>Brummerhoff, Charlotte</name>
+            <id type="gnd">1061390713</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b156e630-4041-40bc-96e6-304041e0bc7d">
+            <name>Orth, Erna</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="aef78ba7-5dc6-430c-b78b-a75dc6730c3f">
+            <name>Dittmer-Heyne, Hilde</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c5d5a749-09d5-4f80-95a7-4909d55f80ca">
+            <name>Pomerenke, Helga</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4a793de1-74ba-4546-b93d-e174ba654683">
+            <name>Müller, Uschi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4427d9c9-2536-41bd-a7d9-c9253651bd9b">
+            <name>Abraham, Irene</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="7ef1b7ed-585a-4e09-b1b7-ed585a5e09d0">
+            <name>Geisler, Kl.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="16d9c5ee-b959-4027-99c5-eeb959b02733">
+            <name>Goetz-Lindner, Uschi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="5559c2af-4dbc-4844-99c2-af4dbc784424">
+            <name>Purand, Peter</name>
+            <id type="gnd">1061582159</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d55d4591-68eb-41bb-9d45-9168eb71bb28">
+            <name>Hofmann, Erik</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Abendregie</role>
+            </roleActor>
+        </actor>
+        <actor id="07c3409b-eb4e-4ce8-8340-9beb4e0ce8e5">
+            <name>Hilberg, Rudi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Pianist_in</role>
+            </roleActor>
+        </actor>
+        <actor id="8bd18406-74d3-4fc8-9184-0674d38fc818">
+            <name>Perak, Rudolf</name>
+            <id type="gnd">1044061715</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="bf41c049-974e-4a46-81c0-49974eda46ad">
+            <name>Zunken, Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c1236d05-1b1f-41ff-a36d-051b1f01ff5e">
+            <name>Nelson, Rudolf</name>
+            <id type="gnd">118738410</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="f4684810-b22d-40b6-a848-10b22da0b6a0">
+            <name>Hollaender, Victor</name>
+            <id type="gnd">116961945</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="9572bece-ee3e-494a-b2be-ceee3e494a62">
+            <name>Kollo, Walter</name>
+            <id type="gnd">123942837</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="93dcaf97-2c5b-404f-9caf-972c5b204f25">
+            <name>Grünbaum, Fritz</name>
+            <id type="gnd">119368129</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="32944090-aa26-48b5-9440-90aa2608b5b7">
+            <name>Benatzky, Ralph</name>
+            <id type="gnd">118655272</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="35aa0bc6-f119-491a-aa0b-c6f119591a18">
+            <name>Straus, Oscar</name>
+            <id type="gnd">11875582X</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="f5200a1e-02df-4968-a00a-1e02dfe968e4">
+            <name>Stolz, Robert</name>
+            <id type="gnd">118618652</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="31cf6227-270b-4328-8f62-27270b8328fc">
+            <name>Nicklass-Kempner, Siegfried</name>
+            <id type="gnd">1158933371</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="78cbd153-4adf-491c-8bd1-534adf291c11">
+            <name>Fall, Leo</name>
+            <id type="gnd">116396717</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HL000038" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Liebe? – Mumpitz! Aus der Mottenkiste des Kabaretts" in Berlin</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="d1b74b88-328b-47a4-b74b-88328b87a4dd" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Käthchen von Heilbronn, Das+12.01.1953+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Käthchen von Heilbronn, Das</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Käthchen von Heilbronn oder Die Feuerprobe, Das</title>
+            <listObject>
+                <object id="TWS_OBJ0000106"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000106"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>12.01.1953</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000106"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Gottfried Friedeborn, Bräutigam des Käthchens</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fe6cdd02-f7aa-44fe-acdd-02f7aa94fe2b">
+            <name>Bopp, Viktor</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Köhlerjunge</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="39169fad-3803-410b-969f-ad3803310b68">
+            <name>Böhm, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="1c7eaa3d-dafd-4791-beaa-3ddafd3791a2">
+            <name>Costa, Julia</name>
+            <id type="gnd">1013914554</id>
+            <roleActor>
+                <role type="Rolle">Käthchen, Tochter des Theobald</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="779ebebd-5b46-4448-9ebe-bd5b468448e1">
+            <name>Daub, Ellen a. G.</name>
+            <id type="gnd">1111058067</id>
+            <roleActor>
+                <role type="Rolle">Brigitte, Haushälterin im gräflichen Schloß</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c15caee7-0159-4a06-9cae-e701595a066f">
+            <name>Helfmann, Alexander</name>
+            <id type="gnd">1141080273</id>
+            <roleActor>
+                <role type="Rolle">Ritter Schauermann / Jacob Pech, ein Gastwirt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5d7f670-1a25-40ee-97f6-701a2510ee85">
+            <name>Hofer, Claus</name>
+            <id type="gnd">1061490157</id>
+            <roleActor>
+                <role type="Rolle">Friedrich Wetter, Graf von Strahl</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="adee930c-86da-4a6e-ae93-0c86da2a6e63">
+            <name>Kleist, Heinrich von</name>
+            <id type="gnd">118563076</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f9052409-d0e3-423b-8524-09d0e3623bb5">
+            <name>Krug, Ellen</name>
+            <id type="gnd">1061646645</id>
+            <roleActor>
+                <role type="Rolle">Gräfin Helena, Mutter des Friedrich Wetter</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e949e404-4e9e-4f7e-89e4-044e9e9f7e79">
+            <name>Landestheater Darmstadt</name>
+            <id type="gnd">2002342-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="cd3983cf-ee12-493d-b983-cfee12693de6">
+            <name>Leyrer, Willy</name>
+            <id type="gnd">1061403572</id>
+            <roleActor>
+                <role type="Rolle">Der Rheingraf vom Stein, Verlobter Kunigundens</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b987bc5d-b0e2-49ad-87bc-5db0e239adc9">
+            <name>Lübbert, Martin</name>
+            <id type="gnd">1061327752</id>
+            <roleActor>
+                <role type="Rolle">Graf Otto von der Flühe - Räte des Kaisers und Richter des heimlichen Gerichts</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c4df82f3-6114-4a1f-9f82-f361142a1f2b">
+            <name>Müller, Rolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Kaiser</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1c178e5-9f55-4cc0-8178-e59f551cc060">
+            <name>Noack, Max</name>
+            <id type="gnd">1031177310</id>
+            <roleActor>
+                <role type="Rolle">Theobald von Friedeborn, Waffenschmied aus Heilbronn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="ccddc63b-248e-4f1a-9dc6-3b248e0f1a9d">
+            <name>Pförtner, Ingrid</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Eleonore, Nichte des Friedrich Wetter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="22c48813-4a47-44ee-8488-134a4754ee60">
+            <name>Rasp, Susanne</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Eine Tante Kunigundens</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f407b8e1-c7f1-40cc-87b8-e1c7f140cc64">
+            <name>Reinmann, Ingrid</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Rosalie, Kammerzofe der Kunigunde</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="41c1242a-596d-4512-8124-2a596db5127c">
+            <name>Saussen, Edmund</name>
+            <id type="gnd">1061370453</id>
+            <roleActor>
+                <role type="Rolle">Eginhardt von der Warth - Freund des Rheingrafen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5695b87-35ff-4cbb-a95b-8735ff4cbb7c">
+            <name>Schneider, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Georg von Waldstätten, Freund von Maximillian</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="98810e09-9405-4655-810e-09940506554e">
+            <name>Schüler, Hermann</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Köhler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="96d8d90f-af4b-45b2-98d9-0faf4b65b27b">
+            <name>Strack, Günter</name>
+            <id type="gnd">119293544</id>
+            <roleActor>
+                <role type="Rolle">Ritter Flammberg, des Grafen Vasall</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="11f8ca36-2e4a-4712-b8ca-362e4a4712ae">
+            <name>Traser, Kurt</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Ritter Wetzlaff</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ea325aa4-1852-4b33-b25a-a418527b33ad">
+            <name>Valenta, Lucy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kunigunde von Thurneck</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dd5d9b5d-519c-461a-9d9b-5d519c361a78">
+            <name>Vogt, Eugen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Friedrich von Herrnstadt - Freund des Rheingrafen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5caecbeb-9438-4976-aecb-eb9438f976c1">
+            <name>Weicker, Hans</name>
+            <id type="gnd">1055072586</id>
+            <roleActor>
+                <role type="Rolle">Ein Nachtwächter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cb5ae2bb-62e2-41aa-9ae2-bb62e2b1aaf7">
+            <name>Westermann, Curt</name>
+            <id type="gnd">117319805</id>
+            <roleActor>
+                <role type="Rolle">Köhler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4cfae690-c3bf-4e67-bae6-90c3bf4e67c3">
+            <name>Wien, Herbert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Gottschalk, Knecht des Ritter Flammberg</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="87b81bf0-991c-4656-b81b-f0991cd65607">
+            <name>Wischnewski, Siegfried</name>
+            <id type="gnd">138597472</id>
+            <roleActor>
+                <role type="Rolle">Maximillian, Burggraf von Freiburg / Wenzel von Nachtheim - Räte des Kaisers und Richter des heimlichen Gerichts</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000106" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Das Käthchen von Heilbronn" in Darmstadt 1953</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

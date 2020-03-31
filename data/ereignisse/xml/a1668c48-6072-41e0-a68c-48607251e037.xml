@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a1668c48-6072-41e0-a68c-48607251e037" type="Performance">
+    <groupingArgument actorID="">Gas I+1928+</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Gas I</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Gas</title>
+            <listObject>
+                <object id="TWS_OBJ0000680"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000680"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>1928</premier>
+            <time from="1928" to="1928">
+                <listObject>
+                    <object id="TWS_OBJ0000680"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="c03edbe0-a3c4-4abc-bedb-e0a3c45abc7e">
+            <name>Kaiser, Georg</name>
+            <id type="gnd">118559427</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="69aa1a91-5c98-4398-aa1a-915c98c398be">
+            <name>Schneeloch, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000680" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Paul Schneeloch</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

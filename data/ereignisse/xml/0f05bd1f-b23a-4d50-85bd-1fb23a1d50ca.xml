@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="0f05bd1f-b23a-4d50-85bd-1fb23a1d50ca" type="Performance">
+    <groupingArgument actorID="77ff672d-57fa-47a4-bf67-2d57fa47a4d9">Affentanz+19. November 1931+Manning, Philipp</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Affentanz</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Affentanz</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000011"/>
+                <object id="IFT_OBJ_HW000010"/>
+                <object id="IFT_OBJ_HW000009"/>
+                <object id="IFT_OBJ_HW000007"/>
+                <object id="IFT_OBJ_HW000006"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kleines Theater Unter den Linden</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000011"/>
+                    <object id="IFT_OBJ_HW000010"/>
+                    <object id="IFT_OBJ_HW000009"/>
+                    <object id="IFT_OBJ_HW000007"/>
+                    <object id="IFT_OBJ_HW000006"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>19. November 1931</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000011"/>
+                    <object id="IFT_OBJ_HW000010"/>
+                    <object id="IFT_OBJ_HW000009"/>
+                    <object id="IFT_OBJ_HW000007"/>
+                    <object id="IFT_OBJ_HW000006"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Internationalen Theaters im Kleinen Theater Unter den Linden, Berlin</text>
+            <object id="IFT_OBJ_HW000011"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="5cbdcdd5-e2a9-4598-bdcd-d5e2a945980b">
+            <name>Bern, Vera</name>
+            <id type="gnd">1143963733</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="2d8f7c4e-ba53-459f-8f7c-4eba53459fcf">
+            <name>Kleines Theater Unter den Linden</name>
+            <id type="gnd">1080158030</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="77ff672d-57fa-47a4-bf67-2d57fa47a4d9">
+            <name>Manning, Philipp</name>
+            <id type="gnd">116734698</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d8e511b7-c390-47ca-a511-b7c39077ca7c">
+            <name>Wähnelt-Teichmann</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9e5b822e-ea02-4e47-9b82-2eea022e4777">
+            <name>Günther, Paul</name>
+            <id type="gnd">1067512799</id>
+            <roleActor>
+                <role type="Rolle">Peterpaul Kampe</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b2ae792c-9b10-4acc-ae79-2c9b106acc6f">
+            <name>Schlettow, Hans Adalbert</name>
+            <id type="gnd">117326747</id>
+            <roleActor>
+                <role type="Rolle">Erich Kampe</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="54b655aa-b68c-4616-b655-aab68c5616f7">
+            <name>Borodin, Elfriede</name>
+            <id type="gnd">1062375432</id>
+            <roleActor>
+                <role type="Rolle">Der Putz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="adab6682-f669-4904-ab66-82f66919046b">
+            <name>Edwards, Edith</name>
+            <id type="gnd">1061759431</id>
+            <roleActor>
+                <role type="Rolle">Hede</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Frau von Lüders</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="654c4afd-431c-4de8-8c4a-fd431cdde88d">
+            <name>Klebusch, Franz</name>
+            <id type="gnd">1060807947</id>
+            <roleActor>
+                <role type="Rolle">Dr. Schildhorn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e1f12984-c1b4-4282-b129-84c1b4d28243">
+            <name>Ludwig, Richard</name>
+            <id type="gnd">1025064275</id>
+            <roleActor>
+                <role type="Rolle">Der Schofför</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="41a5788c-9f85-4a9e-a578-8c9f852a9e9b">
+            <name>Claudius, Marieluise</name>
+            <id type="gnd">106184174X</id>
+            <roleActor>
+                <role type="Rolle">Hausangestellte</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="93279344-f264-4f6c-a793-44f2644f6c02">
+            <name>Richter, Gösta</name>
+            <id type="gnd">1062271890</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="5fdc9abc-3c53-436a-9c9a-bc3c53336a55">
+            <name>Internationales Theater</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="5">
+        <object id="IFT_OBJ_HW000011" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Rollenporträt aus "Affentanz" in Berlin 1931</title>
+        </object>
+        <object id="IFT_OBJ_HW000010" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Rollenporträt aus "Affentanz" in Berlin 1931</title>
+        </object>
+        <object id="IFT_OBJ_HW000009" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Rollenporträt aus "Affentanz" in Berlin 1931</title>
+        </object>
+        <object id="IFT_OBJ_HW000007" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Rollenporträt aus "Affentanz" in Berlin 1931</title>
+        </object>
+        <object id="IFT_OBJ_HW000006" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Rollenporträt aus "Affentanz" in Berlin 1931</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="e9c7f141-5514-49cc-87f1-415514d9ccad" type="Performance">
+    <groupingArgument actorID="">Marquis von Keith, Der+28.03.1929+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Marquis von Keith, Der</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Marquis von Keith, Der</title>
+            <listObject>
+                <object id="TWS_OBJ0000153"/>
+                <object id="TWS_OBJ0000148"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus am Gendarmenmarkt</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000153"/>
+                    <object id="TWS_OBJ0000148"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>28.03.1929</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000153"/>
+                    <object id="TWS_OBJ0000148"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Einmalige Aufführung; Gedächtnisfeier zum Tode Albert Steinrücks (10.02.1929)</text>
+            <object id="TWS_OBJ0000153"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="60e13068-6c65-438e-a130-686c65d38e10">
+            <name>Abel, Alfred</name>
+            <id type="gnd">116001313</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="60309bee-efd4-4fd1-b09b-eeefd49fd111">
+            <name>Albers, Hans</name>
+            <id type="gnd">118501402</id>
+            <roleActor>
+                <role type="Rolle">Kellner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0a167e9e-cb1d-477e-967e-9ecb1d477e77">
+            <name>Alten, Ferdinand von</name>
+            <id type="gnd">1031504273</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1883b148-0082-4393-83b1-48008223937a">
+            <name>Bahn, Roma</name>
+            <id type="gnd">116039582</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ec567799-cdaf-4529-9677-99cdafb52935">
+            <name>Bard, Maria</name>
+            <id type="gnd">132959372</id>
+            <roleActor>
+                <role type="Rolle">Freifrau v. Totleben</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="98cae1c5-e390-48ee-8ae1-c5e390a8ee10">
+            <name>Bergner, Elisabeth</name>
+            <id type="gnd">11850956X</id>
+            <roleActor>
+                <role type="Rolle">Sascha</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fc7ffc0a-ffc2-4e31-bffc-0affc28e318d">
+            <name>Bildt, Paul</name>
+            <id type="gnd">11618051X</id>
+            <roleActor>
+                <role type="Rolle">Dienstmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="efaa0829-8d13-4a30-aa08-298d133a3080">
+            <name>Binder, Sibylle</name>
+            <id type="gnd">141405449</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6c4fbe89-df21-452d-8fbe-89df21752da0">
+            <name>Braun, Alfred</name>
+            <id type="gnd">116415630</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="44318e3f-3124-493a-b18e-3f3124e93aa5">
+            <name>Brausewetter, Hans</name>
+            <id type="gnd">116430249</id>
+            <roleActor>
+                <role type="Rolle">Dienstmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7c9de988-af0f-49a0-9de9-88af0fc9a09c">
+            <name>Christians, Mady</name>
+            <id type="gnd">116509430</id>
+            <roleActor>
+                <role type="Rolle">Freifrau v. Rosenkron</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="76a089f7-9d14-4ed9-a089-f79d144ed991">
+            <name>Deutsch, Ernst</name>
+            <id type="gnd">118678019</id>
+            <roleActor>
+                <role type="Rolle">Kellner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e459889a-bb57-4201-9988-9abb571201ac">
+            <name>Dietrich, Marlene</name>
+            <id type="gnd">118525565</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7946aa60-aecd-45d6-86aa-60aecd65d6a0">
+            <name>Dorsch, Käthe</name>
+            <id type="gnd">11868051X</id>
+            <roleActor>
+                <role type="Rolle">Simba</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Anna, verw. Gräfin Werdenfels</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f8a2473f-376b-4503-a247-3f376b3503a4">
+            <name>Eysoldt, Gertrud</name>
+            <id type="gnd">119115522</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2cb9cd10-63f4-4c87-b9cd-1063f4cc8746">
+            <name>Falkenstein, Julius</name>
+            <id type="gnd">116396288</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1e496676-1eac-498f-8966-761eace98fdc">
+            <name>Florath, Albert</name>
+            <id type="gnd">119526913</id>
+            <roleActor>
+                <role type="Rolle">Grandauer, Restaurateur</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ef0de4ff-f3a2-4f93-8de4-fff3a24f9322">
+            <name>Forster, Rudolf</name>
+            <id type="gnd">118692267</id>
+            <roleActor>
+                <role type="Rolle">Packträger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="278535bb-680c-4a5a-8535-bb680cfa5abb">
+            <name>Franck, Walter</name>
+            <id type="gnd">118692518</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6aeb8129-6682-4398-ab81-2966829398c4">
+            <name>George, Heinrich</name>
+            <id type="gnd">118690507</id>
+            <roleActor>
+                <role type="Rolle">Der Marquis von Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3360f297-4a31-4643-a0f2-974a31d6435c">
+            <name>Gerron, Kurt</name>
+            <id type="gnd">119075571</id>
+            <roleActor>
+                <role type="Rolle">Packträger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5b8ee029-7297-4156-8ee0-297297c156ff">
+            <name>Goetz, Kurt</name>
+            <id type="gnd">118540297</id>
+            <roleActor>
+                <role type="Rolle">Kellner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b7ae84f2-1f6e-4d16-ae84-f21f6e1d164a">
+            <name>Granach, Alexander</name>
+            <id type="gnd">11854148X</id>
+            <roleActor>
+                <role type="Rolle">Metzgerknecht</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cd6c4afe-1b7b-48f8-ac4a-fe1b7ba8f843">
+            <name>Grätz, Paul</name>
+            <id type="gnd">11681375X</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4dfd6895-d0a5-4f71-bd68-95d0a58f71c8">
+            <name>Gülstorff, Max</name>
+            <id type="gnd">116909730</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a82b789b-7232-4b6d-ab78-9b7232cb6d53">
+            <name>Haack, Käte</name>
+            <id type="gnd">118543997</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f01a5465-cca4-46bc-9a54-65cca496bc75">
+            <name>Hansen, Max</name>
+            <id type="gnd">132295377</id>
+            <roleActor>
+                <role type="Rolle">Raspe, Kriminalkommissar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e852642d-6dd7-4a8d-9264-2d6dd7fa8da3">
+            <name>Harlan, Veit</name>
+            <id type="gnd">118545981</id>
+            <roleActor>
+                <role type="Rolle">Packträger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dd4b4293-5de3-4f1c-8b42-935de31f1cf0">
+            <name>Heims-Reinhardt, Else</name>
+            <id type="gnd">116421983</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f483c166-8c80-4688-83c1-668c80e6886e">
+            <name>Hesterberg, Trude</name>
+            <id type="gnd">118704257</id>
+            <roleActor>
+                <role type="Rolle">Bäckerweib</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7006fc8c-b29a-41c8-86fc-8cb29aa1c800">
+            <name>Janssen, Walter</name>
+            <id type="gnd">136550592</id>
+            <roleActor>
+                <role type="Rolle">Dienstmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8ddf6f36-ecc1-4a24-9f6f-36ecc18a2458">
+            <name>Jessner, Leopold</name>
+            <id type="gnd">118557491</id>
+            <roleActor>
+                <role>Leitung (Regisseur_in?)</role>
+            </roleActor>
+        </actor>
+        <actor id="1052594d-e505-466e-9259-4de505666ea3">
+            <name>Kaiser, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenmeister_in</role>
+            </roleActor>
+        </actor>
+        <actor id="bb96cc9c-b680-46a9-96cc-9cb68026a9a3">
+            <name>Kampers, Fritz</name>
+            <id type="gnd">120558424</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="43b8e0f4-0290-42ec-b8e0-f40290c2ecd9">
+            <name>Klokow, Till</name>
+            <id type="gnd">1061604128</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6e9d4ba5-f884-44e6-9d4b-a5f884e4e61a">
+            <name>Konstantin, Leopoldine</name>
+            <id type="gnd">116331577</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c1afca85-6c9a-4879-afca-856c9a2879fa">
+            <name>Koppenhöfer, Maria</name>
+            <id type="gnd">116339004</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6d4b7e03-5975-441b-8b7e-035975741bf9">
+            <name>Kortner, Fritz</name>
+            <id type="gnd">118565591</id>
+            <roleActor>
+                <role type="Rolle">Metzgerknecht</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="025f261e-5c62-4641-9f26-1e5c62b6410e">
+            <name>Krauss, Werner</name>
+            <id type="gnd">118715828</id>
+            <roleActor>
+                <role type="Rolle">Konsul Casimir</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f9802ac0-b026-4849-802a-c0b026d8493f">
+            <name>Kraußneck, Arthur</name>
+            <id type="gnd">116401753</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="98103080-e74f-48a5-9030-80e74f18a57f">
+            <name>Krüger, Marg.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Souffleur_in</role>
+            </roleActor>
+        </actor>
+        <actor id="a83188e8-48c8-49e1-b188-e848c8e9e1ff">
+            <name>Körber, Hilde</name>
+            <id type="gnd">11903946X</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="266ad46d-3713-46e7-aad4-6d3713d6e73e">
+            <name>Laubinger, Otto</name>
+            <id type="gnd">116865970</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0a5f3c59-38d2-43ca-9f3c-5938d253ca6e">
+            <name>Leibelt, Hans</name>
+            <id type="gnd">116876972</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="24922627-c1bb-485d-9226-27c1bb285d02">
+            <name>Loos, Theodor</name>
+            <id type="gnd">117213853</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8ec0efff-6521-43b7-80ef-ff652163b795">
+            <name>Lossen, Lina</name>
+            <id type="gnd">117221201</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8fab89d4-d3e4-4a9a-ab89-d4d3e4ea9a6e">
+            <name>Mann, Heinrich</name>
+            <id type="gnd">118577131</id>
+            <roleActor>
+                <role>Gedenkworte</role>
+            </roleActor>
+        </actor>
+        <actor id="9e88c060-c12e-423d-88c0-60c12e123d5c">
+            <name>Mannheim, Lucie</name>
+            <id type="gnd">118730665</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="59c5661e-d37a-45f3-8566-1ed37a75f3d7">
+            <name>Martin, Karlheinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Hilfsinspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="93efd53f-ed4c-4a79-afd5-3fed4c8a7990">
+            <name>Massary, Fritzi</name>
+            <id type="gnd">118731572</id>
+            <roleActor>
+                <role type="Rolle">Ein Dienstmädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c80c3846-8405-4e8b-8c38-4684056e8b88">
+            <name>Mendelssohn, Eleonore von</name>
+            <id type="gnd">116877065</id>
+            <roleActor>
+                <role type="Rolle">Griesinger, Molly</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="93fb1cfa-0121-4089-bb1c-fa0121d089aa">
+            <name>Müller, H. C.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="34b121e6-8f21-40f9-b121-e68f2170f9ea">
+            <name>Müller, Renate</name>
+            <id type="gnd">117608335</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">
+            <name>Müthel, Lothar</name>
+            <id type="gnd">119049309</id>
+            <roleActor>
+                <role type="Rolle">Ernst Scholz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7406176d-433b-43a9-8617-6d433b63a9b9">
+            <name>Neher, Carola</name>
+            <id type="gnd">118738348</id>
+            <roleActor>
+                <role type="Rolle">Hermann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cff3f2a1-def0-4dd1-b3f2-a1def00dd199">
+            <name>Newes, Martha Maria</name>
+            <id type="gnd">116991569</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e5f35e70-709a-4a28-b35e-70709aba28cb">
+            <name>Nielsen, Asta</name>
+            <id type="gnd">118587854</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4d04d922-4e42-4d5d-84d9-224e424d5d81">
+            <name>Otto, Paul</name>
+            <id type="gnd">1016966490</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d987fd2d-5c32-4762-87fd-2d5c320762a1">
+            <name>Pallenberg, Max</name>
+            <id type="gnd">11859138X</id>
+            <roleActor>
+                <role type="Rolle">Sommersberg, Literat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3348d740-a4a5-43c9-88d7-40a4a5f3c975">
+            <name>Patry, Albert</name>
+            <id type="gnd">116058803</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8a1e9fa5-36b5-4903-9e9f-a536b5d90397">
+            <name>Paudler, Maria</name>
+            <id type="gnd">118592041</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3d741879-ae79-4a7e-b418-79ae79da7ece">
+            <name>Pirchan, Emil</name>
+            <id type="gnd">118594559</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="85a250c6-366e-4c21-a250-c6366efc21da">
+            <name>Pohl, Max Dr.</name>
+            <id type="gnd">116260513</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="12387e55-3864-4da3-b87e-5538647da3f5">
+            <name>Porten, Henny</name>
+            <id type="gnd">118817272</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="95011f96-abaa-4992-811f-96abaa2992ba">
+            <name>Ralph, Hanna</name>
+            <id type="gnd">14272095X</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="58cda5fd-922b-43f2-8da5-fd922bf3f258">
+            <name>Rameau, Emil</name>
+            <id type="gnd">116327200</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="25b44607-d481-49ae-b446-07d481b9ae79">
+            <name>Richard, Frieda</name>
+            <id type="gnd">116505826</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="aa040ae2-6c61-44c1-840a-e26c6164c165">
+            <name>Riemann, Johannes</name>
+            <id type="gnd">116543477</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="39dd5d42-f0b2-4291-9d5d-42f0b28291e1">
+            <name>Rupprecht, Karl</name>
+            <id type="gnd">1078928673</id>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="a412c791-88f0-42bf-92c7-9188f0a2bfbb">
+            <name>Schnitzler, Heinrich</name>
+            <id type="gnd">116848510</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6cf94e8-5338-40e5-8f94-e8533820e5e0">
+            <name>Schroth, Heinrich</name>
+            <id type="gnd">117099228</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="217e089b-e6c2-4f42-be08-9be6c25f4274">
+            <name>Schwannecke, Victor</name>
+            <id type="gnd">117351415</id>
+            <roleActor>
+                <role type="Rolle">Metzgerknecht</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="01c46617-ebf7-4bd1-8466-17ebf72bd144">
+            <name>Servaes, Dagny</name>
+            <id type="gnd">117467944</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="16881581-e977-46d9-8815-81e97716d9ec">
+            <name>Stahl-Nachbaur, Ernst</name>
+            <id type="gnd">117203688</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d9626d0-f82a-48b3-9626-d0f82a98b3ea">
+            <name>Straub, Agnes</name>
+            <id type="gnd">117309133</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="346242ba-db50-4aaf-a242-badb503aaf80">
+            <name>Thellmann, Erika von</name>
+            <id type="gnd">117301906</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cdcff3cd-8c77-4316-8ff3-cd8c773316ec">
+            <name>Thimig, Hermann</name>
+            <id type="gnd">118757121</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="367288ac-d8a1-47e6-b288-acd8a147e664">
+            <name>Tiedtke, Jakob</name>
+            <id type="gnd">117377066</id>
+            <roleActor>
+                <role type="Rolle">Saranieff, Kunstmaler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="df913dcf-8cd0-4261-913d-cf8cd082618a">
+            <name>Triesch, Irene</name>
+            <id type="gnd">117418366</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3ae05780-3c5d-4ac3-a057-803c5ddac32e">
+            <name>Valetti, Rosa (falsch geschrieben)</name>
+            <id type="gnd">117341150</id>
+            <roleActor>
+                <role type="Rolle">Frau Krenzl</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e9da0a93-5b89-4f39-9a0a-935b89df3924">
+            <name>Vallentin, Hermann</name>
+            <id type="gnd">117341606</id>
+            <roleActor>
+                <role type="Rolle">Ostermeier, Bierbrauereibes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="758ffe57-ba29-42ca-8ffe-57ba29d2ca6d">
+            <name>Veidt, Conrad</name>
+            <id type="gnd">119228866</id>
+            <roleActor>
+                <role type="Rolle">Zamrjaki, Komponist</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d5e436ff-4efe-4586-a436-ff4efec586f8">
+            <name>Wagner, Elsa</name>
+            <id type="gnd">117094714</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fe67998d-fe13-46c7-a799-8dfe1356c766">
+            <name>Wallburg, Otto</name>
+            <id type="gnd">119368080</id>
+            <roleActor>
+                <role type="Rolle">Krenzl, Baumeister</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d37ee122-d523-4e77-bee1-22d5231e77fc">
+            <name>Wassmann, Hans</name>
+            <id type="gnd">117149853</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="31d647ca-bcaa-413f-9647-cabcaaf13f67">
+            <name>Wedekind, Frank</name>
+            <id type="gnd">118629867</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="802462f8-20b5-42aa-a462-f820b532aa73">
+            <name>Wedekind, Tilly</name>
+            <id type="gnd">116995157</id>
+            <roleActor>
+                <role type="Rolle">Bäckerweib</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cbc6029d-f567-4deb-8602-9df5679deb2b">
+            <name>Wegener, Paul</name>
+            <id type="gnd">118765981</id>
+            <roleActor>
+                <role type="Rolle">Metzgerknecht</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="847343fe-e018-4505-b343-fee018750541">
+            <name>Weintraubs Syncopators</name>
+            <id type="gnd">4696496-4</id>
+            <roleActor>
+                <role>Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="2ff157b4-6842-4db0-b157-b468420db0de">
+            <name>Werbezirk, Gisela</name>
+            <id type="gnd">130178527</id>
+            <roleActor>
+                <role type="Rolle">Frau Ostermeier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="30102a6e-295e-496c-902a-6e295e696c7e">
+            <name>Wieman, Mathias</name>
+            <id type="gnd">118767828</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5d20605a-3933-4de0-a060-5a39335de04e">
+            <name>Winterstein, Eduard von</name>
+            <id type="gnd">118633864</id>
+            <roleActor>
+                <role type="Rolle">Dienstmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7afd617f-8da6-469d-bd61-7f8da6a69dde">
+            <name>Wüst, Ida</name>
+            <id type="gnd">116119667</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3b6abe79-709a-4575-aabe-79709a9575c0">
+            <name>Zilzer, Wolfgang</name>
+            <id type="gnd">116992433</id>
+            <roleActor>
+                <role type="Rolle">Gast des Marquis v. Keith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2133df74-49a5-4204-b3df-7449a5c20412">
+            <name>Tiedtke, Jakob Karl</name>
+            <id type="gnd">117377066</id>
+            <roleActor>
+                <role type="Rolle">Saranieff, Kunstmaler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4c69c031-e640-4625-a9c0-31e6405625f4">
+            <name>Goetz, Curt</name>
+            <id type="gnd">118540297</id>
+            <roleActor>
+                <role type="Rolle">Kellner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000153" type="Publikation: Programmheft" aat="300027217">
+            <title>Probenfoto zu "Der Marquis von Keith" in Berlin 1929</title>
+        </object>
+        <object id="TWS_OBJ0000148" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Der Marquis von Keith" in Berlin 1929</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Vortrag">
+            <listTitle>
+                <titleStmt>
+                    <title>Gedenkworte zum Tode Albert Steinrücks</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Berlin</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Schauspielhaus am Gendarmenmarkt</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000148"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>28.03.1929</eventDate>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description>
+                    <beschreibung>
+                        <text>Heinrich Mann sprach vor der einmaligen Aufführung von "Der Marquis von Keith" zum Gedenken an Albert Steinrück Gedenkworte</text>
+                        <object>TWS_OBJ0000148</object>
+                    </beschreibung>
+                </description>
+            </descriptionList>
+            <actorList>
+                <actor id="8fab89d4-d3e4-4a9a-ab89-d4d3e4ea9a6e">
+                    <name>Mann, Heinrich</name>
+                    <id type="gnd">118577131</id>
+                    <roleActor>
+                        <role type="Rolle"/>
+                        <role>Vortragende_r</role>
+                    </roleActor>
+                </actor>
+            </actorList>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

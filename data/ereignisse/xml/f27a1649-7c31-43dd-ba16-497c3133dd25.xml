@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="f27a1649-7c31-43dd-ba16-497c3133dd25" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Bernarda Albas Haus+29.01.1961+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Bernarda Albas Haus</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Bernarda Albas Haus</title>
+            <listObject>
+                <object id="TWS_OBJ0000140"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Orangeriehaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000140"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>29.01.1961</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000140"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="5812a14c-7cef-457d-92a1-4c7cefe57d50">
+            <name>García Lorca, Federico</name>
+            <id type="gnd">118537598</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="2c9425a5-17eb-4c40-9425-a517ebbc4095">
+            <name>Schroeter, Renate</name>
+            <id type="gnd">1129270246</id>
+            <roleActor>
+                <role type="Rolle">Adela</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ca0445ab-d8da-4958-8445-abd8da595807">
+            <name>Beck, Enrique</name>
+            <id type="gnd">119130831</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="8b9f433d-e2bd-411e-9f43-3de2bd711ed1">
+            <name>Behrens, Christa</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="845c619d-e951-468b-9c61-9de951a68b32">
+            <name>Braak, Kai</name>
+            <id type="gnd">172871697</id>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="bd6c4c1b-7cd8-431d-ac4c-1b7cd8231d88">
+            <name>Böhm, Willy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="bdbe4eeb-acff-4955-be4e-ebacff995575">
+            <name>Gerhardt, Berta</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">2. Frau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="be0ab7ec-7387-44a8-8ab7-ec738734a842">
+            <name>Gmür, Walburga</name>
+            <id type="gnd">1061303799</id>
+            <roleActor>
+                <role type="Rolle">Magd</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3f633488-5f8b-4e4b-a334-885f8b7e4be1">
+            <name>Graf, Gundi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">deren Töchterchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4eb1b5b0-eec1-4bd9-b1b5-b0eec11bd986">
+            <name>Hellmund, Ria</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">1. Frau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57d285bc-f174-4b52-9285-bcf1749b52fd">
+            <name>Joeres, Charlotte</name>
+            <id type="gnd">134633792</id>
+            <roleActor>
+                <role type="Rolle">La Poncia, Magd</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="66f2c581-62d9-4709-b2c5-8162d9c7091f">
+            <name>Karzau, Sonja</name>
+            <id type="gnd">116061782</id>
+            <roleActor>
+                <role type="Rolle">Bernarda Alba</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="49554886-b527-49b6-9548-86b527e9b639">
+            <name>Kiepenheuer, Gustav</name>
+            <id type="gnd">120786974</id>
+            <roleActor>
+                <role>Aufführungsrechteinhaber</role>
+            </roleActor>
+        </actor>
+        <actor id="f9052409-d0e3-423b-8524-09d0e3623bb5">
+            <name>Krug, Ellen</name>
+            <id type="gnd">1061646645</id>
+            <roleActor>
+                <role type="Rolle">María Josefa, Bernardas Mutter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="63ebafb8-63fa-4049-abaf-b863fae0499b">
+            <name>Laett, Irene</name>
+            <id type="gnd">1023362538</id>
+            <roleActor>
+                <role type="Rolle">Angustias</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="4a1b1ac8-4555-4534-9b1a-c84555453414">
+            <name>Marhold, Irene</name>
+            <id type="gnd">106247063X</id>
+            <roleActor>
+                <role type="Rolle">Magdalena</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="67c225b5-156c-42bf-8225-b5156cc2bf4a">
+            <name>Meißner, Käthe</name>
+            <id type="gnd">126389055</id>
+            <roleActor>
+                <role type="Rolle">Prudencia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0b5c7110-c434-4707-9c71-10c434a707fe">
+            <name>Raffaelli, Michel</name>
+            <id type="gnd">131941208</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+                <role>Komponist_in der Bühnenmusik</role>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="37310a32-742f-4e47-b10a-32742f6e47a4">
+            <name>Reger, Renate</name>
+            <id type="gnd">1061912698</id>
+            <roleActor>
+                <role type="Rolle">Martirio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="644020d3-1d4c-411e-8020-d31d4c911e26">
+            <name>Rieker, Lilo</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">4. Frau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cd26f5a0-3a26-4018-a6f5-a03a265018e5">
+            <name>Sajak, Hannspeter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f3aba570-b3cd-4f2b-aba5-70b3cd7f2b4d">
+            <name>Solbrig, Ingeborg</name>
+            <id type="gnd">1061948676</id>
+            <roleActor>
+                <role type="Rolle">3. Frau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="15da88a9-586d-4fba-9a88-a9586d3fba6c">
+            <name>Staguhn, Ursula</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bettlerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b3c5bc-cf0f-475c-b3c5-bccf0fb75c69">
+            <name>Steiger, Renate</name>
+            <id type="gnd">1106388003</id>
+            <roleActor>
+                <role type="Rolle">Amelia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e949e404-4e9e-4f7e-89e4-044e9e9f7e79">
+            <name>Landestheater Darmstadt</name>
+            <id type="gnd">2002342-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000140" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Bernarda Albas Haus" in Darmstadt 1961</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

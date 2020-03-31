@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="da5bd525-d61d-4c3c-9bd5-25d61d7c3c8c" type="Performance">
+    <groupingArgument actorID="e07a1b10-d85c-425a-ba1b-10d85ca25ab4">Sixième étage+03.06.1939+Schnyder, Franz</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Sixième étage</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Im sechsten Stock</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000018"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000018"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>03.06.1939</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000018"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Münchner Kamerspiele</text>
+            <object id="IFT_OBJ_HW000018"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="c7a38790-0eea-46dd-a387-900eea06dd49">
+            <name>Gehri, Alfred</name>
+            <id type="gnd">116493887</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e07a1b10-d85c-425a-ba1b-10d85ca25ab4">
+            <name>Schnyder, Franz</name>
+            <id type="gnd">116849363</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4575ce75-53b4-45d9-b5ce-7553b4f5d9e4">
+            <name>Sturm, Eduard</name>
+            <id type="gnd">117363782</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="82b3a352-a1cf-4feb-b3a3-52a1cfbfeb14">
+            <name>Menhart, Alfred</name>
+            <id type="gnd">1062174801</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="23ab71d9-5d92-45f0-ab71-d95d92f5f045">
+            <name>Kopp, Mila</name>
+            <id type="gnd">116141247</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="efc8e6ca-520e-4ad8-88e6-ca520edad8cb">
+            <name>Rothe, Annemarie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9d64db19-9312-4d2a-a4db-1993129d2a0a">
+            <name>Wery, Carl</name>
+            <id type="gnd">117308064</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="33eb70e4-5b58-4192-ab70-e45b58c192fa">
+            <name>Nigg, Josef</name>
+            <id type="gnd">1062159918</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38d230af-e70e-44e7-9230-afe70ec4e7e6">
+            <name>Eckard, Max</name>
+            <id type="gnd">135433444</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e0961776-169b-40a6-9617-76169bd0a6e2">
+            <name>Münchner Kammerspiele</name>
+            <id type="gnd">2068173-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000018" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfoto aus "Im sechsten Stock" in München 1939</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

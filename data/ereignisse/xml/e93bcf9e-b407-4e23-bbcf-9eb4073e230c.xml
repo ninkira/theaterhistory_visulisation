@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="e93bcf9e-b407-4e23-bbcf-9eb4073e230c" type="Performance">
+    <groupingArgument actorID="c4be8f46-e554-457b-be8f-46e554a57b1a">Rosmersholm+28.04.1905+Vallentin, Richard</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Rosmersholm</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Rosmersholm</title>
+            <listObject>
+                <object id="TWS_OBJ0000246"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kleines Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000246"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>28.04.1905</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000246"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Rebekka West</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5d20605a-3933-4de0-a060-5a39335de04e">
+            <name>Winterstein, Eduard von</name>
+            <id type="gnd">118633864</id>
+            <roleActor>
+                <role type="Rolle">Kroll</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ecc49639-d53a-4c7c-8496-39d53abc7c7e">
+            <name>Pagay, Hans</name>
+            <id type="gnd">116015454</id>
+            <roleActor>
+                <role type="Rolle">Ulrik Brendel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="85981872-e0d6-4462-9818-72e0d644625b">
+            <name>Wüllner, Ludwig</name>
+            <id type="gnd">117432563</id>
+            <roleActor>
+                <role type="Rolle">Rosmer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c4be8f46-e554-457b-be8f-46e554a57b1a">
+            <name>Vallentin, Richard</name>
+            <id type="gnd">117341622</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8995e70a-7152-40d4-95e7-0a7152a0d418">
+            <name>Ibsen, Henrik</name>
+            <id type="gnd">118555286</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="fe445653-b48f-444f-8456-53b48f944f1a">
+            <name>Kleines Theater Berlin</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000246" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Rosmersholm" in Berlin 1905</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

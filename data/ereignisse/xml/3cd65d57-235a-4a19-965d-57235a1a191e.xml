@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="3cd65d57-235a-4a19-965d-57235a1a191e" type="Performance">
+    <groupingArgument actorID="">Jugendliebe+08.11.1899+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Jugendliebe</title>
+            <listObject>
+                <object id="TWS_OBJ0000146"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>concession, Theater-Vorbereitungsschule</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000146"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>08.11.1899</premier>
+            <time from="undefined" to="undefined">
+                <listObject>
+                    <object id="TWS_OBJ0000146"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext>undefined</culturalContext>
+    <listDescription>
+        <description>
+            <text>1. Vorstellung des Zweiten Eleven-Abends
+Bayz als Adelheid
+Böhm als Heinrich Roller
+Frau von Rosen
+Förster als Frau von Rosen
+Hesse als Betti, Tochter des Gärtners
+Walden als Ferdinand von Brud
+Chmella als Hildebrand, Gärtner bei Fr. v. Rosen</text>
+            <object id="TWS_OBJ0000146"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e129ed2c-e86a-4e53-a9ed-2ce86a7e53ca">
+            <name>Arnau, Carl</name>
+            <id type="gnd">116341831</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e1a8461a-4963-418c-a846-1a4963518c3e">
+            <name>Bayz</name>
+            <id type="gnd">undefined</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="73495d4f-76d9-48ed-895d-4f76d928edfd">
+            <name>Böhm</name>
+            <id type="gnd">undefined</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9c6ae298-cee8-48d1-aae2-98cee818d1ae">
+            <name>Chmella</name>
+            <id type="gnd">undefined</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="75761fc9-1db0-45c6-b61f-c91db025c614">
+            <name>Förster</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="329c49ec-cec9-40da-9c49-eccec9a0dad7">
+            <name>Hesse</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="001bd0ef-ce4f-41e2-9bd0-efce4f51e271">
+            <name>Walden</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ed8a9cc7-23c9-462a-8a9c-c723c9062aca">
+            <name>Wilbrandt, Adolf</name>
+            <id type="gnd">118807250</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000146" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Zweite Eleven-Vorstellung" in Wien 1899</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

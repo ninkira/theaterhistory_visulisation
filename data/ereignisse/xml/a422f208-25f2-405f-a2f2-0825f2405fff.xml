@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a422f208-25f2-405f-a2f2-0825f2405fff" type="Performance">
+    <groupingArgument actorID="fc1d827c-1bcc-4c6d-9d82-7c1bccdc6de0">chinesische Mauer, Die+28.09.1955+Schuh, Oscar Fritz</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>chinesische Mauer, Die</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>chinesische Mauer, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000208"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Theater am Kurfürstendamm</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000208"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>28.09.1955</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000208"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>wurde im Rahmen der Berliner Festwochen aufgeführt</text>
+            <object id="TWS_OBJ0000208"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="a01dc9f6-6899-4473-9dc9-f668998473ab">
+            <name>Frisch, Max</name>
+            <id type="gnd">118536109</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Olan</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="fc1d827c-1bcc-4c6d-9d82-7c1bccdc6de0">
+            <name>Schuh, Oscar Fritz</name>
+            <id type="gnd">118611208</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000208" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Fotografie zu "Die chinesische Mauer" in Berlin 1955</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

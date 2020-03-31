@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="e199ed05-e32d-4c96-99ed-05e32dcc96f7" type="Performance">
+    <groupingArgument actorID="aca15163-1e6c-49ec-a151-631e6c69ecb5">Scherz, Satire, Ironie und tiefere Bedeutung++Altman, Georg</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Scherz, Satire, Ironie und tiefere Bedeutung</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Scherz, Satire, Ironie und tiefere Bedeutung</title>
+            <listObject>
+                <object id="IFT_OBJ_JR000003"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kleines Theater Unter den Linden</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JR000003"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="04.1915" to="1916">
+                <listObject>
+                    <object id="IFT_OBJ_JR000003"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>erste Insznenierung am Kleinen Theater unter der Mitwirkung Julius Richters; Bühnenbild: "Bilderbuchbühne"</text>
+            <object id="IFT_OBJ_JR000003"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="aca15163-1e6c-49ec-a151-631e6c69ecb5">
+            <name>Altman, Georg</name>
+            <id type="gnd">118648462</id>
+            <roleActor>
+                <role>Intendant_in</role>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="02fbcbc8-f73f-4aff-bbcb-c8f73f4aff4e">
+            <name>Richter, Julius</name>
+            <id type="gnd">116512415</id>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="6b650d78-7862-4703-a50d-787862c70396">
+            <name>Gade, Svend</name>
+            <id type="gnd">11632855X</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dad64411-4c20-42cc-9644-114c2062ccbc">
+            <name>Landers, Paul</name>
+            <id type="gnd">1032447737</id>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="e875445d-8fab-4b35-b544-5d8fab4b3505">
+            <name>Grabbe, Christian Dietrich</name>
+            <id type="gnd">118541102</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_JR000003" type="Autograf: Manuskript" aat="300028569">
+            <title>"Abschnitt 2" der Autobiografie von Julius Richter</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

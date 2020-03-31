@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="49a0ce52-aa82-42c1-a0ce-52aa8232c15b" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Judith+25.02.1910+Reinhardt, Max</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Judith</title>
+            <listObject>
+                <object id="TWS_OBJ0000232"/>
+                <object id="TWS_OBJ0000231"/>
+                <object id="TWS_OBJ0000230"/>
+                <object id="TWS_OBJ0000229"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000232"/>
+                    <object id="TWS_OBJ0000231"/>
+                    <object id="TWS_OBJ0000230"/>
+                    <object id="TWS_OBJ0000229"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>25.02.1910</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000232"/>
+                    <object id="TWS_OBJ0000231"/>
+                    <object id="TWS_OBJ0000230"/>
+                    <object id="TWS_OBJ0000229"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Judith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5a31bcdd-2e3b-45d1-b1bc-dd2e3b45d119">
+            <name>Hebbel, Friedrich</name>
+            <id type="gnd">118547445</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="97ef7658-2c4a-4c54-af76-582c4a8c54de">
+            <name>Diez, Julius</name>
+            <id type="gnd">118936786</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cbc6029d-f567-4deb-8602-9df5679deb2b">
+            <name>Wegener, Paul</name>
+            <id type="gnd">118765981</id>
+            <roleActor>
+                <role type="Rolle">Holofermes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d57e9499-3da1-45fc-be94-993da175fcc7">
+            <name>Kühne, Friedrich</name>
+            <id type="gnd">1060906619</id>
+            <roleActor>
+                <role type="Rolle">Altester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="926495f0-1766-43eb-a495-f01766d3ebc1">
+            <name>Peppler, Carl Ludwig</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">1. Hauptmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="71d74f9c-9803-4a04-974f-9c98036a04fe">
+            <name>Seiling, Max</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">2. Hauptmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="72b549d9-a781-43f8-b549-d9a78163f810">
+            <name>Weil, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">3. Hauptmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4b72cfd1-52b7-48bd-b2cf-d152b748bd2f">
+            <name>Liedtke, Harry</name>
+            <id type="gnd">116997893</id>
+            <roleActor>
+                <role type="Rolle">Kämmerer/Assad</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da3f36da-dcf0-4531-bf36-dadcf025314a">
+            <name>Recker, Berthold</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Gesandter von Lybien</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e018c1cd-56a6-4027-98c1-cd56a620272a">
+            <name>Kunz, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Gesandter von Mesopotamien</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3d7729fa-395b-484e-b729-fa395b484e87">
+            <name>Techel, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Soldat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bf55c0e2-044a-42a2-95c0-e2044a72a236">
+            <name>Blechow, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Trabant</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da7940fb-182f-49a7-b940-fb182f89a77b">
+            <name>Josefi, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bote</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="10aa339c-3654-4eb7-aa33-9c3654aeb703">
+            <name>Ritscher, Helene</name>
+            <id type="gnd">1025099605</id>
+            <roleActor>
+                <role type="Rolle">Mirta</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1b37abd1-0226-4d91-b7ab-d102263d912b">
+            <name>Hartau, Ludwig</name>
+            <id type="gnd">11649008X</id>
+            <roleActor>
+                <role type="Rolle">Ephraim</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5b1de11d-a34b-42b5-9de1-1da34b12b5f7">
+            <name>Conradi, Paul</name>
+            <id type="gnd">1097218341</id>
+            <roleActor>
+                <role type="Rolle">1. Priester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ab17c2f9-6217-4d44-97c2-f962172d4496">
+            <name>Teichmann, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">2. Priester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a9145ea6-19d2-4d20-945e-a619d23d20ad">
+            <name>Wilhelmi, Josef</name>
+            <id type="gnd">1050527658</id>
+            <roleActor>
+                <role type="Rolle">Ammon</role>
+                <role>Dramaturg_in</role>
+            </roleActor>
+        </actor>
+        <actor id="0da3aa15-2ae0-44df-a3aa-152ae014df7f">
+            <name>Grossmann, Richard</name>
+            <id type="gnd">116873299</id>
+            <roleActor>
+                <role type="Rolle">Hosea</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="76479f97-9a80-496a-879f-979a80596a87">
+            <name>Reissig, Berthold</name>
+            <id type="gnd">11643175X</id>
+            <roleActor>
+                <role type="Rolle">Ben</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="df769abd-39c8-4f17-b69a-bd39c84f1760">
+            <name>Schildkraut, Rudolf</name>
+            <id type="gnd">117265861</id>
+            <roleActor>
+                <role type="Rolle">Daniel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="acf997c1-c8cd-424d-b997-c1c8cdf24dd6">
+            <name>Feldhammer, Jacob</name>
+            <id type="gnd">126714703</id>
+            <roleActor>
+                <role type="Rolle">Somaja</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1bc38132-c580-4f5b-8381-32c580cf5b8f">
+            <name>Bielschowsky, Hans</name>
+            <id type="gnd">1066597014</id>
+            <roleActor>
+                <role type="Rolle">Josua</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f950cf2-731f-4409-950c-f2731ff409d2">
+            <name>Urfus, Helene</name>
+            <id type="gnd">102396998X</id>
+            <roleActor>
+                <role type="Rolle">Delia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0f45f395-1790-4d83-85f3-951790bd8331">
+            <name>Ebert, Carl</name>
+            <id type="gnd">118687565</id>
+            <roleActor>
+                <role type="Rolle">Achior</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1b1ea67-d2f3-4d48-b1ea-67d2f38d4897">
+            <name>Lorm, Sidonie</name>
+            <id type="gnd">1062292707</id>
+            <roleActor>
+                <role type="Rolle">Weib</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="96e7247a-ac1f-4335-a724-7aac1f63351d">
+            <name>Kupfer, Margarete</name>
+            <id type="gnd">1019224185</id>
+            <roleActor>
+                <role type="Rolle">Mutter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c08e6007-18b8-43c9-8e60-0718b833c968">
+            <name>Kale, Fritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">assyrischer Oberpriester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ecc49639-d53a-4c7c-8496-39d53abc7c7e">
+            <name>Pagay, Hans</name>
+            <id type="gnd">116015454</id>
+            <roleActor>
+                <role type="Rolle">Samuel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="42b3bbda-7ff8-48e9-b3bb-da7ff858e918">
+            <name>Bendow, Wilhelm</name>
+            <id type="gnd">109066944</id>
+            <roleActor>
+                <role type="Rolle">Samuels Enkel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="4">
+        <object id="TWS_OBJ0000232" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Judith" in Berlin 1910</title>
+        </object>
+        <object id="TWS_OBJ0000231" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Judith" in Berlin 1910</title>
+        </object>
+        <object id="TWS_OBJ0000230" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Judith" in Berlin 1910</title>
+        </object>
+        <object id="TWS_OBJ0000229" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Judith" in Berlin 1910</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

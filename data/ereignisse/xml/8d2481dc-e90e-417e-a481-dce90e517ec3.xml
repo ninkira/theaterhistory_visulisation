@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="8d2481dc-e90e-417e-a481-dce90e517ec3" type="Performance">
+    <groupingArgument actorID="5684d6ec-e658-4c2c-84d6-ece658ec2c60">The doctor's dilemma+23.09.1931+Ambach, Josef</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>The doctor's dilemma</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Arzt am Scheideweg, Der</title>
+            <listObject>
+                <object id="IFT_OBJ_JA000009"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Mährisch-Ostrau</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater Mährisch-Ostrau</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JA000009"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>23.09.1931</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JA000009"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Deutschen Theaters Mährisch-Ostrau</text>
+            <object id="IFT_OBJ_JA000009"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="85264f1b-09c7-479e-a64f-1b09c7e79e98">
+            <name>Deutsches Theater (Mährisch-Ostrau)</name>
+            <id type="gnd">122890-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="5684d6ec-e658-4c2c-84d6-ece658ec2c60">
+            <name>Ambach, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="fe5b4f6d-1d4c-4de6-9b4f-6d1d4c8de671">
+            <name>Shaw, Bernard</name>
+            <id type="gnd">118642375</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="88b6a3b8-ee94-49e7-b6a3-b8ee94a9e707">
+            <name>Trebitsch, Siegfried</name>
+            <id type="gnd">118840150</id>
+            <roleActor>
+                <role>Übersetzer des inszenierten Werkes</role>
+            </roleActor>
+        </actor>
+        <actor id="2bf97d3a-f359-4c50-b97d-3af3594c5086">
+            <name>Scharwenka, Franz</name>
+            <id type="gnd">1014147247</id>
+            <roleActor>
+                <role type="Rolle">Sir Colenso Ridgeon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="96b7d529-e7c4-4e8c-b7d5-29e7c42e8c08">
+            <name>Stoss, Franz</name>
+            <id type="gnd">117304794</id>
+            <roleActor>
+                <role type="Rolle">Sir Ralph Bloomfield Bennington</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9ef78f99-7469-4123-b78f-997469712390">
+            <name>Neckamm, Heinrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Sir Patrick Cullen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f38b5110-7775-400a-8b51-107775900acc">
+            <name>Dättel, Paul</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Doktor Cutler Walpole</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8114632f-552b-41bc-9463-2f552b71bcd1">
+            <name>Juhn, Hugo</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Doktor Blenkinsop</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="abbd54ba-3d87-4be0-bd54-ba3d87dbe07b">
+            <name>Sekler, Maurycius</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Doktor Loony Schutzmacher</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e575e97f-b4c7-4139-b5e9-7fb4c7213998">
+            <name>Felden, Richard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Louis Dubedat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b2141b43-4ae7-4f0e-941b-434ae7df0e67">
+            <name>Paust, Elfriede</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Jennifer Dudebat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="52f8c3ba-01f6-4b21-b8c3-ba01f68b2166">
+            <name>Chitz, Lothar</name>
+            <id type="gnd">117221929</id>
+            <roleActor>
+                <role type="Rolle">Redpenny</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="baa7f5cf-54b1-404f-a7f5-cf54b1304f5c">
+            <name>Gerzhofer, Camilla</name>
+            <id type="gnd">1061595625</id>
+            <roleActor>
+                <role type="Rolle">Emmy</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="58d6365f-ec55-420f-9636-5fec55020f44">
+            <name>Lauterbach, Frauke</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Minnie Tinwell</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8ca88e6d-6a0a-4b34-a88e-6d6a0aeb34b7">
+            <name>Bergner, Horst</name>
+            <id type="gnd">106164152X</id>
+            <roleActor>
+                <role type="Rolle">Ein Reporter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="33831b79-b816-486b-831b-79b816386b3c">
+            <name>Engels, Fritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Sekretär</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fb6c21bb-a8c2-436b-ac21-bba8c2e36bef">
+            <name>Streda, Konrad</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kellner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_JA000009" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Der Arzt am Scheideweg" in Mährisch-Ostrau 1931</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

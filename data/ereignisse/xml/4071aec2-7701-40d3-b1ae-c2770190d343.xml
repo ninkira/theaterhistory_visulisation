@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="4071aec2-7701-40d3-b1ae-c2770190d343" type="Performance">
+    <groupingArgument actorID="a959d2f5-7b76-4e15-99d2-f57b76ae15f7">Was ihr wollt+16.09.1910+Altmann, George</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Was ihr wollt</title>
+            <listObject>
+                <object id="IFT_OBJ_JR000002"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Hannover</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater (Hannover)</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_JR000002"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>16.09.1910</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_JR000002"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Deutschen Theaters Hannover; Ausstattung komplett plastisch, keine Bühnenmalerei; Premiere</text>
+            <object id="IFT_OBJ_JR000002"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="3d3f5056-53f7-4e28-bf50-5653f7be287c">
+            <name>Deutsches Theater (Hannover)</name>
+            <id type="gnd">10019843-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="a959d2f5-7b76-4e15-99d2-f57b76ae15f7">
+            <name>Altmann, George</name>
+            <id type="gnd">118648462</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="02fbcbc8-f73f-4aff-bbcb-c8f73f4aff4e">
+            <name>Richter, Julius</name>
+            <id type="gnd">116512415</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_JR000002" type="Autograf: Manuskript" aat="300028569">
+            <title>"Abschnitt 1" der Autobiografie von Julius Richter</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

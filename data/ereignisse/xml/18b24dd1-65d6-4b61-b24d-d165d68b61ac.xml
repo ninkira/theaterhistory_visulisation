@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="18b24dd1-65d6-4b61-b24d-d165d68b61ac" type="Performance">
+    <groupingArgument actorID="83498fb5-c664-4f48-898f-b5c6647f4880">Zinsen+03.09.1927+Forster-Larrinaga, Robert</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Zinsen</title>
+            <listObject>
+                <object id="IFT_OBJ_LK000051"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Komödie am Kurfürstendamm</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LK000051"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>03.09.1927</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_LK000051"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Komödie am Kurfürstendamm; gemeinsamer Besuch von Lucy Kieselhausen und Eugen Robert der Premiere des Stückes "Zinsen", einer Adaption des Stückes "Die Häuser des Herrn Sartorius" von G. B. Shaw</text>
+            <object id="IFT_OBJ_LK000051"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="83498fb5-c664-4f48-898f-b5c6647f4880">
+            <name>Forster-Larrinaga, Robert</name>
+            <id type="gnd">139640746</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="11acac19-9b0a-41f1-acac-199b0aa1f19c">
+            <name>Kieselhausen, Lucy</name>
+            <id type="gnd">116169354</id>
+            <roleActor>
+                <role>Zuschauer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="b59e7fa6-115c-4676-9e7f-a6115c2676a0">
+            <name>Robert, Eugen</name>
+            <id type="gnd">116575875</id>
+            <roleActor>
+                <role>Zuschauer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="fe5b4f6d-1d4c-4de6-9b4f-6d1d4c8de671">
+            <name>Shaw, Bernard</name>
+            <id type="gnd">118642375</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="645e5999-ac66-473e-9e59-99ac66a73ede">
+            <name>Steinrück, Albert</name>
+            <id type="gnd">117263923</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4dfd6895-d0a5-4f71-bd68-95d0a58f71c8">
+            <name>Gülstorff, Max</name>
+            <id type="gnd">116909730</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="44318e3f-3124-493a-b18e-3f3124e93aa5">
+            <name>Brausewetter, Hans</name>
+            <id type="gnd">116430249</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7f592ce3-4b02-4360-992c-e34b027360a7">
+            <name>Mosheim, Grete</name>
+            <id type="gnd">116939966</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2cb9cd10-63f4-4c87-b9cd-1063f4cc8746">
+            <name>Falkenstein, Julius</name>
+            <id type="gnd">116396288</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b70d5723-633a-4c24-8d57-23633a4c24b6">
+            <name>Krell, Max</name>
+            <id type="gnd">116518960</id>
+            <roleActor>
+                <role>Zuschauer_in</role>
+                <role>Rezensent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="ffccc720-7069-4100-8cc7-207069b1005c">
+            <name>Komödie am Kurfürstendamm</name>
+            <id type="gnd">7562914-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_LK000051" type="Autograf: Brief" aat="300026879">
+            <title>Brief von Lucy Kieselhausen an Lea Kieselhausen</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

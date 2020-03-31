@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="47a690fb-afd9-4f10-a690-fbafd99f10cd" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Elektra+17.03.1956+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Elektra</title>
+            <listObject>
+                <object id="TWS_OBJ0000128"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Landestheater Darmstadt</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000128"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>17.03.1956</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000128"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Uraufführung der neuen Übertragung von Wolfgang Schadewaldt</text>
+            <object id="TWS_OBJ0000128"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="39169fad-3803-410b-969f-ad3803310b68">
+            <name>Böhm, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="69cd1467-f6bd-4e72-8d14-67f6bdee727e">
+            <name>Bösiger, Paul</name>
+            <id type="gnd">1062464664</id>
+            <roleActor>
+                <role type="Rolle">Orestes, ihr Bruder</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ccb0ffbe-76f3-472d-b0ff-be76f3872dee">
+            <name>Büttner, Elly</name>
+            <id type="gnd">1023863960</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a0cc5b93-584b-4628-8c5b-93584b262883">
+            <name>Fendel, Rosemarie</name>
+            <id type="gnd">124725287</id>
+            <roleActor>
+                <role type="Rolle">Chrysothemis</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7feef017-de84-4916-aef0-17de84691647">
+            <name>Hahn, Traute</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57d285bc-f174-4b52-9285-bcf1749b52fd">
+            <name>Joeres, Charlotte</name>
+            <id type="gnd">134633792</id>
+            <roleActor>
+                <role type="Rolle">Elektra</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="837bee0a-a8bb-4c3f-bbee-0aa8bb4c3f74">
+            <name>Kosinski, Urusula</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="788deb1e-ad46-4234-8deb-1ead46123441">
+            <name>König, Brigitte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Klytaimestra</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0e961eef-61e2-4445-961e-ef61e2b445a4">
+            <name>Leferenz, Kathrin</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c17ec34c-bf67-4fd6-bec3-4cbf67efd6bd">
+            <name>Müller, Liesel</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="791a3822-9bd9-4ba1-9a38-229bd92ba1d1">
+            <name>Müller-Elmau, Raidar</name>
+            <id type="gnd">1061745511</id>
+            <roleActor>
+                <role type="Rolle">Pylades, sein Freund</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="84db4374-c410-442b-9b43-74c410d42b96">
+            <name>Nees, Clari</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1c178e5-9f55-4cc0-8178-e59f551cc060">
+            <name>Noack, Max</name>
+            <id type="gnd">1031177310</id>
+            <roleActor>
+                <role type="Rolle">ein alter Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="dc11cce7-884b-4c9a-91cc-e7884bac9aa4">
+            <name>Quenzstein, Mechthild</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f407b8e1-c7f1-40cc-87b8-e1c7f140cc64">
+            <name>Reinmann, Ingrid</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4d161118-ad0a-4a9a-9611-18ad0a1a9af9">
+            <name>Roth, Dorte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57f536e8-98df-4506-b536-e898df850677">
+            <name>Rueffer, Alwin Michael</name>
+            <id type="gnd">118821458</id>
+            <roleActor>
+                <role type="Rolle">Aigisthos</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bc62536f-a6cf-4b47-a253-6fa6cfcb474b">
+            <name>Runnebaum, Anneliese</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cb250690-1274-450a-a506-901274650ad7">
+            <name>Saussen, Ingrid</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="98534f40-a578-4d23-934f-40a5783d2397">
+            <name>Schadewaldt, Wolfgang</name>
+            <id type="gnd">118748173</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>neue Übertragung</role>
+            </roleActor>
+        </actor>
+        <actor id="8b3c2a24-e73c-4768-bc2a-24e73c076880">
+            <name>Schiemer, Marie-Louise</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ad08a470-e31c-4aed-88a4-70e31c4aed58">
+            <name>Scholz, Annemargret</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f5aa369-ea4b-41a4-9aa3-69ea4b91a4ce">
+            <name>Schriefer, Anneliese</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="67cc73d7-96c9-42f4-8c73-d796c972f4fc">
+            <name>Sophocles</name>
+            <id type="gnd">118615688</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3dd94517-aedd-4b5b-9945-17aedd3b5b89">
+            <name>Weisert, Inga</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="24eccd82-f475-4e78-accd-82f4754e781c">
+            <name>Wendel, Sigrid</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000128" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Elektra" in Darmstadt 1956</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

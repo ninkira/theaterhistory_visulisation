@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="b1b62449-1ec4-42dd-b624-491ec4a2dd27" type="Performance">
+    <groupingArgument actorID="ecaf536a-280e-4cf4-af53-6a280eccf498">Medea+13.02.1909+Lindemann, Gustav</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Medea</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Medea</title>
+            <listObject>
+                <object id="TWS_OBJ0000700"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000700"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>13.02.1909</premier>
+            <time from="1909" to="1909">
+                <listObject>
+                    <object id="TWS_OBJ0000700"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="8865a33e-1841-4589-a5a3-3e184145893a">
+            <name>Wunderwald, Gustav</name>
+            <id type="gnd">118635611</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d349c4cb-024a-429b-89c4-cb024a629bad">
+            <name>Grillparzer, Franz</name>
+            <id type="gnd">118542192</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ecaf536a-280e-4cf4-af53-6a280eccf498">
+            <name>Lindemann, Gustav</name>
+            <id type="gnd">118728377</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000700" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Gustav Wunderwald</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

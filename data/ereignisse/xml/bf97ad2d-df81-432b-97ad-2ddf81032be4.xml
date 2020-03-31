@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="bf97ad2d-df81-432b-97ad-2ddf81032be4" type="Performance">
+    <groupingArgument actorID="b5f2292c-0a7a-4004-b229-2c0a7a60047e">Strom, Der+17.09.1925+Licho, Adolf Edgar</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Strom, Der</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000031"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000031"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>17.09.1925</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000031"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Berliner Kammerspiele, Premiere</text>
+            <object id="IFT_OBJ_HW000031"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="88626368-1e64-4dba-a263-681e641dbac4">
+            <name>Kammerspiele Berlin</name>
+            <id type="gnd">4564955-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="5c0bb292-5edb-4612-8bb2-925edb96124e">
+            <name>Halbe, Max</name>
+            <id type="gnd">118545043</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b5f2292c-0a7a-4004-b229-2c0a7a60047e">
+            <name>Licho, Adolf Edgar</name>
+            <id type="gnd">116980621</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="76d60d25-5a0c-4f39-960d-255a0cdf39a0">
+            <name>Schütte, Ernst</name>
+            <id type="gnd">117140074</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a5fa594d-21e1-486d-ba59-4d21e1986d60">
+            <name>Klöpfer, Eugen</name>
+            <id type="gnd">116231874</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7c5cc898-efa3-4595-9cc8-98efa3c59589">
+            <name>Wangenheim, Gustav von</name>
+            <id type="gnd">117137154</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="30102a6e-295e-496c-902a-6e295e696c7e">
+            <name>Wieman, Mathias</name>
+            <id type="gnd">118767828</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6362526d-77ab-4caf-a252-6d77ab9cafd9">
+            <name>Kinz, Franziska</name>
+            <id type="gnd">116017449</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b9d0c878-324b-409f-90c8-78324b309f8e">
+            <name>Müller, Robert</name>
+            <id type="gnd">117609889</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000031" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Sonderabdruck aus der Zeitschrift "Das Neue Blatt"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

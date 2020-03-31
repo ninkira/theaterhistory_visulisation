@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="225706bd-26b6-4486-9706-bd26b62486b0" type="Performance">
+    <groupingArgument actorID="f51d4364-574f-4700-9d43-64574f670078">Neuvermählten, Die+30.12.1904+Hollaender, Felix</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Neuvermählten, Die</title>
+            <listObject>
+                <object id="TWS_KON0000026"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kleines Theater</placeName>
+                <listObject>
+                    <object id="TWS_KON0000026"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>30.12.1904</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_KON0000026"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="988634fc-b9a2-42e1-8634-fcb9a282e1d9">
+            <name>Bjørnson, Bjørnstjerne</name>
+            <id type="gnd">118511459</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f51d4364-574f-4700-9d43-64574f670078">
+            <name>Hollaender, Felix</name>
+            <id type="gnd">116961805</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Mathilde</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da2446b8-794c-4335-a446-b8794c5335a6">
+            <name>Kleines Theater</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="06f455a0-a2c4-4605-b455-a0a2c4860525">
+            <name>Lange, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_KON0000026" type="Publikation: Rezension" aat="300026480">
+            <title>Kritiken zu "Die Neuvermählten" in Berlin 1904</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

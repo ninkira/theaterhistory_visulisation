@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="9a1fa61f-65d5-4cee-9fa6-1f65d54ceefc" type="Performance">
+    <groupingArgument actorID="">gute König Dagobert, Der++</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>gute König Dagobert, Der</title>
+            <listObject>
+                <object id="TWS_OBJ0000219"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele Deutsches Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000219"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1909" to="1910">
+                <listObject>
+                    <object id="TWS_OBJ0000219"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="2ce46111-9944-44a4-a461-11994404a448">
+            <name>Rivoire, André</name>
+            <id type="gnd">116575328</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="94b14064-7388-4c18-b140-647388cc1887">
+            <name>Deutsches Theater Berlin</name>
+            <id type="gnd">4058252-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000219" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Fotografie zu "Der gute König Dagobert" in Berlin 1909/10</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

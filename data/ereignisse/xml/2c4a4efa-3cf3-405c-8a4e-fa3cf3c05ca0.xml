@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="2c4a4efa-3cf3-405c-8a4e-fa3cf3c05ca0" type="Performance">
+    <groupingArgument actorID="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">Hamlet+01.09.1956+Müthel, Lothar</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Hamlet</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Hamlet</title>
+            <listObject>
+                <object id="IFT_OBJ_LM000461"/>
+                <object id="IFT_KON_LM000016"/>
+            </listObject>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Hamlet, Prinz von Dänemark</title>
+            <listObject>
+                <object id="IFT_OBJ_LM000016"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>Theater in der Josefstadt</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LM000461"/>
+                    <object id="IFT_OBJ_LM000016"/>
+                    <object id="IFT_KON_LM000016"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>01.09.1956</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_LM000461"/>
+                    <object id="IFT_OBJ_LM000016"/>
+                    <object id="IFT_KON_LM000016"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext>Österreich</culturalContext>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Theaters in der Josefstadt</text>
+            <object id="IFT_OBJ_LM000461"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung des Wiener Theaters in der Josefstadt, Neuinszenierung der Frankfurter Produktion von 1953</text>
+            <object id="IFT_OBJ_LM000016"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung des Wiener Theaters in der Josefstadt</text>
+            <object id="IFT_KON_LM000016"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">
+            <name>Müthel, Lothar</name>
+            <id type="gnd">119049309</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="05603d41-b84c-4282-a03d-41b84cb282d2">
+            <name>Schlegel, August Wilhelm von</name>
+            <id type="gnd">118607960</id>
+            <roleActor>
+                <role>Übersetzer_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="82451bb0-1c3e-45a3-851b-b01c3e85a34b">
+            <name>Christiansen, Rolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6217233c-b89c-4e5e-9723-3cb89cee5eaf">
+            <name>Werner, Oskar</name>
+            <id type="gnd">118767186</id>
+            <roleActor>
+                <role type="Rolle">Hamlet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e3594b0b-d6b0-43bc-994b-0bd6b0f3bc9d">
+            <name>Linder, Erwin</name>
+            <id type="gnd">117025399</id>
+            <roleActor>
+                <role type="Rolle">König Claudius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0285ec14-bf5a-4a1a-85ec-14bf5a0a1aa0">
+            <name>Müthel, Lola</name>
+            <id type="gnd">117179515</id>
+            <roleActor>
+                <role type="Rolle">Königin Gertrud</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="be482b8f-fa0a-45c9-882b-8ffa0a15c96e">
+            <name>Finck, Werner</name>
+            <id type="gnd">118533061</id>
+            <roleActor>
+                <role type="Rolle">Polonius</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="312b3e27-0ca6-4e02-ab3e-270ca67e02e9">
+            <name>Purcell, Henry</name>
+            <id type="gnd">118742973</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="6292ee54-f6bd-4ff0-92ee-54f6bdfff099">
+            <name>Hintz-Fabricius, Fritz</name>
+            <id type="gnd">1115858793</id>
+            <roleActor>
+                <role type="Rolle">Der Geist von Hamlets Vater</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="637a9457-f290-45db-ba94-57f29015db62">
+            <name>Mladeck, Kyra</name>
+            <id type="gnd">117065943</id>
+            <roleActor>
+                <role type="Rolle">Ophelia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9ecf3da-9ad7-4b5e-acf3-da9ad75b5ea4">
+            <name>Janatsch, Helmut</name>
+            <id type="gnd">103158790X</id>
+            <roleActor>
+                <role type="Rolle">Laertes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a393dd6f-f2e8-4701-93dd-6ff2e837019f">
+            <name>Wilke, Jürgen</name>
+            <id type="gnd">117383775</id>
+            <roleActor>
+                <role type="Rolle">Horatio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b332d819-b037-4e78-b2d8-19b0372e78f7">
+            <name>Holzer, Fritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Rosenkranz</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f2b4aae8-f66f-487f-b4aa-e8f66f787fce">
+            <name>Messner, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Güldenstern</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="85d3f0db-494d-40b7-93f0-db494dc0b7f9">
+            <name>Nijinskij, Peter</name>
+            <id type="gnd">1061881547</id>
+            <roleActor>
+                <role type="Rolle">Osrick</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6fe86fc5-7ea8-4749-a86f-c57ea817496e">
+            <name>Werner, Robert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Marcellus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d2e15111-45ff-47df-a151-1145ffc7dfd7">
+            <name>Mittner, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bernardo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f411a6f3-ece2-4a1e-91a6-f3ece25a1ec9">
+            <name>Pfeiffer, Gottfried</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Francisco</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e186f61f-a168-48a8-86f6-1fa16868a836">
+            <name>Haenel, Günther</name>
+            <id type="gnd">1019051418</id>
+            <roleActor>
+                <role type="Rolle">Totengräber</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="197fa0eb-3363-4f3c-bfa0-eb3363bf3c0b">
+            <name>Glaser, Hermann</name>
+            <id type="gnd">1020586664</id>
+            <roleActor>
+                <role type="Rolle">Priester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7006fc8c-b29a-41c8-86fc-8cb29aa1c800">
+            <name>Janssen, Walter</name>
+            <id type="gnd">136550592</id>
+            <roleActor>
+                <role type="Rolle">Schauspieler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="800e7486-71db-455b-8e74-8671dbf55b57">
+            <name>Hellmich, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Totengräber</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="469053e7-da11-4ee9-9053-e7da115ee916">
+            <name>Pribil, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="8810df0f-4783-41c5-90df-0f4783b1c5ee">
+            <name>Kunrad, Aladar</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fortinbras</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c3915e74-4b0c-4f4d-915e-744b0cbf4d2a">
+            <name>Theater in der Josefstadt</name>
+            <id type="gnd">251387-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="050ad144-c46f-4edf-8ad1-44c46f8edf57">
+            <name>Dworsky, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="3">
+        <object id="IFT_OBJ_LM000461" type="Publikation: Buch" aat="300028051">
+            <title>Regiebuch zu "Hamlet" in Wien 1956</title>
+        </object>
+        <object id="IFT_OBJ_LM000016" type="Publikation: Programmheft" aat="300027217">
+            <title>Programmheft zu "Hamlet, Prinz von Dänemark" in Wien 1956</title>
+        </object>
+        <object id="IFT_KON_LM000016" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritikenkonvolut zu "Hamlet" in Wien 1956</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

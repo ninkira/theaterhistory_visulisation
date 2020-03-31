@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="5f012c2c-2b5e-4bbf-812c-2c2b5eebbf7d" type="Performance">
+    <groupingArgument actorID="f3ad4893-7882-4b1b-ad48-937882cb1ba7">Regimentstochter, Die+29.05.1912+Weißleder, Franz</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Regimentstochter, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000512"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Altes Opernhaus (Köln)</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000512"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>29.05.1912</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000512"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="2967813c-0d51-43e2-a781-3c0d5133e22b">
+            <name>Vereinigte Stadttheater (Köln)</name>
+            <id type="gnd">216498-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="f3ad4893-7882-4b1b-ad48-937882cb1ba7">
+            <name>Weißleder, Franz</name>
+            <id type="gnd">117302457</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="c0193339-e480-4d62-9933-39e4809d621b">
+            <name>Donizetti</name>
+            <id type="gnd">118526731</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8384296c-f08c-4084-8429-6cf08c808476">
+            <name>Fink, Mizzi</name>
+            <id type="gnd">134868617</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Rolle: Marie</role>
+            </roleActor>
+        </actor>
+        <actor id="c07b49e8-a6f5-4b23-bb49-e8a6f53b237c">
+            <name>Böhmer, Emmy</name>
+            <id type="gnd">1022131230</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Rolle: Herzogin von Craquitorpi</role>
+            </roleActor>
+        </actor>
+        <actor id="57ac475c-d2ef-4124-ac47-5cd2ef2124a3">
+            <name>Welden, Anna</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Rolle: Marchesa von Maggiorivoglio</role>
+            </roleActor>
+        </actor>
+        <actor id="d6585913-ec75-41ae-9859-13ec7571ae50">
+            <name>Pauli, Max</name>
+            <id type="gnd">133603962</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Rolle: Tonio</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000512" type="Publikation: Programmheft" aat="300027217">
+            <title>Besetzungszettel zu "Cavalleria rusticana" und "Die Regimentstochter", Köln 1912</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

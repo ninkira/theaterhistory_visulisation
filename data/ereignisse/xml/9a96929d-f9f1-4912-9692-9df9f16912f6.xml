@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="9a96929d-f9f1-4912-9692-9df9f16912f6" type="Performance">
+    <groupingArgument actorID="72b995fc-e2d6-437a-b995-fce2d6737a52">Feldherrnhügel, Der++Bruck, Reinhard</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Feldherrnhügel, Der</title>
+            <listObject>
+                <object id="TWS_OBJ0000639"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Düsseldorf</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus Düsseldorf</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000639"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="26.03.1910" to="26.03.1910">
+                <listObject>
+                    <object id="TWS_OBJ0000639"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="72b995fc-e2d6-437a-b995-fce2d6737a52">
+            <name>Bruck, Reinhard</name>
+            <id type="gnd">116725788</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3ffbe39d-9321-427b-bbe3-9d9321e27bce">
+            <name>Büller, Ellinor</name>
+            <id type="gnd">117057045</id>
+            <roleActor>
+                <role type="Rolle">Minka</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="556a05ba-00a5-4b0d-aa05-ba00a5cb0de2">
+            <name>Dumont, Louise</name>
+            <id type="gnd">118681192</id>
+            <roleActor>
+                <role type="Rolle">Frau von Landiesen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="663e5ae3-bb4f-4add-be5a-e3bb4f4add73">
+            <name>Ehrens, Arthur</name>
+            <id type="gnd">1026429250</id>
+            <roleActor>
+                <role type="Rolle">Oberst von Leuckfeld</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6aecc2cc-8171-4af8-acc2-cc81714af8e0">
+            <name>Haack, Hermann</name>
+            <id type="gnd">1027499252</id>
+            <roleActor>
+                <role type="Rolle">Major</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="97387e34-9ab7-420d-b87e-349ab7320d62">
+            <name>Hermann, Elsa</name>
+            <id type="gnd">1027539548</id>
+            <roleActor>
+                <role type="Rolle">Frau des Majors</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9319ae6c-3a9e-46ab-99ae-6c3a9e96abf6">
+            <name>Kigler, Theodor</name>
+            <id type="gnd">116170441</id>
+            <roleActor>
+                <role type="Rolle">Rittmeister Tureck</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ddd0fc91-884f-479d-90fc-91884fb79db9">
+            <name>Robert, Helene</name>
+            <id type="gnd">1024823490</id>
+            <roleActor>
+                <role type="Rolle">Frau von Oberst Leuckfeld</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="85cee602-692f-42fb-8ee6-02692ff2fbb0">
+            <name>Roda Roda, Alexander</name>
+            <id type="gnd">11874562X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ac697ce6-7d1e-4f3c-a97c-e67d1ecf3c25">
+            <name>Rößler, Karl</name>
+            <id type="gnd">116595663</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ac6410cc-600b-4055-a410-cc600ba0557b">
+            <name>Stein, Josepha</name>
+            <id type="gnd">1025982320</id>
+            <roleActor>
+                <role type="Rolle">Frau vom Rittmeister Tureck</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000639" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Der Feldherrnhügel" - Inszenierung in Düsseldorf 1910</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

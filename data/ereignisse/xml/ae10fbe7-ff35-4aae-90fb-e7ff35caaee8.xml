@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ae10fbe7-ff35-4aae-90fb-e7ff35caaee8" type="Performance">
+    <groupingArgument actorID="c6917069-7051-4936-9170-697051293661">Jägerblut++Beck, Otto</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Jägerblut</title>
+            <listObject>
+                <object id="TWS_OBJ0000543"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Bonn</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater (Bonn)</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000543"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="18.09.1892" to="18.09.1892">
+                <listObject>
+                    <object id="TWS_OBJ0000543"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="bf155429-8013-477c-9554-298013877c5e">
+            <name>Stadttheater (Bonn)</name>
+            <id type="gnd">140385-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="793acec2-580c-4417-bace-c2580cf4176d">
+            <name>Hofmann, Julius</name>
+            <id type="gnd">116951621</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="c6917069-7051-4936-9170-697051293661">
+            <name>Beck, Otto</name>
+            <id type="gnd">116101997</id>
+            <roleActor>
+                <role type="Rolle">Zangerl, Dorfbader</role>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="17f4731d-f521-4657-b473-1df521d65781">
+            <name>Rauchenegger, Benno</name>
+            <id type="gnd">116364475</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d8e5776f-4342-43ee-a577-6f4342b3eef3">
+            <name>Krägel, Josef</name>
+            <id type="gnd">10391269X</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="c09f6d81-6c0b-439a-9f6d-816c0b239a8f">
+            <name>Tenhaeff, Reinhard</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Andreas Riederacher, Fortwart</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2ecf3231-7634-4c95-8f32-317634bc95ec">
+            <name>Lanius, Caroline</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Therese, Riederachers Frau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe20bc0-3653-4e9a-a20b-c036531e9a4c">
+            <name>Heding, Edmund</name>
+            <id type="gnd">1061283194</id>
+            <roleActor>
+                <role type="Rolle">Leonhard, Riederachers und Thereses Sohn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c1ab1481-f8e7-490d-ab14-81f8e7690dcb">
+            <name>Schwarzenberg, Judith</name>
+            <id type="gnd">1050520998</id>
+            <roleActor>
+                <role type="Rolle">Waben, Austräglerswittwe</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3302e84b-7602-4ed3-82e8-4b76020ed38f">
+            <name>Doré, Adele</name>
+            <id type="gnd">117031453</id>
+            <roleActor>
+                <role type="Rolle">Loni, Wabens Tochter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9f85cfc6-f3d6-4f55-85cf-c6f3d6df5521">
+            <name>Leyrer, Rudolf</name>
+            <id type="gnd">130227463</id>
+            <roleActor>
+                <role type="Rolle">Hiesl, Wabens Sohn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="25f0d679-6c82-47f9-b0d6-796c82b7f969">
+            <name>Rennert, Julius</name>
+            <id type="gnd">116443979</id>
+            <roleActor>
+                <role type="Rolle">Schwappler, Wirth</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7250de98-b9af-4dd9-90de-98b9af1dd962">
+            <name>Herr, Anna</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Asra, Sschwapplers Frau</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="097e6ddd-abeb-49ac-be6d-ddabebd9acff">
+            <name>Ziegler, Lina</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Die Meßner-Marie</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b40f32da-1cc1-45a6-8f32-da1cc1a5a651">
+            <name>Biehler, Alfred</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Meßner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57dc5d0b-e612-4202-9c5d-0be612120205">
+            <name>Hecken, Max</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Selbitzer, Musikant</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2331c12-835d-4299-b31c-12835d229931">
+            <name>Portz, Hans</name>
+            <id type="gnd">116269448</id>
+            <roleActor>
+                <role type="Rolle">Lexenbascht, Musikant</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c9dba985-dfad-46d9-9ba9-85dfadf6d9af">
+            <name>Behrend, Max</name>
+            <id type="gnd">1035019299</id>
+            <roleActor>
+                <role type="Rolle">Ruppentoni, ein Wilderer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b283f9b3-fd8c-458c-83f9-b3fd8cf58c1b">
+            <name>Anders, Carl</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Greiderer, Bauer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="096a1e5c-9bca-4f43-aa1e-5c9bca1f4357">
+            <name>Benthien, Willy</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Nazi, Bauernknecht</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="de1e0bd3-e98f-40d9-9e0b-d3e98f20d9e9">
+            <name>Stopal, Franzy</name>
+            <id type="gnd">-</id>
+            <roleActor>
+                <role type="Rolle">Burgl, Bauernmädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000543" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu Max Behrend in "Jägerblut", Bonn 1892</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Aufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>Zum Besten der Notleidenden in Hamburg</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Bonn</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Stadttheater</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000543"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>18.09.1892</eventDate>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description>
+                    <beschreibung>
+                        <text>"Jägerblut" wurde am 18.09.1892 zum Betsen der Notleidenden in Hamburg aufgeführt. Im Sommer 1892 herrschte dort die Cholera-Epedemie. Es handelt sich dabei um den letzten großen Ausbruch dieser Krankheit.</text>
+                        <object>TWS_OBJ0000543</object>
+                    </beschreibung>
+                </description>
+            </descriptionList>
+            <actorList/>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

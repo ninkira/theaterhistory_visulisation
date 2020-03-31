@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="76a25372-4918-4c07-a253-724918cc07f9" type="Performance">
+    <groupingArgument actorID="b59e7fa6-115c-4676-9e7f-a6115c2676a0">Joséphine+26.02.1926+Robert, Eugen</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Joséphine</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Joséphine</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000031"/>
+                <object id="IFT_OBJ_HW000008"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000031"/>
+                    <object id="IFT_OBJ_HW000008"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>26.02.1926</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000031"/>
+                    <object id="IFT_OBJ_HW000008"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Berliner Kammerspiele, Premiere</text>
+            <object id="IFT_OBJ_HW000031"/>
+        </description>
+        <description>
+            <text>Theaterinszenierung der Kammerspiele Berlin</text>
+            <object id="IFT_OBJ_HW000008"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="a5da63f4-a952-4764-9a63-f4a952e7644e">
+            <name>Bahr, Hermann</name>
+            <id type="gnd">118505955</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="88626368-1e64-4dba-a263-681e641dbac4">
+            <name>Kammerspiele Berlin</name>
+            <id type="gnd">4564955-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b59e7fa6-115c-4676-9e7f-a6115c2676a0">
+            <name>Robert, Eugen</name>
+            <id type="gnd">116575875</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f6b471c0-a4a3-4335-b471-c0a4a37335c3">
+            <name>Kaufmann, Oskar</name>
+            <id type="gnd">118776908</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2166560e-7b4e-4964-a656-0e7b4e896468">
+            <name>Orska, Maria</name>
+            <id type="gnd">117147664</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="44318e3f-3124-493a-b18e-3f3124e93aa5">
+            <name>Brausewetter, Hans</name>
+            <id type="gnd">116430249</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="263eb4d4-7e83-40ab-beb4-d47e83b0ab2c">
+            <name>Bonn, Ferdinand</name>
+            <id type="gnd">116241632</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4c69c031-e640-4625-a9c0-31e6405625f4">
+            <name>Goetz, Curt</name>
+            <id type="gnd">118540297</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9905ade0-bc95-4b4c-85ad-e0bc95fb4c93">
+            <name>Gronau, Ernst</name>
+            <id type="gnd">1032448512</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="30102a6e-295e-496c-902a-6e295e696c7e">
+            <name>Wieman, Mathias</name>
+            <id type="gnd">118767828</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7f592ce3-4b02-4360-992c-e34b027360a7">
+            <name>Mosheim, Grete</name>
+            <id type="gnd">116939966</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a5fa594d-21e1-486d-ba59-4d21e1986d60">
+            <name>Klöpfer, Eugen</name>
+            <id type="gnd">116231874</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="54f86ee3-5a9e-4877-b86e-e35a9e0877f3">
+            <name>Tragau, Alfred</name>
+            <id type="gnd">1067643109</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b022c4a1-08b3-48ac-a2c4-a108b368acf2">
+            <name>Helmke, Wolfgang</name>
+            <id type="gnd">116691689</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8315758b-73f5-4990-9575-8b73f5c990bb">
+            <name>Wagner, Ferdinand</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9046c0ed-0db4-4abc-86c0-ed0db4cabc40">
+            <name>Hasse, O. E.</name>
+            <id type="gnd">11854666X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="63135192-0e00-4362-9351-920e00f36298">
+            <name>Jenke, Dietrich</name>
+            <id type="gnd">1060907232</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9fefe7d1-a148-495c-afe7-d1a148695c00">
+            <name>Hellmert, Wolfgang</name>
+            <id type="gnd">124231284</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="10ac8f62-0ec2-4823-ac8f-620ec2a8238f">
+            <name>Balhaus, Karl</name>
+            <id type="gnd">1029066213</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="IFT_OBJ_HW000031" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Sonderabdruck aus der Zeitschrift "Das Neue Blatt"</title>
+        </object>
+        <object id="IFT_OBJ_HW000008" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Rollenporträt aus "Joséphine" in Berlin 1925</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

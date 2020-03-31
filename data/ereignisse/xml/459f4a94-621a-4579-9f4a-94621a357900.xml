@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="459f4a94-621a-4579-9f4a-94621a357900" type="Performance">
+    <groupingArgument actorID="8ddf6f36-ecc1-4a24-9f6f-36ecc18a2458">Napoleon+05.05.1922+Jessner, Leopold</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Napoleon</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Napoleon oder Die hundert Tage</title>
+            <listObject>
+                <object id="IFT_OBJ_RT000069"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Schauspielhaus am Gendarmenmarkt</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_RT000069"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>05.05.1922</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_RT000069"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Berliner Staatschauspiels</text>
+            <object id="IFT_OBJ_RT000069"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="844213b1-8730-4a5c-8213-b187301a5c70">
+            <name>Angermann, Alfred</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Offizier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38b33663-f9e8-4e76-b336-63f9e87e7683">
+            <name>Beneckendorff, Wolf von</name>
+            <id type="gnd">116119853</id>
+            <roleActor>
+                <role type="Rolle">Monsieur, Herzog von Braunschweig</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4a938660-a315-42fe-9386-60a31542fe0a">
+            <name>Boschwitz, Käthe</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bürgerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="18c370af-c86a-4c7c-8370-afc86afc7c6a">
+            <name>Eggarter, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Adjudant, Ausrufer einer Bildergalerie, Bürger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0953000c-6a3e-4680-9300-0c6a3ea680e0">
+            <name>Eichholz, Karl</name>
+            <id type="gnd">1038073006</id>
+            <roleActor>
+                <role type="Rolle">Bürger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c12f9dbc-fe0d-4fe7-af9d-bcfe0dcfe750">
+            <name>Ettlich, Oskar</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Marquis von Hauterive</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1e496676-1eac-498f-8966-761eace98fdc">
+            <name>Florath, Albert</name>
+            <id type="gnd">119526913</id>
+            <roleActor>
+                <role type="Rolle">Schlesier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ef0de4ff-f3a2-4f93-8de4-fff3a24f9322">
+            <name>Forster, Rudolf</name>
+            <id type="gnd">118692267</id>
+            <roleActor>
+                <role type="Rolle">Wellington</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8234950d-cd1b-4b37-b495-0dcd1bdb37b2">
+            <name>Freund, Herta</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Gräfin von Choisy</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e875445d-8fab-4b35-b544-5d8fab4b3505">
+            <name>Grabbe, Christian Dietrich</name>
+            <id type="gnd">118541102</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="03a51fb0-842e-4abe-a51f-b0842e6abe1c">
+            <name>Greid, Hermann</name>
+            <id type="gnd">116830263</id>
+            <roleActor>
+                <role type="Rolle">Labedoyère</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9905ade0-bc95-4b4c-85ad-e0bc95fb4c93">
+            <name>Gronau, Ernst</name>
+            <id type="gnd">1032448512</id>
+            <roleActor>
+                <role type="Rolle">Ausrufer bei einem Guckkasten, Schneidermeister</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bf449445-3fbf-4a38-8494-453fbf0a3879">
+            <name>Gärtner, Herbert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein andrer Berliner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6665ada6-59f4-4aa6-a5ad-a659f46aa676">
+            <name>Harnier, Hans</name>
+            <id type="gnd">116483474</id>
+            <roleActor>
+                <role type="Rolle">Herzog von Berry, Jäger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1b37abd1-0226-4d91-b7ab-d102263d912b">
+            <name>Hartau, Ludwig</name>
+            <id type="gnd">11649008X</id>
+            <roleActor>
+                <role type="Rolle">Napoleon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="982ee79b-04db-4dda-aee7-9b04db0dda4c">
+            <name>Heinz, Wolfgang</name>
+            <id type="gnd">118548638</id>
+            <roleActor>
+                <role type="Rolle">Chassecoeur</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7d319763-9d8e-4032-b197-639d8ed03203">
+            <name>Hirsch, Fritz</name>
+            <id type="gnd">121510182</id>
+            <roleActor>
+                <role type="Rolle">Ein Berliner, Savoyarde</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e181ce01-0ec6-4a41-81ce-010ec68a417b">
+            <name>Hoff, Erna</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bürgerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2e39ab63-cfac-4cfe-b9ab-63cfacfcfe82">
+            <name>Hohenstein, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Offizier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1ae7e5de-022a-4793-a7e5-de022a7793a4">
+            <name>Jensch, Elise</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bürgerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8ddf6f36-ecc1-4a24-9f6f-36ecc18a2458">
+            <name>Jessner, Leopold</name>
+            <id type="gnd">118557491</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="48bfcde8-6691-4109-bfcd-e86691b109d3">
+            <name>Kalser, Erwin</name>
+            <id type="gnd">116035064</id>
+            <roleActor>
+                <role type="Rolle">Bertrand</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="19be2b05-1d5a-4666-be2b-051d5a466642">
+            <name>Klein, Cesar</name>
+            <id type="gnd">118723456</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f9802ac0-b026-4849-802a-c0b026d8493f">
+            <name>Kraußneck, Arthur</name>
+            <id type="gnd">116401753</id>
+            <roleActor>
+                <role type="Rolle">Blücher</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5e971f37-6ce4-4f65-971f-376ce4ff6526">
+            <name>Krenek, Ernst</name>
+            <id type="gnd">118566636</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="a11ce329-ec0b-4151-9ce3-29ec0ba151f0">
+            <name>Kökert, Alexander</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Capitän, Herzog von Angoulème</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="266ad46d-3713-46e7-aad4-6d3713d6e73e">
+            <name>Laubinger, Otto</name>
+            <id type="gnd">116865970</id>
+            <roleActor>
+                <role type="Rolle">Saint Pelé</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cdced7e1-3732-4e8a-8ed7-e137329e8ac0">
+            <name>Ledebur, Leopold von</name>
+            <id type="gnd">117749303</id>
+            <roleActor>
+                <role type="Rolle">König Ludwig XVIII.</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1329c930-f069-4532-a9c9-30f069553255">
+            <name>Leffler, Hermann</name>
+            <id type="gnd">116855797</id>
+            <roleActor>
+                <role type="Rolle">Graf Blacas d'Aulp</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b6470877-be7f-408b-8708-77be7f808b33">
+            <name>Legal, Ernst</name>
+            <id type="gnd">118727079</id>
+            <roleActor>
+                <role type="Rolle">Bourmont, Herr d'Ambray</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6d4be007-e856-4480-8be0-07e8561480b8">
+            <name>Lorenz, Charlotte</name>
+            <id type="gnd">106177693X</id>
+            <roleActor>
+                <role type="Rolle">Bürgerin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8ec0efff-6521-43b7-80ef-ff652163b795">
+            <name>Lossen, Lina</name>
+            <id type="gnd">117221201</id>
+            <roleActor>
+                <role type="Rolle">Hortense</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="111f48c4-944a-4797-9f48-c4944af79757">
+            <name>Mannstädt, Otto</name>
+            <id type="gnd">1071521101</id>
+            <roleActor>
+                <role type="Rolle">Schwarzer Becker, Ausrufer einer Menagerie, Bürger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">
+            <name>Müthel, Lothar</name>
+            <id type="gnd">119049309</id>
+            <roleActor>
+                <role type="Rolle">Vitry</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d84b4166-5c06-43ec-8b41-665c06b3ec9e">
+            <name>Natkin, Heinrich</name>
+            <id type="gnd">199159093</id>
+            <roleActor>
+                <role type="Rolle">Herr von Villeneuve</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2b3b35aa-aeef-41f7-bb35-aaaeef81f7b8">
+            <name>Pategg, Rosa</name>
+            <id type="gnd">116053119</id>
+            <roleActor>
+                <role type="Rolle">Göttin der Vernunft</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2898442-c51e-423c-8984-42c51ef23ccf">
+            <name>Pohl, Max</name>
+            <id type="gnd">116260513</id>
+            <roleActor>
+                <role type="Rolle">Advokat Duchesne</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cf908232-3ee2-4b79-9082-323ee2cb79d3">
+            <name>Reuss, Leo</name>
+            <id type="gnd">116454040</id>
+            <roleActor>
+                <role type="Rolle">Cambronne</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dc022d25-0156-4678-822d-250156967889">
+            <name>Schauspielhaus Berlin</name>
+            <id type="gnd">2118679-0</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="0c2b14a6-b0d2-48c2-ab14-a6b0d2e8c2a7">
+            <name>Schnell, Georg H.</name>
+            <id type="gnd">102694788X</id>
+            <roleActor>
+                <role type="Rolle">Herzog von Orleans, Lord Somerset</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="960dfa7f-9523-4570-8dfa-7f9523257096">
+            <name>Schön, Margarete</name>
+            <id type="gnd">116141034</id>
+            <roleActor>
+                <role type="Rolle">Adeline</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="01c46617-ebf7-4bd1-8466-17ebf72bd144">
+            <name>Servaes, Dagny</name>
+            <id type="gnd">117467944</id>
+            <roleActor>
+                <role type="Rolle">Herzogin von Angoulème</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="51497096-71d9-4189-8970-9671d9d189ed">
+            <name>Uebermuth, Helene</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Frau des Schneidermeisters</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7144b10d-c425-491a-84b1-0dc425d91a2f">
+            <name>Uhlig, Karl</name>
+            <id type="gnd">117279714</id>
+            <roleActor>
+                <role type="Rolle">Offizier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d5e436ff-4efe-4586-a436-ff4efec586f8">
+            <name>Wagner, Elsa</name>
+            <id type="gnd">117094714</id>
+            <roleActor>
+                <role type="Rolle">Eine alte Putzhändlerin</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="97a84222-43c2-49b8-a842-2243c279b8f9">
+            <name>Werckmeister, Vicky</name>
+            <id type="gnd">1061759040</id>
+            <roleActor>
+                <role type="Rolle">Herzogin von Chimay</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8d6e49c0-f3c0-4da9-ae49-c0f3c06da92d">
+            <name>Werner, Walter Gotthard</name>
+            <id type="gnd">117303852</id>
+            <roleActor>
+                <role type="Rolle">Feldwebel, Bürger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="44b561b6-71da-463c-b561-b671da163c20">
+            <name>Winter, Max</name>
+            <id type="gnd">1038073030</id>
+            <roleActor>
+                <role type="Rolle">Hofkoch</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="94137ee3-ee93-44b9-937e-e3ee9344b93a">
+            <name>Witte, Heinrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Jägermajor, Husar, Jouve</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2155bb92-0d98-4521-95bb-920d98552127">
+            <name>Wolfgang, Martin</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Oberzeremonienmeister, Ephraim</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57e43f1f-8479-4c8c-a43f-1f8479ac8c32">
+            <name>Zimmerer, Toni</name>
+            <id type="gnd">116994452</id>
+            <roleActor>
+                <role type="Rolle">Gendarm</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_RT000069" type="Publikation: Programmheft" aat="300027217">
+            <title>Programmheft zu "Napoleon oder Die hundert Tage" in Berlin 1922</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

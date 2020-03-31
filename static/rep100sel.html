@@ -1,0 +1,285 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>XML=>SQL</title>
+    <link href="css/style.min.css" rel="stylesheet">
+    <script src="lib/jquery.min.js"></script>
+    <script src="lib/jstree.min.js"></script>
+    <script src="lib/async.js"></script>
+    <style>
+        html,
+        body {
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+
+        #chooseForm {
+            font-size: 150%;
+        }
+        .infotable{
+            border: 3px solid black;
+        }
+        .infotablebody{
+            border: 3px solid black;
+        }
+        .tdClass{
+            border: 3px solid green;
+        }
+    </style>
+</head>
+
+<body>
+
+
+    Filtern der Daten mit Selektionsformular
+    <pre>
+Mehrere Buttons - je Button Aufruf mit Übergabe der Selektionseingaben
+- Anzeige der Daten zur Kontrolle in einer HTML-Tabelle mit rep200tab.html
+<button id="anzeigeBtn" onclick="">Anzeigenkontrolle</button>
+- Anzeige der Daten als Swimlane mit rep350swi.html
+<button id="swimlaneBtn" onclick="">Swimlane</button>
+- Anzeige der Daten als Karte mit Leaflet mit rep330map.html
+<button id="mapBtn" onclick="">Leaflet-Map</button>
+- Anzeige der Daten als Bubbles mit D3 mit rep360bub.html
+<button id="bubblesBtn" onclick="">Bubbles</button>
+<h2>Auswähl Formular</h2>
+Formular zum Auswählen der Filterkriterien.
+<form id="chooseForm">
+    <div id="playSearch">
+    <label for="playF">Stücksuche:</label>
+    <input type="search" id="searchPlayF" placeholder="Search Personsuche.." name="search">
+</div>
+<div id = "personSearch">
+    <label for="personL" id="searchPersonL">Personsuche:</label>
+    <input type="search" id="searchPersonF" placeholder="Search Personsuche.." name="search">
+ </div>
+
+
+    <label for="chooseCat">Wähle eine Kategorie:</label>
+    <select id="chooseCat" name="ChooseCat" multiple>
+        <option value="premieredatum">premieredatum</option>
+        <option value="titel">titel</option>
+        <option value="stadt">stadt</option>
+        <option value="institution">institution</option>    
+    </select>
+</form>
+
+<div id="dataShow">
+
+</div>
+</pre>
+    <script>
+        $(document).ready(function () {
+            $('#personSearch').append($("<button/>", {
+                html: "Suche nach Person",
+                css: {
+                    margin: "10px",
+                    float: "left"
+                },
+                click: function (evt) {
+                    evt.preventDefault(); // Defaultverhalten soll verhindert werden; es kommt dann nur die programmierte, explizierte funktion
+                    debugger;
+                    var userInput = document.getElementById("searchPersonF").value;
+                    //   console.log("User input: " + userInput);
+
+
+                    var selStmt = "SELECT * FROM EVENTINFO";
+                    selStmt += " JOIN PERSONINFO";
+                    // JOIN alleine ist eine strenge Zusammenführung
+                    // es werden als nur das gezeigt, wo beides zutrifft
+                    selStmt += " ON EVENTINFO.eventid = PERSONINFO.eventid";
+
+                    selStmt += " WHERE lower(PERSONINFO.actorname) LIKE '%" + userInput.toLowerCase() + "%'";
+                    debugger;
+                    var jqxhr = $.ajax({
+                        method: "GET",
+                        crossDomain: true,
+                        url: "readAll",
+                        data: {
+                            selStmt: selStmt
+                        }
+                    }).done(function (r1, textStatus, jqXHR) {
+                        try {
+                            console.log("Antwort: " + r1);
+
+                            var j1 = JSON.parse(r1);
+                            if (j1.error === true) {
+                                alert("Fehler beim lesen: " + j1.message);
+                            } else {
+                                if (typeof j1.records === 'undefined') {
+                                    alert("Keine Daten gefunden :(");
+                                } else {
+                                    alert("Daten gefunden: " + j1.records.length);
+                                    j1record = j1.records;
+                                var index = j1.records.length;
+                                showData(j1record, index);
+
+
+
+                                }
+                            }
+                        } catch (err) {
+                            alert("Fehler: " + err);
+                            console.log(err.stack);
+                        }
+                    }).fail(function (err) {
+                        console.log(err.statusText)
+                        return;
+                    }).always(function () {
+                        // nope
+                    });
+                }
+            }))
+        })
+        $('#playSearch').append($("<button/>", {
+            html: "Suche nach Stücken(Einheitssachetitel)",
+            css: {
+                margin: "10px",
+                float: "left"
+            },
+            click: function (evt) {
+                evt.preventDefault(); // Defaultverhalten soll verhindert werden; es kommt dann nur die programmierte, explizierte funktion
+                debugger;
+                var userInput = document.getElementById("searchPlayF").value;
+                //   console.log("User input: " + userInput);
+
+
+                var selStmt = "SELECT * FROM EVENTINFO";
+                selStmt += " JOIN PERSONINFO";
+                // JOIN alleine ist eine strenge Zusammenführung
+                // es werden als nur das gezeigt, wo beides zutrifft
+                selStmt += " ON EVENTINFO.eventid = PERSONINFO.eventid";
+
+                selStmt += " WHERE lower(EVENTINFO.listtitle0title) LIKE '%" + userInput.toLowerCase() + "%'";
+                debugger;
+                var jqxhr = $.ajax({
+                    method: "GET",
+                    crossDomain: true,
+                    url: "readAll",
+                    data: {
+                        selStmt: selStmt
+                    }
+                }).done(function (r1, textStatus, jqXHR) {
+                    try {
+                        console.log("Antwort: " + r1);
+
+                        var j1 = JSON.parse(r1);
+                        if (j1.error === true) {
+                            alert("Fehler beim lesen: " + j1.message);
+                        } else {
+                            if (typeof j1.records === 'undefined') {
+                                alert("Keine Daten gefunden :(");
+                            } else {
+                                alert("Daten gefunden: " + j1.records.length);
+                               j1record = j1.records;
+                                var index = j1.records.length;
+                                showData(j1record, index);
+                             /*   for (var index = 0; index < j1.records.length; index++) {
+
+                                    var record = j1.records[index];
+
+                                    console.log("Test der Ausgabe:");
+                                    console.log("Titel: " + record.listtitle0title);
+                                    console.log("Premiere: " + record.premierdate);
+                                    console.log("Veranstaltungsort: " + record.theatername);
+                                }
+                                */
+
+
+
+                            }
+                        }
+                    } catch (err) {
+                        alert("Fehler: " + err);
+                        console.log(err.stack);
+                    }
+                }).fail(function (err) {
+                    console.log(err.statusText)
+                    return;
+                }).always(function () {
+                    // nope
+                });
+            }
+        }))
+
+
+        function showData(j1record, j1recordIndex) {
+            for (var index = 0; index < j1recordIndex; index++) {
+                var record = j1record[index];
+
+                console.log("Index: " + index);
+                if (index == 0) {
+                    alert("index 0, erschaffe tabelle");
+                    var table = $("<table/>").addClass('infotable');
+                    $('#dataShow').append(table);
+                    var tableBody = $("<tbody/>").addClass('infotablebody');
+                    $('.infotable').append(tableBody);
+                    var headlineRow = "";
+                    headlineRow += '<tr><th>' + "Index" + '</th>';
+                    headlineRow += '<th>' + "EventID" + '</th>';
+                    headlineRow += '<th>' + "Eventype" + '</th>';
+                    headlineRow += '<th>' + "QuickSearch" + '</th>';
+                    headlineRow += '<th>' + "SecondaryTypes" + '</th>';
+                    headlineRow += '<th>' + "listtitle0type" + '</th>';
+                    headlineRow += '<th>' + "listtitle0title" + '</th>';
+                    headlineRow += '<th>' + "listtitle1type" + '</th>';
+                    headlineRow += '<th>' + "listtitle1title" + '</th>';
+                    headlineRow += '<th>' + "listobject0" + '</th>';
+                    headlineRow += '<th>' + "placetype" + '</th>';
+                    headlineRow += '<th>' + "placename" + '</th>';
+                    headlineRow += '<th>' + "theatertype" + '</th>';
+                    headlineRow += '<th>' + "theatername" + '</th>';
+                    headlineRow += '<th>' + "theaterobject" + '</th>';
+                    headlineRow += '<th>' + "premierdate" + '</th>';
+                    headlineRow += '<th>' + "actorname" + '</th>';
+                    headlineRow += '<th>' + "actorid" + '</th>';
+                    headlineRow += '<th>' + "actorrole" + '</th>';
+                    headlineRow += '<th>' + "actorcharacter" + '</th>';
+                    headlineRow += '</tr>';
+                    // indexRow += '<tr><th>' + "Eventid " + '</th></tr>';
+                    $('.infotablebody').append(headlineRow);
+                }
+                //  alert("index größer null, befülle tablle");
+                var valRow = "";
+                valRow += '<tr><td class="tdClass">' + index + '</td>';
+                valRow += '<td class="tdClass">' + record.eventid + '</td>';
+                valRow += '<td class="tdClass">' + record.eventtype + '</td>';
+                valRow += '<td class="tdClass">' + record.quicksearch + '</td>';
+                valRow += '<td class="tdClass">' + record.secondaryTypes + '</td>';
+                valRow += '<td class="tdClass">' + record.listtitle0type + '</td>';
+                valRow += '<td class="tdClass">' + record.listtitle0title + '</td>';
+                valRow += '<td class="tdClass">' + record.listtitle1type + '</td>';
+                valRow += '<td class="tdClass">' + record.listtitle1title + '</td>';
+                valRow += '<td class="tdClass">' + record.listobject0 + '</td>';
+                valRow += '<td class="tdClass">' + record.placetype + '</td>';
+                valRow += '<td class="tdClass">' + record.placename + '</td>';
+                valRow += '<td class="tdClass">' + record.theatertype + '</td>';
+                valRow += '<td class="tdClass">' + record.theatername + '</td>';
+                valRow += '<td class="tdClass">' + record.theaterobject + '</td>';
+                valRow += '<td class="tdClass">' + record.premierdate + '</td>';
+                valRow += '<td class="tdClass">' + record.actorname + '</td>';
+                valRow += '<td class="tdClass">' + record.actorid + '</td>';
+                valRow += '<td class="tdClass">' + record.actorrole + '</td>';
+                valRow += '<td class="tdClass">' + record.actorcharacter + '</td>';
+                valRow += '</tr>';
+                $('.infotablebody').append(valRow);
+            }
+            console.log("Test");
+            debugger;
+            console.log("Test der Ausgabe:");
+            console.log("Titel: " + record.listtitle0title);
+            console.log("Premiere: " + record.premierdate);
+            console.log("Veranstaltungsort: " + record.theatername);
+        }
+
+        function bubbleData(){
+
+        }
+    </script>
+</body>
+
+</html>

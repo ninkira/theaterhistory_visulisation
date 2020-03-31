@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="d536e415-7158-40e7-b6e4-15715890e7ac" type="Performance">
+    <groupingArgument actorID="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">The merchant of Venice+15.05.1943+Müthel, Lothar</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>The merchant of Venice</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Kaufmann von Venedig, Der</title>
+            <listObject>
+                <object id="IFT_OBJ_LM000462"/>
+                <object id="IFT_OBJ_LM000430"/>
+                <object id="IFT_OBJ_LM000429"/>
+                <object id="IFT_OBJ_LM000428"/>
+                <object id="IFT_OBJ_LM000427"/>
+                <object id="IFT_OBJ_LM000426"/>
+                <object id="IFT_OBJ_LM000425"/>
+                <object id="IFT_OBJ_LM000424"/>
+                <object id="IFT_OBJ_LM000423"/>
+                <object id="IFT_OBJ_LM000422"/>
+                <object id="IFT_OBJ_LM000421"/>
+                <object id="IFT_OBJ_LM000420"/>
+                <object id="IFT_OBJ_LM000419"/>
+                <object id="IFT_OBJ_LM000418"/>
+                <object id="IFT_OBJ_LM000417"/>
+                <object id="IFT_OBJ_LM000416"/>
+                <object id="IFT_OBJ_LM000415"/>
+                <object id="IFT_OBJ_LM000414"/>
+                <object id="IFT_OBJ_LM000413"/>
+                <object id="IFT_OBJ_LM000412"/>
+                <object id="IFT_OBJ_LM000411"/>
+                <object id="IFT_OBJ_LM000410"/>
+                <object id="IFT_OBJ_LM000409"/>
+                <object id="IFT_OBJ_LM000408"/>
+                <object id="IFT_OBJ_LM000332"/>
+                <object id="IFT_OBJ_LM000331"/>
+                <object id="IFT_OBJ_LM000330"/>
+                <object id="IFT_OBJ_LM000329"/>
+                <object id="IFT_OBJ_LM000328"/>
+                <object id="IFT_OBJ_LM000327"/>
+                <object id="IFT_OBJ_LM000326"/>
+                <object id="IFT_OBJ_LM000325"/>
+                <object id="IFT_OBJ_LM000324"/>
+                <object id="IFT_OBJ_LM000323"/>
+                <object id="IFT_OBJ_LM000322"/>
+                <object id="IFT_OBJ_LM000321"/>
+                <object id="IFT_OBJ_LM000320"/>
+                <object id="IFT_OBJ_LM000319"/>
+                <object id="IFT_OBJ_LM000318"/>
+                <object id="IFT_OBJ_LM000317"/>
+                <object id="IFT_OBJ_LM000316"/>
+                <object id="IFT_OBJ_LM000315"/>
+                <object id="IFT_OBJ_LM000314"/>
+                <object id="IFT_OBJ_LM000313"/>
+                <object id="IFT_OBJ_LM000312"/>
+                <object id="IFT_OBJ_LM000311"/>
+                <object id="IFT_OBJ_LM000310"/>
+                <object id="IFT_OBJ_LM000309"/>
+                <object id="IFT_OBJ_LM000308"/>
+                <object id="IFT_OBJ_LM000307"/>
+                <object id="IFT_OBJ_LM000306"/>
+                <object id="IFT_OBJ_LM000305"/>
+                <object id="IFT_OBJ_LM000304"/>
+                <object id="IFT_OBJ_LM000303"/>
+                <object id="IFT_OBJ_LM000302"/>
+                <object id="IFT_OBJ_LM000301"/>
+                <object id="IFT_OBJ_LM000300"/>
+                <object id="IFT_OBJ_LM000299"/>
+                <object id="IFT_OBJ_LM000298"/>
+                <object id="IFT_OBJ_LM000297"/>
+                <object id="IFT_OBJ_LM000296"/>
+                <object id="IFT_OBJ_LM000295"/>
+                <object id="IFT_OBJ_LM000294"/>
+                <object id="IFT_OBJ_LM000293"/>
+                <object id="IFT_OBJ_LM000292"/>
+                <object id="IFT_OBJ_LM000291"/>
+                <object id="IFT_OBJ_LM000290"/>
+                <object id="IFT_OBJ_LM000289"/>
+                <object id="IFT_OBJ_LM000288"/>
+                <object id="IFT_OBJ_LM000287"/>
+                <object id="IFT_OBJ_LM000286"/>
+                <object id="IFT_OBJ_LM000285"/>
+                <object id="IFT_OBJ_LM000284"/>
+                <object id="IFT_OBJ_LM000283"/>
+                <object id="IFT_OBJ_LM000282"/>
+                <object id="IFT_OBJ_LM000281"/>
+                <object id="IFT_OBJ_LM000280"/>
+                <object id="IFT_OBJ_LM000279"/>
+                <object id="IFT_OBJ_LM000278"/>
+                <object id="IFT_OBJ_LM000277"/>
+                <object id="IFT_OBJ_LM000276"/>
+                <object id="IFT_OBJ_LM000275"/>
+                <object id="IFT_OBJ_LM000274"/>
+                <object id="IFT_OBJ_LM000273"/>
+                <object id="IFT_OBJ_LM000272"/>
+                <object id="IFT_OBJ_LM000271"/>
+                <object id="IFT_OBJ_LM000270"/>
+                <object id="IFT_OBJ_LM000269"/>
+                <object id="IFT_OBJ_LM000268"/>
+                <object id="IFT_OBJ_LM000267"/>
+                <object id="IFT_OBJ_LM000266"/>
+                <object id="IFT_OBJ_LM000265"/>
+                <object id="IFT_OBJ_LM000264"/>
+                <object id="IFT_OBJ_LM000263"/>
+                <object id="IFT_OBJ_LM000262"/>
+                <object id="IFT_OBJ_LM000261"/>
+                <object id="IFT_OBJ_LM000260"/>
+                <object id="IFT_OBJ_LM000259"/>
+                <object id="IFT_OBJ_LM000258"/>
+                <object id="IFT_OBJ_LM000257"/>
+                <object id="IFT_OBJ_LM000256"/>
+                <object id="IFT_OBJ_LM000255"/>
+                <object id="IFT_OBJ_LM000254"/>
+                <object id="IFT_OBJ_LM000253"/>
+                <object id="IFT_OBJ_LM000252"/>
+                <object id="IFT_OBJ_LM000251"/>
+                <object id="IFT_OBJ_LM000250"/>
+                <object id="IFT_OBJ_LM000011"/>
+                <object id="IFT_KON_LM000012"/>
+                <object id="IFT_KON_LM000011"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>Burgtheater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_LM000462"/>
+                    <object id="IFT_OBJ_LM000430"/>
+                    <object id="IFT_OBJ_LM000429"/>
+                    <object id="IFT_OBJ_LM000428"/>
+                    <object id="IFT_OBJ_LM000427"/>
+                    <object id="IFT_OBJ_LM000426"/>
+                    <object id="IFT_OBJ_LM000425"/>
+                    <object id="IFT_OBJ_LM000424"/>
+                    <object id="IFT_OBJ_LM000423"/>
+                    <object id="IFT_OBJ_LM000422"/>
+                    <object id="IFT_OBJ_LM000421"/>
+                    <object id="IFT_OBJ_LM000420"/>
+                    <object id="IFT_OBJ_LM000419"/>
+                    <object id="IFT_OBJ_LM000418"/>
+                    <object id="IFT_OBJ_LM000417"/>
+                    <object id="IFT_OBJ_LM000416"/>
+                    <object id="IFT_OBJ_LM000415"/>
+                    <object id="IFT_OBJ_LM000414"/>
+                    <object id="IFT_OBJ_LM000413"/>
+                    <object id="IFT_OBJ_LM000412"/>
+                    <object id="IFT_OBJ_LM000411"/>
+                    <object id="IFT_OBJ_LM000410"/>
+                    <object id="IFT_OBJ_LM000409"/>
+                    <object id="IFT_OBJ_LM000408"/>
+                    <object id="IFT_OBJ_LM000332"/>
+                    <object id="IFT_OBJ_LM000331"/>
+                    <object id="IFT_OBJ_LM000330"/>
+                    <object id="IFT_OBJ_LM000329"/>
+                    <object id="IFT_OBJ_LM000328"/>
+                    <object id="IFT_OBJ_LM000327"/>
+                    <object id="IFT_OBJ_LM000326"/>
+                    <object id="IFT_OBJ_LM000325"/>
+                    <object id="IFT_OBJ_LM000324"/>
+                    <object id="IFT_OBJ_LM000323"/>
+                    <object id="IFT_OBJ_LM000322"/>
+                    <object id="IFT_OBJ_LM000321"/>
+                    <object id="IFT_OBJ_LM000320"/>
+                    <object id="IFT_OBJ_LM000319"/>
+                    <object id="IFT_OBJ_LM000318"/>
+                    <object id="IFT_OBJ_LM000317"/>
+                    <object id="IFT_OBJ_LM000316"/>
+                    <object id="IFT_OBJ_LM000315"/>
+                    <object id="IFT_OBJ_LM000314"/>
+                    <object id="IFT_OBJ_LM000313"/>
+                    <object id="IFT_OBJ_LM000312"/>
+                    <object id="IFT_OBJ_LM000311"/>
+                    <object id="IFT_OBJ_LM000310"/>
+                    <object id="IFT_OBJ_LM000309"/>
+                    <object id="IFT_OBJ_LM000308"/>
+                    <object id="IFT_OBJ_LM000307"/>
+                    <object id="IFT_OBJ_LM000306"/>
+                    <object id="IFT_OBJ_LM000305"/>
+                    <object id="IFT_OBJ_LM000304"/>
+                    <object id="IFT_OBJ_LM000303"/>
+                    <object id="IFT_OBJ_LM000302"/>
+                    <object id="IFT_OBJ_LM000301"/>
+                    <object id="IFT_OBJ_LM000300"/>
+                    <object id="IFT_OBJ_LM000299"/>
+                    <object id="IFT_OBJ_LM000298"/>
+                    <object id="IFT_OBJ_LM000297"/>
+                    <object id="IFT_OBJ_LM000296"/>
+                    <object id="IFT_OBJ_LM000295"/>
+                    <object id="IFT_OBJ_LM000294"/>
+                    <object id="IFT_OBJ_LM000293"/>
+                    <object id="IFT_OBJ_LM000292"/>
+                    <object id="IFT_OBJ_LM000291"/>
+                    <object id="IFT_OBJ_LM000290"/>
+                    <object id="IFT_OBJ_LM000289"/>
+                    <object id="IFT_OBJ_LM000288"/>
+                    <object id="IFT_OBJ_LM000287"/>
+                    <object id="IFT_OBJ_LM000286"/>
+                    <object id="IFT_OBJ_LM000285"/>
+                    <object id="IFT_OBJ_LM000284"/>
+                    <object id="IFT_OBJ_LM000283"/>
+                    <object id="IFT_OBJ_LM000282"/>
+                    <object id="IFT_OBJ_LM000281"/>
+                    <object id="IFT_OBJ_LM000280"/>
+                    <object id="IFT_OBJ_LM000279"/>
+                    <object id="IFT_OBJ_LM000278"/>
+                    <object id="IFT_OBJ_LM000277"/>
+                    <object id="IFT_OBJ_LM000276"/>
+                    <object id="IFT_OBJ_LM000275"/>
+                    <object id="IFT_OBJ_LM000274"/>
+                    <object id="IFT_OBJ_LM000273"/>
+                    <object id="IFT_OBJ_LM000272"/>
+                    <object id="IFT_OBJ_LM000271"/>
+                    <object id="IFT_OBJ_LM000270"/>
+                    <object id="IFT_OBJ_LM000269"/>
+                    <object id="IFT_OBJ_LM000268"/>
+                    <object id="IFT_OBJ_LM000267"/>
+                    <object id="IFT_OBJ_LM000266"/>
+                    <object id="IFT_OBJ_LM000265"/>
+                    <object id="IFT_OBJ_LM000264"/>
+                    <object id="IFT_OBJ_LM000263"/>
+                    <object id="IFT_OBJ_LM000262"/>
+                    <object id="IFT_OBJ_LM000261"/>
+                    <object id="IFT_OBJ_LM000260"/>
+                    <object id="IFT_OBJ_LM000259"/>
+                    <object id="IFT_OBJ_LM000258"/>
+                    <object id="IFT_OBJ_LM000257"/>
+                    <object id="IFT_OBJ_LM000256"/>
+                    <object id="IFT_OBJ_LM000255"/>
+                    <object id="IFT_OBJ_LM000254"/>
+                    <object id="IFT_OBJ_LM000253"/>
+                    <object id="IFT_OBJ_LM000252"/>
+                    <object id="IFT_OBJ_LM000251"/>
+                    <object id="IFT_OBJ_LM000250"/>
+                    <object id="IFT_OBJ_LM000011"/>
+                    <object id="IFT_KON_LM000012"/>
+                    <object id="IFT_KON_LM000011"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>15.05.1943</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_LM000462"/>
+                    <object id="IFT_OBJ_LM000430"/>
+                    <object id="IFT_OBJ_LM000429"/>
+                    <object id="IFT_OBJ_LM000428"/>
+                    <object id="IFT_OBJ_LM000427"/>
+                    <object id="IFT_OBJ_LM000426"/>
+                    <object id="IFT_OBJ_LM000425"/>
+                    <object id="IFT_OBJ_LM000424"/>
+                    <object id="IFT_OBJ_LM000423"/>
+                    <object id="IFT_OBJ_LM000422"/>
+                    <object id="IFT_OBJ_LM000421"/>
+                    <object id="IFT_OBJ_LM000420"/>
+                    <object id="IFT_OBJ_LM000419"/>
+                    <object id="IFT_OBJ_LM000418"/>
+                    <object id="IFT_OBJ_LM000417"/>
+                    <object id="IFT_OBJ_LM000416"/>
+                    <object id="IFT_OBJ_LM000415"/>
+                    <object id="IFT_OBJ_LM000414"/>
+                    <object id="IFT_OBJ_LM000413"/>
+                    <object id="IFT_OBJ_LM000412"/>
+                    <object id="IFT_OBJ_LM000411"/>
+                    <object id="IFT_OBJ_LM000410"/>
+                    <object id="IFT_OBJ_LM000409"/>
+                    <object id="IFT_OBJ_LM000408"/>
+                    <object id="IFT_OBJ_LM000332"/>
+                    <object id="IFT_OBJ_LM000331"/>
+                    <object id="IFT_OBJ_LM000330"/>
+                    <object id="IFT_OBJ_LM000329"/>
+                    <object id="IFT_OBJ_LM000328"/>
+                    <object id="IFT_OBJ_LM000327"/>
+                    <object id="IFT_OBJ_LM000326"/>
+                    <object id="IFT_OBJ_LM000325"/>
+                    <object id="IFT_OBJ_LM000324"/>
+                    <object id="IFT_OBJ_LM000323"/>
+                    <object id="IFT_OBJ_LM000322"/>
+                    <object id="IFT_OBJ_LM000321"/>
+                    <object id="IFT_OBJ_LM000320"/>
+                    <object id="IFT_OBJ_LM000319"/>
+                    <object id="IFT_OBJ_LM000318"/>
+                    <object id="IFT_OBJ_LM000317"/>
+                    <object id="IFT_OBJ_LM000316"/>
+                    <object id="IFT_OBJ_LM000315"/>
+                    <object id="IFT_OBJ_LM000314"/>
+                    <object id="IFT_OBJ_LM000313"/>
+                    <object id="IFT_OBJ_LM000312"/>
+                    <object id="IFT_OBJ_LM000311"/>
+                    <object id="IFT_OBJ_LM000310"/>
+                    <object id="IFT_OBJ_LM000309"/>
+                    <object id="IFT_OBJ_LM000308"/>
+                    <object id="IFT_OBJ_LM000307"/>
+                    <object id="IFT_OBJ_LM000306"/>
+                    <object id="IFT_OBJ_LM000305"/>
+                    <object id="IFT_OBJ_LM000304"/>
+                    <object id="IFT_OBJ_LM000303"/>
+                    <object id="IFT_OBJ_LM000302"/>
+                    <object id="IFT_OBJ_LM000301"/>
+                    <object id="IFT_OBJ_LM000300"/>
+                    <object id="IFT_OBJ_LM000299"/>
+                    <object id="IFT_OBJ_LM000298"/>
+                    <object id="IFT_OBJ_LM000297"/>
+                    <object id="IFT_OBJ_LM000296"/>
+                    <object id="IFT_OBJ_LM000295"/>
+                    <object id="IFT_OBJ_LM000294"/>
+                    <object id="IFT_OBJ_LM000293"/>
+                    <object id="IFT_OBJ_LM000292"/>
+                    <object id="IFT_OBJ_LM000291"/>
+                    <object id="IFT_OBJ_LM000290"/>
+                    <object id="IFT_OBJ_LM000289"/>
+                    <object id="IFT_OBJ_LM000288"/>
+                    <object id="IFT_OBJ_LM000287"/>
+                    <object id="IFT_OBJ_LM000286"/>
+                    <object id="IFT_OBJ_LM000285"/>
+                    <object id="IFT_OBJ_LM000284"/>
+                    <object id="IFT_OBJ_LM000283"/>
+                    <object id="IFT_OBJ_LM000282"/>
+                    <object id="IFT_OBJ_LM000281"/>
+                    <object id="IFT_OBJ_LM000280"/>
+                    <object id="IFT_OBJ_LM000279"/>
+                    <object id="IFT_OBJ_LM000278"/>
+                    <object id="IFT_OBJ_LM000277"/>
+                    <object id="IFT_OBJ_LM000276"/>
+                    <object id="IFT_OBJ_LM000275"/>
+                    <object id="IFT_OBJ_LM000274"/>
+                    <object id="IFT_OBJ_LM000273"/>
+                    <object id="IFT_OBJ_LM000272"/>
+                    <object id="IFT_OBJ_LM000271"/>
+                    <object id="IFT_OBJ_LM000270"/>
+                    <object id="IFT_OBJ_LM000269"/>
+                    <object id="IFT_OBJ_LM000268"/>
+                    <object id="IFT_OBJ_LM000267"/>
+                    <object id="IFT_OBJ_LM000266"/>
+                    <object id="IFT_OBJ_LM000265"/>
+                    <object id="IFT_OBJ_LM000264"/>
+                    <object id="IFT_OBJ_LM000263"/>
+                    <object id="IFT_OBJ_LM000262"/>
+                    <object id="IFT_OBJ_LM000261"/>
+                    <object id="IFT_OBJ_LM000260"/>
+                    <object id="IFT_OBJ_LM000259"/>
+                    <object id="IFT_OBJ_LM000258"/>
+                    <object id="IFT_OBJ_LM000257"/>
+                    <object id="IFT_OBJ_LM000256"/>
+                    <object id="IFT_OBJ_LM000255"/>
+                    <object id="IFT_OBJ_LM000254"/>
+                    <object id="IFT_OBJ_LM000253"/>
+                    <object id="IFT_OBJ_LM000252"/>
+                    <object id="IFT_OBJ_LM000251"/>
+                    <object id="IFT_OBJ_LM000250"/>
+                    <object id="IFT_OBJ_LM000011"/>
+                    <object id="IFT_KON_LM000012"/>
+                    <object id="IFT_KON_LM000011"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext>Nationalsozialismus</culturalContext>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Wiener Burgtheaters</text>
+            <object id="IFT_OBJ_LM000462"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="b61e0019-a30f-4b1e-9e00-19a30f3b1e7a">
+            <name>Müthel, Lothar</name>
+            <id type="gnd">119049309</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="05603d41-b84c-4282-a03d-41b84cb282d2">
+            <name>Schlegel, August Wilhelm von</name>
+            <id type="gnd">118607960</id>
+            <roleActor>
+                <role>Übersetzer_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="dd1ac39b-8ba7-4554-9ac3-9b8ba725549b">
+            <name>Salmhofer, Franz</name>
+            <id type="gnd">120736640</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="deb9e834-1f9d-4622-b9e8-341f9df622b7">
+            <name>Böhm, Herta</name>
+            <id type="gnd">119048086</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d8c79ba6-a1e9-4dde-879b-a6a1e90dde02">
+            <name>Flemming, Charlotte</name>
+            <id type="gnd">119164787</id>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="025f261e-5c62-4641-9f26-1e5c62b6410e">
+            <name>Krauss, Werner</name>
+            <id type="gnd">118715828</id>
+            <roleActor>
+                <role type="Rolle">Shylok</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4a30e235-82b1-4370-b0e2-3582b18370d6">
+            <name>Lietzau, Hans</name>
+            <id type="gnd">117000442</id>
+            <roleActor>
+                <role type="Rolle">Lanzelot Gobbo</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="e5b6d987-e66f-4b28-b6d9-87e66f5b28ee">
+            <name>Pranger, Paul</name>
+            <id type="gnd">101930927X</id>
+            <roleActor>
+                <role type="Rolle">Der Doge von Venedig</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4427eed9-cb85-417e-a7ee-d9cb85c17e95">
+            <name>Bettac, Ulrich</name>
+            <id type="gnd">11615571X</id>
+            <roleActor>
+                <role type="Rolle">Prinz von Arragon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2d23d0af-3958-4d0f-a3d0-af39581d0f56">
+            <name>Moog, Heinz</name>
+            <id type="gnd">117134724</id>
+            <roleActor>
+                <role type="Rolle">Prinz von Marokko</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="01bebc34-48a7-4345-bebc-3448a7734500">
+            <name>Aslan, Raoul</name>
+            <id type="gnd">118504681</id>
+            <roleActor>
+                <role type="Rolle">Antonio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d613f466-3f05-4dd7-93f4-663f053dd7bf">
+            <name>Woester, Heinz</name>
+            <id type="gnd">112860499X</id>
+            <roleActor>
+                <role type="Rolle">Bassanio</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="c1586799-3aea-4735-9867-993aea87350f">
+            <name>Trojan, Alexander</name>
+            <id type="gnd">1027132154</id>
+            <roleActor>
+                <role type="Rolle">Solanio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7b516a2d-7f08-451c-916a-2d7f08651cd1">
+            <name>Schneider, Siegmar</name>
+            <id type="gnd">116837195</id>
+            <roleActor>
+                <role type="Rolle">Salarino</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="84c7007b-57ee-430a-8700-7b57ee230a5f">
+            <name>Hennings, Fred</name>
+            <id type="gnd">118710478</id>
+            <roleActor>
+                <role type="Rolle">Graziano</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="47586caa-0604-48ea-986c-aa060428ea11">
+            <name>Liewehr, Fred</name>
+            <id type="gnd">117001007</id>
+            <roleActor>
+                <role type="Rolle">Lorenzo</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="48f8be43-a9f8-4ac8-b8be-43a9f86ac8ba">
+            <name>Maierhofer, Ferdinand</name>
+            <id type="gnd">142430226</id>
+            <roleActor>
+                <role type="Rolle">Tubal</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="672c5679-2133-46be-ac56-792133d6be6d">
+            <name>Wawra, Hermann</name>
+            <id type="gnd">1062291506</id>
+            <roleActor>
+                <role type="Rolle">Der alte Gobbo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fd67abd6-5129-4b09-a7ab-d651298b09b2">
+            <name>Siegert, Reinhold</name>
+            <id type="gnd">1061667332</id>
+            <roleActor>
+                <role type="Rolle">Salerio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0491c97d-56bf-4704-91c9-7d56bfa704a0">
+            <name>Horwarth, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Leonardo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2f14a35-d19b-4857-b14a-35d19b38573e">
+            <name>Lehmann, Fritz</name>
+            <id type="gnd">1126991163</id>
+            <roleActor>
+                <role type="Rolle">Balthasar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a6546e9e-443a-44cc-946e-9e443a44ccb8">
+            <name>Cserny, Karl</name>
+            <id type="gnd">1110912048</id>
+            <roleActor>
+                <role type="Rolle">Stephano</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4415b867-9a03-4d3a-95b8-679a038d3ac8">
+            <name>Holst, Maria</name>
+            <id type="gnd">1020677368</id>
+            <roleActor>
+                <role type="Rolle">Porzia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9d94d6f9-aa97-47da-94d6-f9aa9707da15">
+            <name>Seidler, Alma</name>
+            <id type="gnd">117464597</id>
+            <roleActor>
+                <role type="Rolle">Nerissa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e6b7e839-ac36-4ecb-b7e8-39ac363ecbca">
+            <name>Kramer, Maria</name>
+            <id type="gnd">1093231882</id>
+            <roleActor>
+                <role type="Rolle">Jessica</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="77c275f3-2bcb-462d-8275-f32bcb262d04">
+            <name>Burgtheater Wien</name>
+            <id type="gnd">38633-9</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="0678a880-63b1-47b7-b8a8-8063b1e7b730">
+            <name>Ozory, Armand</name>
+            <id type="gnd">1061651509</id>
+            <roleActor>
+                <role type="Rolle">Ein Schreiber</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="55c1cfb6-804a-408f-81cf-b6804a208f56">
+            <name>Schraml, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bedienter des Antonio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="110">
+        <object id="IFT_OBJ_LM000462" type="Publikation: Regiebuch" aat="">
+            <title>Regiebuch zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000430" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000429" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000428" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000427" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000426" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000425" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000424" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000423" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000422" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000421" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000420" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000419" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000418" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000417" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000416" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000415" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000414" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000413" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000412" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000411" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000410" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000409" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000408" type="Fotografie: Dia" aat="300128371">
+            <title>Farb-Dia zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000332" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000331" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Bühnenbildfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000330" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000329" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000328" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportraits zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000327" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000326" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000325" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000324" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000323" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000322" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000321" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000320" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000319" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000318" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000317" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000316" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000315" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000314" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenportrait zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000313" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000312" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000311" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000310" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000309" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000308" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000307" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000306" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000305" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000304" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000303" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000302" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000301" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000300" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000299" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000298" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000297" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000296" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000295" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000294" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000293" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000292" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000291" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000290" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000289" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000288" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000287" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000286" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000285" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000284" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000283" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000282" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000281" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000280" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000279" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000278" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000277" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000276" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000275" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000274" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000273" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000272" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000271" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000270" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000269" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000268" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000267" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000266" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000265" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000264" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000263" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000262" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000261" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000260" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000259" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000258" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000257" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000256" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000255" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000254" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000253" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000252" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000251" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000250" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Szenenfotografie zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_OBJ_LM000011" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_KON_LM000012" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Konvolut Szenenfotografien zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+        <object id="IFT_KON_LM000011" type="Publikation: Rezension" aat="">
+            <title>Kritikenkonvolut zu "Der Kaufmann von Venedig" in Wien 1943</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

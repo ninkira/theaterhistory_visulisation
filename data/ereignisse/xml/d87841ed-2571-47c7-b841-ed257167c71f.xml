@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="d87841ed-2571-47c7-b841-ed257167c71f" type="Performance">
+    <groupingArgument actorID="09ac2852-5961-4681-ac28-525961b68181">Rienzi der letzte der Tribunen++Islaub, Hans</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Rienzi der letzte der Tribunen</title>
+            <listObject>
+                <object id="TWS_OBJ0000521"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Opernhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000521"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="06.01.1912" to="06.01.1912">
+                <listObject>
+                    <object id="TWS_OBJ0000521"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Große romantische Oper in 3 Akten, es gibt mehrere Versionen</text>
+            <object id="TWS_OBJ0000521"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="21e4fb21-c963-4568-a4fb-21c9635568b5">
+            <name>Brecher, Gustav</name>
+            <id type="gnd">119001314</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="8384296c-f08c-4084-8429-6cf08c808476">
+            <name>Fink, Mizzi</name>
+            <id type="gnd">134868617</id>
+            <roleActor>
+                <role type="Rolle">Ein Friedensbote</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5bb969b1-8b82-430d-b969-b18b82930d69">
+            <name>Giesen, Karl</name>
+            <id type="gnd">132441187</id>
+            <roleActor>
+                <role type="Rolle">Steffano Colonna, Haupt der Familie Colonna</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8833ae56-176a-4a54-b3ae-56176aca5480">
+            <name>Guszalewicz, Alice</name>
+            <id type="gnd">119237970</id>
+            <roleActor>
+                <role type="Rolle">Adrino, sein Sohn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e1bf2427-3d98-488f-bf24-273d98788ff8">
+            <name>Hemsing, Jan</name>
+            <id type="gnd">1022335669</id>
+            <roleActor>
+                <role type="Rolle">Cecco del Vecchio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="25cba5aa-c928-4a40-8ba5-aac9283a40b0">
+            <name>Immendorf, Josef</name>
+            <id type="gnd">1020165111</id>
+            <roleActor>
+                <role type="Rolle">Raimondo, päpstlicher Legat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="09ac2852-5961-4681-ac28-525961b68181">
+            <name>Islaub, Hans</name>
+            <id type="gnd">117210617</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ed8603ac-ded6-4563-8603-acded6d563b9">
+            <name>Liszewsky, Tillmann</name>
+            <id type="gnd">134868706</id>
+            <roleActor>
+                <role type="Rolle">Paolo Orsini, Haupt der Familie Orsini</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0acc6e74-2305-47bc-8c6e-74230587bc04">
+            <name>Math. Dennery a. G.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Irene</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="75bf2d1b-d7c2-45db-bf2d-1bd7c235db90">
+            <name>Menzinsky, Modest</name>
+            <id type="gnd">11688651X</id>
+            <roleActor>
+                <role type="Rolle">Cola Rienzi, päpstlicher Notar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e996b6ca-911d-423c-96b6-ca911d023c95">
+            <name>Oster, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Herold</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cb0f3569-377a-49fc-8f35-69377ab9fcb8">
+            <name>Wagner, Richard</name>
+            <id type="gnd">118594117</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4858fc88-28e4-456b-98fc-8828e4756bdf">
+            <name>Winkelshoff, Heinrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Baroncelli</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000521" type="Publikation: Programmheft" aat="300027217">
+            <title>Besetzungszettel von Rienzi der letzte der Tribunen, Köln 1912</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

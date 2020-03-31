@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="fe99eeb5-d234-4364-99ee-b5d234a3640e" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Judith+27.04.1952+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Judith</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Judith</title>
+            <listObject>
+                <object id="TWS_OBJ0000118"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Orangeriehaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000118"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>27.04.1952</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000118"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Yami, ein farbiger Henkersknecht</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1152ce06-fe42-4ae7-92ce-06fe422ae7e5">
+            <name>Baumeister, Willi</name>
+            <id type="gnd">118507559</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e0da12b7-d2e3-4e86-9a12-b7d2e32e869a">
+            <name>Breidenbach, Tilli</name>
+            <id type="gnd">1062222458</id>
+            <roleActor>
+                <role type="Rolle">Sarah</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="39169fad-3803-410b-969f-ad3803310b68">
+            <name>Böhm, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="1c7eaa3d-dafd-4791-beaa-3ddafd3791a2">
+            <name>Costa, Julia</name>
+            <id type="gnd">1013914554</id>
+            <roleActor>
+                <role type="Rolle">Susanne</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d4291700-a9e8-48ea-a917-00a9e848eadb">
+            <name>Dietz, Ernst</name>
+            <id type="gnd">116116390</id>
+            <roleActor>
+                <role type="Rolle">Holophernes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b1c144d3-8f4e-47d2-8144-d38f4e97d29a">
+            <name>Feist, Hans</name>
+            <id type="gnd">116438592</id>
+            <roleActor>
+                <role>Bühnenbearbeitung</role>
+            </roleActor>
+        </actor>
+        <actor id="5b168f52-f53d-43de-968f-52f53dc3dea3">
+            <name>Gensichen, Kunibert</name>
+            <id type="gnd">1062373189</id>
+            <roleActor>
+                <role type="Rolle">Der Wachsoldat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d30ea27e-d86e-46b2-8ea2-7ed86e26b20a">
+            <name>Giraudoux, Jean</name>
+            <id type="gnd">118539523</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="7c25e02e-882e-4cc6-a5e0-2e882edcc6a0">
+            <name>Henze, Hans Werner</name>
+            <id type="gnd">118549383</id>
+            <roleActor>
+                <role>Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="f9052409-d0e3-423b-8524-09d0e3623bb5">
+            <name>Krug, Ellen</name>
+            <id type="gnd">1061646645</id>
+            <roleActor>
+                <role type="Rolle">Lia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e949e404-4e9e-4f7e-89e4-044e9e9f7e79">
+            <name>Landestheater Darmstadt</name>
+            <id type="gnd">2002342-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="75112688-ef05-4883-9126-88ef0518835b">
+            <name>Langhans, Jürgen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Assur - Offizier der Wache des Holophernes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="cd3983cf-ee12-493d-b983-cfee12693de6">
+            <name>Leyrer, Willy</name>
+            <id type="gnd">1061403572</id>
+            <roleActor>
+                <role type="Rolle">Joseph, Judiths Onkel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b987bc5d-b0e2-49ad-87bc-5db0e239adc9">
+            <name>Lübbert, Martin</name>
+            <id type="gnd">1061327752</id>
+            <roleActor>
+                <role type="Rolle">Der erste Prophet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c4df82f3-6114-4a1f-9f82-f361142a1f2b">
+            <name>Müller, Rolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Egon, Adjutant des Holophernes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1c178e5-9f55-4cc0-8178-e59f551cc060">
+            <name>Noack, Max</name>
+            <id type="gnd">1031177310</id>
+            <roleActor>
+                <role type="Rolle">Joachim, Hohepriester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="22c48813-4a47-44ee-8488-134a4754ee60">
+            <name>Rasp, Susanne</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Esther</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f407b8e1-c7f1-40cc-87b8-e1c7f140cc64">
+            <name>Reinmann, Ingrid</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Daria, eine Taubstumme</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="41c1242a-596d-4512-8124-2a596db5127c">
+            <name>Saussen, Edmund</name>
+            <id type="gnd">1061370453</id>
+            <roleActor>
+                <role type="Rolle">Uri - Offizier der Wache des Holophernes / Ein schreiender Prophet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b5695b87-35ff-4cbb-a95b-8735ff4cbb7c">
+            <name>Schneider, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der zweite Prophet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="2aa027fc-159c-4758-a027-fc159ce758a1">
+            <name>Streck, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Jean, junger Offizier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ea325aa4-1852-4b33-b25a-a418527b33ad">
+            <name>Valenta, Lucy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Judith</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="48fa0e7d-13bc-49e5-ba0e-7d13bc69e5f9">
+            <name>Vietta, Silvio</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der kleine Jakob</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5caecbeb-9438-4976-aecb-eb9438f976c1">
+            <name>Weicker, Hans</name>
+            <id type="gnd">1055072586</id>
+            <roleActor>
+                <role type="Rolle">Paul, Adjunkt des Hohepriesters</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cb5ae2bb-62e2-41aa-9ae2-bb62e2b1aaf7">
+            <name>Westermann, Curt</name>
+            <id type="gnd">117319805</id>
+            <roleActor>
+                <role type="Rolle">Ein Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4cfae690-c3bf-4e67-bae6-90c3bf4e67c3">
+            <name>Wien, Herbert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Otta - Offizier der Wache des Holophernes</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000118" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Judith" in Darmstadt 1952</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

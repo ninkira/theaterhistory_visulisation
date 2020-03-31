@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="db5d4581-58b4-422a-9d45-8158b4e22a2f" type="Performance">
+    <groupingArgument actorID="">Nachtasyl+23.01.1903+</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Deutsche Erstaufführung(DEA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Nachtasyl</title>
+            <listObject>
+                <object id="TWS_KON0000021"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_KON0000021"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>23.01.1903</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_KON0000021"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="76f30d87-65fc-47c1-b30d-8765fc27c1bc">
+            <name>Gorʹkij, Maksim</name>
+            <id type="gnd">118639293</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="1459b8b4-dd41-4025-99b8-b4dd41402525">
+            <name>Scholz, August</name>
+            <id type="gnd">115373853</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Wassilissa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_KON0000021" type="Publikation: Rezension" aat="300026480">
+            <title>Kritiken zu "Nachtasyl" in Berlin 1902/1903</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Aufführung">
+            <listTitle>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+            </listTitle>
+            <listDate/>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList/>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

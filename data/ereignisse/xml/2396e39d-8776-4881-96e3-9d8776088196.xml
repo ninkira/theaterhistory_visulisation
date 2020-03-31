@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="2396e39d-8776-4881-96e3-9d8776088196" type="Performance">
+    <groupingArgument actorID="">Ring des Nibelungen, Der++</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Ring des Nibelungen, Der</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Walküre, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000508"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Opernhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000508"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1880" to="1910">
+                <listObject>
+                    <object id="TWS_OBJ0000508"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>bildet mit Das Rheingold, Siegfried und Götterdämmerung das Gesamtwerk Der Ring des Nibelungen</text>
+            <object id="TWS_OBJ0000508"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="cb0f3569-377a-49fc-8f35-69377ab9fcb8">
+            <name>Wagner, Richard</name>
+            <id type="gnd">118594117</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8833ae56-176a-4a54-b3ae-56176aca5480">
+            <name>Guszalewicz, Alice</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Brünnhilde</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000508" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Rollenportrait von Alice Guszalewicz als "Brünnhilde" um 1910</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

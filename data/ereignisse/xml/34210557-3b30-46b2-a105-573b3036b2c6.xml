@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="34210557-3b30-46b2-a105-573b3036b2c6" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">pfiffige Magd, Die+30.11.1939+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>pfiffige Magd, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000101"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Oldenburg</placeName>
+            <place type="Institution">
+                <placeName>Oldenburg, Landestheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000101"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>30.11.1939</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000101"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Anrechtvorstellung B 11</text>
+            <object id="TWS_OBJ0000101"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="17934ec5-c6db-4df6-934e-c5c6dbbdf6fd">
+            <name>Appelt, Adi</name>
+            <id type="gnd">13511750X</id>
+            <roleActor>
+                <role type="Rolle">Ein Barbier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8ef3930a-1a3e-4bac-b393-0a1a3e4bac2d">
+            <name>Bergström, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Eriksen, ein Buchhalter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b9e4b7a6-7a13-474c-a4b7-a67a13774cb2">
+            <name>Bohonek, Franz</name>
+            <id type="gnd">1136989587</id>
+            <roleActor>
+                <role type="Rolle">Leander, Leonores Geliebter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0aa06e06-263d-4f62-a06e-06263d9f6222">
+            <name>Büttner, Alfred</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Jens Sandbüchs</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="837f61c3-414a-4525-bf61-c3414a7525de">
+            <name>Eichelmann, Annemarie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Pernille, Magd bei Herrn Vielgeschrey</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fde7fe9b-57b2-49dd-a7fe-9b57b229ddca">
+            <name>Faber, Maria</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Leonore, seine Tochter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="25bcdfe6-e18e-4af7-bcdf-e6e18e4af7a2">
+            <name>Fafner, Jack</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">ein Notar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c1b37d79-1bcc-4a72-b37d-791bccea721b">
+            <name>Harth, Walther</name>
+            <id type="gnd">1141835169</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="265f3f5d-761b-4a01-9f3f-5d761b4a0148">
+            <name>Hiller, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">ein Bauer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="665b1b39-727d-4110-9b1b-39727dc11075">
+            <name>Holberg, Ludwig</name>
+            <id type="gnd">118552961</id>
+            <roleActor>
+                <role>Librettist_in</role>
+            </roleActor>
+        </actor>
+        <actor id="4725f75f-3256-490e-a5f7-5f3256c90e80">
+            <name>Oswald, Fritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Oldfux, Leanders Freund</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5292d44d-7f36-4bb8-92d4-4d7f366bb8b8">
+            <name>Raundorf, Kurt</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lars Tintenfaß</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f7884e00-4f43-46d9-884e-004f43b6d974">
+            <name>Schmidt-Gronau, Luise</name>
+            <id type="gnd">117510807</id>
+            <roleActor>
+                <role type="Rolle">Magdelone, Haushälterin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3993b585-c068-4b53-93b5-85c0685b532b">
+            <name>Sigurd, Johannes</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Christen Federmesser</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ed100450-c4b4-4af8-9004-50c4b4baf8e2">
+            <name>Steiner, Heinrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="d47d62dc-9f2e-4dec-bd62-dc9f2e9dec51">
+            <name>Tschurtschenthaler, Georg von</name>
+            <id type="gnd">137932146</id>
+            <roleActor>
+                <role type="Rolle">Herr Vielgeschrey, der Mann, der keine Zeit hat</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2030e914-e009-4d5f-b0e9-14e0091d5fdc">
+            <name>Weismann, Julius</name>
+            <id type="gnd">118806548</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000101" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Die pfiffige Magd", 1939</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

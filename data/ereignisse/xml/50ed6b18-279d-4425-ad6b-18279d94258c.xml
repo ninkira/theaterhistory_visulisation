@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="50ed6b18-279d-4425-ad6b-18279d94258c" type="Performance">
+    <groupingArgument actorID="c4be8f46-e554-457b-be8f-46e554a57b1a">So ist das Leben (König Nicolo)+27.11.1903+Vallentin, Richard</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>So ist das Leben (König Nicolo)</title>
+            <listObject>
+                <object id="TWS_OBJ0000235"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Neues Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000235"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>27.11.1903</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000235"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="31d647ca-bcaa-413f-9647-cabcaaf13f67">
+            <name>Wedekind, Frank</name>
+            <id type="gnd">118629867</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Alma/Pierot</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c4be8f46-e554-457b-be8f-46e554a57b1a">
+            <name>Vallentin, Richard</name>
+            <id type="gnd">117341622</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e5eeba7f-3673-437d-aeba-7f3673737d7e">
+            <name>Corinth, Lovis</name>
+            <id type="gnd">118522140</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bb792b16-3044-4088-b92b-163044f088a1">
+            <name>Bermann, Friedrich</name>
+            <id type="gnd">116136383</id>
+            <roleActor>
+                <role>Musik</role>
+            </roleActor>
+        </actor>
+        <actor id="80256683-c403-453e-a566-83c403a53edf">
+            <name>Reicher, Emanuel</name>
+            <id type="gnd">116398949</id>
+            <roleActor>
+                <role type="Rolle">König Nicolo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="46a52721-d0ba-4746-a527-21d0bae74655">
+            <name>Klein, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Pietro Folchi</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5a5cf1ae-57de-44e0-9cf1-ae57dea4e08f">
+            <name>Ekert, Alexander</name>
+            <id type="gnd">1068467401</id>
+            <roleActor>
+                <role type="Rolle">Filipo Folchi</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="95fba391-f632-4a23-bba3-91f632fa2330">
+            <name>Bernauer, Rudolf</name>
+            <id type="gnd">118656295</id>
+            <roleActor>
+                <role type="Rolle">Benedetto Nardi/Michele</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5ced7cfe-2eea-468e-ad7c-fe2eea668ec2">
+            <name>Arnold, Victor</name>
+            <id type="gnd">1050400186</id>
+            <roleActor>
+                <role type="Rolle">Pandolfo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f55a4317-1aeb-4ea8-9a43-171aebdea8ef">
+            <name>Goetzke, Bernhard</name>
+            <id type="gnd">116745169</id>
+            <roleActor>
+                <role type="Rolle">Söldner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5cf5927b-e6e9-4eda-b592-7be6e98eda32">
+            <name>Kühne, Alfred</name>
+            <id type="gnd">1017546266</id>
+            <roleActor>
+                <role type="Rolle">Gutsbesitzer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9ccade09-f133-4107-8ade-09f133a10785">
+            <name>Mewes, Ernst</name>
+            <id type="gnd">116961791</id>
+            <roleActor>
+                <role type="Rolle">Landstreicher/Schauspieler</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b1900cd5-d06c-4120-900c-d5d06c41209f">
+            <name>Sabo, Oscar</name>
+            <id type="gnd">116713569</id>
+            <roleActor>
+                <role type="Rolle">Battista</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0f9193ae-16d0-459c-9193-ae16d0f59c1a">
+            <name>Sauermann, Carl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Oberrichter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d657f4f4-7cbb-4e26-97f4-f47cbb3e2678">
+            <name>Sachs, Julius</name>
+            <id type="gnd">116739509</id>
+            <roleActor>
+                <role type="Rolle">Prokurator</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e9261bd3-0641-4738-a61b-d30641f73874">
+            <name>Leopold, Richard</name>
+            <id type="gnd">116942584</id>
+            <roleActor>
+                <role type="Rolle">Verteidiger/Kunstreiter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="dabf032c-0d81-473c-bf03-2c0d81873c51">
+            <name>Herzfeld, Guido</name>
+            <id type="gnd">1118913981</id>
+            <roleActor>
+                <role type="Rolle">Gerichtsaktuar/2. Theaterbesitzer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a7d3b61d-9474-40f3-93b6-1d947410f37a">
+            <name>Dill, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">1. Theaterbesitzer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="41184669-37d7-4b72-9846-6937d7fb72c2">
+            <name>Wohlgemuth, Rosa</name>
+            <id type="gnd">1061649911</id>
+            <roleActor>
+                <role type="Rolle">Rosa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="221c111a-4cd6-4fba-9c11-1a4cd68fba03">
+            <name>Berger, Grete</name>
+            <id type="gnd">116131519</id>
+            <roleActor>
+                <role type="Rolle">Edelknabe</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5b1de11d-a34b-42b5-9de1-1da34b12b5f7">
+            <name>Conradi, Paul</name>
+            <id type="gnd">1097218341</id>
+            <roleActor>
+                <role type="Rolle">Andrea Valori</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="12fe17b5-5b4d-4a61-be17-b55b4d0a61e0">
+            <name>Joachim, Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Buckliger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="290e5359-9542-42ec-8e53-599542f2ecd6">
+            <name>Großmann, Richard</name>
+            <id type="gnd">116873299</id>
+            <roleActor>
+                <role type="Rolle">Noe</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000235" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "So ist das Leben" in Berlin 1903</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

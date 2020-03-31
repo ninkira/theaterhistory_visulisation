@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="548349b7-c9ae-4458-8349-b7c9ae3458ec" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Doña Rosita la soltera o el lenguaje de las flores+07.02.1951+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Doña Rosita la soltera o el lenguaje de las flores</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Doña Rosita bleibt ledig (oder "Die Sprache der Blumen")</title>
+            <listObject>
+                <object id="TWS_OBJ0000075"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Essen</placeName>
+            <place type="Institution">
+                <placeName>Bühnen der Stadt</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000075"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>07.02.1951</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000075"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Neffe</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2bd23a22-3080-4cd4-923a-2230808cd43a">
+            <name>Asendorf, Charlotte</name>
+            <id type="gnd">1061552543</id>
+            <roleActor>
+                <role type="Rolle">1. alte Jungfer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="553f877d-e4ab-4203-bf87-7de4ab920355">
+            <name>Bauer, Karl</name>
+            <id type="gnd">116085347</id>
+            <roleActor>
+                <role>Intendant_in</role>
+            </roleActor>
+        </actor>
+        <actor id="ca0445ab-d8da-4958-8445-abd8da595807">
+            <name>Beck, Enrique</name>
+            <id type="gnd">119130831</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="c320c20b-8bbc-4ab4-a0c2-0b8bbc4ab402">
+            <name>Bieler, Margot</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">1. Manola</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="978cd288-c915-425d-8cd2-88c915825d87">
+            <name>Bollmann, Horst</name>
+            <id type="gnd">116236639</id>
+            <roleActor>
+                <role type="Rolle">2. Arbeiter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a9c25889-6e40-483d-8258-896e40083d9c">
+            <name>Clairmont, Berni</name>
+            <id type="gnd">136682170</id>
+            <roleActor>
+                <role type="Rolle">Tante</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b0ec4754-6d2d-49db-ac47-546d2d99dbe4">
+            <name>Clausen, Claus</name>
+            <id type="gnd">116540028</id>
+            <roleActor>
+                <role type="Rolle">Don Martin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="108eb185-d724-4b89-8eb1-85d7246b89f5">
+            <name>Die Bühnen der Stadt Essen</name>
+            <id type="gnd">4204085-1</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="c870c43c-0872-4950-b0c4-3c087289501e">
+            <name>Forbach, Moje</name>
+            <id type="gnd">116648538</id>
+            <roleActor>
+                <role type="Rolle">Haushälterin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5812a14c-7cef-457d-92a1-4c7cefe57d50">
+            <name>García Lorca, Federico</name>
+            <id type="gnd">118537598</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="a2b154d3-e811-4bc8-b154-d3e8118bc8fc">
+            <name>Jockenhöfer, Hedwig</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">2. Manola</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e4302f37-7787-4251-b02f-37778792512d">
+            <name>Kaiser, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Onkel</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="334e14ee-6115-4d52-8e14-ee6115ad5299">
+            <name>Kloft, Wilhelmine</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mutter der alten Jungfern</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0d0fd6f0-c357-499a-8fd6-f0c357599af5">
+            <name>Kohl, Marianne</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">2. alte Jungfer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="57c80a2b-cdbb-4657-880a-2bcdbbc65762">
+            <name>Lick, Karlheinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="73faddcc-0d7b-42cb-badd-cc0d7b82cb2b">
+            <name>Lothar, Mark</name>
+            <id type="gnd">118729179</id>
+            <roleActor>
+                <role>Musik</role>
+            </roleActor>
+        </actor>
+        <actor id="a6e5be48-90b3-4d6e-a5be-4890b37d6e4c">
+            <name>Lübke, Lucian</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">1. Arbeiter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="faba7182-2d43-479b-ba71-822d43179b0f">
+            <name>Martell, Karl-Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Jüngling</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="96077e99-2251-4b52-877e-992251cb521c">
+            <name>Naumann, Harry</name>
+            <id type="gnd">105974145</id>
+            <roleActor>
+                <role type="Rolle">Herr X, Professor der Volkswirtschaft</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5fd66472-e63d-4865-9664-72e63dc8652e">
+            <name>Ortmann, Friedhelm</name>
+            <id type="gnd">117149489</id>
+            <roleActor>
+                <role>Regieassistent_in</role>
+            </roleActor>
+        </actor>
+        <actor id="8ad33094-9356-48db-9330-94935688dbfe">
+            <name>Quilling, Liselotte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Die Fräulein Ayola</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="66f724ff-f6b6-4fd0-b724-fff6b67fd00f">
+            <name>Rehnert, Peter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Stimme des Ausrufers</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="46088f68-de7a-4403-888f-68de7a340360">
+            <name>Reiß, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="90804c7d-39b2-461b-804c-7d39b2661bcb">
+            <name>Schrader, Sigrid</name>
+            <id type="gnd">1095913859</id>
+            <roleActor>
+                <role type="Rolle">3. alte Jungfer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="31a8a98d-ec12-42c2-a8a9-8dec1202c2f0">
+            <name>Todemann, Helga</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">3. Manola</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ea325aa4-1852-4b33-b25a-a418527b33ad">
+            <name>Valenta, Lucy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Doña Rosita</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7788fd00-19e4-4f41-88fd-0019e42f4108">
+            <name>Wehner, Anne</name>
+            <id type="gnd">1061448339 oder 138524785</id>
+            <roleActor>
+                <role type="Rolle">Die Fräulein Ayola</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8527252c-d182-4a9c-a725-2cd1820a9cb5">
+            <name>Knauer, Hans-Jürgen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000075" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Programmzettel zu Doña Rosita bleibt ledig in Essen 1951</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

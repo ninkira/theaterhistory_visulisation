@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="e83ff8a2-8c61-4e58-bff8-a28c613e5898" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Oedipus tyrannus+18.09.1952+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Oedipus tyrannus</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>König Ödipus</title>
+            <listObject>
+                <object id="TWS_OBJ0000265"/>
+                <object id="TWS_OBJ0000256"/>
+                <object id="TWS_OBJ0000104"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Hessisches Landestheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000265"/>
+                    <object id="TWS_OBJ0000256"/>
+                </listObject>
+            </place>
+            <place type="Institution">
+                <placeName>Orangeriehaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000104"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>18.09.1952</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000265"/>
+                    <object id="TWS_OBJ0000256"/>
+                    <object id="TWS_OBJ0000104"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Die Ödipus-Inszenierung wurde nach der neuen Übersetzung von Wolfgang Schadewaldt gespielt.</text>
+            <object id="TWS_OBJ0000265"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="3c3e40f8-a047-4e4a-be40-f8a047ce4a28">
+            <name>Sophokles</name>
+            <id type="gnd">118615688</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e949e404-4e9e-4f7e-89e4-044e9e9f7e79">
+            <name>Landestheater Darmstadt</name>
+            <id type="gnd">2002342-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="87b81bf0-991c-4656-b81b-f0991cd65607">
+            <name>Wischnewski, Siegfried</name>
+            <id type="gnd">138597472</id>
+            <roleActor>
+                <role type="Rolle">Teiresias; Hirte; Priester; Kreon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="98534f40-a578-4d23-934f-40a5783d2397">
+            <name>Schadewaldt, Wolfgang</name>
+            <id type="gnd">118748173</id>
+            <roleActor>
+                <role>Übersetzer</role>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="b5d7f670-1a25-40ee-97f6-701a2510ee85">
+            <name>Hofer, Claus</name>
+            <id type="gnd">1061490157</id>
+            <roleActor>
+                <role type="Rolle">Diener; Mann aus Korinth</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1c178e5-9f55-4cc0-8178-e59f551cc060">
+            <name>Noack, Max</name>
+            <id type="gnd">1031177310</id>
+            <roleActor>
+                <role type="Rolle">Ödipus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6d582cc5-ff88-4e30-982c-c5ff885e3048">
+            <name>Daub, Ellen</name>
+            <id type="gnd">1111058067</id>
+            <roleActor>
+                <role type="Rolle">Jokaste</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="67cc73d7-96c9-42f4-8c73-d796c972f4fc">
+            <name>Sophocles</name>
+            <id type="gnd">118615688</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="44828d95-5cb7-41fa-828d-955cb771fa99">
+            <name>Noaks, Max</name>
+            <id type="gnd">1031177310</id>
+            <roleActor>
+                <role type="Rolle">Ödipus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="39169fad-3803-410b-969f-ad3803310b68">
+            <name>Böhm, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="779ebebd-5b46-4448-9ebe-bd5b468448e1">
+            <name>Daub, Ellen a. G.</name>
+            <id type="gnd">1111058067</id>
+            <roleActor>
+                <role type="Rolle">Iokaste, die Frau des Ödipus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="02afd576-6d1b-4971-afd5-766d1b29710f">
+            <name>Fries, Herbert</name>
+            <id type="gnd">1050052854</id>
+            <roleActor>
+                <role>Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="5b168f52-f53d-43de-968f-52f53dc3dea3">
+            <name>Gensichen, Kunibert</name>
+            <id type="gnd">1062373189</id>
+            <roleActor>
+                <role type="Rolle">Der erste Ratsherr als Führer des Chors</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="b987bc5d-b0e2-49ad-87bc-5db0e239adc9">
+            <name>Lübbert, Martin</name>
+            <id type="gnd">1061327752</id>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="41c1242a-596d-4512-8124-2a596db5127c">
+            <name>Saussen, Edmund</name>
+            <id type="gnd">1061370453</id>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="96d8d90f-af4b-45b2-98d9-0faf4b65b27b">
+            <name>Strack, Günter</name>
+            <id type="gnd">119293544</id>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2aa027fc-159c-4758-a027-fc159ce758a1">
+            <name>Streck, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5caecbeb-9438-4976-aecb-eb9438f976c1">
+            <name>Weicker, Hans</name>
+            <id type="gnd">1055072586</id>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4cfae690-c3bf-4e67-bae6-90c3bf4e67c3">
+            <name>Wien, Herbert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Chor</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="3">
+        <object id="TWS_OBJ0000265" type="Modell: Bühnenbildmodell" aat="300007122">
+            <title>Bühnenbildmodell zu "König Ödipus" in Darmstadt 1952</title>
+        </object>
+        <object id="TWS_OBJ0000256" type="Modell: Bühnenbildmodell" aat="300007122">
+            <title>Bühnenbildmodell zu "König Ödipus" in Darmstadt 1952</title>
+        </object>
+        <object id="TWS_OBJ0000104" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "König Ödipus" in Darmstadt 1952</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

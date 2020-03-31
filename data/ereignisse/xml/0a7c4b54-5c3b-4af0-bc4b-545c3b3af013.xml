@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="0a7c4b54-5c3b-4af0-bc4b-545c3b3af013" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Romeo and Juliet+29.01.1907+Reinhardt, Max</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Romeo and Juliet</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Romeo und Julia</title>
+            <listObject>
+                <object id="TWS_OBJ0000584"/>
+                <object id="TWS_OBJ0000186"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000584"/>
+                    <object id="TWS_OBJ0000186"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>29.01.1907</premier>
+            <time from="1906" to="27.12.1907">
+                <listObject>
+                    <object id="TWS_OBJ0000584"/>
+                </listObject>
+            </time>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000186"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>"Zum ersten Male"</text>
+            <object id="TWS_OBJ0000186"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Julia´s Amme</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d7f90c88-e9a4-4d7a-b90c-88e9a42d7ae0">
+            <name>Walser, Karl</name>
+            <id type="gnd">118764152</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5ced7cfe-2eea-468e-ad7c-fe2eea668ec2">
+            <name>Arnold, Victor</name>
+            <id type="gnd">1050400186</id>
+            <roleActor>
+                <role type="Rolle">Ein Apotheker</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bb792b16-3044-4088-b92b-163044f088a1">
+            <name>Bermann, Friedrich</name>
+            <id type="gnd">116136383</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="8c7e9bfe-2100-4eff-be9b-fe2100beff7d">
+            <name>Biensfeldt, Paul</name>
+            <id type="gnd">116165685</id>
+            <roleActor>
+                <role type="Rolle">Simson</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9935639c-891c-4618-b563-9c891ce618cf">
+            <name>Deutsches Theater</name>
+            <id type="gnd">4058252-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Gräfin Capulet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1b37abd1-0226-4d91-b7ab-d102263d912b">
+            <name>Hartau, Ludwig</name>
+            <id type="gnd">11649008X</id>
+            <roleActor>
+                <role type="Rolle">Escalus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6c0c0d17-3c58-4793-8c0d-173c58a793fa">
+            <name>Henrich, George</name>
+            <id type="gnd">118690507</id>
+            <roleActor>
+                <role type="Rolle">Graf Paris</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="645e5999-ac66-473e-9e59-99ac66a73ede">
+            <name>Steinrück, Albert</name>
+            <id type="gnd">117263923</id>
+            <roleActor>
+                <role type="Rolle">Montague</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="df769abd-39c8-4f17-b69a-bd39c84f1760">
+            <name>Schildkraut, Rudolf</name>
+            <id type="gnd">117265861</id>
+            <roleActor>
+                <role type="Rolle">Capulet</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="bd135b2e-b813-4135-935b-2eb81391354c">
+            <name>Moissi, Alexander</name>
+            <id type="gnd">118583271</id>
+            <roleActor>
+                <role type="Rolle">Romeo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cbc6029d-f567-4deb-8602-9df5679deb2b">
+            <name>Wegener, Paul</name>
+            <id type="gnd">118765981</id>
+            <roleActor>
+                <role type="Rolle">Mercutio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ba0ef498-4b10-4271-8ef4-984b105271cd">
+            <name>Traeger, Hermann</name>
+            <id type="gnd">117421685</id>
+            <roleActor>
+                <role type="Rolle">Benvolio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5d20605a-3933-4de0-a060-5a39335de04e">
+            <name>Winterstein, Eduard von</name>
+            <id type="gnd">118633864</id>
+            <roleActor>
+                <role type="Rolle">Tybalt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2133df74-49a5-4204-b3df-7449a5c20412">
+            <name>Tiedtke, Jakob Karl</name>
+            <id type="gnd">117377066</id>
+            <roleActor>
+                <role type="Rolle">Ein alter Mann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ecc49639-d53a-4c7c-8496-39d53abc7c7e">
+            <name>Pagay, Hans</name>
+            <id type="gnd">116015454</id>
+            <roleActor>
+                <role type="Rolle">Bruder Lorenzo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3d7729fa-395b-484e-b729-fa395b484e87">
+            <name>Techel, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bruder Marcus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e309110c-5679-41be-8911-0c567941be88">
+            <name>Kupfer, Else</name>
+            <id type="gnd">1060806584</id>
+            <roleActor>
+                <role type="Rolle">Balthasar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0da3aa15-2ae0-44df-a3aa-152ae014df7f">
+            <name>Grossmann, Richard</name>
+            <id type="gnd">116873299</id>
+            <roleActor>
+                <role type="Rolle">Gregorio</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e9261bd3-0641-4738-a61b-d30641f73874">
+            <name>Leopold, Richard</name>
+            <id type="gnd">116942584</id>
+            <roleActor>
+                <role type="Rolle">Abraham</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d37ee122-d523-4e77-bee1-22d5231e77fc">
+            <name>Wassmann, Hans</name>
+            <id type="gnd">117149853</id>
+            <roleActor>
+                <role type="Rolle">Peter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3bea46a9-712c-4df2-aa46-a9712cedf252">
+            <name>Korn, Gertrud</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Gräfin Montague</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="09640101-4cd7-4896-a401-014cd748967e">
+            <name>Eibenschütz, Camilla</name>
+            <id type="gnd">1025493117</id>
+            <roleActor>
+                <role type="Rolle">Julia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1b1ea67-d2f3-4d48-b1ea-67d2f38d4897">
+            <name>Lorm, Sidonie</name>
+            <id type="gnd">1062292707</id>
+            <roleActor>
+                <role type="Rolle">Page des Paris</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000584" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Postkarte mit Fotografie von Hedwig Wangel als Julias Amme in "Romeo und Julia"</title>
+        </object>
+        <object id="TWS_OBJ0000186" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Romeo und Julia" in Berlin 1907</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

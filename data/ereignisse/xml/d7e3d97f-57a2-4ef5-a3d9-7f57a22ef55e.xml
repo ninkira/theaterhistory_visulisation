@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="d7e3d97f-57a2-4ef5-a3d9-7f57a22ef55e" type="Performance">
+    <groupingArgument actorID="d1a8aec7-db13-46b6-a8ae-c7db1356b69c">liebe Augustin, Der++Christians, Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>liebe Augustin, Der</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>liebe Augustin, Der</title>
+            <listObject>
+                <object id="IFT_KON_HL000002"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>New York</placeName>
+            <place type="Institution">
+                <placeName>Irving Place Theatre</placeName>
+                <listObject>
+                    <object id="IFT_KON_HL000002"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="16.11.1916" to="">
+                <listObject>
+                    <object id="IFT_KON_HL000002"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Operetteninszenierung des Irving Place Theatre New York</text>
+            <object id="IFT_KON_HL000002"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="8b8172cd-9942-4ccc-8172-cd99429ccc16">
+            <name>Arndt, Flora</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fähnrich Pips</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="95fba391-f632-4a23-bba3-91f632fa2330">
+            <name>Bernauer, Rudolf</name>
+            <id type="gnd">118656295</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="26a1b47a-b716-4ee0-a1b4-7ab7166ee020">
+            <name>Boeber, Walter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Offizier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d1a8aec7-db13-46b6-a8ae-c7db1356b69c">
+            <name>Christians, Rudolf</name>
+            <id type="gnd">116509457</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Theaterleiter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="f2d3fac8-01cb-4717-93fa-c801cb07179b">
+            <name>Falk, Heinrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Diener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="78cbd153-4adf-491c-8bd1-534adf291c11">
+            <name>Fall, Leo</name>
+            <id type="gnd">116396717</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ea6bbe64-2672-478e-abbe-642672378ef8">
+            <name>Herold, Käthe</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Prinzessin Helene</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="466383d6-17c7-4e74-a383-d617c7ae7440">
+            <name>Irving Place Theatre</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="5b3d696d-7877-476d-bd69-6d7877176dc1">
+            <name>Keller, Eugen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Offizier</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eb4775d6-ed52-40a5-8775-d6ed5270a5e7">
+            <name>Kepler, Eduard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ministerpräsident Gjuro</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ce550677-d32f-4244-9506-77d32fe24421">
+            <name>Lingen, Heinz</name>
+            <id type="gnd">106194171X</id>
+            <roleActor>
+                <role type="Rolle">Fürst Nicolics</role>
+                <role>Darsteller_in der Inszenierung</role>
+                <role>Choreograph_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="d96ee669-f092-4fbd-aee6-69f0924fbde3">
+            <name>Meyer, Otto</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Klosterpförtner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e16047ad-47ac-4b94-a047-ad47accb94d0">
+            <name>Robert, Ernst</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kammerdiener Jasomirgott</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4691cd3d-2810-484e-91cd-3d2810784e46">
+            <name>Schlegel, Bruno</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bogumil, Regent von Thessalien</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cfaf2524-2d96-4448-af25-242d969448ae">
+            <name>Széscy, Magda</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Anna</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4f059be4-7546-41e2-859b-e4754611e2c8">
+            <name>Unterkircher, Hans</name>
+            <id type="gnd">1027133088</id>
+            <roleActor>
+                <role type="Rolle">Augustin Hofer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2cd7cc71-339a-4c30-97cc-71339a5c3054">
+            <name>Welisch, Ernst</name>
+            <id type="gnd">117343536</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_KON_HL000002" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Kritikenkonvolut zu "Der liebe Augustin" in New York 1916</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

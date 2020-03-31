@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="bee5af39-23fa-4dc8-a5af-3923fa0dc8b0" type="Performance">
+    <groupingArgument actorID="620a506e-8171-43e9-8a50-6e817193e9f4">Egmont++Saladin Schmitt</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Egmont</title>
+            <listObject>
+                <object id="TWS_OBJ0000296"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Bochum/Duisburg</placeName>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000296"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000296"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="620a506e-8171-43e9-8a50-6e817193e9f4">
+            <name>Saladin Schmitt</name>
+            <id type="gnd">118759876</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="1c03f344-eff3-42b7-83f3-44eff372b7ae">
+            <name>Goethe, Johann Wolfgang von</name>
+            <id type="gnd">118540238</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000296" type="Modell: Bühnenbildmodell" aat="300007122">
+            <title>Bühnenbildmodell zu "EGmont" in Bochum/Duisburg 1918/29 19</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

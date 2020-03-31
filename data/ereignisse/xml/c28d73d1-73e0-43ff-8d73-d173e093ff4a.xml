@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="c28d73d1-73e0-43ff-8d73-d173e093ff4a" type="Performance">
+    <groupingArgument actorID="09ac2852-5961-4681-ac28-525961b68181">Königin von Saba, Die++Islaub, Hans</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Königin von Saba, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000510"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Köln</placeName>
+            <place type="Institution">
+                <placeName>Opernhaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000510"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="18.04.1912" to="18.04.1912">
+                <listObject>
+                    <object id="TWS_OBJ0000510"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="7d179fd3-c734-4201-979f-d3c73412016f">
+            <name>Burkhardt, Sofie</name>
+            <id type="gnd">1016002416</id>
+            <roleActor>
+                <role type="Rolle">Astaroth, König Sabas Sklavin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7a088459-21ed-4048-8884-5921edc04801">
+            <name>Bühnen der Stadt Köln. Oper Köln</name>
+            <id type="gnd">2057209-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="db9fd794-dba2-4215-9fd7-94dba252159f">
+            <name>Dimano, Adolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Assad</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="37c0042c-343f-4642-8004-2c343f9642bd">
+            <name>Fröhlich-Förster, Hermine</name>
+            <id type="gnd">116830573</id>
+            <roleActor>
+                <role type="Rolle">Sulamith, König Salomons Tochter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5bb969b1-8b82-430d-b969-b18b82930d69">
+            <name>Giesen, Karl</name>
+            <id type="gnd">132441187</id>
+            <roleActor>
+                <role type="Rolle">Der Hohepriester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8ca981e9-30eb-41ea-a981-e930eb11ea01">
+            <name>Goldmark, Karl</name>
+            <id type="gnd">119527995</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="8833ae56-176a-4a54-b3ae-56176aca5480">
+            <name>Guszalewicz, Alice</name>
+            <id type="gnd">119237970</id>
+            <roleActor>
+                <role type="Rolle">Die Königin von Saba</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e1bf2427-3d98-488f-bf24-273d98788ff8">
+            <name>Hemsing, Jan</name>
+            <id type="gnd">1022335669</id>
+            <roleActor>
+                <role type="Rolle">Baal-Hanan, Palast-Aufseher</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="09ac2852-5961-4681-ac28-525961b68181">
+            <name>Islaub, Hans</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ed8603ac-ded6-4563-8603-acded6d563b9">
+            <name>Liszewsky, Tillmann</name>
+            <id type="gnd">134868706</id>
+            <roleActor>
+                <role type="Rolle">König Salomon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="08ba6fa7-5da9-4c2c-ba6f-a75da91c2cad">
+            <name>Mosenthal</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="9ecf1d96-bb47-4f67-8f1d-96bb479f6727">
+            <name>Rawson, Tristan</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein Tempelwächter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="66e0c32c-cc16-43d9-a0c3-2ccc1623d9a1">
+            <name>Robertine, Fernande</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Balletmeister_in</role>
+            </roleActor>
+        </actor>
+        <actor id="43e630f1-c9c9-48de-a630-f1c9c948deb7">
+            <name>Weissleder, Franz</name>
+            <id type="gnd">117302457</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000510" type="Publikation: Programmheft" aat="300027217">
+            <title>Besetzungszettel von Die Königin von Saba, Köln 1912</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ad84221d-f3a9-46b5-8422-1df3a906b545" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Stedinger, Die+16.09.1934+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Stedinger, Die</title>
+            <listObject>
+                <object id="TWS_OBJ0000072"/>
+                <object id="TWS_OBJ0000071"/>
+                <object id="TWS_OBJ0000070"/>
+                <object id="TWS_OBJ0000069"/>
+                <object id="TWS_OBJ0000068"/>
+                <object id="TWS_OBJ0000067"/>
+                <object id="TWS_OBJ0000066"/>
+                <object id="TWS_OBJ0000065"/>
+                <object id="TWS_OBJ0000064"/>
+                <object id="TWS_OBJ0000063"/>
+                <object id="TWS_OBJ0000062"/>
+                <object id="TWS_OBJ0000061"/>
+                <object id="TWS_OBJ0000060"/>
+                <object id="TWS_OBJ0000059"/>
+                <object id="TWS_OBJ0000058"/>
+                <object id="TWS_OBJ0000057"/>
+                <object id="TWS_OBJ0000056"/>
+                <object id="TWS_OBJ0000055"/>
+                <object id="TWS_OBJ0000054"/>
+                <object id="TWS_OBJ0000053"/>
+                <object id="TWS_OBJ0000052"/>
+                <object id="TWS_OBJ0000051"/>
+                <object id="TWS_OBJ0000050"/>
+                <object id="TWS_OBJ0000049"/>
+                <object id="TWS_OBJ0000048"/>
+                <object id="TWS_OBJ0000047"/>
+                <object id="TWS_OBJ0000046"/>
+                <object id="TWS_OBJ0000045"/>
+                <object id="TWS_OBJ0000044"/>
+                <object id="TWS_OBJ0000043"/>
+                <object id="TWS_OBJ0000042"/>
+                <object id="TWS_OBJ0000041"/>
+                <object id="TWS_OBJ0000040"/>
+                <object id="TWS_OBJ0000039"/>
+                <object id="TWS_OBJ0000038"/>
+                <object id="TWS_OBJ0000037"/>
+                <object id="TWS_KON0000011"/>
+                <object id="TWS_KON0000010"/>
+                <object id="TWS_KON0000009"/>
+                <object id="TWS_KON0000008"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Oldenburg</placeName>
+            <place type="Institution">
+                <placeName>Kultstätte Bookholzberg</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000072"/>
+                    <object id="TWS_OBJ0000071"/>
+                    <object id="TWS_OBJ0000070"/>
+                    <object id="TWS_OBJ0000069"/>
+                    <object id="TWS_OBJ0000068"/>
+                    <object id="TWS_OBJ0000067"/>
+                    <object id="TWS_OBJ0000066"/>
+                    <object id="TWS_OBJ0000065"/>
+                    <object id="TWS_OBJ0000064"/>
+                    <object id="TWS_OBJ0000063"/>
+                    <object id="TWS_OBJ0000062"/>
+                    <object id="TWS_OBJ0000061"/>
+                    <object id="TWS_OBJ0000060"/>
+                    <object id="TWS_OBJ0000059"/>
+                    <object id="TWS_OBJ0000058"/>
+                    <object id="TWS_OBJ0000057"/>
+                    <object id="TWS_OBJ0000056"/>
+                    <object id="TWS_OBJ0000055"/>
+                    <object id="TWS_OBJ0000054"/>
+                    <object id="TWS_OBJ0000053"/>
+                    <object id="TWS_OBJ0000052"/>
+                    <object id="TWS_OBJ0000051"/>
+                    <object id="TWS_OBJ0000050"/>
+                    <object id="TWS_OBJ0000049"/>
+                    <object id="TWS_OBJ0000048"/>
+                    <object id="TWS_OBJ0000047"/>
+                    <object id="TWS_OBJ0000046"/>
+                    <object id="TWS_OBJ0000045"/>
+                    <object id="TWS_OBJ0000044"/>
+                    <object id="TWS_OBJ0000043"/>
+                    <object id="TWS_OBJ0000042"/>
+                    <object id="TWS_OBJ0000041"/>
+                    <object id="TWS_OBJ0000040"/>
+                    <object id="TWS_OBJ0000039"/>
+                    <object id="TWS_OBJ0000038"/>
+                    <object id="TWS_OBJ0000037"/>
+                    <object id="TWS_KON0000011"/>
+                    <object id="TWS_KON0000010"/>
+                    <object id="TWS_KON0000009"/>
+                    <object id="TWS_KON0000008"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>16.09.1934</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000072"/>
+                    <object id="TWS_OBJ0000071"/>
+                    <object id="TWS_OBJ0000070"/>
+                    <object id="TWS_OBJ0000069"/>
+                    <object id="TWS_OBJ0000068"/>
+                    <object id="TWS_OBJ0000067"/>
+                    <object id="TWS_OBJ0000066"/>
+                    <object id="TWS_OBJ0000065"/>
+                    <object id="TWS_OBJ0000064"/>
+                    <object id="TWS_OBJ0000063"/>
+                    <object id="TWS_OBJ0000062"/>
+                    <object id="TWS_OBJ0000061"/>
+                    <object id="TWS_OBJ0000060"/>
+                    <object id="TWS_OBJ0000059"/>
+                    <object id="TWS_OBJ0000058"/>
+                    <object id="TWS_OBJ0000057"/>
+                    <object id="TWS_OBJ0000056"/>
+                    <object id="TWS_OBJ0000055"/>
+                    <object id="TWS_OBJ0000054"/>
+                    <object id="TWS_OBJ0000053"/>
+                    <object id="TWS_OBJ0000052"/>
+                    <object id="TWS_OBJ0000051"/>
+                    <object id="TWS_OBJ0000050"/>
+                    <object id="TWS_OBJ0000049"/>
+                    <object id="TWS_OBJ0000048"/>
+                    <object id="TWS_OBJ0000047"/>
+                    <object id="TWS_OBJ0000046"/>
+                    <object id="TWS_OBJ0000045"/>
+                    <object id="TWS_OBJ0000044"/>
+                    <object id="TWS_OBJ0000043"/>
+                    <object id="TWS_OBJ0000042"/>
+                    <object id="TWS_OBJ0000041"/>
+                    <object id="TWS_OBJ0000040"/>
+                    <object id="TWS_OBJ0000039"/>
+                    <object id="TWS_OBJ0000038"/>
+                    <object id="TWS_OBJ0000037"/>
+                    <object id="TWS_KON0000011"/>
+                    <object id="TWS_KON0000010"/>
+                    <object id="TWS_KON0000009"/>
+                    <object id="TWS_KON0000008"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Freilichttheateraufführung</text>
+            <object id="TWS_OBJ0000072"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="a14d0736-5d39-4947-8d07-365d39694742">
+            <name>Hinrichs, August</name>
+            <id type="gnd">118551302</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="40">
+        <object id="TWS_OBJ0000072" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000071" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000070" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000069" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000068" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000067" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000066" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000065" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000064" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000063" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000062" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000061" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000060" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000059" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000058" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000057" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000056" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000055" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000054" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000053" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000052" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000051" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000050" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000049" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000048" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000047" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000046" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000045" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000044" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000043" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000042" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000041" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000040" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000039" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000038" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_OBJ0000037" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfoto "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_KON0000011" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfotos "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_KON0000010" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfotos "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_KON0000009" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfotos "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+        <object id="TWS_KON0000008" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Inszenierungsfotos "Die Stedinger" in Oldenburg 1934</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="c9ec613d-ee31-4ebf-ac61-3dee317ebfd4" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Käthchen von Heilbronn, Das+19.10.1905+Reinhardt, Max</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Käthchen von Heilbronn, Das</title>
+            <listObject>
+                <object id="TWS_OBJ0000169"/>
+                <object id="TWS_OBJ0000168"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Theater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000169"/>
+                    <object id="TWS_OBJ0000168"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>19.10.1905</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000169"/>
+                    <object id="TWS_OBJ0000168"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>alternativer Titel: Die Feuerprobe</text>
+            <object id="TWS_OBJ0000169"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="4860fdb9-c08d-4d3b-a0fd-b9c08d5d3b6b">
+            <name>Durieux, Tilla</name>
+            <id type="gnd">118528262</id>
+            <roleActor>
+                <role type="Rolle">Kunigunde von Thurneck</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="94b14064-7388-4c18-b140-647388cc1887">
+            <name>Deutsches Theater Berlin</name>
+            <id type="gnd">4058252-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="d7f90c88-e9a4-4d7a-b90c-88e9a42d7ae0">
+            <name>Walser, Karl</name>
+            <id type="gnd">118764152</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="adee930c-86da-4a6e-ae93-0c86da2a6e63">
+            <name>Kleist, Heinrich von</name>
+            <id type="gnd">118563076</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000169" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Das Käthchen von Heilbronn" in Berlin 1905</title>
+        </object>
+        <object id="TWS_OBJ0000168" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Postkarte zu "Das Käthchen von Heilbronn" in Berlin 1905</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

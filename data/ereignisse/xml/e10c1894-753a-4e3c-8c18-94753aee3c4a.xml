@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="e10c1894-753a-4e3c-8c18-94753aee3c4a" type="Performance">
+    <groupingArgument actorID="a9773245-4985-4db1-b732-4549857db158">Verschwörung des Fiesco zu Genua, Die++Pötter, Eduard</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Verschwörung des Fiesco zu Genua, Die</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Verschwörung des Fiesco zu Genua, Die</title>
+            <listObject>
+                <object id="IFT_OBJ_RT000055"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Bern</placeName>
+            <place type="Institution">
+                <placeName>Stadttheater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_RT000055"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="18.01.1908" to="18.01.1908">
+                <listObject>
+                    <object id="IFT_OBJ_RT000055"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Stadttheaters Bern, 137. Aufführung, Debüt von Johanna Bilger</text>
+            <object id="IFT_OBJ_RT000055"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="fc134671-aee7-4af4-9346-71aee7eaf4fc">
+            <name>Adolfi, Franz</name>
+            <id type="gnd">103862757</id>
+            <roleActor>
+                <role type="Rolle">Asserato</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3033ecf2-b3f5-4f7c-b3ec-f2b3f55f7c28">
+            <name>Brückner, Max</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zibo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f6e7754f-58b0-41e9-a775-4f58b001e9d8">
+            <name>Demuth, Adolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Calcagno</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="454cc858-0786-46d2-8cc8-580786e6d21a">
+            <name>Finke, Beate</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bertha, Verrinas Tochter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5cf9e928-4205-4676-b9e9-284205b676e8">
+            <name>Frank, Ludwig</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Andreas Doria, Doge von Genua</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="146cddc6-6aed-417d-acdd-c66aed417d5f">
+            <name>Hedda, Gertrud</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Arabella</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5a726dc3-49b7-4ab6-b26d-c349b78ab669">
+            <name>Kauer, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Muley Hassan</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b9cc1561-848f-49bd-8c15-61848fd9bd08">
+            <name>Klitzsch, Walter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Deutscher der herzoglichen Leibwache</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fce901e2-410f-4e5e-a901-e2410f5e5e93">
+            <name>Kusterer, Carl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lomellino</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e5d1aaf3-35a8-4029-91aa-f335a89029d0">
+            <name>Moscow, Rudolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Wache</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f66da60c-41fe-4c03-ada6-0c41febc0397">
+            <name>Petsch, Willy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Dritter aufrührerischer Bürger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0ac1e657-7cf6-490f-81e6-577cf6a90f2c">
+            <name>Prötz, Carl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Bourgognino</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a9773245-4985-4db1-b732-4549857db158">
+            <name>Pötter, Eduard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Fiesco</role>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5f7eadd9-012e-43ab-bead-d9012e33abd5">
+            <name>Ravenau, Ida</name>
+            <id type="gnd">1015751024</id>
+            <roleActor>
+                <role type="Rolle">Julia, Gräfin, Witwe Imperiali</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="236fbf6f-8adc-4821-afbf-6f8adc182114">
+            <name>Rittmann, Carl</name>
+            <id type="gnd">116573813</id>
+            <roleActor>
+                <role type="Rolle">Verrina</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="393c8887-4d49-4f35-bc88-874d49af350e">
+            <name>Röhrs, Hildegard</name>
+            <id type="gnd">1061445194</id>
+            <roleActor>
+                <role type="Rolle">Rosa</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="32fb83c4-c9cb-42b1-bb83-c4c9cbb2b1e8">
+            <name>Scasa, August</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Erster aufrührerischer Bürger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="76306200-f74e-4a3e-b062-00f74e1a3e31">
+            <name>Schiller, Friedrich von</name>
+            <id type="gnd">118607626</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0f7365d8-43b7-4598-b365-d843b7d5988d">
+            <name>Schmidt, Carl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Gianettino Doria</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fe42a15d-3e18-4fa2-82a1-5d3e188fa2a7">
+            <name>Stadttheater Bern</name>
+            <id type="gnd">3002129-7</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="7d0c9afe-70fd-4a7d-8c9a-fe70fd4a7db2">
+            <name>Taube, Johanna</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Leonore, Fiescos Gemahlin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="74fbbcb0-fa41-4d79-bbbc-b0fa413d793b">
+            <name>Wahle, Carl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zenturione</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="881d945c-5668-4279-9d94-5c566832799c">
+            <name>Wendeborn, Erich</name>
+            <id type="gnd">1019174064</id>
+            <roleActor>
+                <role type="Rolle">Romano</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4754c38f-3123-4173-94c3-8f3123c1738c">
+            <name>Wilhelmy, Willy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Sacco</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="50ea4f37-6ac3-4c1e-aa4f-376ac3dc1e8f">
+            <name>Willert, Friedrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Zweiter aufrührerischer Bürger</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_RT000055" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Die Verschwörung des Fiesco zu Genua" in Bern 1908</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

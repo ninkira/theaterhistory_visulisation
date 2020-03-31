@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="0becfc65-06f1-4927-acfc-6506f1b92714" type="Performance">
+    <groupingArgument actorID="">Dir wie mir (oder: Dem Herrn ein Glas Wasser)+08.11.1899+</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Dir wie mir (oder: Dem Herrn ein Glas Wasser)</title>
+            <listObject>
+                <object id="TWS_OBJ0000146"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Wien</placeName>
+            <place type="Institution">
+                <placeName>concession, Theater-Vorbereitungsschule</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000146"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>08.11.1899</premier>
+            <time from="undefined" to="undefined">
+                <listObject>
+                    <object id="TWS_OBJ0000146"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext>undefined</culturalContext>
+    <listDescription>
+        <description>
+            <text>2. Vorstellung des Zweiten Eleven-Abends
+Klitsch als Richard
+Ostheim als Baronin von Fersen</text>
+            <object id="TWS_OBJ0000146"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="deb6ffa7-86d9-499e-b6ff-a786d9b99efc">
+            <name>Roger</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e129ed2c-e86a-4e53-a9ed-2ce86a7e53ca">
+            <name>Arnau, Carl</name>
+            <id type="gnd">116341831</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="3342dbeb-0cc8-441b-82db-eb0cc8e41b48">
+            <name>Ostheim</name>
+            <id type="gnd">undefined</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="27da02ff-b532-4429-9a02-ffb532442957">
+            <name>Klitsch</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0e3c6cac-d671-4ade-bc6c-acd671bade44">
+            <name>Seldorf</name>
+            <id type="gnd">undefined</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000146" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Zweite Eleven-Vorstellung" in Wien 1899</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

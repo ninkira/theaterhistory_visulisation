@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="f8515fbe-3121-4071-915f-be3121e07120" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Kinkakuji (Der Tempelbrand)+23.06.1976+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Kinkakuji (Der Tempelbrand)</title>
+            <listObject>
+                <object id="TWS_OBJ0000025"/>
+                <object id="TWS_OBJ0000024"/>
+                <object id="TWS_OBJ0000023"/>
+                <object id="TWS_KON0000004"/>
+                <object id="TWS_KON0000003"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsche Oper</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000025"/>
+                    <object id="TWS_OBJ0000024"/>
+                    <object id="TWS_OBJ0000023"/>
+                    <object id="TWS_KON0000004"/>
+                    <object id="TWS_KON0000003"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>23.06.1976</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000025"/>
+                    <object id="TWS_OBJ0000024"/>
+                    <object id="TWS_OBJ0000023"/>
+                    <object id="TWS_KON0000004"/>
+                    <object id="TWS_KON0000003"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Musiktheaterinszenierung</text>
+            <object id="TWS_OBJ0000025"/>
+        </description>
+        <description>
+            <text>Operninszenierung</text>
+            <object id="TWS_OBJ0000024"/>
+        </description>
+        <description>
+            <text>Operninszenierung Anmerkung: Auf dem Foto auf der Rückseite ist Wolf Appel für die Rolle G. I. vorgesehen, im Programmheft steht dann aber Dieter Appelt drin</text>
+            <object id="TWS_OBJ0000023"/>
+        </description>
+        <description>
+            <text>Musiktheater (Oper)</text>
+            <object id="TWS_KON0000004"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="da9af5f5-0418-4003-9af5-f50418c00337">
+            <name>Mayuzumi, Toshiro</name>
+            <id type="gnd">119555069</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+                <role>KomponistIn des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ae17a36a-f013-4464-97a3-6af013846485">
+            <name>Deutsche Oper Berlin</name>
+            <id type="gnd">1087427169</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="fd055198-0f53-484b-8551-980f53784be1">
+            <name>Appel, Wolf (G. I.)</name>
+            <id type="gnd">134315987</id>
+            <roleActor>
+                <role type="Rolle">G. I. / GI.</role>
+                <role>DarstellerIn der Inszenierung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7b9ff23f-fa29-4345-9ff2-3ffa29b34554">
+            <name>Aratym, Hubert</name>
+            <id type="gnd">118830848</id>
+            <roleActor>
+                <role>BühnenbildnerIn der Inszenierung</role>
+                <role>KostümbildnerIn des inszenierten Werks</role>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f514f3bf-0d45-456c-94f3-bf0d45c56cd9">
+            <name>Dooley, William</name>
+            <id type="gnd">134361113</id>
+            <roleActor>
+                <role type="Rolle">Mizoguchi</role>
+                <role>DarstellerIn der Inszenierung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="10cbe8f9-6eea-414b-8be8-f96eea814b5c">
+            <name>Grobe, Donald</name>
+            <id type="gnd">13439142X</id>
+            <roleActor>
+                <role type="Rolle">Kashiwagi</role>
+                <role>DarstellerIn der Inszenierung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f0898d23-eef0-4bf3-898d-23eef01bf357">
+            <name>Maus, Peter</name>
+            <id type="gnd">124950787</id>
+            <roleActor>
+                <role type="Rolle">Strenger Mann</role>
+                <role>DarstellerIn der Inszenierung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="45344817-d72f-4398-b448-17d72fa39832">
+            <name>McDaniel, Barry</name>
+            <id type="gnd">124150675</id>
+            <roleActor>
+                <role type="Rolle">Tsurukawa</role>
+                <role>DarstellerIn der Inszenierung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="005fa298-314d-46d2-9fa2-98314d46d25d">
+            <name>Mercker, Karl-Ernst</name>
+            <id type="gnd">13311421X</id>
+            <roleActor>
+                <role type="Rolle">Vater</role>
+                <role>DarstellerIn der Inszenierung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="981b01d6-e73b-4cfa-9b01-d6e73b8cfa15">
+            <name>Nomura, Yoko</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Uiko</role>
+                <role>DarstellerIn der Inszenierung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8f679b73-7440-4b4c-a79b-7374401b4c9e">
+            <name>Sardi, Ivan</name>
+            <id type="gnd">133649121</id>
+            <roleActor>
+                <role type="Rolle">Abt Dosen (oder Dosan, nicht sicher)</role>
+                <role>DarstellerIn der Inszenierung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="8ba6b38b-5692-4dbe-a6b3-8b56924dbe30">
+            <name>Scherler, Barbara</name>
+            <id type="gnd">134510127</id>
+            <roleActor>
+                <role type="Rolle">Hure</role>
+                <role>DarstellerIn der Inszenierung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="218c8810-aa22-4b81-8c88-10aa226b81ef">
+            <name>Vogel, Barbara</name>
+            <id type="gnd">133064271</id>
+            <roleActor>
+                <role type="Rolle">Mädchen</role>
+                <role>DarstellerIn der Inszenierung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="59022d1d-8a65-4c24-822d-1d8a659c2462">
+            <name>Weiss, Dorothea</name>
+            <id type="gnd">134664108</id>
+            <roleActor>
+                <role type="Rolle">Mutter</role>
+                <role>DarstellerIn der Inszenierung</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38401884-edb5-48a6-8018-84edb5d8a6f8">
+            <name>Richter, Caspar</name>
+            <id type="gnd">128741538</id>
+            <roleActor>
+                <role>Dirigent_in</role>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="5">
+        <object id="TWS_OBJ0000025" type="Publikation: Programmheft" aat="300027217">
+            <title>Programmheft zu "Kinkakuji" in Berlin 1976</title>
+        </object>
+        <object id="TWS_OBJ0000024" type="Fotografie" aat="">
+            <title>Fotografie zu "Kinkakuji" in Berlin 1976</title>
+        </object>
+        <object id="TWS_OBJ0000023" type="Fotografie" aat="">
+            <title>Fotografie zu "Kinkakuji" in Berlin 1976</title>
+        </object>
+        <object id="TWS_KON0000004" type="Publikation: Rezension" aat="300026480">
+            <title>Kritiken zu "Kinkakuji" in Berlin 1976</title>
+        </object>
+        <object id="TWS_KON0000003" type="Inszenierungsmappe" aat="">
+            <title>Inszenierungsmappe zu "Kinkakuji" in Berlin 1976</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Aufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>Kinkakuji (Der Tempelbrand)</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Berlin</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Deutsche Oper</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000025"/>
+                </listObject>
+            </listPlace>
+            <listDate/>
+            <culturalContext/>
+            <descriptionList>
+                <description>
+                    <beschreibung>
+                        <text>2. Aufführung mit derselben Besetzung wie die erste</text>
+                        <object>TWS_OBJ0000025</object>
+                    </beschreibung>
+                </description>
+            </descriptionList>
+            <actorList/>
+            <listObject totalnr="0"/>
+        </event>
+        <event type="Aufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>Kinkakuji (Der Tempelbrand)</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Berlin</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Deutsche Oper</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_KON0000004"/>
+                </listObject>
+            </listPlace>
+            <listDate/>
+            <culturalContext/>
+            <descriptionList>
+                <description>
+                    <beschreibung>
+                        <text>2. Aufführung mit derselben Besetzung wie die erste</text>
+                        <object>TWS_KON0000004</object>
+                    </beschreibung>
+                </description>
+            </descriptionList>
+            <actorList/>
+            <listObject totalnr="0"/>
+        </event>
+        <event type="Aufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>Kinkakuji (Der Tempelbrand)</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Berlin</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Deutsche Oper</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_KON0000003"/>
+                </listObject>
+            </listPlace>
+            <listDate/>
+            <culturalContext/>
+            <descriptionList>
+                <description>
+                    <beschreibung>
+                        <text>2. Aufführung mit derselben Besetzung wie die erste</text>
+                        <object>TWS_KON0000003</object>
+                    </beschreibung>
+                </description>
+            </descriptionList>
+            <actorList/>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="037a0ba6-05c6-4764-ba0b-a605c61764ee" type="Performance">
+    <groupingArgument actorID="e07a1b10-d85c-425a-ba1b-10d85ca25ab4">Romanze+27.04.1939+Schnyder, Franz</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Romanze</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000028"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000028"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>27.04.1939</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000028"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Münchner Kammerspiele, Premiere</text>
+            <object id="IFT_OBJ_HW000028"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="4e0af8ab-0bdd-41a4-8af8-ab0bddb1a489">
+            <name>Ebermayer, Erich</name>
+            <id type="gnd">118528599</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e07a1b10-d85c-425a-ba1b-10d85ca25ab4">
+            <name>Schnyder, Franz</name>
+            <id type="gnd">116849363</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e0961776-169b-40a6-9617-76169bd0a6e2">
+            <name>Münchner Kammerspiele</name>
+            <id type="gnd">2068173-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="4575ce75-53b4-45d9-b5ce-7553b4f5d9e4">
+            <name>Sturm, Eduard</name>
+            <id type="gnd">117363782</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="23ab71d9-5d92-45f0-ab71-d95d92f5f045">
+            <name>Kopp, Mila</name>
+            <id type="gnd">116141247</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f6cf1805-4daf-4bb6-8f18-054daf2bb64c">
+            <name>Mertens, Hanne</name>
+            <id type="gnd">1062100794</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="01e5dc2f-f3ea-4641-a5dc-2ff3eae641ef">
+            <name>Helwig, Lisa</name>
+            <id type="gnd">160164354</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="eae2d72b-dbb8-403e-a2d7-2bdbb8003e39">
+            <name>Reiff, Fritz</name>
+            <id type="gnd">116403772</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9d64db19-9312-4d2a-a4db-1993129d2a0a">
+            <name>Wery, Carl</name>
+            <id type="gnd">117308064</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="38d230af-e70e-44e7-9230-afe70ec4e7e6">
+            <name>Eckard, Max</name>
+            <id type="gnd">1054311692</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3c432611-76ca-44d7-8326-1176ca14d7b3">
+            <name>Ponto, Alexander</name>
+            <id type="gnd">106144810X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e7156020-124d-40aa-9560-20124d50aa6b">
+            <name>Völger, Werner</name>
+            <id type="gnd">1062482271</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000028" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Faltblatt mit diversen Rollenporträts</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="a05dd7f3-e79a-4c72-9dd7-f3e79a0c722c" type="Performance">
+    <groupingArgument actorID="0942d982-879f-4fd9-82d9-82879fafd944">The Hand of the Potter+20.09.1928+Hartung, Gustav</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>Deutsche Erstaufführung(DEA)</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>The Hand of the Potter</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Ton in des Töpfers Hand</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000001"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Renaissance-Theater</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000001"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>20.09.1928</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000001"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Deutsche Erstaufführung des Stücks von Theodore Dreiser am Berliner Renaissance-Theater</text>
+            <object id="IFT_OBJ_HW000001"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="0504d7bb-5f78-4eb9-84d7-bb5f780eb908">
+            <name>Dreiser, Theodore</name>
+            <id type="gnd">118527355</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bca38ed6-1735-4cf0-a38e-d617350cf0dc">
+            <name>Eger, Paul</name>
+            <id type="gnd">116365579</id>
+            <roleActor>
+                <role>Übersetzer_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0942d982-879f-4fd9-82d9-82879fafd944">
+            <name>Hartung, Gustav</name>
+            <id type="gnd">116502991</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="721e89da-41e5-401b-9e89-da41e5301bb4">
+            <name>Renaissance-Theater</name>
+            <id type="gnd">3022391-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="e9da0a93-5b89-4f39-9a0a-935b89df3924">
+            <name>Vallentin, Hermann</name>
+            <id type="gnd">117341606</id>
+            <roleActor>
+                <role type="Rolle">Aron Berchansky</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="25b44607-d481-49ae-b446-07d481b9ae79">
+            <name>Richard, Frieda</name>
+            <id type="gnd">116505826</id>
+            <roleActor>
+                <role type="Rolle">Rebekka Berchansky</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="76a089f7-9d14-4ed9-a089-f79d144ed991">
+            <name>Deutsch, Ernst</name>
+            <id type="gnd">118678019</id>
+            <roleActor>
+                <role type="Rolle">Isidor Berchansky</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0a6dcc91-69ff-4e1a-adcc-9169ffbe1a53">
+            <name>Schiller, Norbert</name>
+            <id type="gnd">117268984</id>
+            <roleActor>
+                <role type="Rolle">Josef Berchansky</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="66bc380c-63fa-491c-bc38-0c63fae91cad">
+            <name>Sagan, Leontine</name>
+            <id type="gnd">116743581</id>
+            <roleActor>
+                <role type="Rolle">Mascha Berchansky</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="205a8219-222a-4a22-9a82-19222a7a22ce">
+            <name>Lennartz, Elisabeth</name>
+            <id type="gnd">1055835636</id>
+            <roleActor>
+                <role type="Rolle">Rae Berchansky</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="23f0c2ac-1e15-45bb-b0c2-ac1e1575bba2">
+            <name>Spira, Camilla</name>
+            <id type="gnd">117491659</id>
+            <roleActor>
+                <role type="Rolle">Esther Grünbaum</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="48bfcde8-6691-4109-bfcd-e86691b109d3">
+            <name>Kalser, Erwin</name>
+            <id type="gnd">116035064</id>
+            <roleActor>
+                <role type="Rolle">Georges Grünbaum</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f0fc3dd-de3e-47ab-8fc3-ddde3e47ab31">
+            <name>Nadler, Alexandra</name>
+            <id type="gnd">1061799751</id>
+            <roleActor>
+                <role type="Rolle">Tilli Grünbaum</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d369de00-b887-4332-a9de-00b887233285">
+            <name>Wille, Helga</name>
+            <id type="gnd">132613964</id>
+            <roleActor>
+                <role type="Rolle">Kitty Neafie</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c07a5821-fe65-4971-ba58-21fe6539719f">
+            <name>Neumann, Elisabeth</name>
+            <id type="gnd">119157160</id>
+            <roleActor>
+                <role type="Rolle">Mary Neafie</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Frau Lersch</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c0752acd-1b4c-488c-b52a-cd1b4ca88ca2">
+            <name>Selo, Cläre</name>
+            <id type="gnd">1061828913</id>
+            <roleActor>
+                <role type="Rolle">Frau Droney</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3391f7a6-4c74-4110-91f7-a64c749110df">
+            <name>Lederer, Heinz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Ein junger Bursche, Geschworener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2b596904-9642-4106-9969-04964291061b">
+            <name>Rappard, Gillis van</name>
+            <id type="gnd">1060016443</id>
+            <roleActor>
+                <role type="Rolle">Miller, Staatsanwalt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d39fd3fe-b7f3-4660-9fd3-feb7f38660dc">
+            <name>Stein, Franz</name>
+            <id type="gnd">1116752956</id>
+            <roleActor>
+                <role type="Rolle">Der Obmann der Geschworenen, ein Polizist</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e2fe0044-c350-4846-be00-44c3506846bf">
+            <name>Witte, Ferdinand</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Geschworener</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f97d324-bcca-42e0-97d3-24bccad2e09a">
+            <name>Etlinger, Karl</name>
+            <id type="gnd">127875859</id>
+            <roleActor>
+                <role type="Rolle">Daubenspeck, Musiker</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c833a736-81be-4936-b3a7-3681beb936b8">
+            <name>Speelmans, Hermann</name>
+            <id type="gnd">117482455</id>
+            <roleActor>
+                <role type="Rolle">Rufus Busch, ein Fuhrmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c6698627-68f3-44e3-a986-2768f384e384">
+            <name>Rasumny, Michael</name>
+            <id type="gnd">1061628949</id>
+            <roleActor>
+                <role type="Rolle">Daniel Elkas, Zimmervermieter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="981ccb14-bf91-45b7-9ccb-14bf9185b7b9">
+            <name>Albu, Ruth</name>
+            <id type="gnd">130068101</id>
+            <roleActor>
+                <role type="Rolle">Hagar Elkas</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b1518b24-850f-428e-918b-24850f528e8b">
+            <name>Wahlen, Anton</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="55527c34-53ca-4b2c-927c-3453ca9b2c51">
+            <name>Jahn, Otto</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000001" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Ton in des Töpfers Hand" in Berlin 1928</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

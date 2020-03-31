@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="7dca368f-22bf-4aab-8a36-8f22bf8aabfc" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Venus Observed+12.10.1951+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Venus Observed</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Venus im Licht</title>
+            <listObject>
+                <object id="TWS_OBJ0000120"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Darmstadt, Hessisches Landestheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000120"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>12.10.1951</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000120"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Erstaufführung</text>
+            <object id="TWS_OBJ0000120"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Dominic, Reedbecks Sohn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e0da12b7-d2e3-4e86-9a12-b7d2e32e869a">
+            <name>Breidenbach, Tilli</name>
+            <id type="gnd">1062222458</id>
+            <roleActor>
+                <role type="Rolle">Dill, Jessie</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="39169fad-3803-410b-969f-ad3803310b68">
+            <name>Böhm, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="1c7eaa3d-dafd-4791-beaa-3ddafd3791a2">
+            <name>Costa, Julia</name>
+            <id type="gnd">1013914554</id>
+            <roleActor>
+                <role type="Rolle">Perpetua, Reedbecks Tochter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b1c144d3-8f4e-47d2-8144-d38f4e97d29a">
+            <name>Feist, Hans</name>
+            <id type="gnd">116438592</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="0aecbd12-d694-4748-acbd-12d6941748b5">
+            <name>Fry, Christopher</name>
+            <id type="gnd">118536532</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b24cb6d2-f936-485f-8cb6-d2f936c85fa7">
+            <name>Helle Friedrich</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Sponsor_in</role>
+            </roleActor>
+        </actor>
+        <actor id="53bf0f9a-fa32-4bfb-bf0f-9afa32abfb7a">
+            <name>Hessen und bei Rhein, Ludwig von</name>
+            <id type="gnd">119387727</id>
+            <roleActor>
+                <role>Sponsor_in</role>
+            </roleActor>
+        </actor>
+        <actor id="f9052409-d0e3-423b-8524-09d0e3623bb5">
+            <name>Krug, Ellen</name>
+            <id type="gnd">1061646645</id>
+            <roleActor>
+                <role type="Rolle">Hilda Taylor-Snell</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="788deb1e-ad46-4234-8deb-1ead46123441">
+            <name>König, Brigitte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Rosabel Fleming</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="cd3983cf-ee12-493d-b983-cfee12693de6">
+            <name>Leyrer, Willy</name>
+            <id type="gnd">1061403572</id>
+            <roleActor>
+                <role type="Rolle">Capitän Fox Reddleman, der Hausmeister des Herzogs</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b987bc5d-b0e2-49ad-87bc-5db0e239adc9">
+            <name>Lübbert, Martin</name>
+            <id type="gnd">1061327752</id>
+            <roleActor>
+                <role type="Rolle">Bates, der zweite Diener des Herzogs</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c4df82f3-6114-4a1f-9f82-f361142a1f2b">
+            <name>Müller, Rolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Der Herzog von Altair</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1c178e5-9f55-4cc0-8178-e59f551cc060">
+            <name>Noack, Max</name>
+            <id type="gnd">1031177310</id>
+            <roleActor>
+                <role type="Rolle">Herbert Reedbeck, sein Verwalter</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="61224e54-024b-4fd9-a24e-54024b1fd9b0">
+            <name>Roman Sobeck</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Sponsor_in</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="96d8d90f-af4b-45b2-98d9-0faf4b65b27b">
+            <name>Strack, Günter</name>
+            <id type="gnd">119293544</id>
+            <roleActor>
+                <role type="Rolle">Edgar, sein Sohn</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000120" type="Publikation: Programmheft" aat="300027217">
+            <title>Theaterzettel zu "Venus im Licht"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="7afe49d0-bdd5-4f63-be49-d0bdd55f6365" type="Performance">
+    <groupingArgument actorID="">Mrs. Warren's profession++</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Mrs. Warren's profession</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Frau Warren's Gewerbe</title>
+            <listObject>
+                <object id="TWS_OBJ0000589"/>
+                <object id="TWS_OBJ0000588"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName/>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000589"/>
+                    <object id="TWS_OBJ0000588"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier/>
+            <time from="1903" to="1913">
+                <listObject>
+                    <object id="TWS_OBJ0000589"/>
+                </listObject>
+            </time>
+            <time from="1890" to="1961">
+                <listObject>
+                    <object id="TWS_OBJ0000588"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="fe5b4f6d-1d4c-4de6-9b4f-6d1d4c8de671">
+            <name>Shaw, Bernard</name>
+            <id type="gnd">118642375</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Frau Warren</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000589" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Kartonkarte mit Fotografie von Hedwig Wangel als Frau Warren in "Frau Warrens Gewerbe"</title>
+        </object>
+        <object id="TWS_OBJ0000588" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Fotografie von Hedwig Wangel als Frau Warren in "Frau Warrens Gewerbe"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="ee8b42d5-d3ec-4283-8b42-d5d3ec92838e" type="Performance">
+    <groupingArgument actorID="9046c0ed-0db4-4abc-86c0-ed0db4cabc40">La belle aventure+13.01.1938+Hasse, O. E.</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>La belle aventure</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>schöne Abenteuer, Das</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000017"/>
+                <object id="IFT_OBJ_HW000016"/>
+                <object id="IFT_OBJ_HW000015"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000017"/>
+                    <object id="IFT_OBJ_HW000016"/>
+                    <object id="IFT_OBJ_HW000015"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>13.01.1938</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000017"/>
+                    <object id="IFT_OBJ_HW000016"/>
+                    <object id="IFT_OBJ_HW000015"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Münchner Kammerspiele</text>
+            <object id="IFT_OBJ_HW000017"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="5ae43de8-019c-4f45-a43d-e8019caf4583">
+            <name>Caillavet, Gaston-Arman de</name>
+            <id type="gnd">122348885</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4e286c89-acd4-4534-a86c-89acd47534d6">
+            <name>Flers, Robert de</name>
+            <id type="gnd">122348745</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="fc0e63a9-a841-41bf-8e63-a9a841d1bfb1">
+            <name>Rey, Étienne</name>
+            <id type="gnd">1050556623</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e0961776-169b-40a6-9617-76169bd0a6e2">
+            <name>Münchner Kammerspiele</name>
+            <id type="gnd">2068173-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Frau de Trévillac</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9046c0ed-0db4-4abc-86c0-ed0db4cabc40">
+            <name>Hasse, O. E.</name>
+            <id type="gnd">11854666X</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4575ce75-53b4-45d9-b5ce-7553b4f5d9e4">
+            <name>Sturm, Eduard</name>
+            <id type="gnd">117363782</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1eabc3ff-84d3-4352-abc3-ff84d3535245">
+            <name>Lissa, Eva</name>
+            <id type="gnd">117059676</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b8052cce-ad53-42e5-852c-cead53f2e54c">
+            <name>Nauckhoff, Stig von</name>
+            <id type="gnd">1062099761</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="85511d0f-6686-4297-911d-0f668632973b">
+            <name>Herbe, Herbert</name>
+            <id type="gnd">106217903X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="3">
+        <object id="IFT_OBJ_HW000017" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenporträt aus "Das schöne Abenteuer" in München 1938</title>
+        </object>
+        <object id="IFT_OBJ_HW000016" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenporträt aus "Das schöne Abenteuer" in München 1938</title>
+        </object>
+        <object id="IFT_OBJ_HW000015" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenporträt aus "Das schöne Abenteuer" in München 1938</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="23c72e75-ccc7-4967-872e-75ccc7096708" type="Performance">
+    <groupingArgument actorID="9d556da8-fb8f-4987-956d-a8fb8fe987d6">Les surprises du divorce+14.08.1925+Sturm, Hans</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Les surprises du divorce</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Madame Bonivard</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000012"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Komödie</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000012"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>14.08.1925</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000012"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Komödie Berlin, Direktion Max Reinhardt</text>
+            <object id="IFT_OBJ_HW000012"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role type="Rolle">Madame Bonivard</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="286e5074-de1e-4a76-ae50-74de1e4a763d">
+            <name>Bisson, Alexandre</name>
+            <id type="gnd">116195886</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="9d556da8-fb8f-4987-956d-a8fb8fe987d6">
+            <name>Sturm, Hans</name>
+            <id type="gnd">117363839</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b612d341-3b92-4840-92d3-413b92f840d3">
+            <name>Dworsky, Franz</name>
+            <id type="gnd">1061484580</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4d04d922-4e42-4d5d-84d9-224e424d5d81">
+            <name>Otto, Paul</name>
+            <id type="gnd">1016966490</id>
+            <roleActor>
+                <role type="Rolle">Henry Duval</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4ceb2c4d-02fc-40a3-ab2c-4d02fc10a384">
+            <name>Klinder, Lotte</name>
+            <id type="gnd">1061360245</id>
+            <roleActor>
+                <role type="Rolle">Diane</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7c5cc898-efa3-4595-9cc8-98efa3c59589">
+            <name>Wangenheim, Gustav von</name>
+            <id type="gnd">117137154</id>
+            <roleActor>
+                <role type="Rolle">Champeaux</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b9d0c878-324b-409f-90c8-78324b309f8e">
+            <name>Müller, Robert</name>
+            <id type="gnd">117609889</id>
+            <roleActor>
+                <role type="Rolle">Corbulon</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9905ade0-bc95-4b4c-85ad-e0bc95fb4c93">
+            <name>Gronau, Ernst</name>
+            <id type="gnd">1032448512</id>
+            <roleActor>
+                <role type="Rolle">Bourganeuf</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f0637245-ca95-4e78-a372-45ca95ee7863">
+            <name>Evans, Karin</name>
+            <id type="gnd">129342084</id>
+            <roleActor>
+                <role type="Rolle">Gabrielle</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="43434722-77ec-4d3e-8347-2277ec9d3e1f">
+            <name>Auerbach, Annemarie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Mariette</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3a6fdc31-e52b-4f87-afdc-31e52b6f87dc">
+            <name>Ziegler, Charlotte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Victoire</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2906dec8-9bfc-4c0d-86de-c89bfc4c0d61">
+            <name>Zeislmeier, Josef</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">ein Landsmann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ffccc720-7069-4100-8cc7-207069b1005c">
+            <name>Komödie am Kurfürstendamm</name>
+            <id type="gnd">7562914-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000012" type="Fotografie: Person (analog)" aat="300046300">
+            <title>Rollenporträt aus "Madame Bonivard" in Berlin 1925</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

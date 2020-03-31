@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="b8a3b0f0-046e-4c7b-a3b0-f0046e8c7b87" type="Performance">
+    <groupingArgument actorID="65cf183e-db3e-46e9-8f18-3edb3e86e93e">Fidelio+1927+Hagemann, Carl</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>Fidelio</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Fidelio</title>
+            <listObject>
+                <object id="TWS_OBJ0000679"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName/>
+                <listObject>
+                    <object id="TWS_OBJ0000679"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>1927</premier>
+            <time from="1927" to="1927">
+                <listObject>
+                    <object id="TWS_OBJ0000679"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="26bcac0c-879e-4440-bcac-0c879e3440e7">
+            <name>Dülberg, Ewald</name>
+            <id type="gnd">116235411</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="16412fa4-1c9c-4058-812f-a41c9c305871">
+            <name>Beethoven, Ludwig van</name>
+            <id type="gnd">118508288</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f7e77695-3a28-45ce-a776-953a2825cefb">
+            <name>Sonnleithner, Joseph</name>
+            <id type="gnd">104332042</id>
+            <roleActor>
+                <role>Librettist_in</role>
+            </roleActor>
+        </actor>
+        <actor id="65cf183e-db3e-46e9-8f18-3edb3e86e93e">
+            <name>Hagemann, Carl</name>
+            <id type="gnd">119368277</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000679" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Ewald Dülberg</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

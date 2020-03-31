@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="928fc39d-5be8-452b-8fc3-9d5be8352b1d" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">A midsummer night's dream+30.10.1952+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>A midsummer night's dream</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Ein Sommernachtstraum</title>
+            <listObject>
+                <object id="TWS_OBJ0000105"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Darmstadt</placeName>
+            <place type="Institution">
+                <placeName>Orangeriehaus</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000105"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>30.10.1952</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000105"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="49cb9593-339f-4687-8b95-93339fd68772">
+            <name>Amberger, Günther</name>
+            <id type="gnd">1061420744</id>
+            <roleActor>
+                <role type="Rolle">Schlucker, der Schneider</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f431b326-c28e-45f0-b1b3-26c28e15f003">
+            <name>Bernauer, Karin</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Elfe</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="39169fad-3803-410b-969f-ad3803310b68">
+            <name>Böhm, Willi</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Inspizient_in</role>
+            </roleActor>
+        </actor>
+        <actor id="6605a2d8-f1f9-47d7-85a2-d8f1f9e7d788">
+            <name>Cadow, Paul</name>
+            <id type="gnd">134341996</id>
+            <roleActor>
+                <role>Chorsänger_in</role>
+            </roleActor>
+        </actor>
+        <actor id="1c7eaa3d-dafd-4791-beaa-3ddafd3791a2">
+            <name>Costa, Julia</name>
+            <id type="gnd">1013914554</id>
+            <roleActor>
+                <role type="Rolle">Hermia, Tochter des Egeus, in Lysander verliebt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="80f2a304-972b-45d1-b2a3-04972ba5d1b1">
+            <name>Eigenbrodt, Eugen</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Das Rüpelorchester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9d48f86b-6731-4772-88f8-6b6731677282">
+            <name>Fricke, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Kontrabaß - Rüpelorchester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c15caee7-0159-4a06-9cae-e701595a066f">
+            <name>Helfmann, Alexander</name>
+            <id type="gnd">1141080273</id>
+            <roleActor>
+                <role type="Rolle">Schnock, der Schreiner</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="064d2077-8623-43a2-8d20-778623d3a294">
+            <name>Heynau, Fritz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Das Rüpelorchester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cdb40c3c-baf9-4c7e-b40c-3cbaf92c7ec5">
+            <name>Höhl, Peter</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Das Rüpelorchester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c1795d7c-5ed3-4dc9-b95d-7c5ed3cdc9c0">
+            <name>Kohlbacher, Werner</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Das Rüpelorchester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="788deb1e-ad46-4234-8deb-1ead46123441">
+            <name>König, Brigitte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Hippolyta, Königin der Amazonen, mit Theseus verlobt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e949e404-4e9e-4f7e-89e4-044e9e9f7e79">
+            <name>Landestheater Darmstadt</name>
+            <id type="gnd">2002342-X</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="b4c3225d-2dc0-47c7-8322-5d2dc0b7c74d">
+            <name>Leminger, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Beleuchter_in</role>
+            </roleActor>
+        </actor>
+        <actor id="cd3983cf-ee12-493d-b983-cfee12693de6">
+            <name>Leyrer, Willy</name>
+            <id type="gnd">1061403572</id>
+            <roleActor>
+                <role type="Rolle">Zettel, der Weber</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="960d6781-6bf7-4ce7-8d67-816bf7ace7d4">
+            <name>List, Karl a. G.</name>
+            <id type="gnd">117063010</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="b987bc5d-b0e2-49ad-87bc-5db0e239adc9">
+            <name>Lübbert, Martin</name>
+            <id type="gnd">1061327752</id>
+            <roleActor>
+                <role type="Rolle">Egeus, Vater der Hermia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f09dc450-72bd-4945-9dc4-5072bd2945ee">
+            <name>Mayer, Michael</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Das Rüpelorchester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1f9a3039-6042-4189-9a30-396042218966">
+            <name>Mertz, Franz</name>
+            <id type="gnd">116907517</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c4df82f3-6114-4a1f-9f82-f361142a1f2b">
+            <name>Müller, Rolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Theseus, Herzog von Athen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5e1c027e-b5a4-4482-9c02-7eb5a4448233">
+            <name>Naumann, Werner</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Trompete - Das Rüpelorchester</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="77ef3b0f-b5a6-4f2a-af3b-0fb5a60f2a43">
+            <name>Orff, Carl</name>
+            <id type="gnd">118590219</id>
+            <roleActor>
+                <role>Komponist_in der Bühnenmusik</role>
+            </roleActor>
+        </actor>
+        <actor id="3dca3c5a-e349-4c06-8a3c-5ae349dc068d">
+            <name>Pfeiffer, Georg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Technische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="f407b8e1-c7f1-40cc-87b8-e1c7f140cc64">
+            <name>Reinmann, Ingrid</name>
+            <id type="gnd">unbekannt</id>
+            <roleActor>
+                <role type="Rolle">Helena, in Demetrius verliebt</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="41c1242a-596d-4512-8124-2a596db5127c">
+            <name>Saussen, Edmund</name>
+            <id type="gnd">1061370453</id>
+            <roleActor>
+                <role type="Rolle">Flaut, der Bälgeflicker</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="05603d41-b84c-4282-a03d-41b84cb282d2">
+            <name>Schlegel, August Wilhelm von</name>
+            <id type="gnd">118607960</id>
+            <roleActor>
+                <role>Übersetzer_in</role>
+            </roleActor>
+        </actor>
+        <actor id="b5695b87-35ff-4cbb-a95b-8735ff4cbb7c">
+            <name>Schneider, Franz</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Schnauz, der Kesselflicker</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0b4a18f0-80d3-40f1-8a18-f080d370f115">
+            <name>Schwarzer, Lieselotte</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Kostümbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="bbe1b2e9-426e-45e0-a1b2-e9426ee5e062">
+            <name>Shakespeare, William</name>
+            <id type="gnd">118613723</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="96d8d90f-af4b-45b2-98d9-0faf4b65b27b">
+            <name>Strack, Günter</name>
+            <id type="gnd">119293544</id>
+            <roleActor>
+                <role type="Rolle">Demetrius - Liebhaber der Hermia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2aa027fc-159c-4758-a027-fc159ce758a1">
+            <name>Streck, Karl</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Lysander - Liebhaber der Hermia</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ea325aa4-1852-4b33-b25a-a418527b33ad">
+            <name>Valenta, Lucy</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Titania, Königin der Elfen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="5caecbeb-9438-4976-aecb-eb9438f976c1">
+            <name>Weicker, Hans</name>
+            <id type="gnd">1055072586</id>
+            <roleActor>
+                <role type="Rolle">Droll, eine Elfe</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cb5ae2bb-62e2-41aa-9ae2-bb62e2b1aaf7">
+            <name>Westermann, Curt</name>
+            <id type="gnd">117319805</id>
+            <roleActor>
+                <role type="Rolle">Philostrat, Aufseher der Lustbarkeiten am Hof des Theseus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4cfae690-c3bf-4e67-bae6-90c3bf4e67c3">
+            <name>Wien, Herbert</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Squenz, der Zimmermann</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="87b81bf0-991c-4656-b81b-f0991cd65607">
+            <name>Wischnewski, Siegfried</name>
+            <id type="gnd">138597472</id>
+            <roleActor>
+                <role type="Rolle">Oberon, König der Elfen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000105" type="Publikation: Theaterzettel" aat="300027216">
+            <title>Theaterzettel zu "Ein Sommernachtstraum" in Darmstadt 1952</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

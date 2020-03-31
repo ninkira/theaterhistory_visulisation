@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="fc92dc81-4b43-48e8-92dc-814b4378e8bb" type="Performance">
+    <groupingArgument actorID="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">Aufruhr im Damenstift+23.09.1940+Wangel, Hedwig</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Aufruhr im Damenstift</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000036"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000036"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>23.09.1940</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000036"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theateraufführung der Münchner Kammerspiele, Premiere</text>
+            <object id="IFT_OBJ_HW000036"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="e0961776-169b-40a6-9617-76169bd0a6e2">
+            <name>Münchner Kammerspiele</name>
+            <id type="gnd">2068173-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="07b330e3-9779-49df-b330-e3977969df4e">
+            <name>Breidahl, Axel</name>
+            <id type="gnd">1062154134</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="550b2c76-b008-4f03-8b2c-76b008df0378">
+            <name>Greger, Siegfried</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="c3299f7c-59e7-434f-a99f-7c59e7134f0f">
+            <name>Denk, Paula</name>
+            <id type="gnd">1061411109</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="71722cc9-3749-4fbe-b22c-c93749bfbe0a">
+            <name>Wendenburg, Margarete</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="66f2c581-62d9-4709-b2c5-8162d9c7091f">
+            <name>Karzau, Sonja</name>
+            <id type="gnd">116061782</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="efc8e6ca-520e-4ad8-88e6-ca520edad8cb">
+            <name>Rothe, Annemarie</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9a0ceff4-a50c-40e8-8cef-f4a50cf0e83e">
+            <name>Götzen, Signe Maria</name>
+            <id type="gnd">107358336</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1ac07ec4-ef90-495e-807e-c4ef90495e9e">
+            <name>Schewior, Hilde</name>
+            <id type="gnd">117225665</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f6cf1805-4daf-4bb6-8f18-054daf2bb64c">
+            <name>Mertens, Hanne</name>
+            <id type="gnd">1062100794</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="89fcc25a-9a71-4e3b-bcc2-5a9a718e3bf3">
+            <name>Helminger, Gusti</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="275c2240-d2bc-454a-9c22-40d2bc154a58">
+            <name>Hummel-Sturm, Frida</name>
+            <id type="gnd">11706226X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ecbe546c-771e-4677-be54-6c771e867788">
+            <name>Ackermann, Luise</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="20e0e330-7f5d-486c-a0e3-307f5dc86c60">
+            <name>Schebler, Martha</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da33daee-d551-4c1c-b3da-eed551ec1c2c">
+            <name>Thormann, Gundel</name>
+            <id type="gnd">106132771X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cdcdb977-67a3-4869-8db9-7767a3b86903">
+            <name>Picard, Bertha</name>
+            <id type="gnd">1062226836</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="169ea848-3da0-4eb3-9ea8-483da07eb359">
+            <name>Kohl, Irene</name>
+            <id type="gnd">1062380819</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="23ab71d9-5d92-45f0-ab71-d95d92f5f045">
+            <name>Kopp, Mila</name>
+            <id type="gnd">116141247</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="48f3b86a-15a3-4433-b3b8-6a15a324334c">
+            <name>Bruhn, Manuela</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="4aca1b1c-fa91-4347-8a1b-1cfa91234776">
+            <name>Rascher, Angela</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000036" type="Fotografie: Album" aat="300026695">
+            <title>Fotoalbum Hedwig Wangel</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

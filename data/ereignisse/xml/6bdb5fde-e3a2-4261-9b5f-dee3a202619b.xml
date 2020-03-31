@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="6bdb5fde-e3a2-4261-9b5f-dee3a202619b" type="Performance">
+    <groupingArgument actorID="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">Montezuma+19. April 1964+Sellner, Gustav Rudolf</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Montezuma</title>
+            <listObject>
+                <object id="TWS_OBJ0000095"/>
+                <object id="TWS_OBJ0000094"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Deutsche Oper Berlin</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000095"/>
+                    <object id="TWS_OBJ0000094"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>19. April 1964</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="TWS_OBJ0000095"/>
+                    <object id="TWS_OBJ0000094"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Uraufführung 19. April 1964 4. Aufführung 06. Mai 1964</text>
+            <object id="TWS_OBJ0000095"/>
+        </description>
+        <description>
+            <text>Uraufführung 19. April 1964</text>
+            <object id="TWS_OBJ0000094"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="f6bf0262-0974-452a-bf02-620974452ad9">
+            <name>Borgese, Giuseppe Antonio</name>
+            <id type="gnd">118659367</id>
+            <roleActor>
+                <role>Librettist</role>
+            </roleActor>
+        </actor>
+        <actor id="71e054ec-ea17-40cb-a054-ecea1710cbc9">
+            <name>Hagen-Groll, Walter</name>
+            <id type="gnd">13229057X</id>
+            <roleActor>
+                <role>Chorleiter</role>
+            </roleActor>
+        </actor>
+        <actor id="50a57412-1c65-4789-a574-121c6507895b">
+            <name>Röhrl, Manfred</name>
+            <id type="gnd">132411989</id>
+            <roleActor>
+                <role type="Rolle">Fray Olmedo de la Merced</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="81bbf9cc-4acc-49c2-bbf9-cc4acc69c2ae">
+            <name>Sellner, Gustav Rudolf</name>
+            <id type="gnd">117479276</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4c469b84-7608-4fe2-869b-8476085fe2d7">
+            <name>Appelt, H.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Unterführer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cda0485b-d0f2-4b95-a048-5bd0f2eb95b4">
+            <name>Benade, Erika</name>
+            <id type="gnd">132414171</id>
+            <roleActor>
+                <role type="Rolle">indianisches Mädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1d5f3394-3498-4aa0-9f33-943498baa0ec">
+            <name>Bernard, Annabelle</name>
+            <id type="gnd">130897957</id>
+            <roleActor>
+                <role type="Rolle">Malinche</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="92d09777-a5cb-4605-9097-77a5cba6054a">
+            <name>Bohner, Gerhard</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Xochipilli</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="14d5dfc8-7837-4955-95df-c878373955e6">
+            <name>Clam, Leopold</name>
+            <id type="gnd">134347714</id>
+            <roleActor>
+                <role type="Rolle">Conquistador</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="27cd0284-3815-4892-8d02-8438154892a4">
+            <name>Dicks, Walter Wilhelm</name>
+            <id type="gnd">134358724</id>
+            <roleActor>
+                <role type="Rolle">Aguilar</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="44b1d53e-66ba-4423-b1d5-3e66ba54234e">
+            <name>Dijk, Cornelius van</name>
+            <id type="gnd">1052118062</id>
+            <roleActor>
+                <role type="Rolle">ein Soldat aus der Armee des Cortez</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f514f3bf-0d45-456c-94f3-bf0d45c56cd9">
+            <name>Dooley, William</name>
+            <id type="gnd">134361113</id>
+            <roleActor>
+                <role type="Rolle">Hernan Cortez</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3e6d95a9-9f55-48b4-ad95-a99f55d8b44f">
+            <name>Driscoll, Loren</name>
+            <id type="gnd">134362349</id>
+            <roleActor>
+                <role type="Rolle">Pedro de Alvarado</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3acb9a93-618b-4f0a-8b9a-93618b8f0a43">
+            <name>Dubois, Katia</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Centacihuatl</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e4f1ec9b-c35f-450f-b1ec-9bc35f750f93">
+            <name>Gerecke, I.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">indianisches Mädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="199ba2fa-76a7-4ff4-9ba2-fa76a7dff494">
+            <name>Götz, Werner</name>
+            <id type="gnd">129834181</id>
+            <roleActor>
+                <role type="Rolle">Kazike von Cempoalla</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fecd03e3-11a4-48e1-8d03-e311a4a8e1ba">
+            <name>Hollreiser, Heinrich</name>
+            <id type="gnd">116964839</id>
+            <roleActor>
+                <role>Musikalische Leitung</role>
+            </roleActor>
+        </actor>
+        <actor id="d0272fe6-8df4-4619-a72f-e68df486198d">
+            <name>Hoppe, Fritz</name>
+            <id type="gnd">134410580</id>
+            <roleActor>
+                <role type="Rolle">Conquistador</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3af314e1-20d6-40e1-b314-e120d690e11f">
+            <name>Höhnisch, Ingeborg</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Xochiquetzal</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="3c17b840-ab5d-448f-97b8-40ab5df48f5b">
+            <name>Iseler, G.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">indianisches Mädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ba493a39-cf53-458c-893a-39cf53b58cd5">
+            <name>Katona, Julius</name>
+            <id type="gnd">133003000</id>
+            <roleActor>
+                <role type="Rolle">Conquistador</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="793c16e9-63b8-46fc-bc16-e963b8f6fc58">
+            <name>Koffmane, Robert</name>
+            <id type="gnd">132957833</id>
+            <roleActor>
+                <role type="Rolle">Vorübergehender</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="cc6e4224-5440-4550-ae42-245440b55053">
+            <name>Krebs, Helmut</name>
+            <id type="gnd">123533775</id>
+            <roleActor>
+                <role type="Rolle">Teuthilli</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="49f911fe-e820-41ad-b911-fee82091ad54">
+            <name>Krukowski, Ernst (der Alte)</name>
+            <id type="gnd">133042871</id>
+            <roleActor>
+                <role type="Rolle">Bernal Diaz del Castillo</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f184bb17-8014-4c1e-84bb-1780148c1eb7">
+            <name>Lang, Wilhelm</name>
+            <id type="gnd">13530749X</id>
+            <roleActor>
+                <role type="Rolle">Vorübergehender</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="382ab928-fea1-410b-aab9-28fea1610baf">
+            <name>Masseli, E.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">indianisches Mädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="45344817-d72f-4398-b448-17d72fa39832">
+            <name>McDaniel, Barry</name>
+            <id type="gnd">124150675</id>
+            <roleActor>
+                <role type="Rolle">Cuauhtemoc</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="51add0d6-a435-46b8-add0-d6a435d6b802">
+            <name>Melchert, Helmut</name>
+            <id type="gnd">130237655</id>
+            <roleActor>
+                <role type="Rolle">Montezuma</role>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="005fa298-314d-46d2-9fa2-98314d46d25d">
+            <name>Mercker, Karl-Ernst</name>
+            <id type="gnd">13311421X</id>
+            <roleActor>
+                <role type="Rolle">Bernal Diaz del Castillo (der Junge)</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b2060557-5357-4c15-8605-575357dc1516">
+            <name>Nagano, Yonako</name>
+            <id type="gnd">134659759</id>
+            <roleActor>
+                <role type="Rolle">Prinzessin, Tochter des Montezumas</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d83cdd66-9b10-44ef-bcdd-669b1004ef88">
+            <name>Nissen, Hanns Heinz</name>
+            <id type="gnd">134473884</id>
+            <roleActor>
+                <role type="Rolle">ein Veteran</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e74cb8e8-bd65-4475-8cb8-e8bd65147527">
+            <name>Profé, H.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">indianisches Mädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="0b5c7110-c434-4707-9c71-10c434a707fe">
+            <name>Raffaelli, Michel</name>
+            <id type="gnd">131941208</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="1ef70c4e-1eff-4a5b-b70c-4e1eff9a5bc0">
+            <name>Rausch, Walter</name>
+            <id type="gnd">134586808</id>
+            <roleActor>
+                <role type="Rolle">Choryphaeus</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="fa1a9b6c-adc7-4602-9a9b-6cadc7e60282">
+            <name>Schmolke, W.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Unterführer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f1b8b91b-6458-44c0-b8b9-1b645874c05f">
+            <name>Sessions, Roger</name>
+            <id type="gnd">119514893</id>
+            <roleActor>
+                <role>Komponist_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="f866e88f-45df-42d7-a6e8-8f45df62d70d">
+            <name>Talvela, Martti</name>
+            <id type="gnd">124057810</id>
+            <roleActor>
+                <role type="Rolle">Netzahualcoyotl</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3a465dc-0123-46a2-a465-dc012306a282">
+            <name>Tettenborn, A.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">indianisches Mädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="83ef0bda-0247-4919-af0b-da0247391919">
+            <name>Torsten, H.</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">Unterführer</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="6f0aa051-9179-4e36-8aa0-5191794e36ef">
+            <name>Treptow, Günther</name>
+            <id type="gnd">117414166</id>
+            <roleActor>
+                <role type="Rolle">Herrscher von Tacuba</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="f0be03bd-c217-41bb-be03-bdc217f1bb24">
+            <name>Türke, Marina</name>
+            <id type="gnd">134817273</id>
+            <roleActor>
+                <role type="Rolle">Prinzessin, Tochter des Montezumas</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="86a47f62-73f4-40b2-a47f-6273f410b2f0">
+            <name>Vantin, Martin</name>
+            <id type="gnd">133063925</id>
+            <roleActor>
+                <role type="Rolle">Cacamatzin</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="455bb7d5-b20c-48cd-9bb7-d5b20c98cd76">
+            <name>Willenberg, Christa</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role type="Rolle">indianisches Mädchen</role>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="2">
+        <object id="TWS_OBJ0000095" type="Publikation: Programmheft" aat="300027217">
+            <title>Thetaterzettel zu "Montezuma"</title>
+        </object>
+        <object id="TWS_OBJ0000094" type="Publikation: Programmheft" aat="300027217">
+            <title>Artikel zu "Montezuma"</title>
+        </object>
+    </listObject>
+    <listEvent>
+        <event type="Aufführung">
+            <listTitle>
+                <titleStmt>
+                    <title>Montezuma</title>
+                </titleStmt>
+            </listTitle>
+            <listPlace>
+                <place type="Stadt">
+                    <placeName>Berlin</placeName>
+                </place>
+                <place type="Institution">
+                    <placeName>Deutsche Oper Berlin</placeName>
+                </place>
+                <listObject>
+                    <object id="TWS_OBJ0000095"/>
+                </listObject>
+            </listPlace>
+            <listDate>
+                <date>
+                    <eventDate>06. Mai 1964</eventDate>
+                </date>
+            </listDate>
+            <culturalContext/>
+            <descriptionList>
+                <description/>
+            </descriptionList>
+            <actorList/>
+            <listObject totalnr="0"/>
+        </event>
+    </listEvent>
+</event>

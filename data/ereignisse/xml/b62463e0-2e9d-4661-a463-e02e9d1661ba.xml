@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="b62463e0-2e9d-4661-a463-e02e9d1661ba" type="Performance">
+    <groupingArgument actorID="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">Regen+24.11.1925+Reinhardt, Max</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Regen</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000031"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Theater am Kurfürstendamm</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000031"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>24.11.1925</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000031"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung des Theaters am Kurfürstendamm, Premiere</text>
+            <object id="IFT_OBJ_HW000031"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="790c2a98-3b39-49d2-8c2a-983b39e9d2b6">
+            <name>Theater am Kurfürstendamm</name>
+            <id type="gnd">4723464-7</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="2b9a6ec0-ee6a-4fc6-9a6e-c0ee6a1fc6a3">
+            <name>Maugham, William Somerset</name>
+            <id type="gnd">104298324</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="6b1b3875-4d70-43fa-9b38-754d7033fafa">
+            <name>Colton, John</name>
+            <id type="gnd">141280646</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0efc0070-f1af-47ad-bc00-70f1af37ad44">
+            <name>Randolph, Clemence</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="0cd5cef4-b25c-495d-95ce-f4b25cd95d12">
+            <name>Reinhardt, Max</name>
+            <id type="gnd">118599380</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="76d60d25-5a0c-4f39-960d-255a0cdf39a0">
+            <name>Schütte, Ernst</name>
+            <id type="gnd">117140074</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="a5fa594d-21e1-486d-ba59-4d21e1986d60">
+            <name>Klöpfer, Eugen</name>
+            <id type="gnd">116231874</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="593fd38f-16b6-4930-bfd3-8f16b6893067">
+            <name>Höflich, Lucie</name>
+            <id type="gnd">118963805</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7946aa60-aecd-45d6-86aa-60aecd65d6a0">
+            <name>Dorsch, Käthe</name>
+            <id type="gnd">11868051X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="03ff919f-3158-4b38-bf91-9f3158ab3822">
+            <name>Henckels, Paul</name>
+            <id type="gnd">11871029X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="6275cf85-e69a-49a0-b5cf-85e69ab9a018">
+            <name>Denera, Liselotte</name>
+            <id type="gnd">117235016</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="92ce1e69-f30c-4dc4-8e1e-69f30c3dc4d6">
+            <name>Homolka, Oskar</name>
+            <id type="gnd">116976586</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="44318e3f-3124-493a-b18e-3f3124e93aa5">
+            <name>Brausewetter, Hans</name>
+            <id type="gnd">116430249</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d57e9499-3da1-45fc-be94-993da175fcc7">
+            <name>Kühne, Friedrich</name>
+            <id type="gnd">1060906619</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="7fcae8e1-9ff6-4d18-8ae8-e19ff65d18e6">
+            <name>Hollmann, Werner</name>
+            <id type="gnd">1067754091</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="09544c33-c4e4-4b1e-944c-33c4e45b1ee7">
+            <name>Schnell, Georg</name>
+            <id type="gnd">102694788X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="e089542f-ca94-4148-8954-2fca942148e7">
+            <name>Arta, Beatrice</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000031" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Sonderabdruck aus der Zeitschrift "Das Neue Blatt"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

@@ -1,0 +1,108 @@
+{
+    "name": "Events",
+    "children": [
+        {
+            "name": "1954",
+            "children": [
+                {
+                    "name": "Prinz von Homburg",
+                    "children": [
+                        {
+                            "name": "Person",
+                            "children": [
+                                {
+                                    "name": "Prinz",
+                                    "size": 40
+                                },
+                                {
+                                    "name": "Hamlet",
+                                    "size": 3
+                                },
+                                                {
+                                    "name": "Test",
+                                    "size": 3
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        
+     
+     
+      
+        {
+            "name": "1955",
+            "children": [
+                {
+                    "name": "p13.1",
+                    "children": [
+                        {
+                            "name": "SCO1",
+                            "children": [
+                                {
+                                    "name": "aaaacxi7gjwlyascvqjaabaacu",
+                                    "size": 25
+                                },
+                                {
+                                    "name": "aaaacxi7gjwlyascvqjaabaace",
+                                    "size": 39
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1956",
+            "children": [
+                {
+                    "name": "q13.2",
+                    "children": [
+                        {
+                            "name": "SPINT2",
+                            "children": [
+                                {
+                                    "name": "aaaacxi7gjuvmascvqjaabaadm",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "undefined",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "aaaacxi7gjuvmascvqjaabaadi",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "aaaacxi7gjuvmascvqjaabaade",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "aaaacxi7gjuvmascvqjaabaac4",
+                                    "size": 6
+                                },
+                                {
+                                    "name": "aaaacxi7gjuvmascvqjaabaada",
+                                    "size": 4
+                                },
+                                {
+                                    "name": "aaaacxi7gjuvmascvqjaabaadu",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "aaaacxi7gjuvmascvqjaabaadq",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+              
+            ]
+        }
+       
+    ]
+}

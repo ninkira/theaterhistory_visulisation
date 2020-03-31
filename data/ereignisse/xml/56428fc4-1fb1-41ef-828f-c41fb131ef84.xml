@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="56428fc4-1fb1-41ef-828f-c41fb131ef84" type="Performance">
+    <groupingArgument actorID="60f9802e-2817-4190-b980-2e281711906a">The importance of being earnest+09.06.1938+Danegger, Theodor</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>The importance of being earnest</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Bunbury</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000022"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>München</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000022"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>09.06.1938</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000022"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Münchner Kammerspiele</text>
+            <object id="IFT_OBJ_HW000022"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="463f20b3-d9b0-44e9-bf20-b3d9b054e928">
+            <name>Wilde, Oscar</name>
+            <id type="gnd">118632779</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="e0961776-169b-40a6-9617-76169bd0a6e2">
+            <name>Münchner Kammerspiele</name>
+            <id type="gnd">2068173-2</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+        <actor id="60f9802e-2817-4190-b980-2e281711906a">
+            <name>Danegger, Theodor</name>
+            <id type="gnd">1019085452</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="4575ce75-53b4-45d9-b5ce-7553b4f5d9e4">
+            <name>Sturm, Eduard</name>
+            <id type="gnd">117363782</id>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="da33daee-d551-4c1c-b3da-eed551ec1c2c">
+            <name>Thormann, Gundel</name>
+            <id type="gnd">106132771X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="d77e635d-154b-4bf3-be63-5d154b6bf36a">
+            <name>Wolf, Gusti</name>
+            <id type="gnd">117444472</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="2eb3d3a2-2e00-4748-b3d3-a22e002748de">
+            <name>Sellmer, Erna</name>
+            <id type="gnd">17383955X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="b8052cce-ad53-42e5-852c-cead53f2e54c">
+            <name>Nauckhoff, Stig von</name>
+            <id type="gnd">1062099761</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="9046c0ed-0db4-4abc-86c0-ed0db4cabc40">
+            <name>Hasse, O. E.</name>
+            <id type="gnd">11854666X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000022" type="Fotografie: Inszenierung (analog)" aat="300046300">
+            <title>Rollenporträt aus "Bunbury" in München 1938</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

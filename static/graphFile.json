@@ -1,0 +1,26 @@
+{
+  "nodes":[
+        {"name":"Regisseur0"}, 
+        {"name":"Stück1"},
+		{"name":"Schauspieler2"},
+        {"name":"Schauspieler3"}, 
+        {"name":"Schauspieler4"},
+        {"name":"Stück5"},
+        {"name":"Schauspieler3"},
+        {"name":"Schauspieler4"}
+	
+        
+	
+	],
+	"links":[
+		{"source":0,"target":1,"weight":60, "title": "prinz von homburg"},
+        {"source":1,"target":2,"weight":30},
+        {"source":1,"target":2,"weight":30},
+        {"source":1,"target":3,"weight":30},
+        {"source":1,"target":4,"weight":30},
+        {"source":0,"target":5,"weight":60, "title": "prinz von homburg"},
+        {"source":5,"target":6,"weight":30},
+        {"source":5,"target":7,"weight":30}
+        
+	]
+}

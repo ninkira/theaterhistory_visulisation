@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="587c50c9-7ba5-4c19-bc50-c97ba54c191f" type="Performance">
+    <groupingArgument actorID="1b6221ba-a79f-4f36-a221-baa79faf3696">Gespenster+06.12.1925+Heine, Carl</groupingArgument>
+    <secondaryTypes/>
+    <listTitle>
+        <titleStmt type="Vorlagetitel">
+            <title>Gespenster</title>
+            <listObject>
+                <object id="IFT_OBJ_HW000031"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Berlin</placeName>
+            <place type="Institution">
+                <placeName>Kammerspiele</placeName>
+                <listObject>
+                    <object id="IFT_OBJ_HW000031"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>06.12.1925</premier>
+            <time from="" to="">
+                <listObject>
+                    <object id="IFT_OBJ_HW000031"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription>
+        <description>
+            <text>Theaterinszenierung der Berliner Kammerspiele, Sondervorstellung zugunsten der Hedwig-Wangel-Hilfe, Nachmittagsvorstellung</text>
+            <object id="IFT_OBJ_HW000031"/>
+        </description>
+    </listDescription>
+    <listActor>
+        <actor id="8995e70a-7152-40d4-95e7-0a7152a0d418">
+            <name>Ibsen, Henrik</name>
+            <id type="gnd">118555286</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="1b6221ba-a79f-4f36-a221-baa79faf3696">
+            <name>Heine, Carl</name>
+            <id type="gnd">116659297</id>
+            <roleActor>
+                <role>Regisseur_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="b3b5b07a-2279-4a9b-b5b0-7a2279ba9b6c">
+            <name>Wangel, Hedwig</name>
+            <id type="gnd">117136964</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="ea5a21a2-8346-4cc1-9a21-a28346fcc1ed">
+            <name>Karras, Wilhelm</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="ffeee7ca-fc75-4ee6-aee7-cafc750ee682">
+            <name>Gregori, Ferdinand</name>
+            <id type="gnd">116829931</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="03ff919f-3158-4b38-bf91-9f3158ab3822">
+            <name>Henckels, Paul</name>
+            <id type="gnd">11871029X</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="13209851-7339-4c62-a098-5173395c6274">
+            <name>Lamond-Triesch, Irene</name>
+            <id type="gnd">117418366</id>
+            <roleActor>
+                <role>Darsteller_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+        <actor id="88626368-1e64-4dba-a263-681e641dbac4">
+            <name>Kammerspiele Berlin</name>
+            <id type="gnd">4564955-8</id>
+            <roleActor>
+                <role>Produktion (Theater)</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="IFT_OBJ_HW000031" type="Publikation: Zeitungsausschnitt" aat="300026867">
+            <title>Sonderabdruck aus der Zeitschrift "Das Neue Blatt"</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>

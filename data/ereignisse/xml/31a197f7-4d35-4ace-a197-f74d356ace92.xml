@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="31a197f7-4d35-4ace-a197-f74d356ace92" type="Performance">
+    <groupingArgument actorID="">misanthrope, Le+1949+</groupingArgument>
+    <secondaryTypes>
+        <secondaryType>sonstiges</secondaryType>
+    </secondaryTypes>
+    <listTitle>
+        <titleStmt type="Einheitssachtitel">
+            <title>misanthrope, Le</title>
+        </titleStmt>
+        <titleStmt type="Vorlagetitel">
+            <title>Menschenfeind, Der</title>
+            <listObject>
+                <object id="TWS_OBJ0000694"/>
+            </listObject>
+        </titleStmt>
+    </listTitle>
+    <listPlace>
+        <place type="Stadt">
+            <placeName>Weimar</placeName>
+            <place type="Institution">
+                <placeName>Deutsches Nationaltheater</placeName>
+                <listObject>
+                    <object id="TWS_OBJ0000694"/>
+                </listObject>
+            </place>
+        </place>
+    </listPlace>
+    <listDate>
+        <date>
+            <premier>1949</premier>
+            <time from="1949" to="1949">
+                <listObject>
+                    <object id="TWS_OBJ0000694"/>
+                </listObject>
+            </time>
+        </date>
+    </listDate>
+    <culturalContext/>
+    <listDescription/>
+    <listActor>
+        <actor id="80f661b3-2921-45f6-b661-b3292155f64b">
+            <name>Molière</name>
+            <id type="gnd">11858331X</id>
+            <roleActor>
+                <role>Autor_in des inszenierten Werks</role>
+            </roleActor>
+        </actor>
+        <actor id="82451bb0-1c3e-45a3-851b-b01c3e85a34b">
+            <name>Christiansen, Rolf</name>
+            <id type="gnd"/>
+            <roleActor>
+                <role>Bühnenbildner_in der Inszenierung</role>
+            </roleActor>
+        </actor>
+    </listActor>
+    <listObject totalnr="1">
+        <object id="TWS_OBJ0000694" type="Grafik: Bühnenbildentwurf" aat="300015617">
+            <title>Bühnenbildentwurf von Christiansen Rolf</title>
+        </object>
+    </listObject>
+    <listEvent/>
+</event>
